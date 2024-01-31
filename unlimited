@@ -275,10 +275,11 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577962&extension=ts
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-sports-1-us.png" group-title="",FOX SPORTS 1
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487776&extension=ts
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:A8:AE:7C&stream=1497337&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-sports-2-us.png" group-title="",FOX SPORT 2
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487775&extension=ts
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:A8:AE:7C&stream=1497338&extension=ts
+
 
 #EXTINF:-1 tvg-id="premiersports.uk" tvg-name="" tvg-logo="http://77.247.109.54:80/images/939d307be44426ffcabe6a3809c7e391.png" group-title="",Premier Sports 1
 
