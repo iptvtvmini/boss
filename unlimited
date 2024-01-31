@@ -377,6 +377,76 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/7103cf37f937fdb464720018ebb9af85.png" group-title="USA",ABC
+
+
+#EXTINF:-1 tvg-id="KTXA" tvg-name="" tvg-logo="http://5.44.253.188:80/images/1640bdd5bb428e75a02901e2d50ab5ee.png" group-title="USA",CBS
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://docdog.top/Logotv/countries//cw.png" group-title="USA",CW
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/1df23102bf4a034460e72d27645b1380.png" group-title="USA",Fox
+
+
+#EXTINF:-1 tvg-id="AEEast.us" tvg-name="A&E East" tvg-logo="http://5.44.253.151:80/images/99c72d95a86eff2ae1aa0246e6e5833b.png" group-title="USA",A&E
+http://likea8bitboss.xyz:80/live/ericn/3259674108/776274.m3u8
+
+#EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-name="AMC HDTV (East) (AMCHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/amc-us.png" group-title="",AMC
+http://likea8bitboss.xyz:80/live/ericn/3259674108/779736.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.groundedreason.com/wp-content/uploads/2019/01/bbc_logo_1280x720.jpg" group-title="",BBC AMERICA
+http://likea8bitboss.xyz:80/live/ericn/3259674108/292.m3u8
+
+#EXTINF:-1 tvg-id="SyfyEast.us" tvg-name="Syfy East" tvg-logo="http://185.156.74.135:80/images/85470b41c4778a801cfc1c17387e9fd7.png" group-title="USA",Syfy
+http://likea8bitboss.xyz:80/live/ericn/3259674108/388.m3u8
+
+#EXTINF:-1 tvg-id="AMCEast.us" tvg-name="AMC East" tvg-logo="http://77.247.109.54:80/images/970fd4a37554c8e2229b0e660999c7dc.png" group-title="USA",AMC
+
+
+#EXTINF:-1 tvg-id="BravoEast.us" tvg-name="Bravo East" tvg-logo="http://5.44.253.151:80/images/197c82a638b849311f4856aa54bfc104.png" group-title="USA",Bravo
+
+
+#EXTINF:-1 tvg-id="FXEast.us" tvg-name="FX East" tvg-logo="http://185.156.74.135:80/images/30318a2847b7702901fdd0cc6259f5ed.png" group-title="USA",FX
+
+
+#EXTINF:-1 tvg-id="FXMovieChannel.us" tvg-name="FX Movie Channel" tvg-logo="http://5.44.253.151:80/images/c71287c43d551d32173a280111ea60b0.png" group-title="USA",FXM
+
+
+#EXTINF:-1 tvg-id="FXXEast.us" tvg-name="FXX East" tvg-logo="http://77.247.109.54:80/images/a9ae2ad335e10d26c5b799fc83c380ac.png" group-title="USA",FXX
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://docdog.top/Logotv/countries/united-states/hallmark-channel-us.png" group-title="USA",HALLMARK
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://docdog.top/Logotv/countries/united-states/hallmark-drama-us.png" group-title="USA",HALLMARK DRAMA
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://docdog.top/Logotv/countries/united-states/hallmark-us.png" group-title="USA",HALLMARK MOVIES
+
+
+#EXTINF:-1 tvg-id="LifetimeEast.us" tvg-name="Lifetime East" tvg-logo="http://185.156.74.135:80/images/9122b5895d06e97b97bdbfd41e0a8e47.png" group-title="USA",Lifetime
+
+
+#EXTINF:-1 tvg-id="ParamountNetworkEast.us" tvg-name="Paramount Network East" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/abb43bc228bc71f4959f4e9d3ea88d80.png" group-title="USA",Paramount
+
+
+#EXTINF:-1 tvg-id="SundanceTVEast.us" tvg-name="Sundance TV East" tvg-logo="http://5.44.253.188:80/images/a98c685117f20ad990629d650e8dbda3.png" group-title="USA",Sundance
+
+
+#EXTINF:-1 tvg-id="Reelz.us" tvg-name="Reelz" tvg-logo="http://77.247.109.54:80/images/e23bcbebe33cc2cb407dd5dfc82f92f5.png" group-title="USA",Reelz
+
+
+
+
+
+#EXTINF:-1 tvg-id="TNTEast.us" tvg-name="TNT East" tvg-logo="http://5.44.253.188:80/images/509daf08cf0d8d7243a1ffc58d71dc02.png" group-title="USA",TNT
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="USBB3200015M8" tvg-name="CINEVAULT: Classics" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/16/USBB3200015M8_20220330T044629.png" group-title="Movies",Cinevault Classics
