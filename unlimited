@@ -261,10 +261,10 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=766855&extension=ts
 #EXTINF:-1 tvg-id="820.astro" tvg-name="EUROSPORT HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="",EuroSport
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="",EuroSport 1
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577963&extension=ts
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:A8:AE:7C&stream=2120&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="",Eurosport 2
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577962&extension=ts
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:A8:AE:7C&stream=2119&extension=ts
 
 #EXTINF:-1 tvg-id="706.unifi" tvg-name="SPOTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/456_144.png" group-title="",SPOTV
  
