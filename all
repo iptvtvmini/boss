@@ -175,7 +175,7 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:A8:AE:7C&stream=1497427&exte
 
 #EXTINF:-1 tvg-id="Discovery.Channel.HD.id" tvg-name="Discovery Channel HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" group-title="",Discovery Channel
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" group-title="",Discovery Channel
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.my" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" group-title="",Discovery Channel
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=692993&extension=ts
 
 #EXTINF:-1 tvg-id="Discovery.Life.Channel.(DLIF).us" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" group-title="",Discovery Life
