@@ -241,6 +241,10 @@ http://vo01.mohdtv.com:8880/live/voby4349/154984156/1719.ts
 
 
 #EXTINF:-1 tvg-id="Soccer.Channel.HD.id" tvg-name="Soccer Channel HD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_101.png" group-title="",Soccer Channel
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="",ONE SOCCER
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=738428&extension=ts
+
 #EXTINF:-1 tvg-id="Fight.Sports.id" tvg-name="Fight Sports" tvg-logo="https://mncvision.id/userfiles/image/channel/150x150fightsport.jpg" group-title="",Fight Sports
 
 #EXTINF:-1 tvg-id="Eurosport.HD.my" tvg-name="Eurosport HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="",EuroSport
