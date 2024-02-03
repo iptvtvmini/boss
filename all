@@ -65,7 +65,10 @@ https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
  
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png" group-title="",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
- 
+
+#EXTINF:-1 tvg-id="GTV.HD.id" tvg-name="" tvg-logo="" group-title="",GTV
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=683121&extension=ts
+
 #EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="",TVRI
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/stream4/streamPlaylist.m3u8
  
@@ -135,6 +138,8 @@ http://vo01.mohdtv.com:8880/live/voby4349/154984156/1718.ts
 #EXTINF:-1 tvg-id="Celestial.Classic.Movies.my" tvg-name="Celestial Classic Movies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="",Celestial Classic Movies (CCM)
 http://vo01.mohdtv.com:8880/live/voby4349/154984156/71046.m3u8
 
+#EXTINF:-1 tvg-id="CCM.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="",CCM (ID)
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=683110&extension=ts
 
 #EXTINF:-1 tvg-id="BOO.HD.my" tvg-name="BOO HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png" group-title="",BOO
 #EXTINF:-1 tvg-id="K-Plus.HD.my" tvg-name="K-Plus HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/266_144.png" group-title="",K-Plus
@@ -146,7 +151,8 @@ http://vo01.mohdtv.com:8880/live/voby4349/154984156/71046.m3u8
 #EXTINF:-1 tvg-id="Nick.Jr..my" tvg-name="Nick Jr." tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/392_144.png" group-title="",Nick Jr
 
 #EXTINF:-1 tvg-id="Animal.Planet.HD.my" tvg-name="Animal Planet HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png" group-title="",Animal Planet
-#EXTINF:-1 tvg-id="Animal.Planet.HD.id" tvg-name="Animal Planet HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png" group-title="",Animal Planet
+#EXTINF:-1 tvg-id="Animal.Planet.HD.id" tvg-name="Animal Planet HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png" group-title="",Animal Planet (ID)
+
 #EXTINF:-1 tvg-id="Animal.Planet.HDTV.(East).(APHD).us" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png" group-title="",Animal Planet
 
 
@@ -155,7 +161,7 @@ http://vo01.mohdtv.com:8880/live/voby4349/154984156/71046.m3u8
 #EXTINF:-1 tvg-id="Crime.&amp;.Investigation.HD.my" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/369_144.png" group-title="",Crime & Investigation
 http://vo01.mohdtv.com:8880/live/voby4349/154984156/71095.ts
 
-#EXTINF:-1 tvg-id="Crime.Investigation.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/369_144.png" group-title="",Crime & Investigation
+#EXTINF:-1 tvg-id="Crime.Investigation.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/369_144.png" group-title="",Crime & Investigation (ID)
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=683088&extension=ts
 
 #EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HDTV.(CI.HD).us" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/369_144.png" group-title="",Crime & Investigation
@@ -174,9 +180,10 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:A8:AE:7C&stream=1497427&exte
 
 #EXTINF:-1 tvg-id="Discovery.Channel.HD.my" tvg-name="Discovery Channel HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" group-title="",Discovery Channel
 
-#EXTINF:-1 tvg-id="Discovery.Channel.HD.id" tvg-name="Discovery Channel HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" group-title="",Discovery Channel
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.id" tvg-name="Discovery Channel HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" group-title="",Discovery Channel (ID)
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=683090&extension=ts
 
-#EXTINF:-1 tvg-id="Discovery.Channel.HD.my" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" group-title="",Discovery Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" group-title="",Discovery Channel (US)
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=692993&extension=ts
 
 #EXTINF:-1 tvg-id="Discovery.Life.Channel.(DLIF).us" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" group-title="",Discovery Life
@@ -185,6 +192,9 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=692993&extension=ts
 
 #EXTINF:-1 tvg-id="BBC.Earth.my" tvg-name="BBC Earth" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/452_144.png" group-title="",BBC Earth
 #EXTINF:-1 tvg-id="History.HD.my" tvg-name="History HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/144_144.png" group-title="",History
+
+#EXTINF:-1 tvg-id="History.HD.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/144_144.png" group-title="",History (ID)
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=683091&extension=ts
 
 #EXTINF:-1 tvg-id="History.HDTV.(East).(HISHD).us" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/144_144.png" group-title="",History
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469394&extension=ts
