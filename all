@@ -226,7 +226,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/index.m3u8?id=4
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/stream3/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-id="701.unifi" tvg-name="unifi Sports 1" tvg-logo="http://playtv.unifi.com.my:7038/CPS/images/universal/film/logo/202304/20230418/202304180833546499vy.png" group-title="",UNIFI Sport 1
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Hub Sport 1
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=941573&extension=ts
@@ -398,6 +397,17 @@ http://abcnew.site:8880/live/3ca06273n01/asdf23e23/2992.ts
 
 #EXTINF:-1 tvg-id="TVA.Sports.2.HDTV.(TVAS2HD).ca" tvg-name="TVA Sports 2 HDTV (TVAS2HD)" tvg-logo="https://docdog.top/Logotv/countries//tvasports.png" group-title="",TVA SPORTS 2
 http://abcnew.site:8880/live/3ca06273n01/asdf23e23/65933.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="",Now Sport 1 (HK)
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=554949&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="",Now Sport 2 (HK)
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=554948&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="",Now Sport 3 (HK)
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=554947&extension=ts
+
 
 
 
