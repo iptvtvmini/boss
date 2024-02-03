@@ -79,8 +79,17 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/stream
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="",Channel 5
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=941615&extension=ts
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="",Channel 8
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=941616&extension=ts
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="",Channel U
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=941617&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="",Suria
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=941575&extension=ts
 
 
 #EXTINF:-1 tvg-id="Game.Show.Network.HDTV.(EAST).(GMSHWHD).us" tvg-name="Game Show Network HDTV (EAST) (GMSHWHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/game-show-network-us.png" group-title="",Game Show Network
@@ -219,9 +228,14 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/stream
 #EXTINF:-1 tvg-id="701.unifi" tvg-name="unifi Sports 1" tvg-logo="http://playtv.unifi.com.my:7038/CPS/images/universal/film/logo/202304/20230418/202304180833546499vy.png" group-title="",UNIFI Sport 1
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Hub Sport 1
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=941573&extension=ts
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Hub Sport 2
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=941572&extension=ts
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Hub Sport 3
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=941571&extension=ts
 
 #EXTINF:-1 tvg-id="Astro.Arena.HD.my" tvg-name="Astro Arena HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png" group-title="",Astro Arena
 http://vo01.mohdtv.com:8880/live/voby4349/154984156/1703.ts
