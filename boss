@@ -87,16 +87,16 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/stream
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="",Channel 5
+#EXTINF:-1 tvg-id="Channel.5.HD.sg" tvg-name="" group-title="",Channel 5
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=941615&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="",Channel 8
+#EXTINF:-1 tvg-id="Channel.8.HD.sg" tvg-name="" group-title="",Channel 8
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=941616&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="",Channel U
+#EXTINF:-1 tvg-id="Channel.U.HD.sg" tvg-name="" group-title="",Channel U
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=941617&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="",Suria
+#EXTINF:-1 tvg-id="Suria.HD.sg" tvg-name="" group-title="",Suria
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=941575&extension=ts
 
 
