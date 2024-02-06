@@ -249,13 +249,13 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/stream
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Hub Sport 1
+#EXTINF:-1 tvg-id="Hub.Sports.1.HD.sg" tvg-name="" tvg-logo="" group-title="",Hub Sport 1
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=941573&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Hub Sport 2
+#EXTINF:-1 tvg-id="Hub.Sports.2.HD.sg" tvg-name="" tvg-logo="" group-title="",Hub Sport 2
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=941572&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Hub Sport 3
+#EXTINF:-1 tvg-id="Hub.Sports.3.HD.sg" tvg-name="" tvg-logo="" group-title="",Hub Sport 3
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=941571&extension=ts
 
 
