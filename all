@@ -505,13 +505,13 @@ http://watchindia.net:8880/live/65138/11733/2043.m3u8
 http://watchindia.net:8880/live/65138/11733/2127.m3u8
 
 #EXTINF:-1 tvg-id="BBC.America.HDTV.(East).(BBC).us" tvg-name="BBC America HDTV (East) (BBC)" tvg-logo="https://docdog.top/Logotv/countries/bbcamerica.png" group-title="",BBC America
-http://likea8bitboss.xyz:80/live/ericn/3259674108/292.m3u8
+http://watchindia.net:8880/live/65138/11733/2055.m3u8
 
 #EXTINF:-1 tvg-id="Freeform.HDTV.(East).(FRFHD).us" tvg-name="Freeform HDTV (East) (FRFHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/freeform-us.png" group-title="",FREEFORM
-http://likea8bitboss.xyz:80/live/ericn/3259674108/329.m3u8
+http://watchindia.net:8880/live/65138/11733/2137.m3u8
 
 #EXTINF:-1 tvg-id="FX.HDTV.(East).(FX.HD).us" tvg-name="FX HDTV (East) (FX HD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/fx-us.png" group-title="",FX
-http://likea8bitboss.xyz:80/live/ericn/3259674108/332.m3u8
+http://watchindia.net:8880/live/65138/11733/2136.m3u8
 
 #EXTINF:-1 tvg-id="FX.Movie.Channel.HDTV.(FXMHD).us" tvg-name="FX Movie Channel HDTV (FXMHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/fxm-movie-channel-us.png" group-title="",FXM
 http://likea8bitboss.xyz:80/live/ericn/3259674108/333.m3u8
