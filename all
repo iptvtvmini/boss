@@ -514,9 +514,10 @@ http://watchindia.net:8880/live/65138/11733/2137.m3u8
 http://watchindia.net:8880/live/65138/11733/2136.m3u8
 
 #EXTINF:-1 tvg-id="FX.Movie.Channel.HDTV.(FXMHD).us" tvg-name="FX Movie Channel HDTV (FXMHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/fxm-movie-channel-us.png" group-title="",FXM
-http://likea8bitboss.xyz:80/live/ericn/3259674108/333.m3u8
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=45450&extension=m3u8
 
 #EXTINF:-1 tvg-id="FXX.HDTV.(East).(FXXHD).us" tvg-name="FXX HDTV (East) (FXXHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/fxx-us.png" group-title="",FXX
-http://likea8bitboss.xyz:80/live/ericn/3259674108/334.m3u8
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=45449&extension=m3u8
+
 
 
