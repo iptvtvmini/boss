@@ -496,16 +496,13 @@ http://abcnew.site:8880/live/3ca06273n01/asdf23e23/29676.ts
 
 
 #EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-name="A and E Network HDTV (A and EHD)" tvg-logo="http://attp.ddns.net:25461/images/9ffd5753a3ca520dfeb483ad0e31c596.png" group-title="",A&E
-http://likea8bitboss.xyz:80/live/ericn/3259674108/776274.m3u8
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469345&extension=ts
 
 #EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-name="AMC HDTV (East) (AMCHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/amc-us.png" group-title="",AMC
-http://likea8bitboss.xyz:80/live/ericn/3259674108/779736.m3u8
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469346&extension=ts
 
 #EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-name="Syfy HDTV (SYFYHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/syfy-us.png" group-title="",Syfy
-http://likea8bitboss.xyz:80/live/ericn/3259674108/388.m3u8
-
-#EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-name="Syfy HDTV (SYFYHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/syfy-us.png" group-title="",Syfy
-https://6oclock.xyz:8443/live/Phergio911/BenjiBleu2023/12698.m3u8
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469431&extension=ts
 
 #EXTINF:-1 tvg-id="BBC.America.HDTV.(East).(BBC).us" tvg-name="BBC America HDTV (East) (BBC)" tvg-logo="https://docdog.top/Logotv/countries/bbcamerica.png" group-title="",BBC America
 http://likea8bitboss.xyz:80/live/ericn/3259674108/292.m3u8
