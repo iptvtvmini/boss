@@ -530,16 +530,16 @@ http://abcnew.site:8880/live/3ca06273n01/asdf23e23/29676.ts
 
 
 #EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-name="A and E Network HDTV (A and EHD)" tvg-logo="http://attp.ddns.net:25461/images/9ffd5753a3ca520dfeb483ad0e31c596.png" group-title="",A&E
-http://likea8bitboss.xyz:80/live/ericn/3259674108/776274.m3u8
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469345&extension=m3u8
 
 #EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-name="AMC HDTV (East) (AMCHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/amc-us.png" group-title="",AMC
-http://likea8bitboss.xyz:80/live/ericn/3259674108/779736.m3u8
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469346&extension=m3u8
 
 #EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-name="Syfy HDTV (SYFYHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/syfy-us.png" group-title="",Syfy
-http://likea8bitboss.xyz:80/live/ericn/3259674108/388.m3u8
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469431&extension=m3u8
 
 #EXTINF:-1 tvg-id="BBC.America.HDTV.(East).(BBC).us" tvg-name="BBC America HDTV (East) (BBC)" tvg-logo="https://docdog.top/Logotv/countries/bbcamerica.png" group-title="",BBC America
-http://likea8bitboss.xyz:80/live/ericn/3259674108/292.m3u8
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469295&extension=m3u8
 
 #EXTINF:-1 tvg-id="Black.Entertainment.Television.HDTV.(East).(BET-HD).us" tvg-name="Black Entertainment Television HDTV (East) (BET-HD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/bet-us.png" group-title="",BET
 http://likea8bitboss.xyz:80/live/ericn/3259674108/293.m3u8
@@ -551,13 +551,13 @@ http://likea8bitboss.xyz:80/live/ericn/3259674108/302.m3u8
 http://likea8bitboss.xyz:80/live/ericn/3259674108/329.m3u8
 
 #EXTINF:-1 tvg-id="FX.HDTV.(East).(FX.HD).us" tvg-name="FX HDTV (East) (FX HD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/fx-us.png" group-title="",FX
-http://likea8bitboss.xyz:80/live/ericn/3259674108/332.m3u8
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=656132&extension=m3u8
 
 #EXTINF:-1 tvg-id="FX.Movie.Channel.HDTV.(FXMHD).us" tvg-name="FX Movie Channel HDTV (FXMHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/fxm-movie-channel-us.png" group-title="",FXM
-http://likea8bitboss.xyz:80/live/ericn/3259674108/333.m3u8
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552045&extension=m3u8
 
 #EXTINF:-1 tvg-id="FXX.HDTV.(East).(FXXHD).us" tvg-name="FXX HDTV (East) (FXXHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/fxx-us.png" group-title="",FXX
-http://likea8bitboss.xyz:80/live/ericn/3259674108/334.m3u8
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552042&extension=m3u8
 
 #EXTINF:-1 tvg-id="Lifetime.Television.HDTV.(East).(LIFEH).us" tvg-name="Lifetime Television HDTV (East) (LIFEH)" tvg-logo="https://docdog.top/Logotv/countries/united-states/lifetime-us.png" group-title="",Lifetime
 
@@ -572,7 +572,7 @@ http://likea8bitboss.xyz:80/live/ericn/3259674108/743791.m3u8
 http://likea8bitboss.xyz:80/live/ericn/3259674108/387.ts
 
 #EXTINF:-1 tvg-id="Turner.Network.Television.HDTV.(East).(TNTHD).us" tvg-name="Turner Network Television HDTV (East) (TNTHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/tnt-us.png" group-title="",TNT
-http://likea8bitboss.xyz:80/live/ericn/3259674108/394.m3u8
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552030&extension=m3u8
 
 #EXTINF:-1 tvg-id="TBS.Superstation.HDTV.(East).(TBSHD).us" tvg-name="TBS Superstation HDTV (East) (TBSHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/tbs-us.png" group-title="",TBS
 http://likea8bitboss.xyz:80/live/ericn/3259674108/390.m3u8
@@ -587,16 +587,17 @@ https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 http://likea8bitboss.xyz:80/live/ericn/3259674108/742679.m3u8
 
 #EXTINF:-1 tvg-id="MGM+.HDTV.(East).(MGM+HD).us" tvg-name="MGM+ HDTV (East) (MGM+HD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-us.png" group-title="",EPIX
-http://likea8bitboss.xyz:80/live/ericn/3259674108/742639.m3u8
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552048&extension=m3u8
 
 #EXTINF:-1 tvg-id="MGM+.Marquee.HDTV.(East).(MGM+MRQ).us" tvg-name="MGM+ Marquee HDTV (East) (MGM+MRQ)" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-us.png" group-title="",EPIX 2
-http://likea8bitboss.xyz:80/live/ericn/3259674108/742642.m3u8
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552047&extension=m3u8
 
 #EXTINF:-1 tvg-id="MGM+.Drive-In.(MGM+DI).us" tvg-name="MGM+ Drive-In (MGM+DI)" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-drive-in-us.png" group-title="",EPIX Drive-In
-http://likea8bitboss.xyz:80/live/ericn/3259674108/742641.m3u8
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552046&extension=m3u8
 
 #EXTINF:-1 tvg-id="MGM+.Hits.HDTV.(East).(MGM+HTHD).us" tvg-name="MGM+ Hits HDTV (East) (MGM+HTHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-us.png" group-title="",EPIX Hits
-http://likea8bitboss.xyz:80/live/ericn/3259674108/742640.m3u8
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=753280&extension=m3u8
+
 
 
 #EXTINF:-1 tvg-id="And.Flix.HD.in" tvg-name="" tvg-logo="http://attp.ddns.net:25461/images/e0f8bc3db4d7c8f51eee2842f07648d1.png" group-title="",&flix
