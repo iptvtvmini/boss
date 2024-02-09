@@ -302,8 +302,6 @@ http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=683133&extensi
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=2120&extension=ts
 
 #EXTINF:-1 tvg-id="Eurosport.2.HD.uk" tvg-name="Eurosport 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="",Eurosport 2 (UK)
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=2119&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="",EuroSport 1 (DE)
@@ -336,8 +334,6 @@ http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=683138&extensi
 http://vo01.mohdtv.com:8880/live/voby4349/154984156/1698.ts
 
 #EXTINF:-1 tvg-id="WWE.Network.us" tvg-name="WWE Network" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png" group-title="",WWE
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497542&extension=ts
 
 #EXTINF:-1 tvg-id="The.Golf.Channel.HDTV.(GLFHD).us" tvg-name="The Golf Channel HDTV (GLFHD)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png" group-title="",GOLF
