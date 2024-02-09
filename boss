@@ -711,22 +711,23 @@ http://likea8bitboss.xyz:80/live/ericn/3259674108/742673.m3u8
 
 
 #EXTINF:-1 tvg-id="HBO.HDTV.(East).(HBOHD).us" tvg-name="HBO HDTV (East) (HBOHD)" tvg-logo="https://docdog.top/Logotv/countries//hbo.png" group-title="",HBO
-http://likea8bitboss.xyz:80/live/ericn/3259674108/742643.m3u8
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497366&extension=ts
 
 #EXTINF:-1 tvg-id="HBO.2.HDTV.(East).(HBO2HD).us" tvg-name="HBO 2 HDTV (East) (HBO2HD)" tvg-logo="https://docdog.top/Logotv/countries//hbo.png" group-title="",HBO 2
-http://likea8bitboss.xyz:80/live/ericn/3259674108/742644.m3u8
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497361&extension=ts
 
 #EXTINF:-1 tvg-id="HBO.Comedy.HDTV.(East).(HBOCHD).us" tvg-name="HBO Comedy HDTV (East) (HBOCHD)" tvg-logo="https://docdog.top/Logotv/countries//hbocomedy.png" group-title="",HBO Comedy
-http://likea8bitboss.xyz:80/live/ericn/3259674108/742645.m3u8
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497362&extension=ts
 
 #EXTINF:-1 tvg-id="HBO.Zone.HDTV.(East).(HBOZHD).us" tvg-name="HBO Zone HDTV (East) (HBOZHD)" tvg-logo="https://docdog.top/Logotv/countries//hbozone.png" group-title="",HBO Zone
-http://likea8bitboss.xyz:80/live/ericn/3259674108/742650.m3u8
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497369&extension=ts
 
 #EXTINF:-1 tvg-id="HBO.Signature.HDTV.(East).(HBOSHD).us" tvg-name="HBO Signature HDTV (East) (HBOSHD)" tvg-logo="https://docdog.top/Logotv/countries//hbosignature.png" group-title="",HBO Signature
-http://likea8bitboss.xyz:80/live/ericn/3259674108/742647.m3u8
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497368&extension=ts
 
 #EXTINF:-1 tvg-id="HBO.Family.HDTV.(East).(HBOFHD).us" tvg-name="HBO Family HDTV (East) (HBOFHD)" tvg-logo="https://docdog.top/Logotv/countries//hbofamily.png" group-title="",HBO Family
-http://likea8bitboss.xyz:80/live/ericn/3259674108/742646.m3u8
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497365&extension=ts
+
 
 
 
@@ -833,9 +834,7 @@ http://line.rs6ott.com:80/live/4fb17f60e2dc/74210926f700/558765.m3u8
 
 
  
-#EXTINF:-1 tvg-id="USBB3200015M8" tvg-name="CINEVAULT: Classics" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/16/USBB3200015M8_20220330T044629.png" group-title="",Cinevault Classics
-https://gsn-cinevault-classics-1-ca.roku.wurl.tv/playlist.m3u8
- 
+
 #EXTINF:-1 tvg-id="" tvg-name="CINEVAULT: 70s" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/15/USAJ30000148W_20210525T051435.png" group-title="",Cinevault 70s
 https://gsn-cinevault-70s-1-us.vizio.wurl.tv/playlist.m3u8
  
@@ -844,15 +843,15 @@ https://gsn-cinevault-80s-1-us.samsung.wurl.tv/playlist.m3u8
  
 #EXTINF:-1 tvg-id="" tvg-name="CINEVAULT: Westerns" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/09/USAK3508709A_20210224T013304.png" group-title="",Cinevault Westerns
 https://gsn-cinevault-westerns-1-us.samsung.wurl.tv/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="USBB32000196O" tvg-name="FilmRise Western" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/11/USBB32000196O_20210824T091341.png" group-title="",Western (FilmRise)
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_filmrisewestern_001.m3u8
- 
+
 #EXTINF:-1 tvg-id="Pluto.TV.Westerns.us" tvg-logo="https://images.pluto.tv/channels/5b4e94282d4ec87bdcbb87cd/colorLogoPNG.png" group-title="",Westerns
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=103&deviceId=5b4e94282d4ec87bdcbb87cd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 tvg-id="Flicks.of.Fury.us" tvg-logo="https://images.pluto.tv/channels/58e55b14ad8e9c364d55f717/colorLogoPNG.png" group-title="",Flicks of Fury
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=112&deviceId=58e55b14ad8e9c364d55f717&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 tvg-id="LocalNow_EPGHi-Yah!" tvg-name="Hi-Yah!" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6170480625013a063b482dd4" group-title="",Hi-Yah
+https://linear-59.frequency.stream/dist/localnow/59/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="The.Asylum.us" tvg-logo="https://images.pluto.tv/channels/591105034c1806b47438342c/colorLogoPNG.png" group-title="",The Asylum
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/591105034c1806b47438342c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=115&deviceId=591105034c1806b47438342c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
@@ -860,18 +859,12 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/591105034c1806b4743
 #EXTINF:-1 tvg-id="Pluto.TV.Thrillers.us" tvg-logo="https://images.pluto.tv/channels/5b4e69e08291147bd04a9fd7/colorLogoPNG.png" group-title="",Thrillers
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=74&deviceId=5b4e69e08291147bd04a9fd7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
  
-#EXTINF:-1 tvg-id="Pluto.TV.Drama.us" tvg-logo="https://images.pluto.tv/channels/5b4e92e4694c027be6ecece1/colorLogoPNG.png" group-title="",Drama
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=60&deviceId=5b4e92e4694c027be6ecece1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
- 
 #EXTINF:-1 tvg-id="Pluto.TV.Sci-Fi.us" tvg-logo="https://images.pluto.tv/channels/5b4fc274694c027be6ed3eea/colorLogoPNG.png" group-title="",Sci-Fi
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4fc274694c027be6ed3eea/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=151&deviceId=5b4fc274694c027be6ed3eea&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
  
 #EXTINF:-1 tvg-id="Pluto.TV.Fantastic.us" tvg-logo="https://images.pluto.tv/channels/5b64a245a202b3337f09e51d/colorLogoPNG.png" group-title="",Fantastic
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=66&deviceId=5b64a245a202b3337f09e51d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 tvg-id="Classic.Movies.Channel.us" tvg-logo="https://images.pluto.tv/channels/561c5b0dada51f8004c4d855/colorLogoPNG.png" group-title="",Classic Movies Channel
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=106&deviceId=561c5b0dada51f8004c4d855&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
- 
 #EXTINF:-1 tvg-id="Pluto.TV.Action.us" tvg-logo="https://images.pluto.tv/channels/561d7d484dc7c8770484914a/colorLogoPNG.png" group-title="",Action
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=54&deviceId=561d7d484dc7c8770484914a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
@@ -887,9 +880,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae
 #EXTINF:-1 tvg-id="Pluto.TV.Romance.us" tvg-logo="https://images.pluto.tv/channels/5a66795ef91fef2c7031c599/colorLogoPNG.png" group-title="",Romance
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=70&deviceId=5a66795ef91fef2c7031c599&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 tvg-id="Pluto.TV.Documentaries.us" tvg-logo="https://images.pluto.tv/channels/5b85a7582921777994caea63/colorLogoPNG.png" group-title="",Documentaries
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b85a7582921777994caea63/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=91&deviceId=5b85a7582921777994caea63&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
 #EXTINF:-1 tvg-id="Pluto.TV.Spotlight.us" tvg-logo="https://images.pluto.tv/channels/5ba3fb9c4b078e0f37ad34e8/colorLogoPNG.png" group-title="",Spotlight
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=51&deviceId=5ba3fb9c4b078e0f37ad34e8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
@@ -898,9 +888,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c49
 
 #EXTINF:-1 tvg-id="Pluto.TV.Terror.us" tvg-logo="https://images.pluto.tv/channels/5c6dc88fcd232425a6e0f06e/colorLogoPNG.png" group-title="",Terror
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=76&deviceId=5c6dc88fcd232425a6e0f06e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
-#EXTINF:-1 tvg-id="Paramount.Movie.Channel.us" tvg-logo="https://images.pluto.tv/channels/5cb0cae7a461406ffe3f5213/colorLogoPNG.png" group-title="",Paramount Movie Channel
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=100&deviceId=5cb0cae7a461406ffe3f5213&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 tvg-id="Pluto.TV.Crime.Movies.us" tvg-logo="https://images.pluto.tv/channels/5f4d8594eb979c0007706de7/colorLogoPNG.png" group-title="",Crime Movies
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=73&deviceId=5f4d8594eb979c0007706de7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
@@ -918,43 +905,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca525b650be2571e39
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=96&deviceId=5f4d878d3d19b30007d2e782&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
  
- 
-#EXTINF:-1 channel-id="samsung-USBC100001175" tvg-id="USBC100001175" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC100001175_20221109T013626SQUARE.png_20221109013627.png" tvg-chno="1436" group-title="Sci-Fi & Horror" , ALTER
-https://i.mjh.nz/SamsungTVPlus/USBC100001175.m3u8
- 
-#EXTINF:-1 channel-id="samsung-USBD700015LK" tvg-id="USBD700015LK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700015LK_20230426T030513SQUARE.png_20230426030514.png" tvg-chno="1445" group-title="Sci-Fi & Horror" , Midnight Pulp
-https://i.mjh.nz/SamsungTVPlus/USBD700015LK.m3u8
- 
-#EXTINF:-1 channel-id="samsung-USBD17000117B" tvg-id="USBD17000117B" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD17000117B_20230726T004507SQUARE.png_20230726004509.png" tvg-chno="1457" group-title="Movies" , MovieSphere
-https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8
- 
-#EXTINF:-1 channel-id="samsung-USAJ40000072X" tvg-id="USAJ40000072X" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ40000072X_20221214T015058SQUARE.png_20221214015059.png" tvg-chno="1459" group-title="Movies" , FilmRise Free Movies
-https://i.mjh.nz/SamsungTVPlus/USAJ40000072X.m3u8
- 
-#EXTINF:-1 channel-id="samsung-USBB3200020ID" tvg-id="USBB3200020ID" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200020ID_20221214T015102SQUARE.png_20221214015103.png" tvg-chno="1463" group-title="Movies" , FilmRise Action
-https://i.mjh.nz/SamsungTVPlus/USBB3200020ID.m3u8
- 
- 
- 
- 
- 
- 
-#EXTINF:-1 tvg-id="LocalNow_EPGHi-Yah!" tvg-name="Hi-Yah!" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6170480625013a063b482dd4" group-title="",Hi-Yah
-https://linear-59.frequency.stream/dist/localnow/59/hls/master/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="LocalNow_EPGLocal Now Wild West" tvg-name="Local Now Wild West" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="",Wild West
-https://d2v42hnvh68zz7.cloudfront.net/dist/localnow/213/hls/master/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="LocalNow_EPGAdrenaline Rush" tvg-name="Adrenaline Rush" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/601341747e82bb6a262f276b" group-title="",Adrenaline Rush
-https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="LocalNow_EPGFear This!" tvg-name="Fear This!" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="",Fear This
-https://linear-143.frequency.stream/dist/localnow/143/hls/master/playlist.m3u8
- 
- 
-
-
-
 
 #EXTINF:-1 tvg-id="ABCNEWS.us" tvg-name="ABCNEWS" tvg-logo="https://docdog.top/Logotv/countries//abcnews.png" group-title="",ABC News Live
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
