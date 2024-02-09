@@ -578,7 +578,7 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552030&extension=m3
 http://likea8bitboss.xyz:80/live/ericn/3259674108/390.m3u8
 
 #EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" tvg-name="USA Network HDTV (East) (USAHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/usa-us.png" group-title="",USA NETWORK
-http://likea8bitboss.xyz:80/live/ericn/3259674108/404.m3u8
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469444&extension=m3u8
 
 #EXTINF:-1 tvg-id="SONY.PIX.HD.in" tvg-name="" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="",Sony Pix
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
