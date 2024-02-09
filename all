@@ -520,4 +520,43 @@ http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=45450&extensio
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=45449&extension=m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="EN - KIDS CHANNEL 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - KIDS CHANNEL 4K
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705089&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="EN - KIDS CHANNEL 1 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - KIDS CHANNEL 1 4K
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705088&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="EN - KIDS CHANNEL 2 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - KIDS CHANNEL 2 4K
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705087&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="EN - KIDS CHANNEL 3 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - KIDS CHANNEL 3 4K
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705086&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="EN - KIDS CHANNEL 4 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - KIDS CHANNEL 4 4K
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705085&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="EN - KIDS CHANNEL 5 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - KIDS CHANNEL 5 4K
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705084&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="EN - KIDS CHANNEL 6 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - KIDS CHANNEL 6 4K
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705083&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="EN - KIDS CHANNEL 7 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - KIDS CHANNEL 7 4K
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705082&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="EN - KIDS CHANNEL 8 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - KIDS CHANNEL 8 4K
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705081&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="EN - KIDS CHANNEL 9 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - KIDS CHANNEL 9 4K
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705080&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="EN - KIDS CHANNEL 10 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - KIDS CHANNEL 10 4K
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705079&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="EN - KIDS CHANNEL 11 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - KIDS CHANNEL 11 4K
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705078&extension=ts
+
+
+
+
 
