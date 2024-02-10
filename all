@@ -486,7 +486,7 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:A8:AE:7C&stream=1497250&exte
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=549764&extension=ts
 
 #EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-name="" tvg-logo="https://watchindia.net/images/channels/usa/CBS.png" group-title="",CBS
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=549522&extension=ts
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:4E:42:77&stream=174578&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vstreams.tv:2082/images/bc68a7acd9f983d555c36cccd6b08f80.png" group-title="",CW
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=551439&extension=ts
