@@ -331,16 +331,17 @@ http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=1002857&extens
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487785&extension=ts
 
 #EXTINF:-1 tvg-id="ESPN.HDTV.(Dish).(ESPNHD).us" tvg-name="ESPN HDTV (Dish) (ESPNHD)" tvg-logo="https://docdog.top/Logotv/countries//espn1.png" group-title="",ESPN 1
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487782&extension=ts
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=133968&extension=ts
 
 #EXTINF:-1 tvg-id="ESPN2.HDTV.(Dish).(ESPN2HD).us" tvg-name="ESPN2 HDTV (Dish) (ESPN2HD)" tvg-logo="https://docdog.top/Logotv/countries//espn2.png" group-title="",ESPN 2
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487781&extension=ts
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=133965&extension=ts
 
 #EXTINF:-1 tvg-id="ESPN3.HDTV.(Dish).(ESPN3HD).us" tvg-name="" tvg-logo="https://docdog.top/Logotv/countries//espn3.png" group-title="",ESPN 3
-http://likea8bitboss.xyz:80/live/ericn/3259674108/742621.ts
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=133966&extension=ts
 
 #EXTINF:-1 tvg-id="ESPNU.HDTV.(ESPNUHD).us" tvg-name="ESPNU HDTV (ESPNUHD)" tvg-logo="https://docdog.top/Logotv/countries//espnu.png" group-title="",ESPN U
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487778&extension=ts
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=133970&extension=ts
+
 
 #EXTINF:-1 tvg-id="NBA.TV.HDTV.(NBA.HD).us" tvg-name="" tvg-logo="g" group-title="",NBA TV
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:A8:AE:7C&stream=1497429&extension=ts
