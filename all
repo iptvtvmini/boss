@@ -322,7 +322,7 @@ http://vo01.mohdtv.com:8880/live/voby4349/154984156/3082.ts
 http://vo01.mohdtv.com:8880/live/voby4349/154984156/3076.ts
 
 #EXTINF:-1 tvg-id="Fox.Sports.1.HDTV.(FS1HD).us" tvg-name="Fox Sports 1 HDTV (FS1HD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-sports-1-us.png" group-title="",FOX SPORTS 1
-http://supersonictv.live:8080/live/144264/661943/40398.ts
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497337&extension=ts
 
 #EXTINF:-1 tvg-id="Fox.Sports.2.HDTV.(FS2HD).us" tvg-name="Fox Sports 2 HDTV (FS2HD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-sports-2-us.png" group-title="",FOX SPORT 2
 http://supersonictv.live:8080/live/144264/661943/40399.ts
