@@ -252,7 +252,7 @@ http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=941571&extensi
 
 #EXTINF:-1 tvg-id="Eurosport.HD.my" tvg-name="Eurosport HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="",EuroSport
 #EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-name="Eurosport 1 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="",EuroSport 1 (UK)
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175201&extension=ts
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175200&extension=ts
 
 #EXTINF:-1 tvg-id="Eurosport.2.HD.uk" tvg-name="Eurosport 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="",Eurosport 2 (UK)
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175203&extension=ts
