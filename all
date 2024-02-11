@@ -252,10 +252,10 @@ http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=941571&extensi
 
 #EXTINF:-1 tvg-id="Eurosport.HD.my" tvg-name="Eurosport HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="",EuroSport
 #EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-name="Eurosport 1 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="",EuroSport 1 (UK)
-http://vo01.mohdtv.com:8880/live/voby4349/154984156/2917.ts
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175201&extension=ts
 
 #EXTINF:-1 tvg-id="Eurosport.2.HD.uk" tvg-name="Eurosport 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="",Eurosport 2 (UK)
-http://supersonictv.live:8080/live/144264/661943/40452.ts
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175203&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="",EuroSport 1 (DE)
 http://abcnew.site:8880/live/3ca06273n01/asdf23e23/2640.ts
@@ -266,13 +266,14 @@ http://abcnew.site:8880/live/3ca06273n01/asdf23e23/2639.ts
 
 
 #EXTINF:-1 tvg-id="Fox.Sports.1.HDTV.(FS1HD).us" tvg-name="Fox Sports 1 HDTV (FS1HD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-sports-1-us.png" group-title="",FOX SPORTS 1
-https://6oclock.xyz:8443/live/Phergio911/BenjiBleu2023/15907.ts
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=133975&extension=ts
 
 #EXTINF:-1 tvg-id="Fox.Sports.2.HDTV.(FS2HD).us" tvg-name="Fox Sports 2 HDTV (FS2HD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-sports-2-us.png" group-title="",FOX SPORT 2
-http://supersonictv.live:8080/live/144264/661943/40399.ts
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134046&extension=ts
 
 #EXTINF:-1 tvg-id="Fox.Soccer.Plus.(FSPLUS).us" tvg-name="Fox Soccer Plus (FSPLUS)" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" group-title="",FOX SOCCER PLUS
-http://abcnew.site:8880/live/3ca06273n01/asdf23e23/29695.ts
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=133974&extension=ts
+
 
 
 #EXTINF:-1 tvg-id="SPOTV.HD.id" tvg-name="SPOTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/456_144.png" group-title="",SPOTV
