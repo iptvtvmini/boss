@@ -60,6 +60,50 @@ https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="CA - TSN1 UHD" group-title="|AM| CANADA",CA - TSN1 UHD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=708842&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="CA - TSN2 UHD" group-title="|AM| CANADA",CA - TSN2 UHD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=708841&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="CA - TSN3 UHD" group-title="|AM| CANADA",CA - TSN3 UHD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=708840&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="CA - TSN4 UHD" group-title="|AM| CANADA",CA - TSN4 UHD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=708839&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="CA - TSN5 UHD" group-title="|AM| CANADA",CA - TSN5 UHD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=708838&extension=ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CA - SPORTSNET 360 UHD" group-title="|AM| CANADA",CA - SPORTSNET 360 UHD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=708837&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="CA - SPORTSNET EAST UHD" group-title="|AM| CANADA",CA - SPORTSNET EAST UHD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=708836&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="CA - SPORTSNET ONE UHD" group-title="|AM| CANADA",CA - SPORTSNET ONE UHD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=708835&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="CA - SPORTSNET ONTARIO UHD" group-title="|AM| CANADA",CA - SPORTSNET ONTARIO UHD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=708834&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="CA - SPORTSNET PACIFIC UHD" group-title="|AM| CANADA",CA - SPORTSNET PACIFIC UHD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=708833&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="CA - SPORTSNET WEST UHD" group-title="|AM| CANADA",CA - SPORTSNET WEST UHD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=708832&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="CA - SPORTSNET WORLD UHD" group-title="|AM| CANADA",CA - SPORTSNET WORLD UHD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=708831&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="CA - SPORTSNET WWE UHD" group-title="|AM| CANADA",CA - SPORTSNET WWE UHD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=708830&extension=ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="UK - SKY CINEMA ACTION UHD" group-title="|UK| MOVIES",UK - SKY CINEMA ACTION UHD
