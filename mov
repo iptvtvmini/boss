@@ -62,84 +62,130 @@ https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Action FHD UK" group-title="UK Cinema",Sky Cinema Action FHD UK
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:0f:49&stream=175454&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Action HD UK" group-title="UK Cinema",Sky Cinema Action HD UK
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:0f:49&stream=175453&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Animation FHD UK" group-title="UK Cinema",Sky Cinema Animation FHD UK
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:0f:49&stream=175456&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Animation HD UK" group-title="UK Cinema",Sky Cinema Animation HD UK
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:0f:49&stream=175455&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Comedy FHD UK" group-title="UK Cinema",Sky Cinema Comedy FHD UK
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:0f:49&stream=175458&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Comedy HD UK" group-title="UK Cinema",Sky Cinema Comedy HD UK
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:0f:49&stream=175457&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Disney FHD UK" group-title="UK Cinema",Sky Cinema Disney FHD UK
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:0f:49&stream=175459&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Drama & Romance FHD UK" group-title="UK Cinema",Sky Cinema Drama & Romance FHD UK
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:0f:49&stream=175461&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Drama FHD UK" group-title="UK Cinema",Sky Cinema Drama FHD UK
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:0f:49&stream=175460&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Drama HD UK" group-title="UK Cinema",Sky Cinema Drama HD UK
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:0f:49&stream=175463&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Family FHD UK" group-title="UK Cinema",Sky Cinema Family FHD UK
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:0f:49&stream=175462&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Family HD UK" group-title="UK Cinema",Sky Cinema Family HD UK
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:0f:49&stream=175464&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Greats FHD UK" group-title="UK Cinema",Sky Cinema Greats FHD UK
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:0f:49&stream=175466&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Greats HD UK" group-title="UK Cinema",Sky Cinema Greats HD UK
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:0f:49&stream=175465&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Hits FHD UK" group-title="UK Cinema",Sky Cinema Hits FHD UK
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:0f:49&stream=175468&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Hits HD UK" group-title="UK Cinema",Sky Cinema Hits HD UK
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:0f:49&stream=175467&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Premiere FHD UK" group-title="UK Cinema",Sky Cinema Premiere FHD UK
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:0f:49&stream=175470&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Premiere HD UK" group-title="UK Cinema",Sky Cinema Premiere HD UK
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:0f:49&stream=175469&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema SciFi & Horror FHD UK" group-title="UK Cinema",Sky Cinema SciFi & Horror FHD UK
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:0f:49&stream=175472&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema SciFi & Horror HD UK" group-title="UK Cinema",Sky Cinema SciFi & Horror HD UK
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:0f:49&stream=175471&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Select FHD UK" group-title="UK Cinema",Sky Cinema Select FHD UK
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:0f:49&stream=175474&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Select HD UK" group-title="UK Cinema",Sky Cinema Select HD UK
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:0f:49&stream=175473&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Thriller FHD UK" group-title="UK Cinema",Sky Cinema Thriller FHD UK
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:0f:49&stream=175476&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Thriller HD UK" group-title="UK Cinema",Sky Cinema Thriller HD UK
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:0f:49&stream=175475&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - SKY CINEMA ACTION UHD" group-title="|UK| MOVIES",UK - SKY CINEMA ACTION UHD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577387&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - SKY CINEMA COMEDY UHD" group-title="|UK| MOVIES",UK - SKY CINEMA COMEDY UHD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577385&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - SKY CINEMA DRAMA UHD" group-title="|UK| MOVIES",UK - SKY CINEMA DRAMA UHD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577383&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - SKY CINEMA GREATS UHD" group-title="|UK| MOVIES",UK - SKY CINEMA GREATS UHD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577382&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - SKY CINEMA HITS UHD" group-title="|UK| MOVIES",UK - SKY CINEMA HITS UHD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577381&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - SKY CINEMA OSCARS UHD" group-title="|UK| MOVIES",UK - SKY CINEMA OSCARS UHD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577380&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - SKY CINEMA PREMIERE UHD" group-title="|UK| MOVIES",UK - SKY CINEMA PREMIERE UHD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577379&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - SKY CINEMA SCIFI HORROR UHD" group-title="|UK| MOVIES",UK - SKY CINEMA SCIFI HORROR UHD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577378&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - SKY CINEMA SELECT/OSCARS FHD" group-title="|UK| MOVIES",UK - SKY CINEMA SELECT FHD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577377&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - SKY CINEMA THRILLER UHD" group-title="|UK| MOVIES",UK - SKY CINEMA THRILLER UHD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577376&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - SKY DOCUMENTARIES FHD" group-title="|UK| MOVIES",UK - SKY DOCUMENTARIES FHD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577374&extension=ts
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="UK - SKY CINEMA ACTION FHD" group-title="|UK| MOVIES",UK - SKY CINEMA ACTION FHD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577372&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - SKY CINEMA COMEDY FHD" group-title="|UK| MOVIES",UK - SKY CINEMA COMEDY FHD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577371&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK -  SKY WITNESS  FHD" group-title="|UK| MOVIES",UK -  SKY WITNESS  FHD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577370&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - SKY CINEMA DRAMA FHD" group-title="|UK| MOVIES",UK - SKY CINEMA DRAMA FHD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577369&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - SKY CINEMA FAMILY FHD" group-title="|UK| MOVIES",UK - SKY CINEMA FAMILY FHD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577368&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - SKY CINEMA GREATS FHD" group-title="|UK| MOVIES",UK - SKY CINEMA GREATS FHD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577367&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - SKY CINEMA HITS FHD" group-title="|UK| MOVIES",UK - SKY CINEMA HITS FHD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577366&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - SKY CINEMA PREMIER FHD" group-title="|UK| MOVIES",UK - SKY CINEMA PREMIER FHD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577365&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - SKY CINEMA SCI-FI FHD" group-title="|UK| MOVIES",UK - SKY CINEMA SCI-FI FHD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577364&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - SKY CINEMA THRILLER FHD" group-title="|UK| MOVIES",UK - SKY CINEMA THRILLER FHD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577363&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - SKY COMEDY FHD" group-title="|UK| MOVIES",UK - SKY COMEDY FHD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577362&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - SKY CRIME FHD" group-title="|UK| MOVIES",UK - SKY CRIME FHD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577375&extension=ts
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="EN - BOX OFFICE 2022 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - BOX OFFICE 2022 4K
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705117&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="EN - BOX OFFICE 2022 1 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - BOX OFFICE 2022 1 4K
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705116&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="EN - BOX OFFICE 2022 2 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - BOX OFFICE 2022 2 4K
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705115&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="EN - BOX OFFICE 2022 3 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - BOX OFFICE 2022 3 4K
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705114&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="EN - BOX OFFICE 2022 4 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - BOX OFFICE 2022 4 4K
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705113&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="EN - BOX OFFICE 2022 5 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - BOX OFFICE 2022 5 4K
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705112&extension=ts
 
+#EXTINF:-1 tvg-id="" tvg-name="EN - HBO MAX 1 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - HBO MAX 1 4K
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705105&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="EN - HBO MAX 2 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - HBO MAX 2 4K
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705104&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="EN - HBO MAX 3 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - HBO MAX 3 4K
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705103&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="EN - HBO MAX 4 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - HBO MAX 4 4K
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705102&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="EN - HBO MAX 5 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - HBO MAX 5 4K
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705101&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="EN - HBO MAX 6 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - HBO MAX 6 4K
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705100&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="EN - HBO MAX 7 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - HBO MAX 7 4K
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705099&extension=ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="EN - NETFLIX 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - NETFLIX 4K
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705071&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="EN - NETFLIX 1 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - NETFLIX 1 4K
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705070&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="EN - NETFLIX 2 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - NETFLIX 2 4K
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705069&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="EN - NETFLIX 3 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - NETFLIX 3 4K
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705068&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="EN - NETFLIX 4 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - NETFLIX 4 4K
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705067&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="EN - NETFLIX 5 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - NETFLIX 5 4K
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705066&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="EN - SHOWTIME 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - SHOWTIME 4K
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705064&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="EN - SHOWTIME 1 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - SHOWTIME 1 4K
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705063&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="EN - SHOWTIME 2 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - SHOWTIME 2 4K
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705062&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="EN - SHOWTIME 3 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - SHOWTIME 3 4K
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705061&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="EN - SHOWTIME 4 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - SHOWTIME 4 4K
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705060&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="EN - SHOWTIME 5 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - SHOWTIME 5 4K
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705059&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="EN - SHOWTIME 6 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - SHOWTIME 6 4K
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705058&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="EN - SHOWTIME 7 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - SHOWTIME 7 4K
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705057&extension=ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="EN - WESTERN CH 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - WESTERN CH 4K
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705055&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="EN - WESTERN CH 1 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - WESTERN CH 1 4K
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705054&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="EN - WESTERN CH 2 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - WESTERN CH 2 4K
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705053&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="EN - WESTERN CH 3 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - WESTERN CH 3 4K
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705052&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="EN - WESTERN CH 4 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - WESTERN CH 4 4K
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705051&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="EN - WESTERN CH 5 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - WESTERN CH 5 4K
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705050&extension=ts
 
 
 
