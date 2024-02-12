@@ -58,6 +58,31 @@ https://gsn-gameshowchannnel-1-us.vizio.wurl.tv/playlist.m3u8
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
 
 
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=746096&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="CA - GAME PLUS HD" group-title="|AM| CANADA",CA - GAME PLUS HD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=752916&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CA - Game TV HD" group-title="|AM| CANADA",CA - Game TV HD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=626942&extension=ts
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CA - ABC EAST HD" group-title="|AM| CANADA",CA - ABC
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=627030&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CA - CBS EAST HD" group-title="|AM| CANADA",CA - CBS
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=627012&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CA - A&E HD" group-title="|AM| CANADA",CA - A&E HD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=627031&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CA - AMC HD" group-title="|AM| CANADA",CA - AMC HD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=627026&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA - SYFY HD" group-title="|NA| USA GENERAL",USA - SYFY HD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469431&extension=m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="UK - EUROSPORT 1 UHD" group-title="|UK| SPORTS",UK - EUROSPORT 1 UHD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577985&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="UK - EUROSPORT 2 UHD" group-title="|UK| SPORTS",UK - EUROSPORT 2 UHD
