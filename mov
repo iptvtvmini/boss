@@ -82,12 +82,39 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=627026&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="USA - SYFY HD" group-title="|NA| USA GENERAL",USA - SYFY HD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469431&extension=m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="US: EPIX FHD" tvg-logo="" group-title="USA",US: EPIX FHD
+http://53374523575751033.ofd0126.xyz:80/play/mi918727/fV3svPmkAdJ3/751033.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: EPIX2 FHD" tvg-logo="" group-title="USA",US: EPIX2 FHD
+http://53374523575751036.ofd0126.xyz:80/play/mi918727/fV3svPmkAdJ3/751036.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: EPIX HIts HD" tvg-logo="" group-title="USA",US: EPIX HIts HD
+http://53374523575751035.ofd0126.xyz:80/play/mi918727/fV3svPmkAdJ3/751035.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: EPIX DRIVE IN FHD" tvg-logo="" group-title="USA",US: EPIX DRIVE IN FHD
+http://53374523575773109.ofd0126.xyz:80/play/mi918727/fV3svPmkAdJ3/773109.ts
+
+#EXTINF:-1 tvg-id="espndeportes.us" tvg-name="US: ESPN HD" tvg-logo="" group-title="USA",US: ESPN HD
+http://53374523575751037.ofd0126.xyz:80/play/mi918727/fV3svPmkAdJ3/751037.ts
+
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="US: ESPN 2 HD" tvg-logo="" group-title="USA",US: ESPN 2 HD
+http://53374523575666986.ofd0126.xyz:80/play/mi918727/fV3svPmkAdJ3/666986.ts
+
+#EXTINF:-1 tvg-id="espnu.us" tvg-name="US: ESPN U HD" tvg-logo="" group-title="USA",US: ESPN U HD
+http://53374523575751046.ofd0126.xyz:80/play/mi918727/fV3svPmkAdJ3/751046.ts
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="UK - EUROSPORT 1 UHD" group-title="|UK| SPORTS",UK - EUROSPORT 1 UHD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577985&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="UK - EUROSPORT 2 UHD" group-title="|UK| SPORTS",UK - EUROSPORT 2 UHD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577984&extension=ts
 
+#EXTINF:-1 tvg-id="" tvg-name="US: [ USA ] FOX SPORts 1 HD" tvg-logo="" group-title="USA",US: [ USA ] FOX SPORts 1 HD
+http://53374523575771087.ofd0126.xyz:80/play/mi918727/fV3svPmkAdJ3/771087.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: [ USA ] FOX SPORts 2 HD" tvg-logo="" group-title="USA",US: [ USA ] FOX SPORts 2 HD
+http://53374523575771088.ofd0126.xyz:80/play/mi918727/fV3svPmkAdJ3/771088.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="UK - PREMIER SPORTS 1 UHD" group-title="|UK| SPORTS",UK - PREMIER SPORTS 1 UHD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577982&extension=ts
