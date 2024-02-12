@@ -58,6 +58,31 @@ https://gsn-gameshowchannnel-1-us.vizio.wurl.tv/playlist.m3u8
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="UK - EUROSPORT 1 UHD" group-title="|UK| SPORTS",UK - EUROSPORT 1 UHD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577985&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - EUROSPORT 2 UHD" group-title="|UK| SPORTS",UK - EUROSPORT 2 UHD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577984&extension=ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="UK - PREMIER SPORTS 1 UHD" group-title="|UK| SPORTS",UK - PREMIER SPORTS 1 UHD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577982&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - PREMIER SPORT 2 UHD" group-title="|UK| SPORTS",UK - PREMIER SPORT 2 UHD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577981&extension=ts
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="UK - TNT SPORTS 1 UHD" group-title="|UK| SPORTS",UK - TNT SPORTS 1 UHD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=578001&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - TNT SPORTS 2 UHD" group-title="|UK| SPORTS",UK - TNT SPORTS 2 UHD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=578000&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - TNT SPORTS 3 UHD" group-title="|UK| SPORTS",UK - TNT SPORTS 3 UHD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577999&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - TNT SPORTS 4 UHD" group-title="|UK| SPORTS",UK - TNT SPORTS 4 UHD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=782732&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK - TNT SPORTS 5 UHD" group-title="|UK| SPORTS",UK - TNT SPORTS 5 UHD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=774608&extension=ts
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="CA - TSN1 UHD" group-title="|AM| CANADA",CA - TSN1 UHD
