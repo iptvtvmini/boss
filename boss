@@ -468,7 +468,7 @@ http://likea8bitboss.xyz:80/live/ericn/3259674108/292.m3u8
 http://likea8bitboss.xyz:80/live/ericn/3259674108/293.m3u8
 
 #EXTINF:-1 tvg-id="Bravo.HDTV.(East).(BRAVOD).us" tvg-name="" tvg-logo="https://docdog.top/Logotv/countries//bravo.png" group-title="",Bravo
-http://likea8bitboss.xyz:80/live/ericn/3259674108/302.m3u8
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469359&extension=ts
 
 #EXTINF:-1 tvg-id="Freeform.HDTV.(East).(FRFHD).us" tvg-name="Freeform HDTV (East) (FRFHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/freeform-us.png" group-title="",FREEFORM
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=656385&extension=m3u8
