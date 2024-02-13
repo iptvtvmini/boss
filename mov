@@ -136,16 +136,22 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487676&extension=ts
 #EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-name="Eurosport 1 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="",EuroSport 1 (UK)
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577985&extension=ts
 
-#EXTINF:-1,EuroSport 1
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175200&extension=ts
-
 #EXTINF:-1 tvg-id="Eurosport.2.HD.uk" tvg-name="Eurosport 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="",Eurosport 2 (UK)
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577984&extension=ts
 
+#EXTINF:-1,EuroSport 1
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:0f:49&stream=175201&extension=ts
+
 #EXTINF:-1,Eurosport 2
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175202&extension=ts
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:0f:49&stream=175203&extension=ts
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="UK| EUROSPORT 1 HD" group-title="UK| SPORTS",UK| EUROSPORT 1 HD
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=547746&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UK| EUROSPORT 2 HD" group-title="UK| SPORTS",UK| EUROSPORT 2 HD
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=547747&extension=ts
 
 
 
