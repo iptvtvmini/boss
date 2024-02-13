@@ -48,15 +48,12 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/stream
 #EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="",CNN INA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
 
+
 #EXTINF:-1 tvg-id="Game.Show.Network.HDTV.(EAST).(GMSHWHD).us" tvg-name="Game Show Network HDTV (EAST) (GMSHWHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/game-show-network-us.png" group-title="",Game Show Network
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5e54187aae660e00093561d6" tvg-name="" tvg-logo="https://images.pluto.tv/channels/5e54187aae660e00093561d6/colorLogoPNG.png" group-title="",Game Show Central
 https://gsn-gameshowchannnel-1-us.vizio.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MBC.Wanasah.(MBCW).us" tvg-name="" tvg-logo="https://i.imgur.com/AuYEozR.png" group-title="",Wanasah
-https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
-
 
 #EXTINF:-1 tvg-id="" tvg-name="CA - GAME PLUS HD" group-title="|AM| CANADA",CA - GAME PLUS HD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=752916&extension=ts
@@ -64,21 +61,25 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=752916&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="CA - Game TV HD" group-title="|AM| CANADA",CA - Game TV HD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=626942&extension=ts
 
+#EXTINF:-1 tvg-id="MBC.Wanasah.(MBCW).us" tvg-name="" tvg-logo="https://i.imgur.com/AuYEozR.png" group-title="",Wanasah
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="CA - ABC EAST HD" group-title="|AM| CANADA",CA - ABC
+
+#EXTINF:-1 tvg-id="" tvg-name="CA - ABC EAST HD" group-title="|AM| CANADA",ABC
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=627030&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="CA - CBS EAST HD" group-title="|AM| CANADA",CA - CBS
+#EXTINF:-1 tvg-id="" tvg-name="CA - CBS EAST HD" group-title="|AM| CANADA",CBS
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=627012&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="CA - A&E HD" group-title="|AM| CANADA",CA - A&E HD
+
+#EXTINF:-1 tvg-id="" tvg-name="CA - A&E HD" group-title="|AM| CANADA",A&E
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=627031&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="CA - AMC HD" group-title="|AM| CANADA",CA - AMC HD
+#EXTINF:-1 tvg-id="" tvg-name="CA - AMC HD" group-title="|AM| CANADA",AMC
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=627026&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="USA - SYFY HD" group-title="|NA| USA GENERAL",USA - SYFY HD
+#EXTINF:-1 tvg-id="" tvg-name="USA - SYFY HD" group-title="|NA| USA GENERAL",SYFY
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469431&extension=m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="US: EPIX FHD" tvg-logo="" group-title="USA",US: EPIX FHD
