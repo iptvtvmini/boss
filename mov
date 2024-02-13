@@ -94,14 +94,38 @@ http://53374523575751035.ofd0126.xyz:80/play/mi918727/fV3svPmkAdJ3/751035.ts
 #EXTINF:-1 tvg-id="" tvg-name="US: EPIX DRIVE IN FHD" tvg-logo="" group-title="USA",US: EPIX DRIVE IN FHD
 http://53374523575773109.ofd0126.xyz:80/play/mi918727/fV3svPmkAdJ3/773109.ts
 
-#EXTINF:-1 tvg-id="espndeportes.us" tvg-name="US: ESPN HD" tvg-logo="" group-title="USA",US: ESPN HD
-http://53374523575751037.ofd0126.xyz:80/play/mi918727/fV3svPmkAdJ3/751037.ts
 
-#EXTINF:-1 tvg-id="espn2.us" tvg-name="US: ESPN 2 HD" tvg-logo="" group-title="USA",US: ESPN 2 HD
-http://53374523575666986.ofd0126.xyz:80/play/mi918727/fV3svPmkAdJ3/666986.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP - FOX SPORTS 1 USA HD" group-title="|NA| USA SPORTS",SP - FOX SPORTS 1 USA HD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487776&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SP - FOX SPORTS 2 USA HD" group-title="|NA| USA SPORTS",SP - FOX SPORTS 2 USA HD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487775&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SP - FOX SOCCER PLUS HD" group-title="|NA| USA SPORTS",SP - FOX SOCCER PLUS HD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487641&extension=ts
 
-#EXTINF:-1 tvg-id="espnu.us" tvg-name="US: ESPN U HD" tvg-logo="" group-title="USA",US: ESPN U HD
-http://53374523575751046.ofd0126.xyz:80/play/mi918727/fV3svPmkAdJ3/751046.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SP - ESPN 1 HD" group-title="|NA| USA SPORTS",SP - ESPN 1 HD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487782&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SP - ESPN 2 HD" group-title="|NA| USA SPORTS",SP - ESPN 2 HD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487781&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SP - ESPN 3 HD" group-title="|NA| USA SPORTS",SP - ESPN 3 HD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=756601&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SP - ESPN U HD" group-title="|NA| USA SPORTS",SP - ESPN U HD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487778&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SP - NBA TV HD" group-title="|NA| USA SPORTS",SP - NBA TV HD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487762&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SP - NBC SPORTS HD" group-title="|NA| USA SPORTS",SP - NBC SPORTS HD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487784&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SP - CBS SPORTS HD" group-title="|NA| USA SPORTS",SP - CBS SPORTS HD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487785&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SP - BIG TEN NETWORK HD" group-title="|NA| USA SPORTS",SP - BIG TEN NETWORK HD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487676&extension=ts
 
 
 
@@ -124,6 +148,17 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577982&extension=ts
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577981&extension=ts
 
 
+#EXTINF:-1 tvg-id="" tvg-name="SP - TENNIS HD" group-title="|NA| USA SPORTS",SP - TENNIS HD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487689&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SP - TENNIS PLUS 1 HD" group-title="|NA| USA SPORTS",SP - TENNIS PLUS 1 HD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487688&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SP - TENNIS PLUS 2 HD" group-title="|NA| USA SPORTS",SP - TENNIS PLUS 2 HD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487687&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SP - TENNIS PLUS 3 HD" group-title="|NA| USA SPORTS",SP - TENNIS PLUS 3 HD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487686&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SP - WWE HD" group-title="|NA| USA SPORTS",SP - WWE HD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487679&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-name="UK - TNT SPORTS 1 UHD" group-title="|UK| SPORTS",UK - TNT SPORTS 1 UHD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=578001&extension=ts
