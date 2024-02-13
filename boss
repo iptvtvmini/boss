@@ -142,7 +142,7 @@ http://vo01.mohdtv.com:8880/live/voby4349/154984156/71056.m3u8
 #EXTINF:-1 tvg-id="HITS.HD.my" tvg-name="HITS HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png" group-title="",Hits
 http://vo01.mohdtv.com:8880/live/voby4349/154984156/60455.ts
 
-#EXTINF:-1 tvg-id="tvN.Movies.HD.my" tvg-name="tvN Movies HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png" group-title="",tvN Movies
+#EXTINF:-1 tvg-id="tvN.HD.id" tvg-name="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png" group-title="",tvN Movies
 
 #EXTINF:-1 tvg-id="Celestial.Movies.HD.my" tvg-name="Celestial Movies HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png" group-title="",Celestial Movies
 http://vo01.mohdtv.com:8880/live/voby4349/154984156/1718.ts
@@ -154,14 +154,21 @@ http://vo01.mohdtv.com:8880/live/voby4349/154984156/71046.m3u8
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=683110&extension=ts
 
 
-#EXTINF:-1 tvg-id="Boomerang.my" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/430_144.png" group-title="",Boomerang
-#EXTINF:-1 tvg-id="Cartoon.Network.HD.my" tvg-name="Cartoon Network HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/371_144.png" group-title="",Cartoon Network
-#EXTINF:-1 tvg-id="Nickelodeon.HD.my" tvg-name="Nickelodeon HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/370_144.png" group-title="",Nickelodeon
-#EXTINF:-1 tvg-id="Nick.Jr..my" tvg-name="Nick Jr." tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/392_144.png" group-title="",Nick Jr
+#EXTINF:-1 tvg-id="Boomerang.(BOOM).us" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/430_144.png" group-title="",Boomerang
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=479211&extension=ts
+
+#EXTINF:-1 tvg-id="Cartoon.Network.HDTV.(East).(TOONHD).us" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/371_144.png" group-title="",Cartoon Network
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=479212&extension=ts
+
+#EXTINF:-1 tvg-id="Nickelodeon.HDTV.(East).(NICHD).us" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/370_144.png" group-title="",Nickelodeon
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=479229&extension=ts
+
+#EXTINF:-1 tvg-id="Nick.Jr..(NicJr).us" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/392_144.png" group-title="",Nick Jr
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=479230&extension=ts
 
 
-#EXTINF:-1 tvg-id="Animal.Planet.HD.my" tvg-name="Animal Planet HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png" group-title="",Animal Planet
-#EXTINF:-1 tvg-id="Animal.Planet.HD.id" tvg-name="Animal Planet HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png" group-title="",Animal Planet (ID)
+
+#EXTINF:-1 tvg-id="Animal.Planet.HD.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png" group-title="",Animal Planet (ID)
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=683085&extension=ts
 
 #EXTINF:-1 tvg-id="Animal.Planet.HDTV.(East).(APHD).us" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png" group-title="",Animal Planet
@@ -285,7 +292,7 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487778&extension=ts
 #EXTINF:-1 tvg-id="Big.Ten.Network.HDTV.(24/7.Overflow.#3).(BTFB3).us" tvg-name="Big Ten Network HDTV (24/7 Overflow #3) (BTFB3)" tvg-logo="https://docdog.top/Logotv/countries//bigtennetwork.png" group-title="",Big Ten Network
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=45609&extension=ts
 
-#EXTINF:-1 tvg-id="CBS.Sports.Network.HDTV.(CBSSD).us" tvg-name="" tvg-logo="g" group-title="",CBS Sport
+#EXTINF:-1 tvg-id="CBS.Sports.Network.HDTV.(CBSSD).us" tvg-name="" tvg-logo="" group-title="",CBS Sport
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487785&extension=ts
 
 #EXTINF:-1 tvg-id="NBA.TV.HDTV.(NBA.HD).us" tvg-name="" tvg-logo="g" group-title="",NBA TV
@@ -432,19 +439,19 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="" tvg-logo="http://stmgroup.xyz/logo/abcnewyork.png" group-title="",ABC
+#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US002ABCHD.png" group-title="",ABC
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:A8:AE:7C&stream=1497250&extension=ts
 
-#EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-name="" tvg-logo="https://watchindia.net/images/channels/usa/Fox_NY.png" group-title="",FOX
+#EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-name="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US036FOX-HD.png" group-title="",FOX
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=549764&extension=ts
 
-#EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-name="" tvg-logo="https://watchindia.net/images/channels/usa/CBS.png" group-title="",CBS
+#EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-name="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US017CBS-HD.png" group-title="",CBS
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=549522&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vstreams.tv:2082/images/bc68a7acd9f983d555c36cccd6b08f80.png" group-title="",CW
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US023CW-HD.png" group-title="",CW
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=551439&extension=ts
 
-#EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-name="" tvg-logo="https://watchindia.net/images/channels/usa/NBC.png" group-title="",NBC
+#EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-name="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US062NBC-HD.png" group-title="",NBC
 http://abcnew.site:8880/live/3ca06273n01/asdf23e23/29676.ts
 
 
@@ -452,7 +459,7 @@ http://abcnew.site:8880/live/3ca06273n01/asdf23e23/29676.ts
 
 
 
-#EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-name="A and E Network HDTV (A and EHD)" tvg-logo="http://attp.ddns.net:25461/images/9ffd5753a3ca520dfeb483ad0e31c596.png" group-title="",A&E
+#EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-name="A and E Network HDTV (A and EHD)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US001A&E-HD.png" group-title="",A&E
 http://likea8bitboss.xyz:80/live/ericn/3259674108/776274.m3u8
 
 #EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-name="AMC HDTV (East) (AMCHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/amc-us.png" group-title="",AMC
