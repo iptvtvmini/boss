@@ -248,15 +248,32 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577363&extension=ts
 
 
 
+#EXTINF:-1 tvg-id="Sky.Arts.HD.uk" tvg-name="UK - SKY ARTS FHD" group-title="|UK| ENTERTAINMENT",UK - SKY ARTS FHD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577513&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Atlantic.HD.uk" tvg-name="UK - SKY ATLANTIC FHD" group-title="|UK| ENTERTAINMENT",UK - SKY ATLANTIC FHD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577512&extension=ts
 
 #EXTINF:-1 tvg-id="Sky.Comedy.HD.uk" tvg-name="UK - SKY COMEDY FHD" group-title="|UK| MOVIES",UK - SKY COMEDY FHD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577362&extension=ts
+
 #EXTINF:-1 tvg-id="Sky.Crime.HD.uk" tvg-name="UK - SKY CRIME FHD" group-title="|UK| MOVIES",UK - SKY CRIME FHD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577375&extension=ts
+
 #EXTINF:-1 tvg-id="Sky.Documentaries.HD.uk" tvg-name="UK - SKY DOCUMENTARIES FHD" group-title="|UK| MOVIES",UK - SKY DOCUMENTARIES FHD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577374&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Max.HD.uk" tvg-name="UK - SKY MAX" group-title="|UK| ENTERTAINMENT",UK - SKY MAX
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=780566&extension=ts
+
+#EXTINF:-1 tvg-id="SkyShowcaseHD.uk" tvg-name="UK - SKY SHOWCASE" group-title="|UK| ENTERTAINMENT",UK - SKY SHOWCASE
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=851517&extension=ts
+
 #EXTINF:-1 tvg-id="Sky.Witness.HD.uk" tvg-name="UK -  SKY WITNESS  FHD" group-title="|UK| MOVIES",UK -  SKY WITNESS  FHD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577370&extension=ts
+
+
+
 
 
 
