@@ -58,7 +58,6 @@ https://gsn-gameshowchannnel-1-us.vizio.wurl.tv/playlist.m3u8
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
 
 
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=746096&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="CA - GAME PLUS HD" group-title="|AM| CANADA",CA - GAME PLUS HD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=752916&extension=ts
 
@@ -88,7 +87,7 @@ http://53374523575751033.ofd0126.xyz:80/play/mi918727/fV3svPmkAdJ3/751033.ts
 #EXTINF:-1 tvg-id="" tvg-name="US: EPIX2 FHD" tvg-logo="" group-title="USA",US: EPIX2 FHD
 http://53374523575751036.ofd0126.xyz:80/play/mi918727/fV3svPmkAdJ3/751036.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: EPIX HIts HD" tvg-logo="" group-title="USA",US: EPIX HIts HD
+#EXTINF:-1 tvg-id="" tvg-name="US: EPIX HIts HD" tvg-logo="" group-title="USA",US: EPIX HITS HD
 http://53374523575751035.ofd0126.xyz:80/play/mi918727/fV3svPmkAdJ3/751035.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="US: EPIX DRIVE IN FHD" tvg-logo="" group-title="USA",US: EPIX DRIVE IN FHD
@@ -105,20 +104,22 @@ http://53374523575751046.ofd0126.xyz:80/play/mi918727/fV3svPmkAdJ3/751046.ts
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="UK - EUROSPORT 1 UHD" group-title="|UK| SPORTS",UK - EUROSPORT 1 UHD
+#EXTINF:-1 tvg-id="" tvg-name="UK - EUROSPORT 1 UHD" group-title="|UK| SPORTS",EUROSPORT 1 UHD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577985&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - EUROSPORT 2 UHD" group-title="|UK| SPORTS",UK - EUROSPORT 2 UHD
+
+#EXTINF:-1 tvg-id="" tvg-name="UK - EUROSPORT 2 UHD" group-title="|UK| SPORTS",EUROSPORT 2 UHD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577984&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: [ USA ] FOX SPORts 1 HD" tvg-logo="" group-title="USA",US: [ USA ] FOX SPORts 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="US: [ USA ] FOX SPORts 1 HD" tvg-logo="" group-title="USA",FOX SPORTS 1 HD
 http://53374523575771087.ofd0126.xyz:80/play/mi918727/fV3svPmkAdJ3/771087.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: [ USA ] FOX SPORts 2 HD" tvg-logo="" group-title="USA",US: [ USA ] FOX SPORts 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="US: [ USA ] FOX SPORts 2 HD" tvg-logo="" group-title="USA",FOX SPORTS 2 HD
 http://53374523575771088.ofd0126.xyz:80/play/mi918727/fV3svPmkAdJ3/771088.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="UK - PREMIER SPORTS 1 UHD" group-title="|UK| SPORTS",UK - PREMIER SPORTS 1 UHD
+#EXTINF:-1 tvg-id="" tvg-name="UK - PREMIER SPORTS 1 UHD" group-title="|UK| SPORTS",PREMIER SPORTS 1 UHD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577982&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK - PREMIER SPORT 2 UHD" group-title="|UK| SPORTS",UK - PREMIER SPORT 2 UHD
+
+#EXTINF:-1 tvg-id="" tvg-name="UK - PREMIER SPORT 2 UHD" group-title="|UK| SPORTS",PREMIER SPORT 2 UHD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577981&extension=ts
 
 
