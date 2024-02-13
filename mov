@@ -80,19 +80,21 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=627031&extension=ts
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=627026&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-name="USA - SYFY HD" group-title="|NA| USA GENERAL",SYFY
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469431&extension=m3u8
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469431&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: EPIX FHD" tvg-logo="" group-title="USA",US: EPIX FHD
-http://53374523575751033.ofd0126.xyz:80/play/mi918727/fV3svPmkAdJ3/751033.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA - EPIX HD" group-title="|NA| USA MOVIES",USA - EPIX HD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552048&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: EPIX2 FHD" tvg-logo="" group-title="USA",US: EPIX2 FHD
-http://53374523575751036.ofd0126.xyz:80/play/mi918727/fV3svPmkAdJ3/751036.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA - EPIX 2 HD" group-title="|NA| USA MOVIES",USA - EPIX 2 HD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552047&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: EPIX HIts HD" tvg-logo="" group-title="USA",US: EPIX HITS HD
-http://53374523575751035.ofd0126.xyz:80/play/mi918727/fV3svPmkAdJ3/751035.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA - EPIX  HITS" group-title="|NA| USA MOVIES",USA - EPIX  HITS
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=753280&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: EPIX DRIVE IN FHD" tvg-logo="" group-title="USA",US: EPIX DRIVE IN FHD
-http://53374523575773109.ofd0126.xyz:80/play/mi918727/fV3svPmkAdJ3/773109.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA - EPIX DRIVE IN HD" group-title="|NA| USA MOVIES",USA - EPIX DRIVE IN HD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552046&extension=ts
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="SP - FOX SPORTS 1 USA HD" group-title="|NA| USA SPORTS",SP - FOX SPORTS 1 USA HD
@@ -135,11 +137,6 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577985&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="UK - EUROSPORT 2 UHD" group-title="|UK| SPORTS",EUROSPORT 2 UHD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577984&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: [ USA ] FOX SPORts 1 HD" tvg-logo="" group-title="USA",FOX SPORTS 1 HD
-http://53374523575771087.ofd0126.xyz:80/play/mi918727/fV3svPmkAdJ3/771087.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="US: [ USA ] FOX SPORts 2 HD" tvg-logo="" group-title="USA",FOX SPORTS 2 HD
-http://53374523575771088.ofd0126.xyz:80/play/mi918727/fV3svPmkAdJ3/771088.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="UK - PREMIER SPORTS 1 UHD" group-title="|UK| SPORTS",PREMIER SPORTS 1 UHD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577982&extension=ts
@@ -356,188 +353,135 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705050&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-name="USA - HBO (EAST) HD" group-title="|NA| USA MOVIES",USA - HBO (EAST) HD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552124&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="USA - HBO (WEST) HD" group-title="|NA| USA MOVIES",USA - HBO (WEST) HD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552123&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="USA - HBO 2 (EAST) HD" group-title="|NA| USA MOVIES",USA - HBO 2 (EAST) HD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552122&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="USA - HBO 2 (WEST) HD" group-title="|NA| USA MOVIES",USA - HBO 2 (WEST) HD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552121&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="USA - HBO COMEDY (EAST) HD" group-title="|NA| USA MOVIES",USA - HBO COMEDY (EAST) HD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552120&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="USA - HBO COMEDY (WEST) HD" group-title="|NA| USA MOVIES",USA - HBO COMEDY (WEST) HD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552119&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="USA - HBO FAMILY (EAST) HD" group-title="|NA| USA MOVIES",USA - HBO FAMILY (EAST) HD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552118&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="USA - HBO FAMILY (WEST) HD" group-title="|NA| USA MOVIES",USA - HBO FAMILY (WEST) HD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552117&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="USA - HBO SIGNATURE EAST HD" group-title="|NA| USA MOVIES",USA - HBO SIGNATURE EAST HD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552116&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="USA - HBO SIGNATURE (WEST) HD" group-title="|NA| USA MOVIES",USA - HBO SIGNATURE (WEST) HD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552115&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="USA - HBO ZONE (EAST) HD" group-title="|NA| USA MOVIES",USA - HBO ZONE (EAST) HD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552114&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="USA - HBO ZONE (WEST) HD" group-title="|NA| USA MOVIES",USA - HBO ZONE (WEST) HD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552113&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="USA - HBO LATINO (EAST) HD" group-title="|NA| USA MOVIES",USA - HBO LATINO (EAST) HD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552112&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="USA - HBO LATINO (WEST) HD" group-title="|NA| USA MOVIES",USA - HBO LATINO (WEST) HD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552111&extension=ts
+
+
 #EXTINF:-1 tvg-id="" tvg-name="USA - SHOWTIME (EAST) HD" group-title="|NA| USA MOVIES",USA - SHOWTIME (EAST) HD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552110&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="USA - SHOWTIME (WEST) HD" group-title="|NA| USA MOVIES",USA - SHOWTIME (WEST) HD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552109&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="USA - SHOWTIME 2 (EAST) HD" group-title="|NA| USA MOVIES",USA - SHOWTIME 2 (EAST) HD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552108&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="USA - SHOWTIME 2 (WEST) HD" group-title="|NA| USA MOVIES",USA - SHOWTIME 2 (WEST) HD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552107&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="USA - SHOXBET (EAST) HD" group-title="|NA| USA MOVIES",USA - SHOXBET (EAST) HD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552106&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="USA - SHOXBET (WEST) HD" group-title="|NA| USA MOVIES",USA - SHOXBET (WEST) HD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552105&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="USA - SHOWTIME EXTREME (EAST) HD" group-title="|NA| USA MOVIES",USA - SHOWTIME EXTREME (EAST) HD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552104&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="USA - SHOWTIME EXTREME (WEST) HD" group-title="|NA| USA MOVIES",USA - SHOWTIME EXTREME (WEST) HD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552103&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="USA - SHOWTIME FAMILY ZONE (EAST) HD" group-title="|NA| USA MOVIES",USA - SHOWTIME FAMILY ZONE (EAST) HD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552102&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="USA - SHOWTIME FAMILY ZONE (WEST) HD" group-title="|NA| USA MOVIES",USA - SHOWTIME FAMILY ZONE (WEST) HD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552101&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="USA - SHOWTIME NEXT (EAST) HD" group-title="|NA| USA MOVIES",USA - SHOWTIME NEXT (EAST) HD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552100&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="USA - SHOWTIME NEXT (WEST) HD" group-title="|NA| USA MOVIES",USA - SHOWTIME NEXT (WEST) HD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552099&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="USA - SHOWTIME SHOWCASE (EAST) HD" group-title="|NA| USA MOVIES",USA - SHOWTIME SHOWCASE (EAST) HD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552098&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="USA - SHOWTIME SHOWCASE (WEST) HD" group-title="|NA| USA MOVIES",USA - SHOWTIME SHOWCASE (WEST) HD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552097&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="USA - SHOWTIME WOMEN (EAST) HD" group-title="|NA| USA MOVIES",USA - SHOWTIME WOMEN (EAST) HD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552096&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="USA - SHOWTIME WOMEN (WEST) HD" group-title="|NA| USA MOVIES",USA - SHOWTIME WOMEN (WEST) HD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552095&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="USA - INDIEPLEX (EAST) HD" group-title="|NA| USA MOVIES",USA - INDIEPLEX (EAST) HD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552094&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="USA - INDIEPLEX (WEST) HD" group-title="|NA| USA MOVIES",USA - INDIEPLEX (WEST) HD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552093&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="USA - MOVIEPLEX (WEST) HD" group-title="|NA| USA MOVIES",USA - MOVIEPLEX (WEST) HD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552091&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="USA - MOVIEPLEX (EAST) HD" group-title="|NA| USA MOVIES",USA - MOVIEPLEX (EAST) HD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552092&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="USA - FREEFORM HD" group-title="|NA| USA MOVIES",USA - FREEFORM HD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=656385&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA - PARAMOUNT HD" group-title="|NA| USA MOVIES",USA - PARAMOUNT HD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469416&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="USA - MGM HD" group-title="|NA| USA MOVIES",USA - MGM HD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469492&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="USA - FREEFORM WEST HD" group-title="|NA| USA MOVIES",USA - FREEFORM WEST HD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=656384&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="USA - RETROPLEX (WEST) HD" group-title="|NA| USA MOVIES",USA - RETROPLEX (WEST) HD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552089&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="USA - RETROPLEX HD" group-title="|NA| USA MOVIES",USA - RETROPLEX HD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469494&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="USA - RETROPLEX (EAST) HD" group-title="|NA| USA MOVIES",USA - RETROPLEX (EAST) HD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552090&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="USA - STARZ (EAST) HD" group-title="|NA| USA MOVIES",USA - STARZ (EAST) HD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552088&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="USA - STARZ (WEST) HD" group-title="|NA| USA MOVIES",USA - STARZ (WEST) HD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552087&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="USA - STARZ CINEMA (EAST) HD" group-title="|NA| USA MOVIES",USA - STARZ CINEMA (EAST) HD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552086&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="USA - STARZ CINEMA (WEST) HD" group-title="|NA| USA MOVIES",USA - STARZ CINEMA (WEST) HD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552085&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="USA - STARZ COMEDY (EAST) HD" group-title="|NA| USA MOVIES",USA - STARZ COMEDY (EAST) HD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552084&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="USA - STARZ COMEDY (WEST) HD" group-title="|NA| USA MOVIES",USA - STARZ COMEDY (WEST) HD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552083&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="USA - STARZ EDGE (EAST) HD" group-title="|NA| USA MOVIES",USA - STARZ EDGE (EAST) HD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552082&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="USA - STARZ EDGE (WEST) HD" group-title="|NA| USA MOVIES",USA - STARZ EDGE (WEST) HD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552081&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="USA - STARZ ENCORE (EAST) HD" group-title="|NA| USA MOVIES",USA - STARZ ENCORE (EAST) HD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552080&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="USA - STARZ ENCORE (WEST) HD" group-title="|NA| USA MOVIES",USA - STARZ ENCORE (WEST) HD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552079&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="USA - STARZ ENCORE ACTION (EAST) HD" group-title="|NA| USA MOVIES",USA - STARZ ENCORE ACTION (EAST) HD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552078&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="USA - STARZ ENCORE ACTION (WEST) HD" group-title="|NA| USA MOVIES",USA - STARZ ENCORE ACTION (WEST) HD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552077&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="USA - STARZ ENCORE BLACK (EAST) HD" group-title="|NA| USA MOVIES",USA - STARZ ENCORE BLACK (EAST) HD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552076&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="USA - STARZ ENCORE BLACK (WEST) HD" group-title="|NA| USA MOVIES",USA - STARZ ENCORE BLACK (WEST) HD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552075&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="USA - STARZ ENCORE CLASSIC (EAST) HD" group-title="|NA| USA MOVIES",USA - STARZ ENCORE CLASSIC (EAST) HD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552074&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="USA - STARZ ENCORE CLASSIC (WEST) HD" group-title="|NA| USA MOVIES",USA - STARZ ENCORE CLASSIC (WEST) HD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552073&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="USA - STARZ ENCORE FAMILY (EAST) HD" group-title="|NA| USA MOVIES",USA - STARZ ENCORE FAMILY (EAST) HD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552072&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="USA - STARZ ENCORE FAMILY (WEST) HD" group-title="|NA| USA MOVIES",USA - STARZ ENCORE FAMILY (WEST) HD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552071&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="USA - STARZ ENCORE SUSPENSE (EAST) HD" group-title="|NA| USA MOVIES",USA - STARZ ENCORE SUSPENSE (EAST) HD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552070&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="USA - STARZ ENCORE SUSPENSE (WEST) HD" group-title="|NA| USA MOVIES",USA - STARZ ENCORE SUSPENSE (WEST) HD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552069&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="USA - STARZ ENCORE WESTERNS (EAST) HD" group-title="|NA| USA MOVIES",USA - STARZ ENCORE WESTERNS (EAST) HD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552068&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="USA - STARZ ENCORE WESTERNS (WEST) HD" group-title="|NA| USA MOVIES",USA - STARZ ENCORE WESTERNS (WEST) HD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552067&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="USA - STARZ IN BLACK (EAST) HD" group-title="|NA| USA MOVIES",USA - STARZ IN BLACK (EAST) HD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552066&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="USA - STARZ IN BLACK (WEST) HD" group-title="|NA| USA MOVIES",USA - STARZ IN BLACK (WEST) HD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552065&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="USA - STARZ KIDS & FAMILY (EAST) HD" group-title="|NA| USA MOVIES",USA - STARZ KIDS & FAMILY (EAST) HD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552064&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="USA - STARZ KIDS & FAMILY (WEST) HD" group-title="|NA| USA MOVIES",USA - STARZ KIDS & FAMILY (WEST) HD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552063&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="USA - ACTION MAX (EAST) HD" group-title="|NA| USA MOVIES",USA - ACTION MAX (EAST) HD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552062&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="USA - ACTION MAX (WEST) HD" group-title="|NA| USA MOVIES",USA - ACTION MAX (WEST) HD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552061&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="USA - CINEMAX (EAST) HD" group-title="|NA| USA MOVIES",USA - CINEMAX (EAST) HD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552060&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="USA - CINEMAX (WEST) HD" group-title="|NA| USA MOVIES",USA - CINEMAX (WEST) HD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552059&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="USA - MOREMAX (EAST) HD" group-title="|NA| USA MOVIES",USA - MOREMAX (EAST) HD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552058&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="USA - MOREMAX (WEST) HD" group-title="|NA| USA MOVIES",USA - MOREMAX (WEST) HD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552057&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="USA - THRILLERMAX (EAST) HD" group-title="|NA| USA MOVIES",USA - THRILLERMAX (EAST) HD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552056&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="USA - THRILLERMAX (WEST) HD" group-title="|NA| USA MOVIES",USA - THRILLERMAX (WEST) HD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552055&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="USA - MOVIEMAX (EAST) HD" group-title="|NA| USA MOVIES",USA - MOVIEMAX (EAST) HD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552054&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="USA - MOVIEMAX (WEST) HD" group-title="|NA| USA MOVIES",USA - MOVIEMAX (WEST) HD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552053&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="USA - 5STARMAX (EAST) HD" group-title="|NA| USA MOVIES",USA - 5STARMAX (EAST) HD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552052&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="USA - OUTERMAX HD" group-title="|NA| USA MOVIES",USA - OUTERMAX HD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552050&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="USA - EPIX HD" group-title="|NA| USA MOVIES",USA - EPIX HD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552048&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA - EPIX  HITS" group-title="|NA| USA MOVIES",USA - EPIX  HITS
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=753280&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA - EPIX DRIVE IN HD" group-title="|NA| USA MOVIES",USA - EPIX DRIVE IN HD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552046&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA - EPIX 2 HD" group-title="|NA| USA MOVIES",USA - EPIX 2 HD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552047&extension=m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="USA - FXM HD" group-title="|NA| USA MOVIES",USA - FXM HD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552045&extension=m3u8
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552045&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="USA - FX HD" group-title="|NA| USA MOVIES",USA - FX HD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=656132&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA - FX WEST HD" group-title="|NA| USA MOVIES",USA - FX WEST HD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552043&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="USA - FX (EAST) HD" group-title="|NA| USA MOVIES",USA - FX (EAST) HD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552044&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=656132&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="USA - FXX HD" group-title="|NA| USA MOVIES",USA - FXX HD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=687889&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="USA - FXX (WEST) HD" group-title="|NA| USA MOVIES",USA - FXX (WEST) HD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552041&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="USA - FXX (EAST) HD" group-title="|NA| USA MOVIES",USA - FXX (EAST) HD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552042&extension=m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="USA - HDNET MOVIES HD" group-title="|NA| USA MOVIES",USA - HDNET MOVIES HD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552040&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="USA - SONY MOVIES (F)" group-title="|NA| USA MOVIES",USA - SONY MOVIES (F)
+
+#EXTINF:-1 tvg-id="" tvg-name="USA - SONY MOVIES (F)" group-title="|NA| USA MOVIES",USA - SONY MOVIES
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552037&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="USA - SCREENPIX VOICES HD" group-title="|NA| USA MOVIES",USA - SCREENPIX VOICES HD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552036&extension=ts
 
@@ -549,16 +493,13 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552034&extension=ts
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552033&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="USA - TCM (EAST) HD" group-title="|NA| USA MOVIES",USA - TCM (EAST) HD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552032&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="USA - TCM (WEST) HD" group-title="|NA| USA MOVIES",USA - TCM (WEST) HD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552031&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="USA - MOVIES! HD" group-title="|NA| USA MOVIES",USA - MOVIES! HD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552028&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="USA - THE MOVIE CHANNEL EXTRA HD" group-title="|NA| USA MOVIES",USA - THE MOVIE CHANNEL EXTRA HD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552027&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="USA - THE FILM DETECTIVE HD" group-title="|NA| USA MOVIES",USA - THE FILM DETECTIVE HD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552026&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="USA - TURNER CLASSIC MOVIES HD" group-title="|NA| USA MOVIES",USA - TURNER CLASSIC MOVIES HD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552025&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="USA - PIXL HD" group-title="|NA| USA MOVIES",USA - PIXL HD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469419&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="USA - INDIEPLEX HD" group-title="|NA| USA MOVIES",USA - INDIEPLEX HD
@@ -567,8 +508,10 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469486&extension=ts
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469495&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="USA - SHOWCASE HD" group-title="|NA| USA MOVIES",USA - SHOWCASE HD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469496&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="USA - SUNDANCE HD" group-title="|NA| USA MOVIES",USA - SUNDANCE HD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469530&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="USA - THE MOVIE CHANNEL" group-title="|NA| USA MOVIES",USA - THE MOVIE CHANNEL
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469532&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="USA - CINE SONY HD" group-title="|NA| USA MOVIES",USA - CINE SONY HD
