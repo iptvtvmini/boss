@@ -72,6 +72,8 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=627030&extension=ts
 #EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-name="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US017CBS-HD.png" group-title="",CBS
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=627012&extension=ts
 
+#EXTINF:-1 tvg-id="" tvg-name="USA - NBC EAST HD" group-title="|NA| USA GENERAL",USA - NBC EAST HD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469323&extension=ts
 
 #EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-name="A and E Network HDTV (A and EHD)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US001A&E-HD.png" group-title="",A&E
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=627031&extension=ts
@@ -80,7 +82,7 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=627031&extension=ts
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=627026&extension=ts
 
 #EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-name="Syfy HDTV (SYFYHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/syfy-us.png" group-title="",Syfy
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469431&extension=ts
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497511&extension=ts
 
 #EXTINF:-1 tvg-id="MGM+.HDTV.(East).(MGM+HD).us" tvg-name="MGM+ HDTV (East) (MGM+HD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-us.png" group-title="",EPIX
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552048&extension=ts
