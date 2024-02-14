@@ -139,13 +139,13 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=756601&extension=ts
 #EXTINF:-1 tvg-id="ESPNU.HDTV.(ESPNUHD).us" tvg-name="ESPNU HDTV (ESPNUHD)" tvg-logo="https://docdog.top/Logotv/countries//espnu.png" group-title="",ESPN U
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487778&extension=ts
 
-#EXTINF:-1 tvg-id="NBA.TV.HDTV.(NBA.HD).us" tvg-name="" tvg-logo="g" group-title="",NBA TV
+#EXTINF:-1 tvg-id="NBA.TV.HDTV.(NBA.HD).us",NBA TV
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487762&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="SP - NBC SPORTS HD" group-title="|NA| USA SPORTS",SP - NBC SPORTS HD
+#EXTINF:-1 tvg-id="NBCSNWH.NBC.Sports.Northwest.HD.us",NBC SPORTS
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487784&extension=ts
 
-#EXTINF:-1 tvg-id="CBS.Sports.Network.HDTV.(CBSSD).us" tvg-name="" tvg-logo="" group-title="",CBS Sport
+#EXTINF:-1 tvg-id="CBS.Sports.Network.HDTV.(CBSSD).us",CBS Sport
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487785&extension=ts
 
 #EXTINF:-1 tvg-id="Big.Ten.Network.HDTV.(24/7.Overflow.#3).(BTFB3).us" tvg-name="Big Ten Network HDTV (24/7 Overflow #3) (BTFB3)" tvg-logo="https://docdog.top/Logotv/countries//bigtennetwork.png" group-title="",Big Ten Network
