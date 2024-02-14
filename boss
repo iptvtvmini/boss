@@ -443,7 +443,7 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US002ABCHD.png" group-title="",ABC
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:A8:AE:7C&stream=1497250&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469290&extension=ts
 
 #EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-name="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US036FOX-HD.png" group-title="",FOX
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=549764&extension=ts
@@ -455,7 +455,8 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=549522&extension=ts
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=551439&extension=ts
 
 #EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-name="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US062NBC-HD.png" group-title="",NBC
-http://abcnew.site:8880/live/3ca06273n01/asdf23e23/29676.ts
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469323&extension=ts
+
 
 
 
@@ -463,10 +464,10 @@ http://abcnew.site:8880/live/3ca06273n01/asdf23e23/29676.ts
 
 
 #EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-name="A and E Network HDTV (A and EHD)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US001A&E-HD.png" group-title="",A&E
-http://likea8bitboss.xyz:80/live/ericn/3259674108/776274.m3u8
+http://likea8bitboss.xyz:80/live/ericn/3259674108/776274.ts
 
 #EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-name="AMC HDTV (East) (AMCHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/amc-us.png" group-title="",AMC
-http://likea8bitboss.xyz:80/live/ericn/3259674108/779736.m3u8
+http://likea8bitboss.xyz:80/live/ericn/3259674108/779736.ts
 
 #EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-name="Syfy HDTV (SYFYHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/syfy-us.png" group-title="",Syfy
 http://likea8bitboss.xyz:80/live/ericn/3259674108/388.m3u8
