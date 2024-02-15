@@ -227,10 +227,10 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577985&extension=ts
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577984&extension=ts
 
 #EXTINF:-1 tvg-id="Eurosport.1.HD.uk",EuroSport 1
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:0f:49&stream=175201&extension=ts
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:0f:49&stream=175201&extension=m3u8
 
 #EXTINF:-1 tvg-id="Eurosport.2.HD.uk",Eurosport 2
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:0f:49&stream=175203&extension=ts
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:0f:49&stream=175203&extension=m3u8
 
 #EXTINF:-1 tvg-id="Eurosport.1.HD.uk",EUROSPORT 1 HD
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=547746&extension=ts
