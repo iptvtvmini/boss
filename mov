@@ -543,7 +543,7 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705051&extension=ts
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705050&extension=ts
 
 
-#EXTINF:-1 tvg-id="USBB3200015M8" tvg-name="CINEVAULT: Classics" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/16/USBB3200015M8_20220330T044629.png" group-title="Movies",Cinevault Classics
+
 
 #EXTINF:-1 tvg-id="" tvg-name="CINEVAULT: 70s" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/15/USAJ30000148W_20210525T051435.png" group-title="Movies",Cinevault 70s
 https://gsn-cinevault-70s-1-us.vizio.wurl.tv/playlist.m3u8
