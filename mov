@@ -217,25 +217,25 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=708839&extension=ts
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=708838&extension=ts
 
 
-#EXTINF:-1 tvg-id="Sportsnet.360.HDTV.(360HD).ca" tvg-name="CA - SPORTSNET 360 UHD" group-title="|AM| CANADA",CA - SPORTSNET 360 UHD
+#EXTINF:-1 tvg-id="Sportsnet.360.HDTV.(360HD).ca",SPORTSNET 360
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=708837&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="CA - SPORTSNET EAST UHD" group-title="|AM| CANADA",CA - SPORTSNET EAST UHD
+#EXTINF:-1 tvg-id="",SPORTSNET
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=708836&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="CA - SPORTSNET WEST UHD" group-title="|AM| CANADA",CA - SPORTSNET WEST UHD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=708832&extension=ts
-
-#EXTINF:-1 tvg-id="Sportsnet.One.HDTV.(SN1HD).ca" tvg-name="CA - SPORTSNET ONE UHD" group-title="|AM| CANADA",CA - SPORTSNET ONE UHD
+#EXTINF:-1 tvg-id="Sportsnet.One.HDTV.(SN1HD).ca",SPORTSNET ONE
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=708835&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="CA - SPORTSNET ONTARIO UHD" group-title="|AM| CANADA",CA - SPORTSNET ONTARIO UHD
+
+#EXTINF:-1 tvg-id="",SPORTSNET ONTARIO
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=708834&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="CA - SPORTSNET PACIFIC UHD" group-title="|AM| CANADA",CA - SPORTSNET PACIFIC UHD
+
+#EXTINF:-1 tvg-id="",SPORTSNET PACIFIC
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=708833&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="CA - SPORTSNET WORLD UHD" group-title="|AM| CANADA",CA - SPORTSNET WORLD UHD
+#EXTINF:-1 tvg-id="",SPORTSNET WORLD
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=708831&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="CA - SPORTSNET WWE UHD" group-title="|AM| CANADA",CA - SPORTSNET WWE UHD
+
+#EXTINF:-1 tvg-id="",SPORTSNET WWE
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=708830&extension=ts
 
 
@@ -243,10 +243,10 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=708830&extension=ts
 
 
 
-#EXTINF:-1 tvg-id="HBO.HDTV.(East).(HBOHD).us" tvg-name="USA - HBO (EAST) HD" group-title="|NA| USA MOVIES",USA - HBO (EAST) HD
+#EXTINF:-1 tvg-id="HBO.HDTV.(East).(HBOHD).us",HBO
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552124&extension=ts
 
-#EXTINF:-1 tvg-id="HBO.2.HDTV.(East).(HBO2HD).us" tvg-name="USA - HBO 2 (EAST) HD" group-title="|NA| USA MOVIES",USA - HBO 2 (EAST) HD
+#EXTINF:-1 tvg-id="HBO.2.HDTV.(East).(HBO2HD).us",HBO 2
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552122&extension=ts
 
 #EXTINF:-1 tvg-id="HBO.Comedy.HDTV.(East).(HBOCHD).us" tvg-name="USA - HBO COMEDY (EAST) HD" group-title="|NA| USA MOVIES",USA - HBO COMEDY (EAST) HD
