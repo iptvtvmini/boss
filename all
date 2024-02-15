@@ -384,19 +384,19 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=133589&extension=m3u8
 
 #EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-name="" tvg-logo="https://watchindia.net/images/channels/usa/Fox_NY.png" group-title="",FOX 5
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=133553&extension=m3u8
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=173728&extension=ts
 
 #EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-name="" tvg-logo="https://watchindia.net/images/channels/usa/CBS.png" group-title="",CBS
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=133822&extension=m3u8
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=45604&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vstreams.tv:2082/images/bc68a7acd9f983d555c36cccd6b08f80.png" group-title="",CW 11
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134196&extension=m3u8
 
 #EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-name="" tvg-logo="https://watchindia.net/images/channels/usa/NBC.png" group-title="",NBC 4
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=133909&extension=ts
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=173924&extension=ts
 
 
-#EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-name="A and E Network HDTV (A and EHD)" tvg-logo="http://attp.ddns.net:25461/images/9ffd5753a3ca520dfeb483ad0e31c596.png" group-title="",A&E
+#EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-name="A and E Network HDTV (A and EHD)" tvg-logo="" group-title="",A&E
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134072&extension=m3u8
 
 #EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-name="AMC HDTV (East) (AMCHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/amc-us.png" group-title="",AMC
