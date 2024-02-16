@@ -180,6 +180,21 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=687889&extension=m3
 #EXTINF:-1 tvg-id="SundanceTV.HDTV.(East).(SUNHD).us",SUNDANCE
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469530&extension=m3u8
 
+#EXTINF:-1 tvg-id="HDNet.Movies.(HDNTM).us",HDNET MOVIES
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552040&extension=m3u8
+
+#EXTINF:-1 tvg-id="Sony.Movie.Channel.HD.(SONY).us",SONY MOVIES
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552037&extension=m3u8
+
+#EXTINF:-1 tvg-id="SCRNWST.ScreenPix.Westerns.us",SCREENPIX WESTERNS
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552034&extension=m3u8
+
+#EXTINF:-1 tvg-id="SCRNPIX.ScreenPix.us",SCREENPIX
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552033&extension=m3u8
+
+#EXTINF:-1 tvg-id="PixL.HDTV.(PixLHD).us",PIXL
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469419&extension=m3u8
+
 
 
 
@@ -436,32 +451,7 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552050&extension=m3
 
 
 
-#EXTINF:-1 tvg-id="HDNet.Movies.(HDNTM).us",HDNET MOVIES
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552040&extension=m3u8
 
-#EXTINF:-1 tvg-id="Sony.Movie.Channel.HD.(SONY).us",SONY MOVIES
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552037&extension=m3u8
-
-#EXTINF:-1 tvg-id="Sony.Movie.Channel.HD.(SONY).us",SONY MOVIE CHANNEL
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469495&extension=m3u8
-
-#EXTINF:-1 tvg-id="SCRNVOI.ScreenPix.Voices.us",SCREENPIX VOICES
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552036&extension=m3u8
-
-#EXTINF:-1 tvg-id="SCRNACT.ScreenPix.Action.us",SCREENPIX ACTION
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552035&extension=m3u8
-
-#EXTINF:-1 tvg-id="SCRNWST.ScreenPix.Westerns.us",SCREENPIX WESTERNS
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552034&extension=m3u8
-
-#EXTINF:-1 tvg-id="SCRNPIX.ScreenPix.us",SCREENPIX
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552033&extension=m3u8
-
-#EXTINF:-1 tvg-id="Turner.Classic.Movies.HDTV.(TCMHD).us",TCM
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552032&extension=m3u8
-
-#EXTINF:-1 tvg-id="PixL.HDTV.(PixLHD).us",PIXL
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469419&extension=m3u8
 
 
 
