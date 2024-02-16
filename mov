@@ -233,6 +233,12 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577985&extension=m3
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577984&extension=m3u8
 
 #EXTINF:-1 tvg-id="Eurosport.1.HD.uk",EuroSport 1
+http://supersonictv.live:8080/live/144264/661943/40451.ts
+
+#EXTINF:-1 tvg-id="Eurosport.2.HD.uk",Eurosport 2
+http://supersonictv.live:8080/live/144264/661943/40452.ts
+
+#EXTINF:-1 tvg-id="Eurosport.1.HD.uk",EuroSport 1
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:0f:49&stream=175201&extension=m3u8
 
 #EXTINF:-1 tvg-id="Eurosport.2.HD.uk",Eurosport 2
