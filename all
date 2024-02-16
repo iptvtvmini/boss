@@ -380,20 +380,21 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="" tvg-logo="http://stmgroup.xyz/logo/abcnewyork.png" group-title="",ABC
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=133589&extension=m3u8
+#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="" tvg-logo="http://stmgroup.xyz/logo/abcnewyork.png" group-title="",ABC 7
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=133594&extension=ts
 
 #EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-name="" tvg-logo="https://watchindia.net/images/channels/usa/Fox_NY.png" group-title="",FOX 5
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=173728&extension=ts
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=133553&extension=ts
 
-#EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-name="" tvg-logo="https://watchindia.net/images/channels/usa/CBS.png" group-title="",CBS
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=45604&extension=ts
+#EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-name="" tvg-logo="https://watchindia.net/images/channels/usa/CBS.png" group-title="",CBS 2
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=133708&extension=m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vstreams.tv:2082/images/bc68a7acd9f983d555c36cccd6b08f80.png" group-title="",CW 11
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134196&extension=m3u8
 
 #EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-name="" tvg-logo="https://watchindia.net/images/channels/usa/NBC.png" group-title="",NBC 4
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=173924&extension=ts
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=133909&extension=m3u8
+
 
 
 #EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-name="A and E Network HDTV (A and EHD)" tvg-logo="" group-title="",A&E
@@ -420,14 +421,17 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134119&extension=
 #EXTINF:-1 tvg-id="FXX.HDTV.(East).(FXXHD).us" tvg-name="FXX HDTV (East) (FXXHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/fxx-us.png" group-title="",FXX
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134120&extension=m3u8
 
-#EXTINF:-1 tvg-id="Turner.Network.Television.HDTV.(East).(TNTHD).us" tvg-name="Turner Network Television HDTV (East) (TNTHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/tnt-us.png" group-title="",TNT
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134188&extension=m3u8
+#EXTINF:-1 tvg-id="ReelzChannel.HDTV.(REELZH).us",Reelz
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134157&extension=m3u8
 
 #EXTINF:-1 tvg-id="SundanceTV.HDTV.(East).(SUNHD).us" tvg-name="SundanceTV HDTV (East) (SUNHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/sundance-tv-us.png" group-title="",Sundance
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134181&extension=m3u8
 
 #EXTINF:-1 tvg-id="TBS.Superstation.HDTV.(East).(TBSHD).us" tvg-name="TBS Superstation HDTV (East) (TBSHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/tbs-us.png" group-title="",TBS
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134183&extension=m3u8
+
+#EXTINF:-1 tvg-id="Turner.Network.Television.HDTV.(East).(TNTHD).us" tvg-name="Turner Network Television HDTV (East) (TNTHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/tnt-us.png" group-title="",TNT
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134188&extension=m3u8
 
 
 
