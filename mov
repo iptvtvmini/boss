@@ -464,6 +464,38 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552032&extension=m3
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469419&extension=m3u8
 
 
+#EXTINF:-1 tvg-id="",HOLLYWOOD PREMIERE 1
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=1438487&extension=m3u8
+
+#EXTINF:-1 tvg-id="",HOLLYWOOD PREMIERE 2
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=1438486&extension=m3u8
+
+#EXTINF:-1 tvg-id="",HOLLYWOOD PREMIERE 3
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=1438485&extension=m3u8
+
+#EXTINF:-1 tvg-id="",HOLLYWOOD PREMIERE 4
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=1438484&extension=m3u8
+
+#EXTINF:-1 tvg-id="",HOLLYWOOD PREMIERE 5
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=1438483&extension=m3u8
+
+#EXTINF:-1 tvg-id="",HOLLYWOOD PREMIERE 6
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=1438482&extension=m3u8
+
+#EXTINF:-1 tvg-id="",HOLLYWOOD PREMIERE 7
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=1438481&extension=m3u8
+
+#EXTINF:-1 tvg-id="",HOLLYWOOD PREMIERE 8
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=1438480&extension=m3u8
+
+#EXTINF:-1 tvg-id="",HOLLYWOOD PREMIERE 9
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=1438479&extension=m3u8
+
+#EXTINF:-1 tvg-id="",HOLLYWOOD PREMIERE 10
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=1438478&extension=m3u8
+
+
+
 
 
 
