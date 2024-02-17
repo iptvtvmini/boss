@@ -323,6 +323,38 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=708831&extension=m3
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=708830&extension=m3u8
 
 
+#EXTINF:-1 tvg-id="",ACTION MOVIES
+http://abcnew.site:8880/live/48msk050022/92297813/60207.ts
+
+#EXTINF:-1 tvg-id="",COMEDY MOVIES
+http://abcnew.site:8880/live/48msk050022/92297813/60049.ts
+
+#EXTINF:-1 tvg-id="",DISNEY MOVIES
+http://abcnew.site:8880/live/48msk050022/92297813/60928.ts
+
+#EXTINF:-1 tvg-id="",HORROR MOVIES
+http://abcnew.site:8880/live/48msk050022/92297813/60857.ts
+
+#EXTINF:-1 tvg-id="",FAMILY MOVIES
+http://abcnew.site:8880/live/48msk050022/92297813/60862.ts
+
+#EXTINF:-1 tvg-id="",CRIME MOVIES
+http://abcnew.site:8880/live/48msk050022/92297813/60864.ts
+
+#EXTINF:-1 tvg-id="",SCIFI MOVIES
+http://abcnew.site:8880/live/48msk050022/92297813/60836.ts
+
+#EXTINF:-1 tvg-id="",DRAMA MOVIES
+http://abcnew.site:8880/live/48msk050022/92297813/60838.ts
+
+#EXTINF:-1 tvg-id="",THRILLER MOVIES
+http://abcnew.site:8880/live/48msk050022/92297813/60253.ts
+
+#EXTINF:-1 tvg-id="",SUPERHERO MOVIES
+http://abcnew.site:8880/live/48msk050022/92297813/60257.ts
+
+#EXTINF:-1 tvg-id="",WAR MOVIES
+http://abcnew.site:8880/live/48msk050022/92297813/60247.ts
 
 
 
