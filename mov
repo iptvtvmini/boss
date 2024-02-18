@@ -311,7 +311,7 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=708831&extension=m3
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=708830&extension=m3u8
 
 
-#EXTINF:-1 tvg-id="",ACTION MOVIES
+#EXTINF:-1 tvg-id="",Action Movies
 http://mohdtv.com:8880/live/voby3037/69246643/60207.ts
 
 #EXTINF:-1 tvg-id="",COMEDY MOVIES
