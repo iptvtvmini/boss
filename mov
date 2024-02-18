@@ -121,16 +121,16 @@ https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6
 
 
 
-#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US002ABCHD.png" group-title="",ABC
+#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US002ABCHD.png",ABC
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=627030&extension=m3u8
 
-#EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-name="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US017CBS-HD.png" group-title="",CBS
+#EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US017CBS-HD.png",CBS
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=627012&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="U.S| FOX HD" group-title="",FOX
+#EXTINF:-1 tvg-id="FOX.(WXXA).Albany,.NY.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US036FOX-HD.png",FOX
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:4E:42:77&stream=174665&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="USA - NBC EAST HD" group-title="|NA| USA GENERAL",NBC
+#EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US020CNBC.png",NBC
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469323&extension=m3u8
 
 #EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-name="A and E Network HDTV (A and EHD)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US001A&E-HD.png" group-title="",A&E
