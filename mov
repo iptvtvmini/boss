@@ -142,19 +142,6 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=627026&extension=m3
 #EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-name="Syfy HDTV (SYFYHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/syfy-us.png" group-title="",Syfy
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469431&extension=m3u8
 
-#EXTINF:-1 tvg-id="MGM+.HDTV.(East).(MGM+HD).us" tvg-name="MGM+ HDTV (East) (MGM+HD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-us.png" group-title="",EPIX
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552048&extension=m3u8
-
-#EXTINF:-1 tvg-id="MGM+.Marquee.HDTV.(East).(MGM+MRQ).us" tvg-name="MGM+ Marquee HDTV (East) (MGM+MRQ)" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-us.png" group-title="",EPIX 2
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552047&extension=m3u8
-
-#EXTINF:-1 tvg-id="MGM+.Hits.HDTV.(East).(MGM+HTHD).us" tvg-name="MGM+ Hits HDTV (East) (MGM+HTHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-us.png" group-title="",EPIX Hits
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=753280&extension=m3u8
-
-#EXTINF:-1 tvg-id="MGM+.Drive-In.(MGM+DI).us" tvg-name="MGM+ Drive-In (MGM+DI)" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-drive-in-us.png" group-title="",EPIX Drive-In
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552046&extension=m3u8
-
-
 
 #EXTINF:-1 tvg-id="Freeform.HDTV.(East).(FRFHD).us",FREEFORM
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=656385&extension=m3u8
@@ -358,6 +345,17 @@ http://mohdtv.com:8880/live/voby3037/69246643/60247.ts
 
 
 
+#EXTINF:-1 tvg-id="MGM+.HDTV.(East).(MGM+HD).us" tvg-name="MGM+ HDTV (East) (MGM+HD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-us.png" group-title="",EPIX
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552048&extension=m3u8
+
+#EXTINF:-1 tvg-id="MGM+.Marquee.HDTV.(East).(MGM+MRQ).us" tvg-name="MGM+ Marquee HDTV (East) (MGM+MRQ)" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-us.png" group-title="",EPIX 2
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552047&extension=m3u8
+
+#EXTINF:-1 tvg-id="MGM+.Hits.HDTV.(East).(MGM+HTHD).us" tvg-name="MGM+ Hits HDTV (East) (MGM+HTHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-us.png" group-title="",EPIX Hits
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=753280&extension=m3u8
+
+#EXTINF:-1 tvg-id="MGM+.Drive-In.(MGM+DI).us" tvg-name="MGM+ Drive-In (MGM+DI)" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-drive-in-us.png" group-title="",EPIX Drive-In
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552046&extension=m3u8
 
 
 #EXTINF:-1 tvg-id="HBO.HDTV.(East).(HBOHD).us",HBO
