@@ -308,7 +308,7 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469419&extension=m3
 
 
 
-#EXTINF:-1 tvg-id="BBC.One.uk",BBC 1
+#EXTINF:-1 tvg-id="BBC.One.EastHD.uk",BBC 1
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577275&extension=ts
 
 #EXTINF:-1 tvg-id="BBC.Two.HD.uk",BBC 2
@@ -333,9 +333,20 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577262&extension=t
 #EXTINF:-1 tvg-id="ITV4.HD.uk",ITV 4
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577260&extension=ts
 
+#EXTINF:-1 tvg-id="ITVBe.uk",ITV BE
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577258&extension=ts
 
+#EXTINF:-1 tvg-id="Channel.4.HD.uk",CHANNEL 4
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577257&extension=ts
 
+#EXTINF:-1 tvg-id="Channel.5.HD.uk",CHANNEL 5
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577256&extension=ts
 
+#EXTINF:-1 tvg-id="E4.HD.uk",E4
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577255&extension=ts
+
+#EXTINF:-1 tvg-id="4seven.uk",4SEVEN
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577253&extension=ts
 
 
 
