@@ -253,26 +253,27 @@ https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6
 
 
 #EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US002ABCHD.png",ABC 7
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=548879&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=173034&extension=ts
 
 #EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US017CBS-HD.png",CBS 2
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=549522&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=173249&extension=ts
 
 #EXTINF:-1 tvg-id="FOX.(WXXA).Albany,.NY.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US036FOX-HD.png",FOX 5
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=549764&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=173728&extension=ts
 
 #EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US020CNBC.png",NBC 4
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=550258&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=174038&extension=ts
+
 
 
 #EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-name="A and E Network HDTV (A and EHD)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US001A&E-HD.png" group-title="",A&E
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=469345&extension=m3u8
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45619&extension=ts
 
 #EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-name="AMC HDTV (East) (AMCHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/amc-us.png" group-title="",AMC
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=469346&extension=m3u8
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=469346&extension=ts
 
 #EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-name="Syfy HDTV (SYFYHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/syfy-us.png" group-title="",Syfy
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=469431&extension=m3u8
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=469431&extension=ts
 
 #EXTINF:-1 tvg-id="Freeform.HDTV.(East).(FRFHD).us",FREEFORM
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=656385&extension=ts
@@ -308,31 +309,33 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469419&extension=m3
 
 
 #EXTINF:-1 tvg-id="BBC.One.uk",BBC 1
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577275&extension=m3u8
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577274&extension=ts
 
 #EXTINF:-1 tvg-id="BBC.Two.HD.uk",BBC 2
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577273&extension=m3u8
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577272&extension=ts
 
 #EXTINF:-1 tvg-id="BBC.Three.HD.uk",BBC 3
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577271&extension=m3u8
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577270&extension=ts
 
 #EXTINF:-1 tvg-id="BBC.Four.HD.uk",BBC 4
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577269&extension=m3u8
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577268&extension=ts
+
 
 
 
 
 #EXTINF:-1 tvg-id="ITV1.HD.uk",ITV 1
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577266&extension=m3u8
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577265&extension=ts
 
 #EXTINF:-1 tvg-id="ITV2.HD.uk",ITV 2
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577264&extension=m3u8
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577263&extension=ts
 
 #EXTINF:-1 tvg-id="ITV3.HD.uk",ITV 3
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577262&extension=m3u8
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577261&extension=ts
 
 #EXTINF:-1 tvg-id="ITV4.HD.uk",ITV 4
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577260&extension=m3u8
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577259&extension=ts
+
 
 
 
@@ -346,31 +349,31 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577260&extension=m
 http://mohdtv.com:8880/live/voby3037/69246643/60207.ts
 
 #EXTINF:-1 tvg-id="",COMEDY MOVIES
-http://mohdtv.com:8880/live/voby3037/69246643/60049.ts
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617147&extension=ts
 
 #EXTINF:-1 tvg-id="",DISNEY MOVIES
 http://mohdtv.com:8880/live/voby3037/69246643/60928.ts
 
 #EXTINF:-1 tvg-id="",HORROR MOVIES
-http://mohdtv.com:8880/live/voby3037/69246643/60857.ts
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617145&extension=ts
 
 #EXTINF:-1 tvg-id="",FAMILY MOVIES
-http://mohdtv.com:8880/live/voby3037/69246643/60862.ts
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617148&extension=ts
 
 #EXTINF:-1 tvg-id="",CRIME MOVIES
-http://mohdtv.com:8880/live/voby3037/69246643/60864.ts
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617146&extension=ts
 
 #EXTINF:-1 tvg-id="",SCIFI MOVIES
-http://mohdtv.com:8880/live/voby3037/69246643/60894.ts
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617117&extension=ts
 
 #EXTINF:-1 tvg-id="",DRAMA MOVIES
-http://mohdtv.com:8880/live/voby3037/69246643/60838.ts
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617119&extension=ts
 
 #EXTINF:-1 tvg-id="",THRILLER MOVIES
-http://mohdtv.com:8880/live/voby3037/69246643/60253.ts
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617149&extension=ts
 
 #EXTINF:-1 tvg-id="",SUPERHERO MOVIES
-http://mohdtv.com:8880/live/voby3037/69246643/60257.ts
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617112&extension=ts
 
 #EXTINF:-1 tvg-id="",WAR MOVIES
 http://mohdtv.com:8880/live/voby3037/69246643/60247.ts
