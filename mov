@@ -231,6 +231,34 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469419&extension=m3
 
 
 
+#EXTINF:-1 tvg-id="BBC.One.uk",BBC 1
+http://cod5.me:80/play/live.php?mac=00:1A:79:00:04:DF&stream=577275&extension=ts
+
+#EXTINF:-1 tvg-id="BBC.Two.HD.uk",BBC 2
+http://cod5.me:80/play/live.php?mac=00:1A:79:00:04:DF&stream=577273&extension=ts
+
+#EXTINF:-1 tvg-id="BBC.Three.HD.uk",BBC 3
+http://cod5.me:80/play/live.php?mac=00:1A:79:00:04:DF&stream=577271&extension=ts
+
+#EXTINF:-1 tvg-id="BBC.Four.HD.uk",BBC 4
+http://cod5.me:80/play/live.php?mac=00:1A:79:00:04:DF&stream=577269&extension=ts
+
+
+
+#EXTINF:-1 tvg-id="ITV1.HD.uk",ITV 1
+http://cod5.me:80/play/live.php?mac=00:1A:79:00:04:DF&stream=577265&extension=ts
+
+#EXTINF:-1 tvg-id="ITV2.HD.uk",ITV 2
+http://cod5.me:80/play/live.php?mac=00:1A:79:00:04:DF&stream=577263&extension=ts
+
+#EXTINF:-1 tvg-id="ITV3.HD.uk",ITV 3
+http://cod5.me:80/play/live.php?mac=00:1A:79:00:04:DF&stream=577261&extension=ts
+
+#EXTINF:-1 tvg-id="ITV4.HD.uk",ITV 4
+http://cod5.me:80/play/live.php?mac=00:1A:79:00:04:DF&stream=577259&extension=ts
+
+
+
 
 
 
@@ -690,7 +718,8 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705052&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="EN - WESTERN CH 4 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - WESTERN CH 4 4K
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705051&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="EN - WESTERN CH 5 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - WESTERN CH 5 4K
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705050&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1A:79:00:04:DF&stream=705050&extension=ts
+
 
 
 
