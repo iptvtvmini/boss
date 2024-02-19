@@ -109,17 +109,17 @@ http://vo01.mohdtv.com:8880/live/voby4349/154984156/1703.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-title="",Arena Bola 2
 
 
-#EXTINF:-1 tvg-id="Astro.SuperSport.HD.my" tvg-name="Astro SuperSport HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="",Astro SuperSport
-http://vo01.mohdtv.com:8880/live/voby4349/154984156/1722.ts
+#EXTINF:-1 tvg-id="Astro.SuperSport.HD.my" tvg-name="Astro SuperSport HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="",Astro SuperSport 1
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=766852&extension=ts
 
 #EXTINF:-1 tvg-id="Astro.SuperSport.2.HD.my" tvg-name="Astro SuperSport 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="",Astro SuperSport 2
-http://vo01.mohdtv.com:8880/live/voby4349/154984156/1721.ts
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=766853&extension=ts
 
 #EXTINF:-1 tvg-id="Astro.SuperSport.3.HD.my" tvg-name="Astro SuperSport 3 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="",Astro SuperSport 3
-http://vo01.mohdtv.com:8880/live/voby4349/154984156/1720.ts
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=766854&extension=ts
 
 #EXTINF:-1 tvg-id="Astro.SuperSport.4.HD.my" tvg-name="Astro SuperSport 4 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="",Astro SuperSport 4
-http://vo01.mohdtv.com:8880/live/voby4349/154984156/1719.ts
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=766855&extension=ts
 
 #EXTINF:-1 tvg-id="Astro.Supersport.5.HD.my" tvg-name="Astro Supersport 5 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="",Astro SuperSport 5
 http://mohdtv.com:8880/live/voby3037/69246643/1713.ts
@@ -132,63 +132,42 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577985&extension=t
 #EXTINF:-1 tvg-id="Eurosport.2.HD.uk" tvg-name="Eurosport 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="",Eurosport 2
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577984&extension=ts
 
-#EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-name="Eurosport 1 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="",EuroSport 1
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577985&extension=ts
-
-#EXTINF:-1 tvg-id="Eurosport.2.HD.uk" tvg-name="Eurosport 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="",Eurosport 2
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577984&extension=ts
-
-#EXTINF:-1 tvg-id="Eurosport.1.HD.uk",EuroSport 1
-http://tbtv.me:80/play/live.php?mac=00:1A:79:30:0f:49&stream=175201&extension=ts
-
-#EXTINF:-1 tvg-id="Eurosport.2.HD.uk",Eurosport 2
-http://tbtv.me:80/play/live.php?mac=00:1A:79:30:0f:49&stream=175203&extension=ts
-
-#EXTINF:-1 tvg-id="Eurosport.1.HD.uk",EUROSPORT 1 HD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:09:eb:85&stream=547746&extension=ts
-
-#EXTINF:-1 tvg-id="Eurosport.2.HD.uk",EUROSPORT 2 HD
-http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:09:eb:85&stream=547747&extension=ts
-
-#EXTINF:-1 tvg-id="Eurosport.1.HD.uk",EuroSport 1
-http://supersonictv.live:8080/live/144264/661943/40451.ts
-
-#EXTINF:-1 tvg-id="Eurosport.2.HD.uk",Eurosport 2
-http://supersonictv.live:8080/live/144264/661943/40452.ts
-
 
 
 #EXTINF:-1 tvg-id="Fox.Sports.1.HDTV.(FS1HD).us" tvg-name="Fox Sports 1 HDTV (FS1HD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-sports-1-us.png" group-title="",FOX SPORTS 1
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487776&extension=m3u8
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487776&extension=ts
+
 #EXTINF:-1 tvg-id="Fox.Sports.2.HDTV.(FS2HD).us" tvg-name="Fox Sports 2 HDTV (FS2HD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-sports-2-us.png" group-title="",FOX SPORT 2
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487775&extension=m3u8
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487775&extension=ts
+
 #EXTINF:-1 tvg-id="Fox.Soccer.Plus.(FSPLUS).us" tvg-name="Fox Soccer Plus (FSPLUS)" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" group-title="",FOX SOCCER PLUS
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487641&extension=m3u8
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487641&extension=ts
+
 
 
 #EXTINF:-1 tvg-id="ESPN.HDTV.(Dish).(ESPNHD).us" tvg-name="ESPN HDTV (Dish) (ESPNHD)" tvg-logo="https://docdog.top/Logotv/countries//espn1.png" group-title="",ESPN 1
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487782&extension=m3u8
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487782&extension=ts
 
 #EXTINF:-1 tvg-id="ESPN2.HDTV.(Dish).(ESPN2HD).us" tvg-name="ESPN2 HDTV (Dish) (ESPN2HD)" tvg-logo="https://docdog.top/Logotv/countries//espn2.png" group-title="",ESPN 2
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487781&extension=m3u8
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487781&extension=ts
 
 #EXTINF:-1 tvg-id="ESPN3.HDTV.(Dish).(ESPN3HD).us" tvg-name="" tvg-logo="https://docdog.top/Logotv/countries//espn3.png" group-title="",ESPN 3
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=756601&extension=m3u8
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=756601&extension=ts
 
 #EXTINF:-1 tvg-id="ESPNU.HDTV.(ESPNUHD).us" tvg-name="ESPNU HDTV (ESPNUHD)" tvg-logo="https://docdog.top/Logotv/countries//espnu.png" group-title="",ESPN U
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487778&extension=m3u8
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487778&extension=ts
 
 #EXTINF:-1 tvg-id="NBA.TV.HDTV.(NBA.HD).us",NBA TV
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487762&extension=m3u8
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487762&extension=ts
 
 #EXTINF:-1 tvg-id="NBCSNWH.NBC.Sports.Northwest.HD.us",NBC SPORTS
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487784&extension=m3u8
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487784&extension=ts
 
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HDTV.(CBSSD).us",CBS Sport
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487785&extension=m3u8
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487785&extension=ts
 
 #EXTINF:-1 tvg-id="Big.Ten.Network.HDTV.(24/7.Overflow.#3).(BTFB3).us" tvg-name="Big Ten Network HDTV (24/7 Overflow #3) (BTFB3)" tvg-logo="https://docdog.top/Logotv/countries//bigtennetwork.png" group-title="",Big Ten Network
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487676&extension=m3u8
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487676&extension=ts
 
 
 #EXTINF:-1 tvg-id="Premier.Sports.1.HD.uk",PREMIER SPORTS 1
@@ -197,116 +176,106 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577982&extension=t
 #EXTINF:-1 tvg-id="Premier.Sports.2.HD.uk",PREMIER SPORT 2
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577981&extension=ts
 
-#EXTINF:-1 tvg-id="Premier.Sports.1.HD.uk",PREMIER SPORTS 1
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577982&extension=m3u8
-
-#EXTINF:-1 tvg-id="Premier.Sports.2.HD.uk",PREMIER SPORT 2
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577981&extension=m3u8
-
 
 #EXTINF:-1 tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" tvg-name="Tennis Channel HDTV (TNNSHD)" tvg-logo="https://docdog.top/Logotv/countries//tennischannel.png" group-title="",Tennis
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487689&extension=m3u8
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487689&extension=ts
 
 #EXTINF:-1 tvg-id="WWE.Network.us" tvg-name="WWE Network" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png" group-title="",WWE
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487679&extension=m3u8
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487679&extension=ts
 
 
 
 #EXTINF:-1 tvg-id="BT.Sport.1.uk" tvg-name="BT Sport 1 HD" tvg-logo="http://5.44.253.151:80/images/f0b8c39305ffdc6c9823055c1a006121.png" group-title="",BT Sports 1
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=578001&extension=m3u8
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=578001&extension=ts
 
 #EXTINF:-1 tvg-id="BT.Sport.2.uk" tvg-name="BT Sport 2 HD" tvg-logo="http://5.44.253.151:80/images/f0b8c39305ffdc6c9823055c1a006121.png" group-title="",BT Sports 2
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=578000&extension=m3u8
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=578000&extension=ts
 
 #EXTINF:-1 tvg-id="BT.Sport.3.uk" tvg-name="BT Sport 3 HD" tvg-logo="http://5.44.253.188:80/images/f0b8c39305ffdc6c9823055c1a006121.png" group-title="",BT Sports 3
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577999&extension=m3u8
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577999&extension=ts
 
 #EXTINF:-1 tvg-id="BT.Sport.4.uk" tvg-name="BT Sport 4 HD" tvg-logo="http://5.44.253.188:80/images/f0b8c39305ffdc6c9823055c1a006121.png" group-title="",BT Sports 4
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=782732&extension=m3u8
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=782732&extension=ts
 
-#EXTINF:-1 tvg-id="BT.Sport.5.uk",BT SPORTS 5
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=774608&extension=m3u8
+#EXTINF:-1 tvg-id="BT.Sport.5.uk",BT SPORTS ESPN
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577998&extension=ts
+
+
 
 
 
 
 #EXTINF:-1 tvg-id="The.Sports.Network.HDTV.(TSNHD).ca" tvg-name="The Sports Network HDTV (TSNHD)" tvg-logo="https://docdog.top/Logotv/countries//tsn1.png" group-title="",TSN 1
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=708842&extension=m3u8
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=708842&extension=ts
 
 #EXTINF:-1 tvg-id="The.Sports.Network.2.HDTV.(TSN2D).ca" tvg-name="The Sports Network 2 HDTV (TSN2D)" tvg-logo="https://docdog.top/Logotv/countries//tsn2.png" group-title="",TSN 2
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=708841&extension=m3u8
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=708841&extension=ts
 
 #EXTINF:-1 tvg-id="The.Sports.Network.3.HDTV.(TSN3HD).ca" tvg-name="The Sports Network 3 HDTV (TSN3HD)" tvg-logo="https://docdog.top/Logotv/countries//tsn3.png" group-title="",TSN 3
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=708840&extension=m3u8
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=708840&extension=ts
 
 #EXTINF:-1 tvg-id="The.Sports.Network.4.HDTV.(TSN4H).ca" tvg-name="The Sports Network 4 HDTV (TSN4H)" tvg-logo="https://docdog.top/Logotv/countries//tsn4.png" group-title="",TSN 4
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=708839&extension=m3u8
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=708839&extension=ts
 
 #EXTINF:-1 tvg-id="The.Sports.Network.5.HDTV.(TSN5HD).ca" tvg-name="The Sports Network 5 HDTV (TSN5HD)" tvg-logo="https://docdog.top/Logotv/countries//tsn5.png" group-title="",TSN 5
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=708838&extension=m3u8
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=708838&extension=ts
 
 
 #EXTINF:-1 tvg-id="Sportsnet.360.HDTV.(360HD).ca",SPORTSNET 360
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=708837&extension=m3u8
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=708837&extension=ts
 
 #EXTINF:-1 tvg-id="",SPORTSNET
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=708836&extension=m3u8
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=708836&extension=ts
 
 #EXTINF:-1 tvg-id="Sportsnet.One.HDTV.(SN1HD).ca",SPORTSNET ONE
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=708835&extension=m3u8
-
-#EXTINF:-1 tvg-id="",SPORTSNET ONTARIO
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=708834&extension=m3u8
-
-#EXTINF:-1 tvg-id="",SPORTSNET PACIFIC
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=708833&extension=m3u8
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=708835&extension=ts
 
 #EXTINF:-1 tvg-id="",SPORTSNET WORLD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=708831&extension=m3u8
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=708831&extension=ts
 
 #EXTINF:-1 tvg-id="",SPORTSNET WWE
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=708830&extension=m3u8
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=708830&extension=m3u8
 
 
 
 #EXTINF:-1 tvg-id="5e54187aae660e00093561d6" tvg-name="" tvg-logo="https://images.pluto.tv/channels/5e54187aae660e00093561d6/colorLogoPNG.png" group-title="",Game Show Central
 https://gsn-gameshowchannnel-1-us.vizio.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="",GAME PLUS
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=752916&extension=m3u8
-
 #EXTINF:-1 tvg-id="GameTV.(GTV).ca" tvg-name="GameTV (GTV)" tvg-logo="http://5.44.253.151:80/images/86a43a112f1c64b381ae76c3a1040da8.png" group-title="",Game TV
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=626942&extension=m3u8
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626942&extension=m3u8
+
+#EXTINF:-1 tvg-id="",GAME PLUS
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=752916&extension=m3u8
 
 #EXTINF:-1 tvg-id="MBC.Wanasah.(MBCW).us" tvg-name="" tvg-logo="https://i.imgur.com/AuYEozR.png" group-title="",Wanasah
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US002ABCHD.png",ABC
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=627030&extension=m3u8
+#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US002ABCHD.png",ABC 7
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=548879&extension=ts
 
-#EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US017CBS-HD.png",CBS
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=627012&extension=m3u8
+#EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US017CBS-HD.png",CBS 2
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=549522&extension=ts
 
-#EXTINF:-1 tvg-id="FOX.(WXXA).Albany,.NY.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US036FOX-HD.png",FOX
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:4E:42:77&stream=174665&extension=m3u8
+#EXTINF:-1 tvg-id="FOX.(WXXA).Albany,.NY.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US036FOX-HD.png",FOX 5
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=549764&extension=ts
 
-#EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US020CNBC.png",NBC
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469323&extension=m3u8
+#EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US020CNBC.png",NBC 4
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=550258&extension=ts
+
 
 #EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-name="A and E Network HDTV (A and EHD)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US001A&E-HD.png" group-title="",A&E
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=627031&extension=m3u8
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=469345&extension=m3u8
 
 #EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-name="AMC HDTV (East) (AMCHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/amc-us.png" group-title="",AMC
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=627026&extension=m3u8
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=469346&extension=m3u8
 
 #EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-name="Syfy HDTV (SYFYHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/syfy-us.png" group-title="",Syfy
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469431&extension=m3u8
-
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=469431&extension=m3u8
 
 #EXTINF:-1 tvg-id="Freeform.HDTV.(East).(FRFHD).us",FREEFORM
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=656385&extension=m3u8
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=656385&extension=ts
 
 #EXTINF:-1 tvg-id="FX.Movie.Channel.HDTV.(FXMHD).us",FXM
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552045&extension=m3u8
