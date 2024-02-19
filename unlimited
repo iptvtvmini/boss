@@ -350,6 +350,29 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577253&extension=t
 
 
 
+#EXTINF:-1 tvg-id="Nat.Geo.HD.uk",NAT GEO
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577909&extension=m3u8
+
+#EXTINF:-1 tvg-id="NatGeoWild.HD.uk",NAT GEO WILD
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577910&extension=m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -556,238 +579,24 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577370&extension=m3
 
 
 
-#EXTINF:-1 tvg-id="",HOLLYWOOD PREMIERE 1
-http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:09:eb:85&stream=1438487&extension=ts
 
-#EXTINF:-1 tvg-id="",HOLLYWOOD PREMIERE 2
-http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:09:eb:85&stream=1438486&extension=ts
-
-#EXTINF:-1 tvg-id="",HOLLYWOOD PREMIERE 3
-http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:09:eb:85&stream=1438485&extension=ts
-
-#EXTINF:-1 tvg-id="",HOLLYWOOD PREMIERE 4
-http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:09:eb:85&stream=1438484&extension=ts
-
-#EXTINF:-1 tvg-id="",HOLLYWOOD PREMIERE 5
-http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:09:eb:85&stream=1438483&extension=ts
-
-#EXTINF:-1 tvg-id="",HOLLYWOOD PREMIERE 6
-http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:09:eb:85&stream=1438482&extension=ts
-
-#EXTINF:-1 tvg-id="",HOLLYWOOD PREMIERE 7
-http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:09:eb:85&stream=1438481&extension=ts
-
-#EXTINF:-1 tvg-id="",HOLLYWOOD PREMIERE 8
-http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:09:eb:85&stream=1438480&extension=ts
-
-#EXTINF:-1 tvg-id="",HOLLYWOOD PREMIERE 9
-http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:09:eb:85&stream=1438479&extension=ts
-
-#EXTINF:-1 tvg-id="",HOLLYWOOD PREMIERE 10
-http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:09:eb:85&stream=1438478&extension=ts
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="",SKY CINEMA ACTION
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577387&extension=ts
-
-#EXTINF:-1 tvg-id="",SKY CINEMA COMEDY
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577385&extension=ts
-
-#EXTINF:-1 tvg-id="",SKY CINEMA DRAMA
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577383&extension=ts
-
-#EXTINF:-1 tvg-id="",SKY CINEMA GREATS
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577382&extension=ts
-
-#EXTINF:-1 tvg-id="",SKY CINEMA HITS
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577381&extension=ts
-
-#EXTINF:-1 tvg-id="",SKY CINEMA OSCARS
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577380&extension=ts
-
-#EXTINF:-1 tvg-id="",SKY CINEMA PREMIERE
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577379&extension=ts
-
-#EXTINF:-1 tvg-id="",SKY CINEMA SCIFI
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577378&extension=ts
-
-#EXTINF:-1 tvg-id="",SKY CINEMA THRILLER
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577376&extension=ts
-
-#EXTINF:-1 tvg-id="",SKY CINEMA FAMILY
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577368&extension=ts
-
-#EXTINF:-1 tvg-id="",SKY CINEMA SCI-FI
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577364&extension=ts
-
-#EXTINF:-1 tvg-id="",SKY CINEMA SELECT
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577377&extension=ts
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="",BOX OFFICE 2022 4K
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705117&extension=ts
-#EXTINF:-1 tvg-id="",BOX OFFICE 2022 1 4K
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705116&extension=ts
-#EXTINF:-1 tvg-id="",BOX OFFICE 2022 2 4K
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705115&extension=ts
-#EXTINF:-1 tvg-id="",BOX OFFICE 2022 3 4K
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705114&extension=ts
-#EXTINF:-1 tvg-id="",BOX OFFICE 2022 4 4K
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705113&extension=ts
-#EXTINF:-1 tvg-id="",BOX OFFICE 2022 5 4K
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705112&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="EN - HBO MAX 1 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - HBO MAX 1 4K
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705105&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="EN - HBO MAX 2 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - HBO MAX 2 4K
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705104&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="EN - HBO MAX 3 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - HBO MAX 3 4K
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705103&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="EN - HBO MAX 4 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - HBO MAX 4 4K
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705102&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="EN - HBO MAX 5 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - HBO MAX 5 4K
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705101&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="EN - HBO MAX 6 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - HBO MAX 6 4K
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705100&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="EN - HBO MAX 7 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - HBO MAX 7 4K
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705099&extension=ts
-
-
-#EXTINF:-1 tvg-id="" tvg-name="EN - NETFLIX 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - NETFLIX 4K
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705071&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="EN - NETFLIX 1 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - NETFLIX 1 4K
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705070&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="EN - NETFLIX 2 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - NETFLIX 2 4K
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705069&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="EN - NETFLIX 3 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - NETFLIX 3 4K
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705068&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="EN - NETFLIX 4 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - NETFLIX 4 4K
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705067&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="EN - NETFLIX 5 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - NETFLIX 5 4K
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705066&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="EN - SHOWTIME 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - SHOWTIME 4K
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705064&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="EN - SHOWTIME 1 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - SHOWTIME 1 4K
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705063&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="EN - SHOWTIME 2 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - SHOWTIME 2 4K
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705062&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="EN - SHOWTIME 3 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - SHOWTIME 3 4K
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705061&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="EN - SHOWTIME 4 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - SHOWTIME 4 4K
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705060&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="EN - SHOWTIME 5 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - SHOWTIME 5 4K
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705059&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="EN - SHOWTIME 6 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - SHOWTIME 6 4K
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705058&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="EN - SHOWTIME 7 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - SHOWTIME 7 4K
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705057&extension=ts
-
-
-#EXTINF:-1 tvg-id="" tvg-name="EN - WESTERN CH 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - WESTERN CH 4K
+#EXTINF:-1 tvg-id="",WESTERN
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705055&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="EN - WESTERN CH 1 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - WESTERN CH 1 4K
+
+#EXTINF:-1 tvg-id="",WESTERN 1
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705054&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="EN - WESTERN CH 2 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - WESTERN CH 2 4K
+
+#EXTINF:-1 tvg-id="",WESTERN 2
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705053&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="EN - WESTERN CH 3 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - WESTERN CH 3 4K
+
+#EXTINF:-1 tvg-id="",WESTERN 3
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705052&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="EN - WESTERN CH 4 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - WESTERN CH 4 4K
+
+#EXTINF:-1 tvg-id="",WESTERN 4
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705051&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="EN - WESTERN CH 5 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - WESTERN CH 5 4K
+
+#EXTINF:-1 tvg-id="",WESTERN 5
 http://cod5.me:80/play/live.php?mac=00:1A:79:00:04:DF&stream=705050&extension=ts
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="CINEVAULT: 70s" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/15/USAJ30000148W_20210525T051435.png" group-title="Movies",Cinevault 70s
-https://gsn-cinevault-70s-1-us.vizio.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="USAJ30000148W" tvg-name="CINEVAULT: 80s" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/15/USAJ30000148W_20210525T051435.png" group-title="Movies",Cinevault 80s
-https://gsn-cinevault-80s-1-us.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="USAK3508709A" tvg-name="CINEVAULT: Westerns" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/09/USAK3508709A_20210224T013304.png" group-title="Movies",Cinevault Westerns
-https://gsn-cinevault-westerns-1-us.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="USBA300005MK" tvg-name="Pluto TV Westerns" tvg-logo="https://images.pluto.tv/channels/5b4e94282d4ec87bdcbb87cd/colorLogoPNG.png" group-title="Movies",Westerns (Pluto)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-id="58af4c093a41ca9d4ecabe96" tvg-name="Black Cinema" tvg-logo="https://images.pluto.tv/channels/58af4c093a41ca9d4ecabe96/colorLogoPNG.png" group-title="Movies",Black Cinema
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-id="5cf968040ab7d8f181e6a68b" tvg-name="Cine Premiere" tvg-logo="https://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/colorLogoPNG.png" group-title="Movies",Cine Premiere
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-id="58e55b14ad8e9c364d55f717" tvg-name="Flicks of Fury" tvg-logo="https://images.pluto.tv/channels/58e55b14ad8e9c364d55f717/colorLogoPNG.png" group-title="Movies",Flicks of Fury
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f64c4ef35f612003f6ffe30" tvg-name="Hi-YAH!" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/hi-yah!_logo.png" group-title="Movies",Hi-Yah!
-http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-id="561d7d484dc7c8770484914a" tvg-name="Pluto TV Action" tvg-logo="https://images.pluto.tv/channels/561d7d484dc7c8770484914a/colorLogoPNG.png" group-title="Movies",Action
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-id="617b37b361e0fd0008cfd8c5" tvg-name="Pluto TV Reaction" tvg-logo="https://images.pluto.tv/channels/617b37b361e0fd0008cfd8c5/colorLogoPNG.png" group-title="Movies",Reaction
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/617b37b361e0fd0008cfd8c5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-id="5f4d8594eb979c0007706de7" tvg-name="Pluto TV Crime Movies" tvg-logo="https://images.pluto.tv/channels/5f4d8594eb979c0007706de7/colorLogoPNG.png" group-title="Movies",Crime Movies
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-id="5c665db3e6c01b72c4977bc2" tvg-name="Pluto TV Cult Films" tvg-logo="https://images.pluto.tv/channels/5c665db3e6c01b72c4977bc2/colorLogoPNG.png" group-title="Movies",Cult Films
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-id="5f988934a507de00075d9ae7" tvg-name="Showtime Selects" tvg-logo="https://images.pluto.tv/channels/5f988934a507de00075d9ae7/colorLogoPNG.png" group-title="Movies",Showtime Selects
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f988934a507de00075d9ae7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-id="5ba3fb9c4b078e0f37ad34e8" tvg-name="Pluto TV Spotlight" tvg-logo="https://images.pluto.tv/channels/5ba3fb9c4b078e0f37ad34e8/colorLogoPNG.png" group-title="Movies",Spotlight
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-id="5f4d863b98b41000076cd061" tvg-name="Pluto TV Staff Picks" tvg-logo="https://images.pluto.tv/channels/5f4d863b98b41000076cd061/colorLogoPNG.png" group-title="Movies",Staff Picks
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d863b98b41000076cd061/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-id="5a4d3a00ad95e4718ae8d8db" tvg-name="Pluto TV Comedy" tvg-logo="https://images.pluto.tv/channels/5a4d3a00ad95e4718ae8d8db/colorLogoPNG.png" group-title="Movies",Comedy
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-id="5b64a245a202b3337f09e51d" tvg-name="Pluto TV Fantastic" tvg-logo="https://images.pluto.tv/channels/5b64a245a202b3337f09e51d/colorLogoPNG.png" group-title="Movies",Fantastic
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-id="569546031a619b8f07ce6e25" tvg-name="Pluto TV Horror" tvg-logo="https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png" group-title="Movies",Horror
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-id="5c6dc88fcd232425a6e0f06e" tvg-name="Pluto TV Terror" tvg-logo="https://images.pluto.tv/channels/5c6dc88fcd232425a6e0f06e/colorLogoPNG.png" group-title="Movies",Terror
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-id="5b4e69e08291147bd04a9fd7" tvg-name="Pluto TV Thrillers" tvg-logo="https://images.pluto.tv/channels/5b4e69e08291147bd04a9fd7/colorLogoPNG.png" group-title="Movies",Thrillers
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-id="5f15e281b0b8840007324b55" tvg-name="Pluto TV Suspense" tvg-logo="https://images.pluto.tv/channels/5f15e281b0b8840007324b55/colorLogoPNG.png" group-title="Movies",Suspense
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f15e281b0b8840007324b55/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-id="5b4fc274694c027be6ed3eea" tvg-name="Pluto TV Sci-Fi" tvg-logo="https://images.pluto.tv/channels/5b4fc274694c027be6ed3eea/colorLogoPNG.png" group-title="Movies",Sci-Fi
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4fc274694c027be6ed3eea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-id="5f4d878d3d19b30007d2e782" tvg-name="70s Cinema" tvg-logo="https://images.pluto.tv/channels/5f4d878d3d19b30007d2e782/colorLogoPNG.png" group-title="Movies",70s Cinema
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-id="5ca525b650be2571e3943c63" tvg-name="80s Rewind" tvg-logo="https://images.pluto.tv/channels/5ca525b650be2571e3943c63/colorLogoPNG.png" group-title="Movies",80s Rewind
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca525b650be2571e3943c63/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-id="5f4d86f519358a00072b978e" tvg-name="90s Throwback" tvg-logo="https://images.pluto.tv/channels/5f4d86f519358a00072b978e/colorLogoPNG.png" group-title="Movies",90s Throwback
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d86f519358a00072b978e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-
-
 
 
 
