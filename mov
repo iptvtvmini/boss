@@ -389,7 +389,7 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=627026&extension=m3
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469431&extension=m3u8
 
 #EXTINF:-1 tvg-id="ReelzChannel.HDTV.(REELZH).us" tvg-name="ReelzChannel HDTV (REELZH)" tvg-logo="https://docdog.top/Logotv/countries/united-states/reelz-us.png" group-title="",Reelz
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497473&extension=ts
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=469425&extension=ts
 
 #EXTINF:-1 tvg-id="Freeform.HDTV.(East).(FRFHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/freeform-us.png",FREEFORM
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=656385&extension=m3u8
