@@ -88,10 +88,10 @@ http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:09:eb:85&stream=941575&exte
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="USA- GSN" group-title="USA ALL",USA- GSN
+#EXTINF:-1 tvg-id="Game.Show.Network.HDTV.(EAST).(GMSHWHD).us",GSN
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497357&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="USA- GAME SHOW NETWORK" group-title="USA ALL",USA- GAME SHOW NETWORK
+#EXTINF:-1 tvg-id="Game.Show.Network.HDTV.(EAST).(GMSHWHD).us",GAME SHOW NETWORK
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497354&extension=ts
 
 
@@ -133,91 +133,91 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577984&extension=ts
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="USA- FOX SPORTS 1" group-title="USA ALL",USA- FOX SPORTS 1
+#EXTINF:-1 tvg-id="Fox.Sports.1.HDTV.(FS1HD).us",FOX SPORTS 1
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497337&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="USA- FOX SPORTS 2" group-title="USA ALL",USA- FOX SPORTS 2
+#EXTINF:-1 tvg-id="Fox.Sports.2.HDTV.(FS2HD).us",FOX SPORTS 2
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497338&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="USA- Fox Soccer Plus" group-title="USA ALL",USA- Fox Soccer Plus
+#EXTINF:-1 tvg-id="Fox.Soccer.Plus.(FSPLUS).us",Fox Soccer Plus
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497336&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="USA- ESPN" group-title="USA ALL",USA- ESPN
+#EXTINF:-1 tvg-id="ESPN.HDTV.(Dish).(ESPNHD).us",ESPN
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497321&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="USA- ESPN 2" group-title="USA ALL",USA- ESPN 2
+#EXTINF:-1 tvg-id="ESPN2.HDTV.(Dish).(ESPN2HD).us",ESPN 2
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497322&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="USA- ESPN U" group-title="USA ALL",USA- ESPN U
+#EXTINF:-1 tvg-id="ESPNU.HDTV.(ESPNUHD).us",ESPN U
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497324&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="USA- BIG TEN NETWORK" group-title="USA ALL",USA- BIG TEN NETWORK
+#EXTINF:-1 tvg-id="Big.Ten.Network.HDTV.(National).(BTNHD).us",BIG TEN NETWORK
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497267&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="USA: CBSN SPORTS NETWORK" group-title="USA ALL",USA: CBSN SPORTS NETWORK
+#EXTINF:-1 tvg-id="CBS.Sports.Network.HDTV.(CBSSD).us",CBSN SPORTS NETWORK
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497547&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="USA- CBS SPORTS NETWORK" group-title="USA ALL",USA- CBS SPORTS NETWORK
+#EXTINF:-1 tvg-id="CBS.Sports.Network.HDTV.(CBSSD).us",CBS SPORTS NETWORK
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497279&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="USA- WORLD FISHING NETWORK" group-title="USA ALL",USA- WORLD FISHING NETWORK
+#EXTINF:-1 tvg-id="World.Fishing.Network.(US).(WFN).us",WORLD FISHING NETWORK
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497541&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="USA- THE COWBOY CHANNEL" group-title="USA ALL",USA- THE COWBOY CHANNEL
+#EXTINF:-1 tvg-id="The.Cowboy.Channel.(COWBOY).us",THE COWBOY CHANNEL
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497518&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="USA- TENNIS HD" group-title="USA ALL",USA- TENNIS HD
+#EXTINF:-1 tvg-id="Tennis.Channel.HDTV.(TNNSHD).us",TENNIS
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497517&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="USA- GOLF CHANNEL" group-title="USA ALL",USA- GOLF CHANNEL
+#EXTINF:-1 tvg-id="The.Golf.Channel.HDTV.(GLFHD).us",GOLF CHANNEL
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497355&extension=ts
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="USA- CRIME AND INVESTIGATION" group-title="USA ALL",USA- CRIME AND INVESTIGATION
+#EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HDTV.(CI.HD).us",CRIME AND INVESTIGATION
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497300&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="USA -ID" group-title="USA ALL",USA -ID
+#EXTINF:-1 tvg-id="Investigation.Discovery.HDTV.(IDHD).us",ID
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497108&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="USA- DISCOVERY SCIENCE HD" group-title="USA ALL",USA- DISCOVERY SCIENCE HD
+#EXTINF:-1 tvg-id="Science.HDTV.(SCIHD).us",DISCOVERY SCIENCE
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497309&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="USA- DISCOVERY LIFE" group-title="USA ALL",USA- DISCOVERY LIFE
+#EXTINF:-1 tvg-id="Discovery.Life.Channel.(DLIF).us",DISCOVERY LIFE
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497308&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="USA- DISCOVERY FAMILY" group-title="USA ALL",USA- DISCOVERY FAMILY
+#EXTINF:-1 tvg-id="Discovery.Family.Channel.HDTV.(DFCHD).us",DISCOVERY FAMILY
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497307&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="USA- DISCOVERY CHANNEL HD" group-title="USA ALL",USA- DISCOVERY CHANNEL HD
+#EXTINF:-1 tvg-id="The.Discovery.Channel.HDTV.(East).(DSCHD).us",DISCOVERY CHANNEL
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497305&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="USA- ANIMAL PLANET" group-title="USA ALL",USA- ANIMAL PLANET
+#EXTINF:-1 tvg-id="Animal.Planet.HDTV.(East).(APHD).us",ANIMAL PLANET
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497254&extension=ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="USA- HISTORY CHANNEL FHD" group-title="USA ALL",USA- HISTORY CHANNEL FHD
+#EXTINF:-1 tvg-id="History.HDTV.(East).(HISHD).us",HISTORY CHANNEL
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497375&extension=ts
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="USA- COOKING CHANNEL HD" group-title="USA ALL",USA- COOKING CHANNEL HD
+#EXTINF:-1 tvg-id="The.Cooking.Channel.HDTV.(COOKHD).us",COOKING CHANNEL
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497298&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="USA- HGTV FHD" group-title="USA ALL",USA- HGTV FHD
+#EXTINF:-1 tvg-id="Home.and.Garden.Television.HDTV.(East).(HGTVD).us",HGTV
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497372&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="USA- DIY NETWORK HD" group-title="USA ALL",USA- DIY NETWORK HD
+#EXTINF:-1 tvg-id="Magnolia.Network.HDTV.(MAGNOLIA).us",DIY NETWORK
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497313&extension=ts
 
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="USA- ABC NY FHD" group-title="USA ALL",USA- ABC NY FHD
+#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="" tvg-logo="http://stmgroup.xyz/logo/abcnewyork.png" group-title="",ABC 7
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497250&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="USA- CBS NY FHD" group-title="USA ALL",USA- CBS NY FHD
+#EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-name="" tvg-logo="https://watchindia.net/images/channels/usa/CBS.png" group-title="",CBS 2
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497277&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-name="USA- CW" group-title="USA ALL",USA- CW
@@ -226,24 +226,24 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497303&exte
 #EXTINF:-1 tvg-id="" tvg-name="USA- FOX 50" group-title="USA ALL",USA- FOX 50
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497329&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="USA- FOX 5 HD" group-title="USA ALL",USA- FOX 5 HD
+#EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-name="" tvg-logo="https://watchindia.net/images/channels/usa/Fox_NY.png" group-title="",FOX 5
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497328&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="USA REG: NBC (WXIA)" group-title="USA ALL",USA REG: NBC (WXIA)
+#EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-name="" tvg-logo="https://watchindia.net/images/channels/usa/NBC.png" group-title="",NBC 4
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497242&extension=ts
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="USA- A & E FHD" group-title="USA ALL",USA- A&E FHD
+#EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-name="A and E Network HDTV (A and EHD)" tvg-logo="http://attp.ddns.net:25461/images/9ffd5753a3ca520dfeb483ad0e31c596.png" group-title="",A&E
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497246&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="USA- AMC" group-title="USA ALL",USA- AMC
+#EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-name="AMC HDTV (East) (AMCHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/amc-us.png" group-title="",AMC
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497252&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="USA- BBC AMERICA" group-title="USA ALL",USA- BBC AMERICA
+#EXTINF:-1 tvg-id="BBC.America.HDTV.(East).(BBC).us" tvg-name="BBC America HDTV (East) (BBC)" tvg-logo="https://docdog.top/Logotv/countries/bbcamerica.png" group-title="",BBC America
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497261&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="USA- SYFY" group-title="USA ALL",USA- SYFY
+#EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-name="Syfy HDTV (SYFYHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/syfy-us.png" group-title="",Syfy
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497511&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-name="USA- E!" group-title="USA ALL",USA- E!
@@ -255,37 +255,37 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497271&exte
 #EXTINF:-1 tvg-id="" tvg-name="USA- BOUNCE TV" group-title="USA ALL",USA- BOUNCE TV
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497270&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="USA- FREEFORM HD" group-title="USA ALL",USA- FREEFORM HD
+#EXTINF:-1 tvg-id="Freeform.HDTV.(East).(FRFHD).us" tvg-name="Freeform HDTV (East) (FRFHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/freeform-us.png" group-title="",FREEFORM
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497345&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="USA- FX HD" group-title="USA ALL",USA- FX HD
+#EXTINF:-1 tvg-id="FX.HDTV.(East).(FX.HD).us" tvg-name="FX HDTV (East) (FX HD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/fx-us.png" group-title="",FX
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497347&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="USA- FXX" group-title="USA ALL",USA- FXX
+#EXTINF:-1 tvg-id="FXX.HDTV.(East).(FXXHD).us" tvg-name="FXX HDTV (East) (FXXHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/fxx-us.png" group-title="",FXX
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497351&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="USA- FXM" group-title="USA ALL",USA- FXM
+#EXTINF:-1 tvg-id="FX.Movie.Channel.HDTV.(FXMHD).us" tvg-name="FX Movie Channel HDTV (FXMHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/fxm-movie-channel-us.png" group-title="",FXM
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497350&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="USA- FX MOVIES" group-title="USA ALL",USA- FX MOVIES
+#EXTINF:-1 tvg-id="FX.Movie.Channel.HDTV.(FXMHD).us" tvg-name="FX Movie Channel HDTV (FXMHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/fxm-movie-channel-us.png" group-title="",FXM
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497349&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="USA- FX MOVIE CHANNEL" group-title="USA ALL",USA- FX MOVIE CHANNEL
+#EXTINF:-1 tvg-id="FX.Movie.Channel.HDTV.(FXMHD).us" tvg-name="FX Movie Channel HDTV (FXMHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/fxm-movie-channel-us.png" group-title="",FXM
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497348&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="USA- SUNDANCE" group-title="USA ALL",USA- SUNDANCE
+#EXTINF:-1 tvg-id="SundanceTV.HDTV.(East).(SUNHD).us" tvg-name="SundanceTV HDTV (East) (SUNHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/sundance-tv-us.png" group-title="",Sundance
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497510&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="USA -SONY-MOVIE-CHANNEL" group-title="USA ALL",USA -SONY MOVIE CHANNEL
+#EXTINF:-1 tvg-id="Sony.Movie.Channel.HD.(SONY).us" tvg-name="Sony Movie Channel HD (SONY)" tvg-logo="http://5.44.253.188:80/images/f31b3b29c6ed1c43a29160ea7436e5c3.jpg" group-title="",Sony Movie Channel
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497112&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="USA- USA NETWORK" group-title="USA ALL",USA- USA NETWORK
+#EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" tvg-name="USA Network HDTV (East) (USAHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/usa-us.png" group-title="",USA NETWORK
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497534&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="USA- TBS" group-title="USA ALL",USA- TBS
+#EXTINF:-1 tvg-id="TBS.Superstation.HDTV.(East).(TBSHD).us" tvg-name="TBS Superstation HDTV (East) (TBSHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/tbs-us.png" group-title="",TBS
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497513&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="USA- REELZ" group-title="USA ALL",USA- REELZ
+#EXTINF:-1 tvg-id="ReelzChannel.HDTV.(REELZH).us" tvg-name="ReelzChannel HDTV (REELZH)" tvg-logo="https://docdog.top/Logotv/countries/united-states/reelz-us.png" group-title="",Reelz
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497473&extension=ts
 
 
