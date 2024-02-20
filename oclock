@@ -388,11 +388,18 @@ https://6oclock.xyz:8443/live/Tyrone43147/My3boys/421515.m3u8
 #EXTINF:-1 tvg-id="RetroPlex.HDTV.(RETROHD).us" tvg-name="RetroPlex HDTV (RETROHD)" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4c05111ed0c303d92a6b410a9719fba5.png" group-title="",Retro Plex
 https://6oclock.xyz:8443/live/Tyrone43147/My3boys/421505.m3u8
 
-#EXTINF:-1 tvg-id="ITV1.HD.uk",ITV 1
-https://6oclock.xyz:8443/live/P07k2xZ2Vf/eD3qkH58p6/24298.m3u8
+#EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv1.png",ITV 1
+http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97037&extension=ts
 
-#EXTINF:-1 tvg-id="Channel.5.HD.uk",CHANNEL 5
-https://6oclock.xyz:8443/live/P07k2xZ2Vf/eD3qkH58p6/28884.m3u8
+#EXTINF:-1 tvg-id="ITV2.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv2.png",ITV 2
+http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97038&extension=ts
+
+#EXTINF:-1 tvg-id="ITV3.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv3.png",ITV 3
+http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97039&extension=ts
+
+#EXTINF:-1 tvg-id="ITV4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv4.png",ITV 4
+http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97040&extension=ts
+
 
 
 
