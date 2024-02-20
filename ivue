@@ -1,1 +1,496 @@
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz"
+
+#EXTINF:-1 tvg-id="TV1.HD.my" tvg-name="TV1 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" group-title="",TV1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/index.m3u8?id=1
+
+#EXTINF:-1 tvg-id="TV2.HD.my" tvg-name="TV2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="",TV2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/index.m3u8?id=2
+
+#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="",TV3
+http://vo01.mohdtv.com:8880/live/voby4349/154984156/1732.ts
+
+#EXTINF:-1 tvg-id="TV6.my" tvg-name="TV6" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/302_144.png" group-title="",TV6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/index.m3u8?id=6
+
+#EXTINF:-1 tvg-id="NTV7.my" tvg-name="NTV7" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" group-title="",NTV7
+http://vo01.mohdtv.com:8880/live/voby4349/154984156/1731.ts
+
+#EXTINF:-1 tvg-id="TV9.my" tvg-name="TV9" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" group-title="",TV9
+http://vo01.mohdtv.com:8880/live/voby4349/154984156/1729.ts
+
+#EXTINF:-1 tvg-id="TV.Okey.HD.my" tvg-name="TV Okey HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png" group-title="",TV Okey
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/index.m3u8?id=3
+
+#EXTINF:-1 tvg-id="Awesome.TV.my" tvg-name="Awesome TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png" group-title="",Awesome TV
+http://vo01.mohdtv.com:8880/live/voby4349/154984156/71021.ts
+
+#EXTINF:-1 tvg-id="TVS.my" tvg-name="TVS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png" group-title="",TVS
+https://stream.smg.my/live/tvs_1080p2628kbs/index.m3u8
+
+#EXTINF:-1 tvg-id="Al-Hijrah.my" tvg-name="Al-Hijrah" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png" group-title="",TV Alhijrah
+http://vo01.mohdtv.com:8880/live/voby4349/154984156/71024.ts
+
+#EXTINF:-1 tvg-id="Astro.Prima.HD.my" tvg-name="Astro Prima HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="",Astro Prima
+http://vo01.mohdtv.com:8880/live/voby4349/154984156/1702.ts
+
+#EXTINF:-1 tvg-id="Astro.Warna.HD.my" tvg-name="Astro Warna HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="",Astro Warna
+http://vo01.mohdtv.com:8880/live/voby4349/154984156/1706.ts
+
+#EXTINF:-1 tvg-id="RTMK05" tvg-name="Bertia RTM" tvg-logo="https://i.imgur.com/9fAlB8K.png" group-title="",Berita RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/index.m3u8?id=5
+ 
+#EXTINF:-1 tvg-id="RTMK07" tvg-name="Dewan Rakyat" tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="",Parlimen Dewan Rakyat
+https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/auto.m3u8?id=7
+ 
+#EXTINF:-1 tvg-id="RTMK08" tvg-name="Dewan Negara" tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="",Parlimen Dewan Negara
+https://d25tgymtnqzu8s.cloudfront.net/smil:negara/index.m3u8?id=8
+ 
+#EXTINF:-1 tvg-id="Astro.Awani.HD.my" tvg-name="Astro Awani HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png" group-title="",Astro Awani
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="",Trans7
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+ 
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png" group-title="",Trans TV
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="",CNN INA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="CINEMAX.HD.my" tvg-name="CINEMAX HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png" group-title="",CINEMAX
+http://mohdtv.com:8880/live/voby3037/69246643/71058.ts
+
+#EXTINF:-1 tvg-id="HITS.Movies.HD.my" tvg-name="HITS Movies HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png" group-title="",HITS Movies
+http://mohdtv.com:8880/live/voby3037/69246643/71056.ts
+
+#EXTINF:-1 tvg-id="HITS.id" tvg-name="HITS HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png" group-title="",Hits
+http://mohdtv.com:8880/live/voby3037/69246643/60455.ts
+
+#EXTINF:-1 tvg-id="CCM.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="",CCM (ID)
+http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:09:eb:85&stream=683110&extension=ts
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Channel.5.HD.sg" tvg-name="Channel 5" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428076_ico.png" group-title="",Channel 5
+http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:09:eb:85&stream=941615&extension=ts
+
+#EXTINF:-1 tvg-id="Channel.8.HD.sg" tvg-name="Channel 8" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428078_ico.png" group-title="",Channel 8
+http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:09:eb:85&stream=941616&extension=ts
+
+#EXTINF:-1 tvg-id="Channel.U.HD.sg" tvg-name="Channel U" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428075_ico.png" group-title="",Channel U
+http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:09:eb:85&stream=941617&extension=ts
+
+#EXTINF:-1 tvg-id="Suria.HD.sg" tvg-name="Suria" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428073_ico.png" group-title="",Suria
+http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:09:eb:85&stream=941575&extension=ts
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- GSN" group-title="USA ALL",USA- GSN
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497357&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- GAME SHOW NETWORK" group-title="USA ALL",USA- GAME SHOW NETWORK
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497354&extension=ts
+
+
+
+
+#EXTINF:-1 tvg-id="TVSUKAN" tvg-name="Sukan RTM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/58_144.png" group-title="",Sukan RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/index.m3u8?id=4
+
+#EXTINF:-1 tvg-id="Astro.Arena.HD.my" tvg-name="Astro Arena HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png" group-title="",Astro Arena
+http://vo01.mohdtv.com:8880/live/voby4349/154984156/1703.ts
+
+#EXTINF:-1 tvg-id="Astro.Arena.2.HD.my" tvg-name="Astro Arena 2 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="",Astro Arena 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-title="",Arena Bola 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-title="",Arena Bola 2
+
+
+#EXTINF:-1 tvg-id="Astro.SuperSport.HD.my" tvg-name="Astro SuperSport HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="",Astro SuperSport
+http://vo01.mohdtv.com:8880/live/voby4349/154984156/1722.ts
+
+#EXTINF:-1 tvg-id="Astro.SuperSport.2.HD.my" tvg-name="Astro SuperSport 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="",Astro SuperSport 2
+http://vo01.mohdtv.com:8880/live/voby4349/154984156/1721.ts
+
+#EXTINF:-1 tvg-id="Astro.SuperSport.3.HD.my" tvg-name="Astro SuperSport 3 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="",Astro SuperSport 3
+http://vo01.mohdtv.com:8880/live/voby4349/154984156/1720.ts
+
+#EXTINF:-1 tvg-id="Astro.SuperSport.4.HD.my" tvg-name="Astro SuperSport 4 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="",Astro SuperSport 4
+http://vo01.mohdtv.com:8880/live/voby4349/154984156/1719.ts
+
+#EXTINF:-1 tvg-id="Astro.Supersport.5.HD.my" tvg-name="Astro Supersport 5 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="",Astro SuperSport 5
+http://mohdtv.com:8880/live/voby3037/69246643/1713.ts
+
+
+#EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-name="Eurosport 1 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="",EuroSport 1
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577985&extension=ts
+
+#EXTINF:-1 tvg-id="Eurosport.2.HD.uk" tvg-name="Eurosport 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="",Eurosport 2
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577984&extension=ts
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- FOX SPORTS 1" group-title="USA ALL",USA- FOX SPORTS 1
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497337&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- FOX SPORTS 2" group-title="USA ALL",USA- FOX SPORTS 2
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497338&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- Fox Soccer Plus" group-title="USA ALL",USA- Fox Soccer Plus
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497336&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- ESPN" group-title="USA ALL",USA- ESPN
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497321&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- ESPN 2" group-title="USA ALL",USA- ESPN 2
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497322&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- ESPN U" group-title="USA ALL",USA- ESPN U
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497324&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- BIG TEN NETWORK" group-title="USA ALL",USA- BIG TEN NETWORK
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497267&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA: CBSN SPORTS NETWORK" group-title="USA ALL",USA: CBSN SPORTS NETWORK
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497547&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- CBS SPORTS NETWORK" group-title="USA ALL",USA- CBS SPORTS NETWORK
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497279&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- WORLD FISHING NETWORK" group-title="USA ALL",USA- WORLD FISHING NETWORK
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497541&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- THE COWBOY CHANNEL" group-title="USA ALL",USA- THE COWBOY CHANNEL
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497518&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- TENNIS HD" group-title="USA ALL",USA- TENNIS HD
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497517&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- GOLF CHANNEL" group-title="USA ALL",USA- GOLF CHANNEL
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497355&extension=ts
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- CRIME AND INVESTIGATION" group-title="USA ALL",USA- CRIME AND INVESTIGATION
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497300&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA -ID" group-title="USA ALL",USA -ID
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497108&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- DISCOVERY SCIENCE HD" group-title="USA ALL",USA- DISCOVERY SCIENCE HD
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497309&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- DISCOVERY LIFE" group-title="USA ALL",USA- DISCOVERY LIFE
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497308&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- DISCOVERY FAMILY" group-title="USA ALL",USA- DISCOVERY FAMILY
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497307&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- DISCOVERY CHANNEL HD" group-title="USA ALL",USA- DISCOVERY CHANNEL HD
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497305&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- ANIMAL PLANET" group-title="USA ALL",USA- ANIMAL PLANET
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497254&extension=ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- HISTORY CHANNEL FHD" group-title="USA ALL",USA- HISTORY CHANNEL FHD
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497375&extension=ts
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- COOKING CHANNEL HD" group-title="USA ALL",USA- COOKING CHANNEL HD
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497298&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- HGTV FHD" group-title="USA ALL",USA- HGTV FHD
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497372&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- DIY NETWORK HD" group-title="USA ALL",USA- DIY NETWORK HD
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497313&extension=ts
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- ABC NY FHD" group-title="USA ALL",USA- ABC NY FHD
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497250&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- CBS NY FHD" group-title="USA ALL",USA- CBS NY FHD
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497277&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- CW" group-title="USA ALL",USA- CW
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497303&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- FOX 50" group-title="USA ALL",USA- FOX 50
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497329&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- FOX 5 HD" group-title="USA ALL",USA- FOX 5 HD
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497328&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA REG: NBC (WXIA)" group-title="USA ALL",USA REG: NBC (WXIA)
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497242&extension=ts
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- A & E FHD" group-title="USA ALL",USA- A&E FHD
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497246&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- AMC" group-title="USA ALL",USA- AMC
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497252&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- BBC AMERICA" group-title="USA ALL",USA- BBC AMERICA
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497261&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- SYFY" group-title="USA ALL",USA- SYFY
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497511&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- E!" group-title="USA ALL",USA- E!
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497316&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- BRAVO" group-title="USA ALL",USA- BRAVO
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497271&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- BOUNCE TV" group-title="USA ALL",USA- BOUNCE TV
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497270&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- FREEFORM HD" group-title="USA ALL",USA- FREEFORM HD
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497345&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- FX HD" group-title="USA ALL",USA- FX HD
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497347&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- FXX" group-title="USA ALL",USA- FXX
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497351&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- FXM" group-title="USA ALL",USA- FXM
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497350&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- FX MOVIES" group-title="USA ALL",USA- FX MOVIES
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497349&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- FX MOVIE CHANNEL" group-title="USA ALL",USA- FX MOVIE CHANNEL
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497348&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- SUNDANCE" group-title="USA ALL",USA- SUNDANCE
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497510&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA -SONY-MOVIE-CHANNEL" group-title="USA ALL",USA -SONY MOVIE CHANNEL
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497112&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- USA NETWORK" group-title="USA ALL",USA- USA NETWORK
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497534&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- TBS" group-title="USA ALL",USA- TBS
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497513&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- REELZ" group-title="USA ALL",USA- REELZ
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497473&extension=ts
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- RETRO PLEX" group-title="USA ALL",USA- RETRO PLEX
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497474&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- HDNET MOVIES" group-title="USA ALL",USA- HDNET MOVIES
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497370&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- EPIX  HD" group-title="USA ALL",USA- EPIX  HD
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497318&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- EPIX 2" group-title="USA ALL",USA- EPIX 2
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497319&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- EPIX HITS" group-title="USA ALL",USA- EPIX HITS
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497320&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA -EPIX DRIVE" group-title="USA ALL",USA -EPIX DRIVE
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497105&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- HBO HD" group-title="USA ALL",USA- HBO HD
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497366&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- HBO EAST" group-title="USA ALL",USA- HBO EAST
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497363&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- HBO 2 HD" group-title="USA ALL",USA- HBO 2 HD
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497361&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- HBO ZONE HD" group-title="USA ALL",USA- HBO ZONE HD
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497369&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- HBO SIGNATURE" group-title="USA ALL",USA- HBO SIGNATURE
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497368&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- HBO FAMILY HD" group-title="USA ALL",USA- HBO FAMILY HD
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497365&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- HBO FAMILY EAST" group-title="USA ALL",USA- HBO FAMILY EAST
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497364&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- HBO COMEDY HD" group-title="USA ALL",USA- HBO COMEDY HD
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497362&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA -CINEMAX" group-title="USA ALL",USA -CINEMAX
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497101&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- CINEMAX EAST" group-title="USA ALL",USA- CINEMAX EAST
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497287&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- CINEMAX 5 STARMAX" group-title="USA ALL",USA- CINEMAX 5 STARMAX
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497285&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- CINEMAXX MORE MAXX" group-title="USA ALL",USA- CINEMAXX MORE MAXX
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497291&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- CINEMAX THRILLERMAX HD" group-title="USA ALL",USA- CINEMAX THRILLERMAX HD
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497290&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- CINEMAX OUTER MAX" group-title="USA ALL",USA- CINEMAX OUTER MAX
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497289&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- CINEMAX MOVIEMAX" group-title="USA ALL",USA- CINEMAX MOVIEMAX
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497288&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- CINEMAX ACTION MAX" group-title="USA ALL",USA- CINEMAX ACTION MAX
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497286&extension=ts
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- STARZ" group-title="USA ALL",USA- STARZ
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497494&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- Starz West" group-title="USA ALL",USA- Starz West
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497509&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- STARZ KIDS & FAMILY" group-title="USA ALL",USA- STARZ KIDS & FAMILY
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497508&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- STARZ IN BLACK" group-title="USA ALL",USA- STARZ IN BLACK
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497507&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- STARZ ENCORE WESTERNS" group-title="USA ALL",USA- STARZ ENCORE WESTERNS
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497506&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- STARZ ENCORE SUSPENSE" group-title="USA ALL",USA- STARZ ENCORE SUSPENSE
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497504&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- STARZ ENCORE FHD" group-title="USA ALL",USA- STARZ ENCORE FHD
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497503&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- STARZ ENCORE WEST" group-title="USA ALL",USA- STARZ ENCORE WEST
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497505&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- STARZ ENCORE FAMILY" group-title="USA ALL",USA- STARZ ENCORE FAMILY
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497502&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- STARZ ENCORE CLASSIC" group-title="USA ALL",USA- STARZ ENCORE CLASSIC
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497500&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- STARZ ENCORE BLACK FHD" group-title="USA ALL",USA- STARZ ENCORE BLACK FHD
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497499&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- STARZ ENCORE ACTION" group-title="USA ALL",USA- STARZ ENCORE ACTION
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497498&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- STARZ ENCORE" group-title="USA ALL",USA- STARZ ENCORE
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497497&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- STARZ EDGE" group-title="USA ALL",USA- STARZ EDGE
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497496&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- STARZ COMEDY" group-title="USA ALL",USA- STARZ COMEDY
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497495&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA: STARZ CINEMA" group-title="USA ALL",USA: STARZ CINEMA
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497549&extension=ts
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- SHOWTIME EAST FHD 1080" group-title="USA ALL",USA- SHOWTIME EAST FHD 1080
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497482&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- Showtime East" group-title="USA ALL",USA- Showtime East
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497481&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- SHOWTIME 2" group-title="USA ALL",USA- SHOWTIME 2
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497480&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- SHOWTIME HD" group-title="USA ALL",USA- SHOWTIME HD
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497485&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- SHOWTIME WEST" group-title="USA ALL",USA- SHOWTIME WEST
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497487&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- SHOWTIME WOMEN" group-title="USA ALL",USA- SHOWTIME WOMEN
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497488&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- SHOWTIME SHOWCASE" group-title="USA ALL",USA- SHOWTIME SHOWCASE
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497486&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- SHOWTIME FAMILY ZONE" group-title="USA ALL",USA- SHOWTIME FAMILY ZONE
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497484&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA- SHOWTIME EXTREME" group-title="USA ALL",USA- SHOWTIME EXTREME
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497483&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA-Showtime Next" group-title="USA ALL",USA-Showtime Next
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497544&extension=ts
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BBC One FHD" group-title="ENTERTAINMENT",BBC One FHD
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1559&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Cs: BBC TWO FHD" group-title="ENTERTAINMENT",Cs: BBC TWO FHD
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=2699&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="BBC Three HD (720p)" group-title="ENTERTAINMENT",BBC Three HD
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1022887&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Cs: BBC FOUR FHD" group-title="ENTERTAINMENT",Cs: BBC FOUR FHD
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1564&extension=ts
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ITV1 FHD" group-title="ENTERTAINMENT",ITV1 FHD
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1566&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Cs: ITV FHD 2" group-title="ENTERTAINMENT",Cs: ITV FHD 2
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=2703&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Cs: ITV FHD 3" group-title="ENTERTAINMENT",Cs: ITV FHD 3
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=2704&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Cs: ITV FHD 4" group-title="ENTERTAINMENT",Cs: ITV FHD 4
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=2705&extension=ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
