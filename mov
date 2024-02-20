@@ -336,6 +336,10 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:1C:07:26&stream=174762&ex
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" group-title="",Discovery Channel (US)
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:1C:07:26&stream=174624&extension=ts
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" group-title="",Discovery Channel (US)
+https://6oclock.xyz:8443/live/Tyrone43147/My3boys/12767.ts
+
+
 #EXTINF:-1 tvg-id="Discovery.Life.Channel.(DLIF).us" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" group-title="",Discovery Life
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:1C:07:26&stream=174625&extension=ts
 
