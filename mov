@@ -268,36 +268,36 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=708830&extension=m3
 
 
 
-#EXTINF:-1 tvg-id="SONY.TEN.1.HD.in" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="",TEN 1
+#EXTINF:-1 tvg-id="SONY.TEN.1.HD.in" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png",TEN 1
 https://dai.google.com/ssai/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
 
-#EXTINF:-1 tvg-id="SONY.TEN.2.HD.in" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="",TEN 2
+#EXTINF:-1 tvg-id="SONY.TEN.2.HD.in" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png",TEN 2
 https://dai.google.com/ssai/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
 
-#EXTINF:-1 tvg-id="SONY.TEN.3.HD.in" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="",TEN 3
+#EXTINF:-1 tvg-id="SONY.TEN.3.HD.in" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png",TEN 3
 https://dai.google.com/ssai/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
 
-#EXTINF:-1 tvg-id="Sony.Ten.4.in" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="",TEN 4
+#EXTINF:-1 tvg-id="Sony.Ten.4.in" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png",TEN 4
 https://dai.google.com/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
 
-#EXTINF:-1 tvg-id="Sony.Ten.5.in" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="",TEN 5
+#EXTINF:-1 tvg-id="Sony.Ten.5.in" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",TEN 5
 https://dai.google.com/ssai/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://docdog.top/Logotv/countries//dubaisport1.png" group-title="",Dubai Sports 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://docdog.top/Logotv/countries//dubaisport1.png",Dubai Sports 1
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/index.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://docdog.top/Logotv/countries//dubaisport2.png" group-title="",Dubai Sport 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://docdog.top/Logotv/countries//dubaisport2.png",Dubai Sport 2
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://docdog.top/Logotv/countries//dubaisport3.png" group-title="",Dubai Sport 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://docdog.top/Logotv/countries//dubaisport3.png",Dubai Sport 3
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 
-#EXTINF:-1 tvg-id="KSASports1.sa" tvg-logo="https://docdog.top/Logotv/countries//ksasport1.png" group-title="Sports",KSA Sports 1
+#EXTINF:-1 tvg-id="KSASports1.sa" tvg-logo="https://docdog.top/Logotv/countries//ksasport1.png",KSA Sports 1
 https://edge.taghtia.com/sa/9.m3u8
 
-#EXTINF:-1 tvg-id="KSASports2.sa" tvg-logo="https://docdog.top/Logotv/countries//ksasport2.png" group-title="Sports",KSA Sports 2
+#EXTINF:-1 tvg-id="KSASports2.sa" tvg-logo="https://docdog.top/Logotv/countries//ksasport2.png",KSA Sports 2
 https://edge.taghtia.com/sa/10.m3u8
 
 #EXTINF:-1 tvg-id="SharjahSports.ae" tvg-name="" tvg-logo="https://docdog.top/Logotv/countries//sharjahsport.png" group-title="",Sharjah Sport
