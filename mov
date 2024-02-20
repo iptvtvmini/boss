@@ -125,18 +125,17 @@ http://vo01.mohdtv.com:8880/live/voby4349/154984156/1719.ts
 http://mohdtv.com:8880/live/voby3037/69246643/1713.ts
 
 
+#EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-name="Eurosport 1 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="",EuroSport 1
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577985&extension=ts
+
+#EXTINF:-1 tvg-id="Eurosport.2.HD.uk" tvg-name="Eurosport 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="",Eurosport 2
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577984&extension=ts
 
 #EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-name="Eurosport 1 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="",EuroSport 1
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577985&extension=ts
 
 #EXTINF:-1 tvg-id="Eurosport.2.HD.uk" tvg-name="Eurosport 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="",Eurosport 2
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577984&extension=ts
-
-#EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-name="Eurosport 1 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="",EuroSport 1
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577985&extension=ts
-
-#EXTINF:-1 tvg-id="Eurosport.2.HD.uk" tvg-name="Eurosport 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="",Eurosport 2
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577984&extension=ts
 
 #EXTINF:-1 tvg-id="Eurosport.1.HD.uk",EuroSport 1
 http://tbtv.me:80/play/live.php?mac=00:1A:79:30:0f:49&stream=175201&extension=ts
@@ -338,76 +337,6 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469419&extension=m3
 
 
 
-#EXTINF:-1 tvg-id="BBC.One.uk",BBC 1
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577275&extension=m3u8
-
-#EXTINF:-1 tvg-id="BBC.Two.HD.uk",BBC 2
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577273&extension=m3u8
-
-#EXTINF:-1 tvg-id="BBC.Three.HD.uk",BBC 3
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577271&extension=m3u8
-
-#EXTINF:-1 tvg-id="BBC.Four.HD.uk",BBC 4
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577269&extension=m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="ITV1.HD.uk",ITV 1
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577266&extension=m3u8
-
-#EXTINF:-1 tvg-id="ITV2.HD.uk",ITV 2
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577264&extension=m3u8
-
-#EXTINF:-1 tvg-id="ITV3.HD.uk",ITV 3
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577262&extension=m3u8
-
-#EXTINF:-1 tvg-id="ITV4.HD.uk",ITV 4
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577260&extension=m3u8
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="",Action Movies
-http://mohdtv.com:8880/live/voby3037/69246643/60207.ts
-
-#EXTINF:-1 tvg-id="",COMEDY MOVIES
-http://mohdtv.com:8880/live/voby3037/69246643/60049.ts
-
-#EXTINF:-1 tvg-id="",DISNEY MOVIES
-http://mohdtv.com:8880/live/voby3037/69246643/60928.ts
-
-#EXTINF:-1 tvg-id="",HORROR MOVIES
-http://mohdtv.com:8880/live/voby3037/69246643/60857.ts
-
-#EXTINF:-1 tvg-id="",FAMILY MOVIES
-http://mohdtv.com:8880/live/voby3037/69246643/60862.ts
-
-#EXTINF:-1 tvg-id="",CRIME MOVIES
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617146&extension=ts
-
-#EXTINF:-1 tvg-id="",SCIFI MOVIES
-http://mohdtv.com:8880/live/voby3037/69246643/60894.ts
-
-#EXTINF:-1 tvg-id="",DRAMA MOVIES
-http://mohdtv.com:8880/live/voby3037/69246643/60838.ts
-
-#EXTINF:-1 tvg-id="",THRILLER MOVIES
-http://mohdtv.com:8880/live/voby3037/69246643/60253.ts
-
-#EXTINF:-1 tvg-id="",SUPERHERO MOVIES
-http://mohdtv.com:8880/live/voby3037/69246643/60257.ts
-
-#EXTINF:-1 tvg-id="",WAR MOVIES
-http://mohdtv.com:8880/live/voby3037/69246643/60247.ts
-
-
-
 #EXTINF:-1 tvg-id="MGM+.HDTV.(East).(MGM+HD).us" tvg-name="MGM+ HDTV (East) (MGM+HD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-us.png" group-title="",EPIX
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552048&extension=m3u8
 
@@ -515,9 +444,6 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552066&extension=m3
 #EXTINF:-1 tvg-id="STARZ.Kids.and.Family.HD.(East).(SZKHD).us",STARZ KIDS & FAMILY
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552064&extension=m3u8
 
-
-
-
 #EXTINF:-1 tvg-id="ActionMAX.HDTV.(East).(AMXHD).us",ACTION MAX
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552062&extension=m3u8
 
@@ -541,12 +467,32 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552050&extension=m3
 
 
 
+#EXTINF:-1 tvg-id="BBC.One.uk",BBC 1
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577275&extension=m3u8
+
+#EXTINF:-1 tvg-id="BBC.Two.HD.uk",BBC 2
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577273&extension=m3u8
+
+#EXTINF:-1 tvg-id="BBC.Three.HD.uk",BBC 3
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577271&extension=m3u8
+
+#EXTINF:-1 tvg-id="BBC.Four.HD.uk",BBC 4
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577269&extension=m3u8
 
 
 
 
+#EXTINF:-1 tvg-id="ITV1.HD.uk",ITV 1
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577266&extension=m3u8
 
+#EXTINF:-1 tvg-id="ITV2.HD.uk",ITV 2
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577264&extension=m3u8
 
+#EXTINF:-1 tvg-id="ITV3.HD.uk",ITV 3
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577262&extension=m3u8
+
+#EXTINF:-1 tvg-id="ITV4.HD.uk",ITV 4
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577260&extension=m3u8
 
 
 #EXTINF:-1 tvg-id="Sky.Arts.HD.uk",SKY ARTS
@@ -572,6 +518,67 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=851517&extension=m3
 
 #EXTINF:-1 tvg-id="Sky.Witness.HD.uk",SKY WITNESS
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577370&extension=m3u8
+
+
+
+#EXTINF:-1 tvg-id="",Action Movies
+http://mohdtv.com:8880/live/voby3037/69246643/60207.ts
+
+#EXTINF:-1 tvg-id="",COMEDY MOVIES
+http://mohdtv.com:8880/live/voby3037/69246643/60049.ts
+
+#EXTINF:-1 tvg-id="",DISNEY MOVIES
+http://mohdtv.com:8880/live/voby3037/69246643/60928.ts
+
+#EXTINF:-1 tvg-id="",HORROR MOVIES
+http://mohdtv.com:8880/live/voby3037/69246643/60857.ts
+
+#EXTINF:-1 tvg-id="",FAMILY MOVIES
+http://mohdtv.com:8880/live/voby3037/69246643/60862.ts
+
+#EXTINF:-1 tvg-id="",CRIME MOVIES
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617146&extension=ts
+
+#EXTINF:-1 tvg-id="",SCIFI MOVIES
+http://mohdtv.com:8880/live/voby3037/69246643/60894.ts
+
+#EXTINF:-1 tvg-id="",DRAMA MOVIES
+http://mohdtv.com:8880/live/voby3037/69246643/60838.ts
+
+#EXTINF:-1 tvg-id="",THRILLER MOVIES
+http://mohdtv.com:8880/live/voby3037/69246643/60253.ts
+
+#EXTINF:-1 tvg-id="",SUPERHERO MOVIES
+http://mohdtv.com:8880/live/voby3037/69246643/60257.ts
+
+#EXTINF:-1 tvg-id="",WAR MOVIES
+http://mohdtv.com:8880/live/voby3037/69246643/60247.ts
+
+
+
+#EXTINF:-1 tvg-id="",WESTERN
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705055&extension=ts
+#EXTINF:-1 tvg-id="",WESTERN 1
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705054&extension=ts
+
+#EXTINF:-1 tvg-id="",WESTERN 2
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705053&extension=ts
+
+#EXTINF:-1 tvg-id="",WESTERN 3
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705052&extension=ts
+
+#EXTINF:-1 tvg-id="",WESTERN 4
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705051&extension=ts
+
+#EXTINF:-1 tvg-id="",WESTERN 5
+http://cod5.me:80/play/live.php?mac=00:1A:79:00:04:DF&stream=705050&extension=ts
+
+
+
+
+
+
+
 
 
 
@@ -615,7 +622,7 @@ http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:09:eb:85&stream=1438478&ext
 #EXTINF:-1 tvg-id="",SKY CINEMA ACTION
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577387&extension=ts
 
-#EXTINF:-1 tvg-id="",SKY CINEMA COMEDY
+#EXTINF:-1 tvg-id="Sky.Comedy.Cinema.uk",SKY CINEMA COMEDY
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577385&extension=ts
 
 #EXTINF:-1 tvg-id="",SKY CINEMA DRAMA
@@ -624,7 +631,7 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577383&extension=ts
 #EXTINF:-1 tvg-id="",SKY CINEMA GREATS
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577382&extension=ts
 
-#EXTINF:-1 tvg-id="",SKY CINEMA HITS
+#EXTINF:-1 tvg-id="Sky.Cinema.Hits.HD.uk",SKY CINEMA HITS
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577381&extension=ts
 
 #EXTINF:-1 tvg-id="",SKY CINEMA OSCARS
@@ -645,88 +652,75 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577368&extension=ts
 #EXTINF:-1 tvg-id="",SKY CINEMA SCI-FI
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577364&extension=ts
 
-#EXTINF:-1 tvg-id="",SKY CINEMA SELECT
+#EXTINF:-1 tvg-id="Sky.Cinema.Select.uk",SKY CINEMA SELECT
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577377&extension=ts
 
 
 
-
-
-
-#EXTINF:-1 tvg-id="",BOX OFFICE 2022 4K
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705117&extension=ts
-#EXTINF:-1 tvg-id="",BOX OFFICE 2022 1 4K
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705116&extension=ts
-#EXTINF:-1 tvg-id="",BOX OFFICE 2022 2 4K
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705115&extension=ts
-#EXTINF:-1 tvg-id="",BOX OFFICE 2022 3 4K
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705114&extension=ts
-#EXTINF:-1 tvg-id="",BOX OFFICE 2022 4 4K
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705113&extension=ts
-#EXTINF:-1 tvg-id="",BOX OFFICE 2022 5 4K
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705112&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="EN - HBO MAX 1 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - HBO MAX 1 4K
+#EXTINF:-1 tvg-id="",HBO MAX 1
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705105&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="EN - HBO MAX 2 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - HBO MAX 2 4K
+
+#EXTINF:-1 tvg-id="",HBO MAX 2
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705104&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="EN - HBO MAX 3 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - HBO MAX 3 4K
+
+#EXTINF:-1 tvg-id="",HBO MAX 3
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705103&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="EN - HBO MAX 4 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - HBO MAX 4 4K
+
+#EXTINF:-1 tvg-id="",HBO MAX 4
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705102&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="EN - HBO MAX 5 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - HBO MAX 5 4K
+
+#EXTINF:-1 tvg-id="",HBO MAX 5
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705101&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="EN - HBO MAX 6 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - HBO MAX 6 4K
+
+#EXTINF:-1 tvg-id="",HBO MAX 6
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705100&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="EN - HBO MAX 7 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - HBO MAX 7 4K
+
+#EXTINF:-1 tvg-id="",HBO MAX 7
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705099&extension=ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="EN - NETFLIX 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - NETFLIX 4K
+#EXTINF:-1 tvg-id="",NETFLIX
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705071&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="EN - NETFLIX 1 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - NETFLIX 1 4K
+
+#EXTINF:-1 tvg-id="",NETFLIX 1
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705070&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="EN - NETFLIX 2 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - NETFLIX 2 4K
+
+#EXTINF:-1 tvg-id="",NETFLIX 2
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705069&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="EN - NETFLIX 3 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - NETFLIX 3 4K
+
+#EXTINF:-1 tvg-id="",NETFLIX 3
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705068&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="EN - NETFLIX 4 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - NETFLIX 4 4K
+
+#EXTINF:-1 tvg-id="",NETFLIX 4
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705067&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="EN - NETFLIX 5 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - NETFLIX 5 4K
+
+#EXTINF:-1 tvg-id="",NETFLIX 5
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705066&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="EN - SHOWTIME 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - SHOWTIME 4K
+
+#EXTINF:-1 tvg-id="",SHOWTIME
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705064&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="EN - SHOWTIME 1 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - SHOWTIME 1 4K
+
+#EXTINF:-1 tvg-id="",SHOWTIME 1
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705063&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="EN - SHOWTIME 2 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - SHOWTIME 2 4K
+
+#EXTINF:-1 tvg-id="",SHOWTIME 2
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705062&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="EN - SHOWTIME 3 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - SHOWTIME 3 4K
+
+#EXTINF:-1 tvg-id="",SHOWTIME 3
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705061&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="EN - SHOWTIME 4 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - SHOWTIME 4 4K
+
+#EXTINF:-1 tvg-id="",SHOWTIME 4
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705060&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="EN - SHOWTIME 5 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - SHOWTIME 5 4K
+
+#EXTINF:-1 tvg-id="",SHOWTIME 5
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705059&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="EN - SHOWTIME 6 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - SHOWTIME 6 4K
+
+#EXTINF:-1 tvg-id="",SHOWTIME 6
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705058&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="EN - SHOWTIME 7 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - SHOWTIME 7 4K
+
+#EXTINF:-1 tvg-id="",SHOWTIME 7
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705057&extension=ts
-
-
-#EXTINF:-1 tvg-id="" tvg-name="EN - WESTERN CH 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - WESTERN CH 4K
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705055&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="EN - WESTERN CH 1 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - WESTERN CH 1 4K
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705054&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="EN - WESTERN CH 2 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - WESTERN CH 2 4K
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705053&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="EN - WESTERN CH 3 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - WESTERN CH 3 4K
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705052&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="EN - WESTERN CH 4 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - WESTERN CH 4 4K
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705051&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="EN - WESTERN CH 5 4K" group-title="|EN| 24/7 ENGLISH 4K",EN - WESTERN CH 5 4K
-http://cod5.me:80/play/live.php?mac=00:1A:79:00:04:DF&stream=705050&extension=ts
-
-
 
 
 
