@@ -312,32 +312,38 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Animal.Planet.HDTV.(East).(APHD).us" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png" group-title="",Animal Planet
 
 
-#EXTINF:-1 tvg-id="Crime.&amp;.Investigation.HD.my" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/369_144.png" group-title="",Crime & Investigation
+#EXTINF:-1 tvg-id="Crime.&amp;.Investigation.HD.my" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/369_144.png" group-title="",Crime Investigation
 http://mohdtv.com:8880/live/voby3037/69246643/71095.ts
 
-#EXTINF:-1 tvg-id="Crime.Investigation.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/369_144.png" group-title="",Crime & Investigation (ID)
+#EXTINF:-1 tvg-id="Crime.Investigation.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/369_144.png" group-title="",Crime Investigation (ID)
 http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:09:eb:85&stream=683088&extension=ts
 
-#EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HDTV.(CI.HD).us" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/369_144.png" group-title="",Crime & Investigation
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469364&extension=ts
-
+#EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HDTV.(CI.HD).us" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/369_144.png" group-title="",Crime Investigation
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:1C:07:26&stream=174603&extension=ts
 
 #EXTINF:-1 tvg-id="Investigation.Discovery.HDTV.(IDHD).us" tvg-name="http://myserveriptv.com:2082/images/e00a346a1e80c3d33bbb82d4fd74b31e.png" tvg-logo="" group-title="",Investigation Discovery
-http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=134096&extension=m3u8
 
 #EXTINF:-1 tvg-id="National.Geographic.HD.my" tvg-name="National Geographic HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/140_144.png" group-title="",National Geographic
-
-
 #EXTINF:-1 tvg-id="National.Geographic.Channel.HDTV.(NGCHD).us" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/140_144.png" group-title="",National Geographic
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:A8:AE:7C&stream=1497427&extension=ts
 
-#EXTINF:-1 tvg-id="Discovery.Channel.HD.my" tvg-name="Discovery Channel HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" group-title="",Discovery Channel
 
+
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.my" tvg-name="Discovery Channel HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" group-title="",Discovery Channel
 #EXTINF:-1 tvg-id="Discovery.Channel.HD.id" tvg-name="Discovery Channel HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" group-title="",Discovery Channel (ID)
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" group-title="",Discovery Channel (US)
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:1C:07:26&stream=174624&extension=ts
 
 #EXTINF:-1 tvg-id="Discovery.Life.Channel.(DLIF).us" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" group-title="",Discovery Life
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:1C:07:26&stream=174625&extension=ts
+
+#EXTINF:-1 tvg-id="",Discovery Science
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:1C:07:26&stream=174626&extension=ts
+
+
+
+
 
 #EXTINF:-1 tvg-id="History.HD.my" tvg-name="History HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/144_144.png" group-title="",History
 
@@ -345,7 +351,8 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:A8:AE:7C&stream=1497427&exte
 http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:09:eb:85&stream=683091&extension=ts
 
 #EXTINF:-1 tvg-id="History.HDTV.(East).(HISHD).us" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/144_144.png" group-title="",History
-http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=134134&extension=m3u8
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:1C:07:26&stream=174725&extension=ts
+
 
 
 
