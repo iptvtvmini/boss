@@ -412,12 +412,6 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552040&extension=m3
 #EXTINF:-1 tvg-id="Sony.Movie.Channel.HD.(SONY).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/sony-movies-us.png",SONY MOVIES
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552037&extension=m3u8
 
-#EXTINF:-1 tvg-id="SCRNWST.ScreenPix.Westerns.us" tvg-logo="",SCREENPIX WESTERNS
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552034&extension=m3u8
-
-#EXTINF:-1 tvg-id="SCRNPIX.ScreenPix.us" tvg-logo="",SCREENPIX
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552033&extension=m3u8
-
 #EXTINF:-1 tvg-id="PixL.HDTV.(PixLHD).us" tvg-logo="",PIXL
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469419&extension=m3u8
 
@@ -462,8 +456,7 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552110&extension=m3
 #EXTINF:-1 tvg-id="Showtime.2.HDTV.(East).(SHO2HD).us" tvg-logo="https://docdog.top/Logotv/countries//showtime.png",SHOWTIME 2
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552108&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="",SHOXBET
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552106&extension=m3u8
+
 
 #EXTINF:-1 tvg-id="Showtime.Extreme.(East).(SHOXe).us" tvg-logo="https://docdog.top/Logotv/countries//showtimeextreme.png",SHOWTIME EXTREME
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552104&extension=m3u8
@@ -551,6 +544,22 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552052&extension=m3
 
 #EXTINF:-1 tvg-id="OuterMax.east.us" tvg-logo="https://docdog.top/Logotv/countries//outermax.png",OUTERMAX
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552050&extension=m3u8
+
+#EXTINF:-1 tvg-id="SHOxBET(East).(SHOBET).us" tvg-logo="",SHOXBET
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552106&extension=m3u8
+
+
+#EXTINF:-1 tvg-id="SCRNPIX.ScreenPix.us" tvg-logo="",SCREENPIX
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=551778&extension=ts
+
+#EXTINF:-1 tvg-id="SCRNACT.ScreenPix.Action.us",SCREENPIX ACTION
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=551777&extension=ts
+
+#EXTINF:-1 tvg-id="SCRNVOI.ScreenPix.Voices.us",SCREENPIX VOICES
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=551776&extension=ts
+
+#EXTINF:-1 tvg-id="SCRNWST.ScreenPix.Westerns.us" tvg-logo="",SCREENPIX WESTERNS
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=551775&extension=ts
 
 
 
@@ -808,6 +817,10 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705058&extension=ts
 
 #EXTINF:-1 tvg-id="",SHOWTIME 7
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705057&extension=ts
+
+
+
+
 
 
 
