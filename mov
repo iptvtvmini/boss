@@ -325,7 +325,8 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:1C:07:26&stream=174603&ex
 
 #EXTINF:-1 tvg-id="National.Geographic.HD.my" tvg-name="National Geographic HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/140_144.png" group-title="",National Geographic
 #EXTINF:-1 tvg-id="National.Geographic.Channel.HDTV.(NGCHD).us" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/140_144.png" group-title="",National Geographic
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:A8:AE:7C&stream=1497427&extension=ts
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:1C:07:26&stream=174762&extension=ts
+
 
 
 
@@ -338,7 +339,7 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:1C:07:26&stream=174624&ex
 #EXTINF:-1 tvg-id="Discovery.Life.Channel.(DLIF).us" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" group-title="",Discovery Life
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:1C:07:26&stream=174625&extension=ts
 
-#EXTINF:-1 tvg-id="",Discovery Science
+#EXTINF:-1 tvg-id="Science.HDTV.(SCIHD).us",Discovery Science
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:1C:07:26&stream=174626&extension=ts
 
 
