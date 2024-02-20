@@ -303,6 +303,8 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=627026&extension=m3
 #EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-name="Syfy HDTV (SYFYHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/syfy-us.png" group-title="",Syfy
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469431&extension=m3u8
 
+#EXTINF:-1 tvg-id="ReelzChannel.HDTV.(REELZH).us" tvg-name="ReelzChannel HDTV (REELZH)" tvg-logo="https://docdog.top/Logotv/countries/united-states/reelz-us.png" group-title="",Reelz
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1497473&extension=ts
 
 #EXTINF:-1 tvg-id="Freeform.HDTV.(East).(FRFHD).us",FREEFORM
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=656385&extension=m3u8
