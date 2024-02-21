@@ -1,20 +1,15 @@
-202305312333
 https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz
-
--- epg_ripper_UK1 --
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-
+#EXTINF:-1 tvg-id="" tvg-logo="",
 
 4Music.uk
-4seven.uk
-5ACTION.uk
-5SELECT.uk
+
+#EXTINF:-1 tvg-id="" tvg-logo="",4seven.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",5ACTION.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",5SELECT.uk
 5STAR+1.uk
-5STAR.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",5STAR.uk
 5USA+1.uk
-5.USA.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",5.USA.uk
 92.News.uk
 A1TV.uk
 AAJ.TAK.uk
@@ -45,14 +40,14 @@ BBC.6.Music.uk
 BBC.ALBA.HD.uk
 BBC.ALBA.uk
 BBC.Asian.uk
-BBC.Four.HD.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",BBC.Four.HD.uk
 BBC.Four.uk
 BBC.NEWS.HD.uk
 BBC.NEWS.uk
 BBC.One.CI.HD.uk
 BBC.One.EastHD.uk
 BBC.One.E.Mid.HD.uk
-BBC.One.Lon.HD.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",BBC.One.Lon.HD.uk
 BBC.One.NE.and.C.HD.uk
 BBC.One.NI.HD.uk
 BBC.One.N.West.HD.uk
@@ -89,9 +84,9 @@ BBC.R.Ulster.uk
 BBC.R.Wales.uk
 BBCScotlandHD.uk
 BBC.Scotland.uk
-BBC.Three.HD.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",BBC.Three.HD.uk
 BBC.Three.uk
-BBC.Two.HD.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",BBC.Two.HD.uk
 BBC.Two.NI.HD.uk
 BBC.Two.uk
 BBC.Two.Wal.HD.uk
@@ -108,13 +103,13 @@ British.Muslim.uk
 Browse.Shop.uk
 BTSBoxOff2HD.uk
 BT.Sport.10.uk
-BT.Sport.1.HD.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",BT.Sport.1.HD.uk
 BT.Sport.1.uk
-BT.Sport.2.HD.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",BT.Sport.2.HD.uk
 BT.Sport.2.uk
-BT.Sport.3.HD.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",BT.Sport.3.HD.uk
 BT.Sport.3.uk
-BT.Sport.4.HD.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",BT.Sport.4.HD.uk
 BT.Sport.4.uk
 BT.Sport.5.uk
 BT.Sport.6.uk
@@ -135,13 +130,13 @@ CBeebies.uk
 CBS.Justice.uk
 CBS.Reality+1.uk
 CBS.Reality.uk
-Challenge.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",Challenge.uk
 Channel.4+1.uk
 Channel.44.uk
-Channel.4.HD.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",Channel.4.HD.uk
 Channel.4.uk
 Channel.5+1.uk
-Channel.5.HD.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",Channel.5.HD.uk
 Channel.5.uk
 Channel.7.uk
 Channels.24.uk
@@ -178,13 +173,13 @@ Direct.Store.TV.uk
 Disc.History+1.uk
 Disc.History.uk
 Discovery+1.uk
-Discovery.HD.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",Discovery.HD.uk
 Disc.Sci+1.uk
 Disc.Science.uk
 Disc.Turbo+1.uk
 Disc.Turbo.uk
 DMAX+1.uk
-DMAX.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",DMAX.uk
 Drama+1.uk
 Drama.+1.uk
 Drama.uk
@@ -200,11 +195,11 @@ Eden.uk
 E!.HD.uk
 Eman.Channel.uk
 Euronews.uk
-Eurosport.1.HD.uk
-Eurosport.2.HD.uk
-Eurosport.3.HD.uk
-Eurosport.4.HD.uk
-Eurosport.5.HD.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",Eurosport.1.HD.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",Eurosport.2.HD.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",Eurosport.3.HD.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",Eurosport.4.HD.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",Eurosport.5.HD.uk
 EWTN.Catholic.uk
 Faith.UK.uk
 Faith.World.TV.uk
@@ -266,47 +261,25 @@ Iran.Intl.HD.uk
 Islam.Channel.uk
 Islam.Ch.Urdu.uk
 Islam.TV.uk
-
-#EXTINF:-1 tvg-id="ITV1.uk" tvg-name="" tvg-logo="" group-title="",
-
-#EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-name="" tvg-logo="" group-title="",
-
+#EXTINF:-1 tvg-id="ITV1.uk" tvg-logo="",
 #EXTINF:-1 tvg-id="ITV1+1.uk" tvg-name="" tvg-logo="" group-title="",ITV1+1
-
-
-
 #EXTINF:-1 tvg-id="ITV2.uk" tvg-name="" tvg-logo="" group-title="",
-
-#EXTINF:-1 tvg-id="ITV2.HD.uk" tvg-name="" tvg-logo="" group-title="",
-
 #EXTINF:-1 tvg-id="ITV2+1.uk" tvg-name="" tvg-logo="" group-title="",
-
 #EXTINF:-1 tvg-id="ITV3+1.uk" tvg-name="" tvg-logo="" group-title="",
-
-#EXTINF:-1 tvg-id="ITV3.HD.uk" tvg-name="" tvg-logo="" group-title="",
-
 #EXTINF:-1 tvg-id="ITV3.uk" tvg-name="" tvg-logo="" group-title="",
-
 #EXTINF:-1 tvg-id="ITV4+1.uk" tvg-name="" tvg-logo="" group-title="",
-
-#EXTINF:-1 tvg-id="ITV4.HD.uk" tvg-name="" tvg-logo="" group-title="",
-
 #EXTINF:-1 tvg-id="ITV4.uk" tvg-name="" tvg-logo="" group-title="",
 
 
 
 
+#EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-logo="",ITV 1
+#EXTINF:-1 tvg-id="ITV2.HD.uk" tvg-logo="",ITV 2
+#EXTINF:-1 tvg-id="ITV3.HD.uk" tvg-logo="",ITV 3
+#EXTINF:-1 tvg-id="ITV4.HD.uk" tvg-logo="",ITV 4
 
+#EXTINF:-1 tvg-id="" tvg-logo="",ITVBe.uk
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
-
-
-
-
-
-ITVBe.uk
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
 Jazz.FM.uk
 JewelleryMaker.uk
 JML.Direct.uk
@@ -342,8 +315,8 @@ MTV.Live.HD.uk
 MTV.MUSIC.uk
 MUTV.HD.uk
 Nat.Geo+1.uk
-Nat.Geo.HD.uk
-NatGeoWild.HD.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",Nat.Geo.HD.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",NatGeoWild.HD.uk
 Nat.Geo.Wild.uk
 NBCNewsNowHD.uk
 NDTV.24x7.uk
@@ -376,8 +349,8 @@ POP+1.uk
 POP.Max+1.uk
 POP.Max.uk
 POP.uk
-Premier.Sports.1.HD.uk
-Premier.Sports.2.HD.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",Premier.Sports.1.HD.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",Premier.Sports.2.HD.uk
 PTC.PUNJABI.uk
 PTV.Global.uk
 QUEST+1.uk
@@ -405,71 +378,59 @@ S4C.uk
 Sangat.uk
 Sanskar.uk
 Sikh.Channel.uk
-Sky.Action.HD.uk
-Sky.Action.uk
-SkyAdventureHD.uk
-Sky.Adventure.uk
-SkyAnimationHD.uk
-Sky.Arts.HD.uk
-Sky.Atlantic+1.uk
-Sky.Atlantic.HD.uk
-Sky.Cinema.Hits.HD.uk
-Sky.Cinema.Select.uk
-Sky.Comedy.Cinema.uk
-Sky.Comedy.HD.uk
-Sky.Crime+1.uk
-Sky.Crime.HD.uk
-Sky.Documentaries.HD.uk
-Sky.Drama.HD.uk
-Sky.Family.HD.uk
-Sky.Greats.HD.uk
-Sky.Greats.uk
-Sky.History+1.uk
-SkyHistory2HD.uk
-Sky.History2.uk
-Sky.HistoryHD.uk
-Sky.Kids.HD.uk
-Sky.Max.HD.uk
-SkyMegaHitsHD.uk
-Sky.Nature.HD.uk
-SkyNewsArabia.uk
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="",Sky.Action.HD.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",SkyAdventureHD.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",SkyAnimationHD.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",Sky.Arts.HD.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",Sky.Atlantic.HD.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",Sky.Cinema.Hits.HD.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",Sky.Cinema.Select.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",Sky.Comedy.Cinema.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",Sky.Comedy.HD.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",Sky.Crime.HD.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",Sky.Documentaries.HD.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",Sky.Drama.HD.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",Sky.Family.HD.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",Sky.Greats.HD.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",SkyHistory2HD.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",Sky.HistoryHD.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",Sky.Kids.HD.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",Sky.Max.HD.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",SkyMegaHitsHD.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",Sky.Nature.HD.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",SkyPremiereHD.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",Sky.ScFi/HorHD.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",Sky.Sci-Fi.HD.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",SkyShowcaseHD.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",SkySp.ActionHD.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",Sky.Thriller.HD.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",SkyValentineHD.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",Sky.Witness.HD.uk
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="",SkySp.ArenaHD.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",SkySpBoxOff.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",SkySpCricket.HD.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",SkySp.F1.HD.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",SkySp.Fball.HD.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",SkySp.Golf.HD.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",SkySpMainEvHD.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",SkySp.Mix.HD.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",SkySp.News.HD.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",Sky.Sports.Football.HD.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",SkySp.PL.HD.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",SkySp.Racing.HD.uk
+
 Sky.News.HD.uk
-SkyPremiere+1.uk
-SkyPremiereHD.uk
-Sky.Premiere.uk
-Sky.Replay.uk
-Sky.ScFi/HorHD.uk
-Sky.Sci-Fi.HD.uk
-SkyShowcase+1.uk
-SkyShowcaseHD.uk
-Sky.Showcase.uk
-SkySp.ActionHD.uk
-SkySp.Action.uk
-SkySp.ArenaHD.uk
-SkySp.Arena.uk
-SkySpBoxOff.uk
-SkySpCricket.HD.uk
-SkySp.Cricket.uk
-SkySp.F1.HD.uk
-SkySp.F1.uk
-SkySp.Fball.HD.uk
-SkySp.Fball.uk
-SkySp.Golf.HD.uk
-SkySp.Golf.uk
-SkySpMainEvHD.uk
-SkySpMainEv.uk
-SkySp.Mix.HD.uk
-SkySp.News.HD.uk
-Sky.Sports.Football.HD.uk
-SkySp.PL.HD.uk
-SkySp.PL.uk
-SkySp.Racing.HD.uk
-SkySp.Racing.uk
-Sky.Thriller.HD.uk
-SkyValentineHD.uk
-Sky.Valentine.uk
-Sky.Witness+1.uk
-Sky.Witness.HD.uk
+
+
 Smooth.uk
 SonLife.uk
 SONY.MAX.2.uk
@@ -486,7 +447,7 @@ STV.North+1.uk
 STV.North.uk
 Sukh.Sagar.uk
 SYFY+1.uk
-SYFY.HD.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",SYFY.HD.uk
 Takbeer.TV.uk
 TalkingPictures.uk
 talkSPORT.uk
@@ -523,14 +484,14 @@ Utsav.GOLD.uk
 Utsav.Plus.HD.uk
 UTV.uk
 Venus.TV.uk
-Viaplay.1.HD.uk
-Viaplay.2.HD.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",Viaplay.1.HD.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",Viaplay.2.HD.uk
 ViaplayXtraHD.uk
 Virgin.Radio.uk
 Vox.Africa.uk
 W+1.uk
 W.HD.uk
-WION.HD.uk
+#EXTINF:-1 tvg-id="" tvg-logo="",WION.HD.uk
 Word.Network.uk
 WRN.Europe.uk
 Xpanded.TV.uk
