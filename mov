@@ -80,8 +80,10 @@ http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:09:eb:85&stream=683110&exte
 
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",CHIPS
+http://mohdtv.com:8880/live/voby3037/69246643/60103.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Knight Rider 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Knight Rider
 http://mohdtv.com:8880/live/voby3037/69246643/60078.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",SIX MILLION DOLLAR MAN
@@ -93,6 +95,8 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:00:04:DF&stream=617097&extension=ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",THE INCREDIBLE HULK
 http://cod5.me:80/play/live.php?mac=00:1A:79:00:04:DF&stream=741427&extension=ts
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",JUST FOR LAUGHS
+http://mohdtv.com:8880/live/voby3037/69246643/60083.ts
 
 
 
