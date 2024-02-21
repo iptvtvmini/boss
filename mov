@@ -576,7 +576,7 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552052&extension=m3
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552050&extension=m3u8
 
 #EXTINF:-1 tvg-id="SHOxBET(East).(SHOBET).us" tvg-logo="",SHOXBET
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552106&extension=m3u8
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552106&extension=ts
 
 
 #EXTINF:-1 tvg-id="SCRNPIX.ScreenPix.us" tvg-logo="",SCREENPIX
