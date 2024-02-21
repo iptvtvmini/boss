@@ -1,59 +1,30 @@
 https://epgshare01.online/epgshare01/epg_ripper_PLUTOTV1.xml.gz
 
+#EXTINF:-1 tvg-id="" tvg-logo="",
 
-Pluto.TV.Action.Sports.us
-Pluto.TV.Action.us
-Pluto.TV.Animals.us
-Pluto.TV.Backcountry.us
-Pluto.TV.Best.Life.us
-Pluto.TV.Boxing.us
-Pluto.TV.Cars.us
-Pluto.TV.Celebrity.us
-Pluto.TV.Comedy.us
-Pluto.TV.Courtroom.us
-Pluto.TV.Crime.Drama.us
-Pluto.TV.Crime.Movies.us
-Pluto.TV.Cult.Films.us
-Pluto.TV.Documentaries.us
-Pluto.TV.Drama.Life.us
-Pluto.TV.Drama.us
-Pluto.TV.Fantastic.us
-Pluto.TV.Gamer.us
-Pluto.TV.Game.Shows.us
-Pluto.TV.History.us
-Pluto.TV.Home.us
-Pluto.TV.Horror.us
-Pluto.TV.Lives.us
-Pluto.TV.Love.Stories.us
-Pluto.TV.Military.us
-Pluto.TV.News.us
-Pluto.TV.Paranormal.us
-Pluto.TV.Pranks.us
-Pluto.TV.Pro.Wrestling.us
-Pluto.TV.Reaction.us
-Pluto.TV.Reality.us
-Pluto.TV.Romance.us
-Pluto.TV.Science.us
-Pluto.TV.Sci-Fi.us
-Pluto.TV.Soaps.us
-Pluto.TV.Sports.us
-Pluto.TV.Spotlight.us
-Pluto.TV.Staff.Picks.us
-Pluto.TV.Suspense.us
-Pluto.TV.Terror.us
-Pluto.TV.Thrillers.us
-Pluto.TV.Travel.us
-Pluto.TV.True.Crime.us
-Pluto.TV.Vs..us
-Pluto.TV.Weddings.us
-Pluto.TV.Westerns.us
-Movies.on.Verizon.us
+#EXTINF:-1 tvg-id="Pluto.TV.Action.us" tvg-logo="",Pluto.TV.Action.us
+#EXTINF:-1 tvg-id="Pluto.TV.Comedy.us" tvg-logo="",Pluto.TV.Comedy.us
+#EXTINF:-1 tvg-id="Pluto.TV.Crime.Movies.us" tvg-logo="",Pluto.TV.Crime.Movies.us
+#EXTINF:-1 tvg-id="Pluto.TV.Cult.Films.us" tvg-logo="",Pluto.TV.Cult.Films.us
+#EXTINF:-1 tvg-id="Pluto.TV.Fantastic.us" tvg-logo="",Pluto.TV.Fantastic.us
+#EXTINF:-1 tvg-id="Pluto.TV.Horror.us" tvg-logo="",Pluto.TV.Horror.us
+#EXTINF:-1 tvg-id="Pluto.TV.Paranormal.us" tvg-logo="",Pluto.TV.Paranormal.us
+#EXTINF:-1 tvg-id="Pluto.TV.Pranks.us" tvg-logo="",Pluto.TV.Pranks.us
+#EXTINF:-1 tvg-id="Pluto.TV.Reaction.us" tvg-logo="",Pluto.TV.Reaction.us
+#EXTINF:-1 tvg-id="Pluto.TV.Reality.us" tvg-logo="",Pluto.TV.Reality.us
+#EXTINF:-1 tvg-id="Pluto.TV.Romance.us" tvg-logo="",Pluto.TV.Romance.us
+#EXTINF:-1 tvg-id="" tvg-logo="",Pluto.TV.Sci-Fi.us
+#EXTINF:-1 tvg-id="" tvg-logo="",Pluto.TV.Spotlight.us
+#EXTINF:-1 tvg-id="" tvg-logo="",Pluto.TV.Staff.Picks.us
+#EXTINF:-1 tvg-id="" tvg-logo="",Pluto.TV.Suspense.us
+#EXTINF:-1 tvg-id="" tvg-logo="",Pluto.TV.Terror.us
+#EXTINF:-1 tvg-id="" tvg-logo="",Pluto.TV.Thrillers.us
+#EXTINF:-1 tvg-id="" tvg-logo="",Pluto.TV.Westerns.us
+#EXTINF:-1 tvg-id="" tvg-logo="",Movies.on.Verizon.us
 
-
-
-70s.Cinema.us
-80s.Rewind.us
-90s.Throwback.us
-Game.Show.Central.us
+#EXTINF:-1 tvg-id="" tvg-logo="",70s.Cinema.us
+#EXTINF:-1 tvg-id="" tvg-logo="",80s.Rewind.us
+#EXTINF:-1 tvg-id="" tvg-logo="",90s.Throwback.us
+#EXTINF:-1 tvg-id="" tvg-logo="",Game.Show.Central.us
 
 
