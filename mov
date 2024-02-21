@@ -576,7 +576,7 @@ http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=551775&ex
 
 
 
-#EXTINF:-1 tvg-id="BBC.One.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbcone.png",BBC 1
+#EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbcone.png",BBC 1
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577275&extension=m3u8
 
 #EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbc2.png",BBC 2
