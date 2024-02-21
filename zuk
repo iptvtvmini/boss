@@ -103,13 +103,19 @@ British.Muslim.uk
 Browse.Shop.uk
 BTSBoxOff2HD.uk
 BT.Sport.10.uk
-#EXTINF:-1 tvg-id="" tvg-logo="",BT.Sport.1.HD.uk
+
+
+#EXTINF:-1 tvg-id="BT.Sport.1.HD.uk" tvg-logo="",BT.Sport.1
+#EXTINF:-1 tvg-id="BT.Sport.2.HD.uk" tvg-logo="",BT.Sport.2
+#EXTINF:-1 tvg-id="BT.Sport.3.HD.uk" tvg-logo="",BT.Sport.3
+#EXTINF:-1 tvg-id="BT.Sport.4.HD.uk" tvg-logo="",BT.Sport.4
+
 BT.Sport.1.uk
-#EXTINF:-1 tvg-id="" tvg-logo="",BT.Sport.2.HD.uk
+
 BT.Sport.2.uk
-#EXTINF:-1 tvg-id="" tvg-logo="",BT.Sport.3.HD.uk
+
 BT.Sport.3.uk
-#EXTINF:-1 tvg-id="" tvg-logo="",BT.Sport.4.HD.uk
+
 BT.Sport.4.uk
 BT.Sport.5.uk
 BT.Sport.6.uk
