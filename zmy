@@ -1,162 +1,124 @@
-https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz"
 
-8TV.my
-ABC.Australia.HD.my
-ABO.Movies.Thangathirai.HD.my
-Adithya.my
-AI.FM.my
-Al-Hijrah.my
-Al.Jazeera.English.HD.my
-Animal.Planet.HD.my
-Asian.Food.Network.HD.my
-Astro.AEC.HD.my
-Astro.AOD.311.my
-Astro.AOD.352.my
-Astro.AOD.354.my
-Astro.Arena.2.HD.my
-Astro.Arena.HD.my
-Astro.Aura.HD.my
-Astro.Awani.HD.my
-Astro.Ceria.HD.my
-Astro.Citra.HD.my
-Astro.Cricket.HD.my
-Astro.Hua.Hee.Dai.HD.my
-Astro.Oasis.HD.my
-Astro.Prima.HD.my
+#EXTINF:-1 tvg-id="8TV.my" tvg-logo="",8TV.my
+
+#EXTINF:-1 tvg-id="Al-Hijrah.my" tvg-logo="",Al-Hijrah.my
+#EXTINF:-1 tvg-id="Al.Jazeera.English.HD.my" tvg-logo="",Al.Jazeera.English.HD.my
+#EXTINF:-1 tvg-id="Animal.Planet.HD.my" tvg-logo="",Animal.Planet.HD.my
+#EXTINF:-1 tvg-id="Asian.Food.Network.HD.my" tvg-logo="",Asian.Food.Network.HD.my
+
+#EXTINF:-1 tvg-id="Astro.Arena.2.HD.my" tvg-logo="",Astro.Arena.2.HD.my
+#EXTINF:-1 tvg-id="Astro.Arena.HD.my" tvg-logo="",Astro.Arena.HD.my
+#EXTINF:-1 tvg-id="Astro.Aura.HD.my" tvg-logo="",Astro.Aura.HD.my
+#EXTINF:-1 tvg-id="Astro.Awani.HD.my" tvg-logo="",Astro.Awani.HD.my
+#EXTINF:-1 tvg-id="Astro.Ceria.HD.my" tvg-logo="",Astro.Ceria.HD.my
+#EXTINF:-1 tvg-id="Astro.Citra.HD.my" tvg-logo="",Astro.Citra.HD.my
+#EXTINF:-1 tvg-id="Astro.Cricket.HD.my" tvg-logo="",Astro.Cricket.HD.my
+
+#EXTINF:-1 tvg-id="Astro.Oasis.HD.my" tvg-logo="",Astro.Oasis.HD.my
+#EXTINF:-1 tvg-id="Astro.Prima.HD.my" tvg-logo="",Astro.Prima.HD.my
 Astro.Quan.Jia.HD.my
-Astro.Rania.HD.my
-Astro.Ria.HD.my
-Astro.Shuang.Xing.HD.my
-Astro.SuperSport.2.HD.my
-Astro.SuperSport.3.HD.my
-Astro.SuperSport.4.HD.my
-Astro.Supersport.5.HD.my
-Astro.SuperSport.HD.my
-Astro.SuperSport.UHD.1.my
-Astro.Tutor.TV.SK.HD.my
-Astro.Tutor.TV.SMK.HD.my
-Astro.Vaanavil.HD.my
-Astro.Vellithirai.HD.my
-Astro.Vinmeen.HD.my
-Astro.Warna.HD.my
-Astro.Xiao.Tai.Yang.HD.my
-ASYIK.FM.my
-Awesome.TV.my
-AXN.HD.my
-BAYU.my
-BBC.Earth.my
-BBC.Lifestyle.HD.my
-BBC.World.News.HD.my
-beIN.Sports.2.my
-beIN.Sports.3.my
-beIN.Sports.HD.my
-BERNAMA.my
-Bloomberg.TV.HD.my
-BollyOne.HD.my
-BOO.HD.my
-Boomerang.my
-Cartoon.Network.HD.my
-CCTV4..HD.my
-Celestial.Classic.Movies.my
-Celestial.Movies.HD.my
-CGTN.HD.my
-Chutti.TV.my
-CINEMAX.HD.my
-CLASSIC.ROCK.my
-CNA.HD.my
-CNBC.Asia.HD.my
-CNN.HD.my
-Colors.Hindi.HD.my
-Colors.Tamil.HD.my
-Crime.&amp;.Investigation.HD.my
-CTI.Asia.HD.my
-Discovery.Asia.HD.my
-Discovery.Channel.HD.my
-DMAX.HD.my
-DW.English.my
-eGG.Network.HD.my
-ERA.FM.my
-Eurosport.HD.my
-Food.Network.HD.my
-France24.my
-GOLD.my
-Golf.Channel.HD.my
-Go.Shop.150.my
-Go.Shop.303.my
-Go.Shop.BAARU.my
-Go.Shop.GAAYA.my
-Go.Shop.RUUMA.my
-GO.XUAN.my
-HBO.Family.my
-HBO.HD.my
-HBO.Hits.my
-HGTV.HD.my
-History.HD.my
-HITS.HD.my
-HITS.Movies.HD.my
-HITZ.FM.my
-INDIA.BEAT.my
-iQIYI.HD.my
-JAZZ.my
-KBS.World.HD.my
-KENYALANG.my
-K-Plus.HD.my
-Lifetime.HD.my
-LITE.FM.my
-MELODY.FM.my
-MINNAL.FM.my
-MIX.FM.my
-Moonbug.Kids.my
-MTV.Asia.HD.my
-MY.FM.my
-NAS.FM.my
-Nat.Geo.Wild.HD.my
-National.Geographic.HD.my
-NHK.World.Premium.my
-Nickelodeon.HD.my
-Nick.Jr..my
-NJOI.TV.my
-NTV7.my
-ONE.HD.my
-OPUS.my
-OSAI.my
-Paramount.Network.my
-Phoenix.Chinese.Channel.HD.my
-Phoenix.Info.News.HD.my
-Premier.Sports.my
-PRIMEtime.my
-SHOWCASE.MOVIES.my
-SINAR.FM.my
-Sky.News.HD.my
-Special.Event.Sports.HD.03.my
-Special.Event.Sports.HD.04.my
-Special.Event.Sports.HD.05.my
-Special.Event.Sports.HD.06.my
-SPOTV.my
-Star.Vijay.HD.my
-Sun.Music.HD.my
-SUN.TV.HD.my
-TA-DAA!.my
-THR.GEGAR.my
-THR.RAAGA.my
-TLC.HD.my
+#EXTINF:-1 tvg-id="Astro.Rania.HD.my" tvg-logo="",Astro.Rania.HD.my
+#EXTINF:-1 tvg-id="Astro.Ria.HD.my" tvg-logo="",Astro.Ria.HD.my
+
+#EXTINF:-1 tvg-id="Astro.SuperSport.2.HD.my" tvg-logo="",Astro.SuperSport.2.HD.my
+#EXTINF:-1 tvg-id="Astro.SuperSport.3.HD.my" tvg-logo="",Astro.SuperSport.3.HD.my
+#EXTINF:-1 tvg-id="Astro.SuperSport.4.HD.my" tvg-logo="",Astro.SuperSport.4.HD.my
+#EXTINF:-1 tvg-id="Astro.Supersport.5.HD.my" tvg-logo="",Astro.Supersport.5.HD.my
+#EXTINF:-1 tvg-id="Astro.SuperSport.HD.my" tvg-logo="",Astro.SuperSport.HD.my
+#EXTINF:-1 tvg-id="Astro.SuperSport.UHD.1.my" tvg-logo="",Astro.SuperSport.UHD.1.my
+
+#EXTINF:-1 tvg-id="Astro.Warna.HD.my" tvg-logo="",Astro.Warna.HD.my
+
+#EXTINF:-1 tvg-id="Awesome.TV.my" tvg-logo="",Awesome.TV.my
+#EXTINF:-1 tvg-id="AXN.HD.my" tvg-logo="",AXN.HD.my
+
+#EXTINF:-1 tvg-id="BBC.Lifestyle.HD.my" tvg-logo="",BBC.Lifestyle.HD.my
+#EXTINF:-1 tvg-id="BBC.World.News.HD.my" tvg-logo="",BBC.World.News.HD.my
+#EXTINF:-1 tvg-id="beIN.Sports.2.my" tvg-logo="",beIN.Sports.2.my
+#EXTINF:-1 tvg-id="beIN.Sports.3.my" tvg-logo="",beIN.Sports.3.my
+#EXTINF:-1 tvg-id="beIN.Sports.HD.my" tvg-logo="",beIN.Sports.HD.my
+#EXTINF:-1 tvg-id="BERNAMA.my" tvg-logo="",BERNAMA.my
+#EXTINF:-1 tvg-id="Bloomberg.TV.HD.my" tvg-logo="",Bloomberg.TV.HD.my
+#EXTINF:-1 tvg-id="BollyOne.HD.my" tvg-logo="",BollyOne.HD.my
+#EXTINF:-1 tvg-id="BOO.HD.my" tvg-logo="",BOO.HD.my
+#EXTINF:-1 tvg-id="Boomerang.my" tvg-logo="",Boomerang.my
+#EXTINF:-1 tvg-id="Cartoon.Network.HD.my" tvg-logo="",Cartoon.Network.HD.my
+
+#EXTINF:-1 tvg-id="Celestial.Classic.Movies.my" tvg-logo="",Celestial.Classic.Movies.my
+#EXTINF:-1 tvg-id="Celestial.Movies.HD.my" tvg-logo="",Celestial.Movies.HD.my
+#EXTINF:-1 tvg-id="CGTN.HD.my" tvg-logo="",CGTN.HD.my
+
+#EXTINF:-1 tvg-id=",CINEMAX.HD.my" tvg-logo="",CINEMAX.HD.my
+
+#EXTINF:-1 tvg-id="CNA.HD.my" tvg-logo="",CNA.HD.my
+#EXTINF:-1 tvg-id="CNBC.Asia.HD.my" tvg-logo="",CNBC.Asia.HD.my
+#EXTINF:-1 tvg-id="CNN.HD.my" tvg-logo="",CNN.HD.my
+
+#EXTINF:-1 tvg-id="Crime.&amp;.Investigation.HD.my" tvg-logo="",Crime.&amp;.Investigation.HD.my
+
+#EXTINF:-1 tvg-id="Discovery.Asia.HD.my" tvg-logo="",Discovery.Asia.HD.my
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.my" tvg-logo="",Discovery.Channel.HD.my
+#EXTINF:-1 tvg-id="DMAX.HD.my" tvg-logo="",DMAX.HD.my
+#EXTINF:-1 tvg-id="DW.English.my" tvg-logo="",DW.English.my
+#EXTINF:-1 tvg-id="eGG.Network.HD.my" tvg-logo="",eGG.Network.HD.my
+
+#EXTINF:-1 tvg-id="Eurosport.HD.my" tvg-logo="",Eurosport.HD.my
+#EXTINF:-1 tvg-id="Food.Network.HD.my" tvg-logo="",Food.Network.HD.my
+#EXTINF:-1 tvg-id="France24.my" tvg-logo="",France24.my
+
+#EXTINF:-1 tvg-id="Golf.Channel.HD.my" tvg-logo="",Golf.Channel.HD.my
+
+#EXTINF:-1 tvg-id="HBO.Family.my" tvg-logo="",HBO.Family.my
+#EXTINF:-1 tvg-id="HBO.HD.my" tvg-logo="",HBO.HD.my
+#EXTINF:-1 tvg-id="HBO.Hits.my" tvg-logo="",HBO.Hits.my
+#EXTINF:-1 tvg-id="HGTV.HD.my" tvg-logo="",HGTV.HD.my
+#EXTINF:-1 tvg-id="History.HD.my" tvg-logo="",History.HD.my
+#EXTINF:-1 tvg-id="HITS.HD.my" tvg-logo="",HITS.HD.my
+#EXTINF:-1 tvg-id="HITS.Movies.HD.my" tvg-logo="",HITS.Movies.HD.my
+
+#EXTINF:-1 tvg-id="iQIYI.HD.my" tvg-logo="",iQIYI.HD.my
+
+#EXTINF:-1 tvg-id="KBS.World.HD.my" tvg-logo="",KBS.World.HD.my
+
+#EXTINF:-1 tvg-id="K-Plus.HD.my" tvg-logo="",K-Plus.HD.my
+#EXTINF:-1 tvg-id="Lifetime.HD.my" tvg-logo="",Lifetime.HD.my
+
+#EXTINF:-1 tvg-id="Moonbug.Kids.my" tvg-logo="",Moonbug.Kids.my
+
+#EXTINF:-1 tvg-id="Nat.Geo.Wild.HD.my" tvg-logo="",Nat.Geo.Wild.HD.my
+#EXTINF:-1 tvg-id="National.Geographic.HD.my" tvg-logo="",National.Geographic.HD.my
+#EXTINF:-1 tvg-id="NHK.World.Premium.my" tvg-logo="",NHK.World.Premium.my
+#EXTINF:-1 tvg-id="Nickelodeon.HD.my" tvg-logo="",Nickelodeon.HD.my
+#EXTINF:-1 tvg-id="Nick.Jr.my" tvg-logo="",Nick Jr
+
+#EXTINF:-1 tvg-id=",NTV7.my" tvg-logo="",NTV7.my
+#EXTINF:-1 tvg-id="ONE.HD.my" tvg-logo="",ONE.HD.my
+
+#EXTINF:-1 tvg-id="Paramount.Network.my" tvg-logo="",Paramount.Network.my
+
+#EXTINF:-1 tvg-id="Premier.Sports.my" tvg-logo="",Premier.Sports.my
+#EXTINF:-1 tvg-id="PRIMEtime.my" tvg-logo="",PRIMEtime.my
+#EXTINF:-1 tvg-id="SHOWCASE.MOVIES.my" tvg-logo="",SHOWCASE.MOVIES.my
+
+#EXTINF:-1 tvg-id="Sky.News.HD.my" tvg-logo="",Sky.News.HD.my
+
+#EXTINF:-1 tvg-id="SPOTV.my" tvg-logo="",SPOTV.my
+
+#EXTINF:-1 tvg-id="TA-DAA!.my" tvg-logo="",TA-DAA!.my
+
+#EXTINF:-1 tvg-id="TLC.HD.my" tvg-logo="",TLC.HD.my
 TRAXX.FM.my
-TV1.HD.my
-TV2.HD.my
-TV3.my
-TV9.my
-TVB.Classic.HD.my
-TVB.Entertainment.News.HD.my
-TVB.Jade.my
-TVBS.Asia.HD.my
-TVB.Xing.He.HD.my
-tvN.HD.my
-tvN.Movies.HD.my
-TV.Okey.HD.my
-TVS.my
-V.FM.my
-WAI.FM.my
-Warner.TV.HD.my
-WWE.Network.HD.my
-ZAYAN.my
-Zee.Tamil.HD.my
+#EXTINF:-1 tvg-id="TV1.HD.my" tvg-logo="",TV1.HD.my
+#EXTINF:-1 tvg-id="TV2.HD.my" tvg-logo="",TV2.HD.my
+#EXTINF:-1 tvg-id="TV3.my" tvg-logo="",TV3.my
+#EXTINF:-1 tvg-id="TV9.my" tvg-logo="",TV9.my
+
+#EXTINF:-1 tvg-id="tvN.HD.my" tvg-logo="",tvN.HD.my
+#EXTINF:-1 tvg-id="tvN.Movies.HD.my" tvg-logo="",tvN.Movies.HD.my
+#EXTINF:-1 tvg-id="TV.Okey.HD.my" tvg-logo="",TV.Okey.HD.my
+#EXTINF:-1 tvg-id="TVS.my" tvg-logo="",TVS.my
+
+#EXTINF:-1 tvg-id="Warner.TV.HD.my" tvg-logo="",Warner.TV.HD.my
+#EXTINF:-1 tvg-id="WWE.Network.HD.my" tvg-logo="",WWE.Network.HD.my
+
