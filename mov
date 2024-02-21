@@ -80,8 +80,9 @@ http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:09:eb:85&stream=683110&exte
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",MACGYVER
-http://cod5.me:80/play/live.php?mac=00:1A:79:00:04:DF&stream=741441&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Knight Rider
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1790001&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",SIX MILLION DOLLAR MAN
 http://cod5.me:80/play/live.php?mac=00:1A:79:00:04:DF&stream=617093&extension=ts
@@ -92,8 +93,6 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:00:04:DF&stream=617097&extension=ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",THE INCREDIBLE HULK
 http://cod5.me:80/play/live.php?mac=00:1A:79:00:04:DF&stream=741427&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",RUSH HOUR
-http://cod5.me:80/play/live.php?mac=00:1A:79:00:04:DF&stream=617118&extension=ts
 
 
 
@@ -689,6 +688,13 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:00:04:DF&stream=617151&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",BRUCE LEE MOVIES
 http://cod5.me:80/play/live.php?mac=00:1A:79:00:04:DF&stream=617154&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Jackie Chan
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1790291&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Dwayne Johnson
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1790071&extension=ts
+
 
 
 #EXTINF:-1 tvg-id="",WESTERN
