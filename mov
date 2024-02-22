@@ -592,6 +592,86 @@ http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=551776&ex
 http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=551775&extension=ts
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",ARNOLD SCHWARZENEGGER
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=617151&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",BRUCE LEE MOVIES
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=617154&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Jackie Chan
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:68:8D:DB&stream=1790291&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Dwayne Johnson
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:68:8D:DB&stream=1790071&extension=ts
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Action Movies
+http://mohdtv.com:8880/live/voby3037/69246643/60207.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",BOXING MOVIES
+http://cod5.me:80/play/live.php?mac=00:1A:79:00:04:DF&stream=617165&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",COMEDY MOVIES
+http://mohdtv.com:8880/live/voby3037/69246643/60049.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",DISNEY MOVIES
+http://mohdtv.com:8880/live/voby3037/69246643/60928.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",HORROR MOVIES
+http://mohdtv.com:8880/live/voby3037/69246643/60857.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",FAMILY MOVIES
+http://mohdtv.com:8880/live/voby3037/69246643/60862.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",CRIME MOVIES
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617146&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",SCIFI MOVIES
+http://mohdtv.com:8880/live/voby3037/69246643/60894.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",DRAMA MOVIES
+http://mohdtv.com:8880/live/voby3037/69246643/60838.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",THRILLER MOVIES
+http://mohdtv.com:8880/live/voby3037/69246643/60253.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",SUPERHERO MOVIES
+http://mohdtv.com:8880/live/voby3037/69246643/60257.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",SPORTS MOVIES
+http://cod5.me:80/play/live.php?mac=00:1A:79:00:04:DF&stream=617115&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",WAR MOVIES
+http://mohdtv.com:8880/live/voby3037/69246643/60247.ts
+
+
+
+
+#EXTINF:-1 tvg-id="",WESTERN
+http://cod5.me:80/play/live.php?mac=00:1A:79:6E:C6:01&stream=705055&extension=ts
+
+#EXTINF:-1 tvg-id="",WESTERN 1
+http://cod5.me:80/play/live.php?mac=00:1A:79:6E:C6:01&stream=705054&extension=ts
+
+#EXTINF:-1 tvg-id="",WESTERN 2
+http://cod5.me:80/play/live.php?mac=00:1A:79:6E:C6:01&stream=705053&extension=ts
+
+#EXTINF:-1 tvg-id="",WESTERN 3
+http://cod5.me:80/play/live.php?mac=00:1A:79:6E:C6:01&stream=705052&extension=ts
+
+#EXTINF:-1 tvg-id="",WESTERN 4
+http://cod5.me:80/play/live.php?mac=00:1A:79:6E:C6:01&stream=705051&extension=ts
+
+#EXTINF:-1 tvg-id="",WESTERN 5
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705050&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1A:79:6E:C6:01&stream=705050&extension=ts
+
+
+
 
 #EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbcone.png",BBC 1
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577275&extension=m3u8
@@ -647,227 +727,41 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577370&extension=m3
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Action Movies
-http://mohdtv.com:8880/live/voby3037/69246643/60207.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",BOXING MOVIES
-http://cod5.me:80/play/live.php?mac=00:1A:79:00:04:DF&stream=617165&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",COMEDY MOVIES
-http://mohdtv.com:8880/live/voby3037/69246643/60049.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",DISNEY MOVIES
-http://mohdtv.com:8880/live/voby3037/69246643/60928.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",HORROR MOVIES
-http://mohdtv.com:8880/live/voby3037/69246643/60857.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",FAMILY MOVIES
-http://mohdtv.com:8880/live/voby3037/69246643/60862.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",CRIME MOVIES
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617146&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",SCIFI MOVIES
-http://mohdtv.com:8880/live/voby3037/69246643/60894.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",DRAMA MOVIES
-http://mohdtv.com:8880/live/voby3037/69246643/60838.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",THRILLER MOVIES
-http://mohdtv.com:8880/live/voby3037/69246643/60253.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",SUPERHERO MOVIES
-http://mohdtv.com:8880/live/voby3037/69246643/60257.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",SPORTS MOVIES
-http://cod5.me:80/play/live.php?mac=00:1A:79:00:04:DF&stream=617115&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",WAR MOVIES
-http://mohdtv.com:8880/live/voby3037/69246643/60247.ts
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",ARNOLD SCHWARZENEGGER
-http://cod5.me:80/play/live.php?mac=00:1A:79:00:04:DF&stream=617151&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",BRUCE LEE MOVIES
-http://cod5.me:80/play/live.php?mac=00:1A:79:00:04:DF&stream=617154&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Jackie Chan
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1790291&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Dwayne Johnson
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1790071&extension=ts
-
-
-
-#EXTINF:-1 tvg-id="",WESTERN
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705055&extension=ts
-#EXTINF:-1 tvg-id="",WESTERN 1
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705054&extension=ts
-
-#EXTINF:-1 tvg-id="",WESTERN 2
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705053&extension=ts
-
-#EXTINF:-1 tvg-id="",WESTERN 3
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705052&extension=ts
-
-#EXTINF:-1 tvg-id="",WESTERN 4
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705051&extension=ts
-
-#EXTINF:-1 tvg-id="",WESTERN 5
-http://cod5.me:80/play/live.php?mac=00:1A:79:00:04:DF&stream=705050&extension=ts
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="",HOLLYWOOD PREMIERE 1
-http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:09:eb:85&stream=1438487&extension=ts
-
-#EXTINF:-1 tvg-id="",HOLLYWOOD PREMIERE 2
-http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:09:eb:85&stream=1438486&extension=ts
-
-#EXTINF:-1 tvg-id="",HOLLYWOOD PREMIERE 3
-http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:09:eb:85&stream=1438485&extension=ts
-
-#EXTINF:-1 tvg-id="",HOLLYWOOD PREMIERE 4
-http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:09:eb:85&stream=1438484&extension=ts
-
-#EXTINF:-1 tvg-id="",HOLLYWOOD PREMIERE 5
-http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:09:eb:85&stream=1438483&extension=ts
-
-#EXTINF:-1 tvg-id="",HOLLYWOOD PREMIERE 6
-http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:09:eb:85&stream=1438482&extension=ts
-
-#EXTINF:-1 tvg-id="",HOLLYWOOD PREMIERE 7
-http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:09:eb:85&stream=1438481&extension=ts
-
-#EXTINF:-1 tvg-id="",HOLLYWOOD PREMIERE 8
-http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:09:eb:85&stream=1438480&extension=ts
-
-#EXTINF:-1 tvg-id="",HOLLYWOOD PREMIERE 9
-http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:09:eb:85&stream=1438479&extension=ts
-
-#EXTINF:-1 tvg-id="",HOLLYWOOD PREMIERE 10
-http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:09:eb:85&stream=1438478&extension=ts
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaaction.png",SKY CINEMA ACTION
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577387&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1A:79:6E:C6:01&stream=577387&extension=ts
 
 #EXTINF:-1 tvg-id="Sky.Comedy.Cinema.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemacomedy.png",SKY CINEMA COMEDY
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577385&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1A:79:6E:C6:01&stream=577385&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemadrama.png",SKY CINEMA DRAMA
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577383&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1A:79:6E:C6:01&stream=577383&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/greatmovies.png",SKY CINEMA GREATS
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577382&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1A:79:6E:C6:01&stream=577382&extension=ts
 
 #EXTINF:-1 tvg-id="Sky.Cinema.Hits.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemahits.png",SKY CINEMA HITS
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577381&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1A:79:6E:C6:01&stream=577381&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="",SKY CINEMA OSCARS
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577380&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1A:79:6E:C6:01&stream=577380&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemapremiere.png",SKY CINEMA PREMIERE
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577379&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1A:79:6E:C6:01&stream=577379&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemasci.png",SKY CINEMA SCIFI
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577378&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1A:79:6E:C6:01&stream=577378&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemacrime-thriller.png",SKY CINEMA THRILLER
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577376&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1A:79:6E:C6:01&stream=577376&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-cinema-family-uk.png",SKY CINEMA FAMILY
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577368&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1A:79:6E:C6:01&stream=577368&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemasci.png",SKY CINEMA SCI-FI
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577364&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1A:79:6E:C6:01&stream=577364&extension=ts
 
 #EXTINF:-1 tvg-id="Sky.Cinema.Select.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaselect.png",SKY CINEMA SELECT
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577377&extension=ts
-
-
-
-#EXTINF:-1 tvg-id="",HBO MAX 1
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705105&extension=ts
-
-#EXTINF:-1 tvg-id="",HBO MAX 2
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705104&extension=ts
-
-#EXTINF:-1 tvg-id="",HBO MAX 3
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705103&extension=ts
-
-#EXTINF:-1 tvg-id="",HBO MAX 4
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705102&extension=ts
-
-#EXTINF:-1 tvg-id="",HBO MAX 5
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705101&extension=ts
-
-#EXTINF:-1 tvg-id="",HBO MAX 6
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705100&extension=ts
-
-#EXTINF:-1 tvg-id="",HBO MAX 7
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705099&extension=ts
-
-
-#EXTINF:-1 tvg-id="",NETFLIX
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705071&extension=ts
-
-#EXTINF:-1 tvg-id="",NETFLIX 1
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705070&extension=ts
-
-#EXTINF:-1 tvg-id="",NETFLIX 2
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705069&extension=ts
-
-#EXTINF:-1 tvg-id="",NETFLIX 3
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705068&extension=ts
-
-#EXTINF:-1 tvg-id="",NETFLIX 4
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705067&extension=ts
-
-#EXTINF:-1 tvg-id="",NETFLIX 5
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705066&extension=ts
-
-
-#EXTINF:-1 tvg-id="",SHOWTIME
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705064&extension=ts
-
-#EXTINF:-1 tvg-id="",SHOWTIME 1
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705063&extension=ts
-
-#EXTINF:-1 tvg-id="",SHOWTIME 2
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705062&extension=ts
-
-#EXTINF:-1 tvg-id="",SHOWTIME 3
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705061&extension=ts
-
-#EXTINF:-1 tvg-id="",SHOWTIME 4
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705060&extension=ts
-
-#EXTINF:-1 tvg-id="",SHOWTIME 5
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705059&extension=ts
-
-#EXTINF:-1 tvg-id="",SHOWTIME 6
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705058&extension=ts
-
-#EXTINF:-1 tvg-id="",SHOWTIME 7
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=705057&extension=ts
-
-
+http://cod5.me:80/play/live.php?mac=00:1A:79:6E:C6:01&stream=577377&extension=ts
 
 
 
