@@ -418,10 +418,10 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://docdog.top/Logotv/countries//dubaisport3.png" group-title="",Dubai Sport 3
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 
-#EXTINF:-1 tvg-id="KSASports1.sa" tvg-logo="https://docdog.top/Logotv/countries//ksasport1.png" group-title="Sports",KSA Sports 1
+#EXTINF:-1 tvg-id="KSASports1.sa" tvg-logo="https://docdog.top/Logotv/countries//ksasport1.png" group-title="",KSA Sports 1
 https://edge.taghtia.com/sa/9.m3u8
 
-#EXTINF:-1 tvg-id="KSASports2.sa" tvg-logo="https://docdog.top/Logotv/countries//ksasport2.png" group-title="Sports",KSA Sports 2
+#EXTINF:-1 tvg-id="KSASports2.sa" tvg-logo="https://docdog.top/Logotv/countries//ksasport2.png" group-title="",KSA Sports 2
 https://edge.taghtia.com/sa/10.m3u8
 
 #EXTINF:-1 tvg-id="SharjahSports.ae" tvg-name="" tvg-logo="https://docdog.top/Logotv/countries//sharjahsport.png" group-title="",Sharjah Sport
