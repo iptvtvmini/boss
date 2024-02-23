@@ -103,16 +103,10 @@ http://mohdtv.com:8880/live/voby3037/69246643/60083.ts
 
 
 #EXTINF:-1 tvg-id="Channel.5.HD.sg" tvg-name="Channel 5" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428076_ico.png" group-title="",Channel 5
-http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:09:eb:85&stream=941615&extension=ts
-
 #EXTINF:-1 tvg-id="Channel.8.HD.sg" tvg-name="Channel 8" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428078_ico.png" group-title="",Channel 8
-http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:09:eb:85&stream=941616&extension=ts
-
 #EXTINF:-1 tvg-id="Channel.U.HD.sg" tvg-name="Channel U" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428075_ico.png" group-title="",Channel U
-http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:09:eb:85&stream=941617&extension=ts
-
 #EXTINF:-1 tvg-id="Suria.HD.sg" tvg-name="Suria" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428073_ico.png" group-title="",Suria
-http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:09:eb:85&stream=941575&extension=ts
+
 
 
 
