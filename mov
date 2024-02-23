@@ -65,16 +65,19 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Cinemax.HD.id" tvg-name="CINEMAX HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png" group-title="",CINEMAX
-http://tv.premiumplus.tv/play/live.php?mac=00:1A:79:B1:94:01&stream=683161&extension=ts
+http://vo01.mohdtv.com:8880/live/voby3037/69246643/71058.ts
 
 #EXTINF:-1 tvg-id="HITS.MOVIES.HD.id" tvg-name="HITS Movies HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png" group-title="",HITS Movies
-http://tv.premiumplus.tv/play/live.php?mac=00:1A:79:B1:94:01&stream=683163&extension=ts
+http://vo01.mohdtv.com:8880/live/voby3037/69246643/71056.ts
 
 #EXTINF:-1 tvg-id="HITS.id" tvg-name="HITS HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png" group-title="",Hits
-http://tv.premiumplus.tv/play/live.php?mac=00:1A:79:B1:94:01&stream=683145&extension=ts
+http://vo01.mohdtv.com:8880/live/voby3037/69246643/60455.ts
+
+#EXTINF:-1 tvg-id="Celestial.Classic.Movies.my" tvg-name="Celestial Classic Movies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="",Celestial Classic Movies (CCM)
+http://abcnew.site:8880/live/12mms040076/12794651/71046.ts
 
 #EXTINF:-1 tvg-id="CCM.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="",CCM
-http://tv.premiumplus.tv/play/live.php?mac=00:1A:79:B1:94:01&stream=683110&extension=ts
+
 
 
 
