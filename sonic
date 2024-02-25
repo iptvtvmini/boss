@@ -322,8 +322,35 @@ http://supersonictv.live:8080/live/Derrick/Hitman50$/40495.ts
 #EXTINF:-1 tvg-id="",Western Movie
 http://supersonictv.live:8080/live/Derrick/Hitman50$/40507.ts
 
+#EXTINF:-1 tvg-id="",Arnold Schwarzenegger
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1790073&extension=ts
+
+#EXTINF:-1 tvg-id="",Jackie Chan
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1790291&extension=ts
+
+#EXTINF:-1 tvg-id="",Nicolas Cage
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1790290&extension=ts
+
+#EXTINF:-1 tvg-id="",Dwayne Johnson
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1790071&extension=ts
 
 
+
+
+
+
+
+#EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv1.png",ITV 1
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1566&extension=ts
+
+#EXTINF:-1 tvg-id="ITV2.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv2.png",ITV 2
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=2703&extension=ts
+
+#EXTINF:-1 tvg-id="ITV3.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv3.png",ITV 3
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=2704&extension=ts
+
+#EXTINF:-1 tvg-id="ITV4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv4.png",ITV 4
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=2705&extension=ts
 
 
 
