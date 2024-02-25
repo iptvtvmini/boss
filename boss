@@ -67,32 +67,20 @@ https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="GTV.HD.id" tvg-name="" tvg-logo="" group-title="",GTV
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=683121&extension=ts
-
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="" tvg-logo="" group-title="",RCTI
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=683099&extension=ts
-
 #EXTINF:-1 tvg-id="MNCTV.HD.id" tvg-name="" tvg-logo="" group-title="",MNC TV
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=683098&extension=ts
+
 
 #EXTINF:-1 tvg-id="TVRIWorld.id" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="",TVRI World
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/stream3/streamPlaylist.m3u8
- 
 #EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="",CNN INA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Channel.5.HD.sg" tvg-name="Channel 5" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428076_ico.png" group-title="",Channel 5
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=941615&extension=ts
-
 #EXTINF:-1 tvg-id="Channel.8.HD.sg" tvg-name="Channel 8" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428078_ico.png" group-title="",Channel 8
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=941616&extension=ts
-
 #EXTINF:-1 tvg-id="Channel.U.HD.sg" tvg-name="Channel U" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428075_ico.png" group-title="",Channel U
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=941617&extension=ts
-
 #EXTINF:-1 tvg-id="Suria.HD.sg" tvg-name="Suria" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428073_ico.png" group-title="",Suria
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=941575&extension=ts
+
 
 
 
@@ -114,9 +102,7 @@ https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6
 
 
 #EXTINF:-1 tvg-id="HBO.HD.my" tvg-name="HBO HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png" group-title="",HBO
-
 #EXTINF:-1 tvg-id="HBO.Hits.my" tvg-name="HBO Hits" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/449_144.png" group-title="",HBO HITS
-
 #EXTINF:-1 tvg-id="HBO.Hits.HD.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/449_144.png" group-title="",HBO HITS
 
 
@@ -124,8 +110,6 @@ https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6
 http://vo01.mohdtv.com:8880/live/voby4349/154984156/1707.m3u8
 
 #EXTINF:-1 tvg-id="HBO.Family.HD.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png" group-title="",HBO FAMILY
-
-
 #EXTINF:-1 tvg-id="HBO.Signature.my" tvg-name="HBO Signature" tvg-logo="" group-title="",HBO Signature
 
 
@@ -153,24 +137,14 @@ http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=683110&extensi
 
 
 #EXTINF:-1 tvg-id="Boomerang.(BOOM).us" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/430_144.png" group-title="",Boomerang
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=479211&extension=ts
-
 #EXTINF:-1 tvg-id="Cartoon.Network.HDTV.(East).(TOONHD).us" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/371_144.png" group-title="",Cartoon Network
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=479212&extension=ts
-
 #EXTINF:-1 tvg-id="Nickelodeon.HDTV.(East).(NICHD).us" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/370_144.png" group-title="",Nickelodeon
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=479229&extension=ts
-
 #EXTINF:-1 tvg-id="Nick.Jr..(NicJr).us" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/392_144.png" group-title="",Nick Jr
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=479230&extension=ts
-
-
 
 #EXTINF:-1 tvg-id="Animal.Planet.HD.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png" group-title="",Animal Planet (ID)
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=683085&extension=ts
-
 #EXTINF:-1 tvg-id="Animal.Planet.HDTV.(East).(APHD).us" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png" group-title="",Animal Planet
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=45447&extension=ts
+
 
 
 
@@ -178,10 +152,8 @@ http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=45447&extensio
 http://vo01.mohdtv.com:8880/live/voby4349/154984156/71095.m3u8
 
 #EXTINF:-1 tvg-id="Crime.Investigation.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/369_144.png" group-title="",Crime & Investigation (ID)
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=683088&extension=ts
 
 #EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HDTV.(CI.HD).us" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/369_144.png" group-title="",Crime & Investigation
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469364&extension=ts
 
 #EXTINF:-1 tvg-id="Investigation.Discovery.HDTV.(IDHD).us" tvg-name="http://myserveriptv.com:2082/images/e00a346a1e80c3d33bbb82d4fd74b31e.png" tvg-logo="" group-title="",Investigation Discovery
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=176875&extension=ts
@@ -189,29 +161,23 @@ http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=176875&extensi
 #EXTINF:-1 tvg-id="National.Geographic.HD.my" tvg-name="National Geographic HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/140_144.png" group-title="",National Geographic
 
 #EXTINF:-1 tvg-id="National.Geographic.Channel.HD.id" tvg-name="" tvg-logo="" group-title="",National Geographic (ID)
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=683086&extension=ts
 
 #EXTINF:-1 tvg-id="National.Geographic.Channel.HDTV.(NGCHD).us" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/140_144.png" group-title="",National Geographic
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=176897&extension=ts
+
 
 #EXTINF:-1 tvg-id="Discovery.Channel.HD.my" tvg-name="Discovery Channel HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" group-title="",Discovery Channel
 
 #EXTINF:-1 tvg-id="Discovery.Channel.HD.id" tvg-name="Discovery Channel HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" group-title="",Discovery Channel (ID)
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=683090&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" group-title="",Discovery Channel
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=45442&extension=ts
 
 #EXTINF:-1 tvg-id="Discovery.Life.Channel.(DLIF).us" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" group-title="",Discovery Life
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=91820&extension=ts
-
 
 #EXTINF:-1 tvg-id="History.HD.my" tvg-name="History HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/144_144.png" group-title="",History
 
 #EXTINF:-1 tvg-id="History.HDTV.(East).(HISHD).us" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/144_144.png" group-title="",History
 
 #EXTINF:-1 tvg-id="History.HD.id" tvg-name="" tvg-logo="" group-title="",History (ID)
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=683091&extension=ts
 
 #EXTINF:-1 tvg-id="History2.Canada.(H2).ca" tvg-name="History2 Canada (H2)" tvg-logo="https://docdog.top/Logotv/countries/h2.png" group-title="",H2
 http://likea8bitboss.xyz:80/live/ericn/3259674108/761458.ts
