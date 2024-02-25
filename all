@@ -59,36 +59,24 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 #EXTINF:-1 tvg-id="BERNAMA.my" tvg-name="BERNAMA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/160_144.png" group-title="",Bernama
 
 
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="",Trans7
+#EXTINF:-1 tvg-id="Trans7.HD.id" tvg-name="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="",Trans7
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
  
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png" group-title="",Trans TV
+#EXTINF:-1 tvg-id="TransTV.HD.id" tvg-name="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png" group-title="",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="GTV.HD.id" tvg-name="" tvg-logo="" group-title="",GTV
-http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:09:eb:85&stream=683121&extension=ts
-
 #EXTINF:-1 tvg-id="MNCTV.HD.id" tvg-name="" tvg-logo="" group-title="",MNC
-http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:09:eb:85&stream=683098&extension=ts
-
 #EXTINF:-1 tvg-id="rtv.id" tvg-name="" tvg-logo="" group-title="",RTV
-http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:09:eb:85&stream=683095&extension=ts
 
 #EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="",CNN INA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Channel.5.HD.sg" tvg-name="Channel 5" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428076_ico.png" group-title="",Channel 5
-http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:09:eb:85&stream=941615&extension=ts
-
 #EXTINF:-1 tvg-id="Channel.8.HD.sg" tvg-name="Channel 8" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428078_ico.png" group-title="",Channel 8
-http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:09:eb:85&stream=941616&extension=ts
-
 #EXTINF:-1 tvg-id="Channel.U.HD.sg" tvg-name="Channel U" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428075_ico.png" group-title="",Channel U
-http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:09:eb:85&stream=941617&extension=ts
-
 #EXTINF:-1 tvg-id="Suria.HD.sg" tvg-name="Suria" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428073_ico.png" group-title="",Suria
-http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:09:eb:85&stream=941575&extension=ts
 
 
 #EXTINF:-1 tvg-id="Game.Show.Network.HDTV.(EAST).(GMSHWHD).us" tvg-name="Game Show Network HDTV (EAST) (GMSHWHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/game-show-network-us.png" group-title="",Game Show Network
@@ -125,7 +113,7 @@ http://mohdtv.com:8880/live/voby3037/69246643/1718.ts
 http://mohdtv.com:8880/live/voby3037/69246643/71046.ts
 
 #EXTINF:-1 tvg-id="CCM.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="",CCM (ID)
-http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:09:eb:85&stream=683110&extension=ts
+
 
 
 #EXTINF:-1 tvg-id="HBO.HD.my" tvg-name="HBO HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png" group-title="",HBO
