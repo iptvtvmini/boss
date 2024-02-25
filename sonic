@@ -298,6 +298,9 @@ http://supersonictv.live:8080/live/Derrick/Hitman50$/22159.ts
 #EXTINF:-1 tvg-id="",CHiPs
 http://supersonictv.live:8080/live/Derrick/Hitman50$/77109.ts
 
+#EXTINF:-1 tvg-id="",The Invisible Man
+http://supersonictv.live:8080/live/Derrick/Hitman50$/81600.ts
+
 #EXTINF:-1 tvg-id="",Action Movie
 http://supersonictv.live:8080/live/Derrick/Hitman50$/40480.ts
 
