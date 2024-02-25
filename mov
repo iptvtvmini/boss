@@ -82,23 +82,29 @@ http://abcnew.site:8880/live/12mms040076/12794651/71046.ts
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",CHIPS
-http://mohdtv.com:8880/live/voby3037/69246643/60103.ts
+#EXTINF:-1 tvg-id="",CHiPs
+http://supersonictv.live:8080/live/Derrick/Hitman50$/77109.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Knight Rider
-http://mohdtv.com:8880/live/voby3037/69246643/60078.ts
+#EXTINF:-1 tvg-id="",Action Movie
+http://supersonictv.live:8080/live/Derrick/Hitman50$/40480.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",SIX MILLION DOLLAR MAN
-http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=534105&extension=ts
+#EXTINF:-1 tvg-id="",Comedy Movie
+http://supersonictv.live:8080/live/Derrick/Hitman50$/40484.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",THE BIONIC WOMAN
-http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=478552&extension=ts
+#EXTINF:-1 tvg-id="",Crime Movie
+http://supersonictv.live:8080/live/Derrick/Hitman50$/40486.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",THE INCREDIBLE HULK
-http://line.greatstar.me/play/live.php?mac=00:1a:79:98:e1:28&stream=976573&extension=ts
+#EXTINF:-1 tvg-id="",Horror Movie
+http://supersonictv.live:8080/live/Derrick/Hitman50$/40492.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",JUST FOR LAUGHS
-http://mohdtv.com:8880/live/voby3037/69246643/60083.ts
+#EXTINF:-1 tvg-id="",Horror Movie 2
+http://supersonictv.live:8080/live/Derrick/Hitman50$/40493.ts
+
+#EXTINF:-1 tvg-id="",Kungfu
+http://supersonictv.live:8080/live/Derrick/Hitman50$/40495.ts
+
+#EXTINF:-1 tvg-id="",Western Movie
+http://supersonictv.live:8080/live/Derrick/Hitman50$/40507.ts
 
 
 
