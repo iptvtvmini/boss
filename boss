@@ -133,7 +133,7 @@ http://vo01.mohdtv.com:8880/live/voby4349/154984156/1718.ts
 http://vo01.mohdtv.com:8880/live/voby4349/154984156/71046.m3u8
 
 #EXTINF:-1 tvg-id="CCM.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="",CCM (ID)
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:09:eb:85&stream=683110&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=683110&extension=ts
 
 
 #EXTINF:-1 tvg-id="Boomerang.(BOOM).us" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/430_144.png" group-title="",Boomerang
