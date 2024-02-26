@@ -65,18 +65,8 @@ https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 #EXTINF:-1 tvg-id="TransTV.HD.id" tvg-name="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png" group-title="",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
-#EXTINF:-1 tvg-id="GTV.HD.id" tvg-name="" tvg-logo="" group-title="",GTV
-#EXTINF:-1 tvg-id="MNCTV.HD.id" tvg-name="" tvg-logo="" group-title="",MNC
-#EXTINF:-1 tvg-id="rtv.id" tvg-name="" tvg-logo="" group-title="",RTV
-
 #EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="",CNN INA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
-
-
-#EXTINF:-1 tvg-id="Channel.5.HD.sg" tvg-name="Channel 5" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428076_ico.png" group-title="",Channel 5
-#EXTINF:-1 tvg-id="Channel.8.HD.sg" tvg-name="Channel 8" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428078_ico.png" group-title="",Channel 8
-#EXTINF:-1 tvg-id="Channel.U.HD.sg" tvg-name="Channel U" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428075_ico.png" group-title="",Channel U
-#EXTINF:-1 tvg-id="Suria.HD.sg" tvg-name="Suria" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428073_ico.png" group-title="",Suria
 
 
 #EXTINF:-1 tvg-id="Game.Show.Network.HDTV.(EAST).(GMSHWHD).us" tvg-name="Game Show Network HDTV (EAST) (GMSHWHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/game-show-network-us.png" group-title="",Game Show Network
@@ -113,7 +103,7 @@ http://mohdtv.com:8880/live/voby3037/69246643/1718.ts
 http://mohdtv.com:8880/live/voby3037/69246643/71046.ts
 
 #EXTINF:-1 tvg-id="CCM.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="",CCM (ID)
-http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=683110&extension=ts
+
 
 
 
@@ -184,7 +174,7 @@ http://mohdtv.com:8880/live/voby3037/69246643/1720.ts
 http://mohdtv.com:8880/live/voby3037/69246643/1719.ts
 
 #EXTINF:-1 tvg-id="Astro.Supersport.5.HD.my" tvg-name="Astro Supersport 5 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="",Astro SuperSport 5
-http://abcnew.site:8880/live/12mms040076/12794651/1713.ts
+
 
 #EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-name="Eurosport 1 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="",EuroSport 1 (UK)
 http://supersonictv.live:8080/live/Derrick/Hitman50$/40451.ts
@@ -225,10 +215,6 @@ http://mohdtv.com:8880/live/voby3037/69246643/3082.ts
 
 #EXTINF:-1 tvg-id="Big.Ten.Network.HDTV.(24/7.Overflow.#3).(BTFB3).us" tvg-name="Big Ten Network HDTV (24/7 Overflow #3) (BTFB3)" tvg-logo="https://docdog.top/Logotv/countries//bigtennetwork.png" group-title="",Big Ten Network
 http://mohdtv.com:8880/live/voby3037/69246643/3076.ts
-
-
-#EXTINF:-1 tvg-id="Soccer.Channel.HD.id" tvg-name="Soccer Channel HD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_101.png" group-title="",Soccer Channel
-#EXTINF:-1 tvg-id="Fight.Sports.id" tvg-name="Fight Sports" tvg-logo="https://mncvision.id/userfiles/image/channel/150x150fightsport.jpg" group-title="",Fight Sports
 
 
 
