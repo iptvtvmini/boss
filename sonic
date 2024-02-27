@@ -368,6 +368,16 @@ http://supersonictv.live:8080/live/Derrick/Hitman50$/40495.ts
 http://supersonictv.live:8080/live/Derrick/Hitman50$/40507.ts
 
 
+#EXTINF:-1,THE BIONIC WOMAN
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=578167&extension=ts
+
+#EXTINF:-1,SIX MILLION DOLLAR MAN
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=578163&extension=ts
+
+#EXTINF:-1,ARNOLD SCHWARZENEGGER
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=578175&extension=ts
+
+
 
 
 #EXTINF:-1,Sylvester Stallone
