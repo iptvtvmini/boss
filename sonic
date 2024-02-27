@@ -306,10 +306,27 @@ http://supersonictv.live:8080/live/Derrick/Hitman50$/22159.ts
 http://supersonictv.live:8080/live/Derrick/Hitman50$/77109.ts
 
 #EXTINF:-1 tvg-id="",Knight Rider
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4B:60:56&stream=1790001&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1207320&extension=ts
 
 #EXTINF:-1 tvg-id="",Die Hard
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4B:60:56&stream=1790000&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=558764&extension=ts
+
+
+#EXTINF:-1 tvg-id="",Arnold Schwarzenegger
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=534117&extension=ts
+
+#EXTINF:-1 tvg-id="",Dwayne Johnson
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4B:60:56&stream=1790071&extension=ts
+
+#EXTINF:-1 tvg-id="",Jackie Chan
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1295630&extension=ts
+
+#EXTINF:-1 tvg-id="",Nicolas Cage
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4B:60:56&stream=1790290&extension=ts
+
+#EXTINF:-1 tvg-id="",Mel Gibson
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4B:60:56&stream=1790280&extension=ts
+
 
 
 #EXTINF:-1 tvg-id="",Action Movie
@@ -334,20 +351,7 @@ http://supersonictv.live:8080/live/Derrick/Hitman50$/40495.ts
 http://supersonictv.live:8080/live/Derrick/Hitman50$/40507.ts
 
 
-#EXTINF:-1 tvg-id="",Arnold Schwarzenegger
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4B:60:56&stream=1790073&extension=ts
 
-#EXTINF:-1 tvg-id="",Dwayne Johnson
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4B:60:56&stream=1790071&extension=ts
-
-#EXTINF:-1 tvg-id="",Jackie Chan
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4B:60:56&stream=1790291&extension=ts
-
-#EXTINF:-1 tvg-id="",Nicolas Cage
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4B:60:56&stream=1790290&extension=ts
-
-#EXTINF:-1 tvg-id="",Mel Gibson
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:4B:60:56&stream=1790280&extension=ts
 
 
 
