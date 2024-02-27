@@ -179,9 +179,6 @@ http://supersonictv.live:8080/live/Derrick/Hitman50$/22198.ts
 #EXTINF:-1 tvg-id="ESPN2.HDTV.(Dish).(ESPN2HD).us" tvg-name="ESPN2 HDTV (Dish) (ESPN2HD)" tvg-logo="https://docdog.top/Logotv/countries//espn2.png" group-title="",ESPN 2
 http://supersonictv.live:8080/live/Derrick/Hitman50$/22199.ts
 
-#EXTINF:-1 tvg-id="ESPN3.HDTV.(Dish).(ESPN3HD).us" tvg-name="" tvg-logo="https://docdog.top/Logotv/countries//espn3.png" group-title="",ESPN 3
-http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=133966&extension=m3u8
-
 #EXTINF:-1 tvg-id="ESPNU.HDTV.(ESPNUHD).us" tvg-name="ESPNU HDTV (ESPNUHD)" tvg-logo="https://docdog.top/Logotv/countries//espnu.png" group-title="",ESPN U
 http://supersonictv.live:8080/live/Derrick/Hitman50$/22202.ts
 
