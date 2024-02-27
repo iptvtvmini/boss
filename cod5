@@ -1,1 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="",ASTRO SPORTS 1 HD
+http://cod5.me/play/live.php?mac=00:1A:79:C2:3F:A7&stream=828098&extension=ts
+#EXTINF:-1 tvg-id="",ASTRO SPORTS 2 HD
+http://cod5.me/play/live.php?mac=00:1A:79:C2:3F:A7&stream=828097&extension=ts
+#EXTINF:-1 tvg-id="",ASTRO SPORTS 3 HD
+http://cod5.me/play/live.php?mac=00:1A:79:C2:3F:A7&stream=828096&extension=ts
+#EXTINF:-1 tvg-id="",ASTRO SPORTS 4 HD
+http://cod5.me/play/live.php?mac=00:1A:79:C2:3F:A7&stream=828095&extension=ts
+#EXTINF:-1 tvg-id="",ASTRO SPORTS 5 HD
+http://cod5.me/play/live.php?mac=00:1A:79:C2:3F:A7&stream=828094&extension=ts
 
+
+#EXTINF:-1 tvg-id="",A&E HD
+http://cod5.me/play/live.php?mac=00:1A:79:C2:3F:A7&stream=469345&extension=ts
+#EXTINF:-1 tvg-id="",AMC HD
+http://cod5.me/play/live.php?mac=00:1A:79:C2:3F:A7&stream=469346&extension=ts
+#EXTINF:-1 tvg-id="",HISTORY HD
+http://cod5.me/play/live.php?mac=00:1A:79:C2:3F:A7&stream=469394&extension=ts
+#EXTINF:-1 tvg-id="",HISTORY 2 HD
+http://cod5.me/play/live.php?mac=00:1A:79:C2:3F:A7&stream=469395&extension=ts
