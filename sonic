@@ -371,14 +371,8 @@ http://cod5.me/play/live.php?mac=00:1a:79:50:e3:b4&stream=578167&extension=ts
 #EXTINF:-1,SIX MILLION DOLLAR MAN
 http://cod5.me/play/live.php?mac=00:1a:79:50:e3:b4&stream=578163&extension=ts
 
-#EXTINF:-1,SIX MILLION DOLLAR MAN
-http://ott4k.me/play/live.php?mac=00:1A:79:2F:13:FC&stream=578163&extension=ts
-
-
 #EXTINF:-1,ARNOLD SCHWARZENEGGER
 http://cod5.me/play/live.php?mac=00:1a:79:50:e3:b4&stream=578175&extension=ts
-
-
 
 
 #EXTINF:-1,Sylvester Stallone
@@ -391,6 +385,17 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1790291&exte
 
 
 
+#EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbcone.png",BBC 1
+http://ott4k.me/play/live.php?mac=00:1A:79:2F:13:FC&stream=577275&extension=ts
+
+#EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbc2.png",BBC 2
+http://ott4k.me/play/live.php?mac=00:1A:79:2F:13:FC&stream=577273&extension=ts
+
+#EXTINF:-1 tvg-id="BBC.Three.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbc3.png",BBC 3
+http://ott4k.me/play/live.php?mac=00:1A:79:2F:13:FC&stream=577271&extension=ts
+
+#EXTINF:-1 tvg-id="BBC.Four.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbc4.png",BBC 4
+http://ott4k.me/play/live.php?mac=00:1A:79:2F:13:FC&stream=577269&extension=ts
 
 
 
