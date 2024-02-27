@@ -346,24 +346,6 @@ http://supersonictv.live:8080/live/Derrick/Hitman50$/47746.ts
 #EXTINF:-1 tvg-id="",CHiPs
 http://supersonictv.live:8080/live/Derrick/Hitman50$/77109.ts
 
-#EXTINF:-1 tvg-id="",Knight Rider
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1207320&extension=ts
-
-#EXTINF:-1 tvg-id="",Die Hard
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=558764&extension=ts
-
-#EXTINF:-1,BACK TO THE FUTURE
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=558799&extension=ts
-
-
-#EXTINF:-1 tvg-id="",Arnold Schwarzenegger
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=534117&extension=ts
-
-#EXTINF:-1 tvg-id="",Jackie Chan
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1295630&extension=ts
-
-
-
 #EXTINF:-1 tvg-id="",Action Movie
 http://supersonictv.live:8080/live/Derrick/Hitman50$/40480.ts
 
@@ -386,48 +368,18 @@ http://supersonictv.live:8080/live/Derrick/Hitman50$/40495.ts
 http://supersonictv.live:8080/live/Derrick/Hitman50$/40507.ts
 
 
-#EXTINF:-1,CRIME MOVIES
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=558762&extension=ts
 
-#EXTINF:-1,HORROR MOVIES
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=558791&extension=ts
 
-#EXTINF:-1,SCIFI MOVIES
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=558770&extension=ts
+#EXTINF:-1,Sylvester Stallone
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1790081&extension=ts
 
-#EXTINF:-1,THRILLER MOVIES
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=558933&extension=ts
+#EXTINF:-1,Jackie Chan
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1790291&extension=ts
 
 
 
-#EXTINF:-1,WESTERN 1
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=924749&extension=ts
-
-#EXTINF:-1,WESTERN 2
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=924750&extension=ts
-
-#EXTINF:-1,WESTERN 3
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=924751&extension=ts
-
-#EXTINF:-1,WESTERN 4
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=924752&extension=ts
-
-#EXTINF:-1,WESTERN 5
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=924753&extension=ts
-
-#EXTINF:-1,WESTERN 6
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=924754&extension=ts
 
 
-
-#EXTINF:-1,ALL TIME BEST 1
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=924698&extension=ts
-
-#EXTINF:-1,ALL TIME BEST 2
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=924699&extension=ts
-
-#EXTINF:-1,ALL TIME BEST 3
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=924700&extension=ts
 
 
 
