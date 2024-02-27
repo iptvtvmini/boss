@@ -259,7 +259,7 @@ http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=133909&extension=m3
 
 
 #EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-name="A and E Network HDTV (A and EHD)" tvg-logo="" group-title="",A&E
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22040.ts
+http://ott4k.me/play/live.php?mac=00:1A:79:2F:13:FC&stream=469345&extension=ts
 
 #EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-name="AMC HDTV (East) (AMCHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/amc-us.png" group-title="",AMC
 http://supersonictv.live:8080/live/Derrick/Hitman50$/22042.ts
