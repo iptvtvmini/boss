@@ -329,7 +329,7 @@ http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=174038&ex
 
 
 #EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-name="A and E Network HDTV (A and EHD)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US001A&E-HD.png" group-title="",A&E
-http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45619&extension=ts
+http://ott4k.me/play/live.php?mac=00:1A:79:2F:13:FC&stream=469345&extension=ts
 
 #EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-name="AMC HDTV (East) (AMCHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/amc-us.png" group-title="",AMC
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=469346&extension=ts
@@ -629,8 +629,23 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617112&extension=t
 #EXTINF:-1 tvg-id="",WAR MOVIES
 http://mohdtv.com:8880/live/voby3037/69246643/60247.ts
 
+#EXTINF:-1 tvg-id="",CHiPs
+http://supersonictv.live:8080/live/Derrick/Hitman50$/77109.ts
 
+#EXTINF:-1,THE BIONIC WOMAN
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=578167&extension=ts
 
+#EXTINF:-1,SIX MILLION DOLLAR MAN
+http://ott4k.me/play/live.php?mac=00:1A:79:2F:13:FC&stream=578163&extension=ts
+
+#EXTINF:-1,ARNOLD SCHWARZENEGGER
+http://ott4k.me/play/live.php?mac=00:1A:79:2F:13:FC&stream=578175&extension=ts
+
+#EXTINF:-1,Sylvester Stallone
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1790081&extension=ts
+
+#EXTINF:-1,Jackie Chan
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1790291&extension=ts
 
 
 
