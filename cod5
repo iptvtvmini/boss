@@ -134,94 +134,88 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577984&extension=m3
 
 
 #EXTINF:-1 tvg-id="Fox.Sports.1.HDTV.(FS1HD).us" tvg-name="Fox Sports 1 HDTV (FS1HD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-sports-1-us.png" group-title="",FOX SPORTS 1
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487776&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487776&extension=m3u8
 
 #EXTINF:-1 tvg-id="Fox.Sports.2.HDTV.(FS2HD).us" tvg-name="Fox Sports 2 HDTV (FS2HD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-sports-2-us.png" group-title="",FOX SPORT 2
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487775&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487775&extension=m3u8
 
 #EXTINF:-1 tvg-id="Fox.Soccer.Plus.(FSPLUS).us" tvg-name="Fox Soccer Plus (FSPLUS)" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" group-title="",FOX SOCCER PLUS
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487641&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487641&extension=m3u8
 
 
 
 #EXTINF:-1 tvg-id="ESPN.HDTV.(Dish).(ESPNHD).us" tvg-name="ESPN HDTV (Dish) (ESPNHD)" tvg-logo="https://docdog.top/Logotv/countries//espn1.png" group-title="",ESPN 1
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487782&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487782&extension=m3u8
 
 #EXTINF:-1 tvg-id="ESPN2.HDTV.(Dish).(ESPN2HD).us" tvg-name="ESPN2 HDTV (Dish) (ESPN2HD)" tvg-logo="https://docdog.top/Logotv/countries//espn2.png" group-title="",ESPN 2
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487781&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487781&extension=m3u8
 
 #EXTINF:-1 tvg-id="ESPN3.HDTV.(Dish).(ESPN3HD).us" tvg-name="" tvg-logo="https://docdog.top/Logotv/countries//espn3.png" group-title="",ESPN 3
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=756601&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=756601&extension=m3u8
 
 #EXTINF:-1 tvg-id="ESPNU.HDTV.(ESPNUHD).us" tvg-name="ESPNU HDTV (ESPNUHD)" tvg-logo="https://docdog.top/Logotv/countries//espnu.png" group-title="",ESPN U
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487778&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487778&extension=m3u8
 
 #EXTINF:-1 tvg-id="NBA.TV.HDTV.(NBA.HD).us",NBA TV
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487762&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487762&extension=m3u8
 
 #EXTINF:-1 tvg-id="NBCSNWH.NBC.Sports.Northwest.HD.us",NBC SPORTS
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487784&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487784&extension=m3u8
 
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HDTV.(CBSSD).us",CBS Sport
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487785&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487785&extension=m3u8
 
 #EXTINF:-1 tvg-id="Big.Ten.Network.HDTV.(24/7.Overflow.#3).(BTFB3).us" tvg-name="Big Ten Network HDTV (24/7 Overflow #3) (BTFB3)" tvg-logo="https://docdog.top/Logotv/countries//bigtennetwork.png" group-title="",Big Ten Network
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487676&extension=ts
-
-
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487676&extension=m3u8
 
 
 
 #EXTINF:-1 tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" tvg-name="Tennis Channel HDTV (TNNSHD)" tvg-logo="https://docdog.top/Logotv/countries//tennischannel.png" group-title="",Tennis
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487689&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487689&extension=m3u8
 
 #EXTINF:-1 tvg-id="WWE.Network.us" tvg-name="WWE Network" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png" group-title="",WWE
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487679&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487679&extension=m3u8
 
 #EXTINF:-1 tvg-id="",Sportnet WWE
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=708830&extension=ts
 
 #EXTINF:-1 tvg-id="Sportsnet.One.HDTV.(SN1HD).ca",Sportnet One
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=708835&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487799&extension=m3u8
+
 
 
 
 #EXTINF:-1 tvg-id="BT.Sport.1.uk" tvg-name="BT Sport 1 HD" tvg-logo="http://5.44.253.151:80/images/f0b8c39305ffdc6c9823055c1a006121.png" group-title="",BT Sports 1
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=578001&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=578001&extension=m3u8
 
 #EXTINF:-1 tvg-id="BT.Sport.2.uk" tvg-name="BT Sport 2 HD" tvg-logo="http://5.44.253.151:80/images/f0b8c39305ffdc6c9823055c1a006121.png" group-title="",BT Sports 2
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=578000&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=578000&extension=m3u8
 
 #EXTINF:-1 tvg-id="BT.Sport.3.uk" tvg-name="BT Sport 3 HD" tvg-logo="http://5.44.253.188:80/images/f0b8c39305ffdc6c9823055c1a006121.png" group-title="",BT Sports 3
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577999&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577999&extension=m3u8
 
 #EXTINF:-1 tvg-id="BT.Sport.4.uk" tvg-name="BT Sport 4 HD" tvg-logo="http://5.44.253.188:80/images/f0b8c39305ffdc6c9823055c1a006121.png" group-title="",BT Sports 4
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=782732&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=782732&extension=m3u8
 
 #EXTINF:-1 tvg-id="BT.Sport.5.uk",BT SPORTS ESPN
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577998&extension=ts
-
-
-
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=774608&extension=m3u8
 
 
 
 #EXTINF:-1 tvg-id="The.Sports.Network.HDTV.(TSNHD).ca" tvg-name="The Sports Network HDTV (TSNHD)" tvg-logo="https://docdog.top/Logotv/countries//tsn1.png" group-title="",TSN 1
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=708842&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487807&extension=m3u8
 
 #EXTINF:-1 tvg-id="The.Sports.Network.2.HDTV.(TSN2D).ca" tvg-name="The Sports Network 2 HDTV (TSN2D)" tvg-logo="https://docdog.top/Logotv/countries//tsn2.png" group-title="",TSN 2
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=708841&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487806&extension=m3u8
 
 #EXTINF:-1 tvg-id="The.Sports.Network.3.HDTV.(TSN3HD).ca" tvg-name="The Sports Network 3 HDTV (TSN3HD)" tvg-logo="https://docdog.top/Logotv/countries//tsn3.png" group-title="",TSN 3
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=708840&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487805&extension=m3u8
 
 #EXTINF:-1 tvg-id="The.Sports.Network.4.HDTV.(TSN4H).ca" tvg-name="The Sports Network 4 HDTV (TSN4H)" tvg-logo="https://docdog.top/Logotv/countries//tsn4.png" group-title="",TSN 4
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=708839&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487804&extension=m3u8
 
 #EXTINF:-1 tvg-id="The.Sports.Network.5.HDTV.(TSN5HD).ca" tvg-name="The Sports Network 5 HDTV (TSN5HD)" tvg-logo="https://docdog.top/Logotv/countries//tsn5.png" group-title="",TSN 5
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=708838&extension=ts
-
-
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487803&extension=m3u8
 
 
 
@@ -232,10 +226,10 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=708838&extension=t
 https://gsn-gameshowchannnel-1-us.vizio.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GameTV.(GTV).ca" tvg-name="GameTV (GTV)" tvg-logo="http://5.44.253.151:80/images/86a43a112f1c64b381ae76c3a1040da8.png" group-title="",Game TV
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626942&extension=m3u8
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=626942&extension=m3u8
 
 #EXTINF:-1 tvg-id="GAME+.us",Game Plus
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=752916&extension=m3u8
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=752916&extension=m3u8
 
 #EXTINF:-1 tvg-id="MBC.Wanasah.(MBCW).us" tvg-name="" tvg-logo="https://i.imgur.com/AuYEozR.png" group-title="",Wanasah
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
@@ -257,31 +251,31 @@ http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=174038&ex
 
 
 #EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-name="A and E Network HDTV (A and EHD)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US001A&E-HD.png" group-title="",A&E
-http://ott4k.me/play/live.php?mac=00:1A:79:2F:13:FC&stream=469345&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469345&extension=m3u8
 
 #EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-name="AMC HDTV (East) (AMCHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/amc-us.png" group-title="",AMC
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=469346&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469346&extension=m3u8
 
 #EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-name="Syfy HDTV (SYFYHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/syfy-us.png" group-title="",Syfy
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=469431&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469431&extension=m3u8
 
 #EXTINF:-1 tvg-id="SYFY.HD.uk",SYFY (UK)
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577898&extension=ts
 
 #EXTINF:-1 tvg-id="Freeform.HDTV.(East).(FRFHD).us",FREEFORM
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=656385&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=656385&extension=m3u8
 
 #EXTINF:-1 tvg-id="FX.Movie.Channel.HDTV.(FXMHD).us",FXM
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=552045&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552045&extension=m3u8
 
 #EXTINF:-1 tvg-id="FX.HDTV.(East).(FX.HD).us",FX
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=656132&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=656132&extension=m3u8
 
 #EXTINF:-1 tvg-id="FXX.HDTV.(East).(FXXHD).us",FXX
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=687889&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=687889&extension=m3u8
 
 #EXTINF:-1 tvg-id="SundanceTV.HDTV.(East).(SUNHD).us",SUNDANCE
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=469530&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469530&extension=m3u8
 
 #EXTINF:-1 tvg-id="HDNet.Movies.(HDNTM).us",HDNET MOVIES
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552040&extension=m3u8
@@ -433,6 +427,36 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552050&extension=m3
 
 
 
+#EXTINF:-1 tvg-id="Nat.Geo.HD.uk",NAT GEO
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469407&extension=m3u8
+
+#EXTINF:-1 tvg-id="Crime+Inv.HD.uk",CRIME INVESTIGATION
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=626996&extension=m3u8
+
+#EXTINF:-1 tvg-id="ID.uk",INVESTIGATION DISCOVERY
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577901&extension=m3u8
+
+#EXTINF:-1 tvg-id="",HISTORY
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577904&extension=m3u8
+
+#EXTINF:-1 tvg-id="",HISTORY 2
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577903&extension=m3u8
+
+#EXTINF:-1 tvg-id="Discovery.HD.uk",DISCOVERY
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577890&extension=m3u8
+
+#EXTINF:-1 tvg-id="Animal.Planet.uk",ANIMAL PLANET
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=998385&extension=m3u8
+
+#EXTINF:-1 tvg-id="NatGeoWild.HD.uk",NAT GEO WILD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469409&extension=m3u8
+
+#EXTINF:-1 tvg-id="TLC.HD.uk",TLC
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469436&extension=m3u8
+
+#EXTINF:-1 tvg-id="Food.Network.uk",FOOD NETWORK
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577206&extension=m3u8
+
 
 
 
@@ -475,51 +499,6 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577255&extension=t
 
 #EXTINF:-1 tvg-id="4seven.uk",4SEVEN
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577253&extension=ts
-
-
-
-#EXTINF:-1 tvg-id="Nat.Geo.HD.uk",NAT GEO
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577909&extension=m3u8
-
-#EXTINF:-1 tvg-id="Crime+Inv.HD.uk",CRIME INVESTIGATION
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577905&extension=ts
-
-#EXTINF:-1 tvg-id="ID.uk",INVESTIGATION DISCOVERY
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577901&extension=ts
-
-#EXTINF:-1 tvg-id="",HISTORY
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577904&extension=ts
-
-#EXTINF:-1 tvg-id="",HISTORY 2
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577903&extension=ts
-
-#EXTINF:-1 tvg-id="Discovery.HD.uk",DISCOVERY
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577890&extension=ts
-
-#EXTINF:-1 tvg-id="Disc.History.uk",DISCOVERY HISTORY
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577887&extension=ts
-
-#EXTINF:-1 tvg-id="Disc.Science.uk",DISCOVERY SCIENCE
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577886&extension=ts
-
-#EXTINF:-1 tvg-id="Disc.Turbo.uk",DISCOVERY TURBO
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577885&extension=ts
-
-
-#EXTINF:-1 tvg-id="Animal.Planet.uk",ANIMAL PLANET
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577882&extension=ts
-
-#EXTINF:-1 tvg-id="NatGeoWild.HD.uk",NAT GEO WILD
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577910&extension=m3u8
-
-#EXTINF:-1 tvg-id="TLC.HD.uk",TLC
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577877&extension=ts
-
-#EXTINF:-1 tvg-id="Food.Network.uk",FOOD NETWORK
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577876&extension=ts
-
-
-
 
 
 
