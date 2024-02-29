@@ -472,6 +472,48 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=2705&extensi
 
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",CHiPs
+http://supersonictv.live:8080/live/Derrick/Hitman50$/77109.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Action Movie
+http://supersonictv.live:8080/live/Derrick/Hitman50$/40480.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Comedy Movie
+http://supersonictv.live:8080/live/Derrick/Hitman50$/40484.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Crime Movie
+http://supersonictv.live:8080/live/Derrick/Hitman50$/40486.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Horror Movie
+http://supersonictv.live:8080/live/Derrick/Hitman50$/40492.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Horror Movie 2
+http://supersonictv.live:8080/live/Derrick/Hitman50$/40493.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Kungfu
+http://supersonictv.live:8080/live/Derrick/Hitman50$/40495.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Western Movie
+http://supersonictv.live:8080/live/Derrick/Hitman50$/40507.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Bionic Women
+http://cod5.me/play/live.php?mac=00:1a:79:50:e3:b4&stream=578167&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Six Million Dollar Man
+http://cod5.me/play/live.php?mac=00:1a:79:50:e3:b4&stream=578163&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Arnold Schwarzenegger
+http://cod5.me/play/live.php?mac=00:1a:79:50:e3:b4&stream=578175&extension=ts
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Sylvester Stallone
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1790081&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Jackie Chan
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1790291&extension=ts
+
+
 
 
 
