@@ -239,16 +239,16 @@ https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6
 
 
 #EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US002ABCHD.png",ABC 7
-http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=173034&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=173034&extension=ts
 
 #EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US017CBS-HD.png",CBS 2
-http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=173249&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=173249&extension=ts
 
 #EXTINF:-1 tvg-id="FOX.(WXXA).Albany,.NY.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US036FOX-HD.png",FOX 5
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=176821&extension=ts
 
 #EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US020CNBC.png",NBC 4
-http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=174038&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=174038&extension=ts
 
 
 #EXTINF:-1 tvg-id="CTV.Calgary.HDTV.(CTVHC).ca",CTV
