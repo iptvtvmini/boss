@@ -359,73 +359,73 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97035&extension
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97045&extension=ts
 
 
-#EXTINF:-1 tvg-id="",Action Movies
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Action Movies
 http://mohdtv.com:8880/live/voby3037/69246643/60207.ts
 
-#EXTINF:-1 tvg-id="",Comedy Movies
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Comedy Movies
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617147&extension=ts
 
-#EXTINF:-1 tvg-id="",DISNEY Movies
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",DISNEY Movies
 http://mohdtv.com:8880/live/voby3037/69246643/60928.ts
 
-#EXTINF:-1 tvg-id="",HORROR Movies
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",HORROR Movies
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617145&extension=ts
 
-#EXTINF:-1 tvg-id="",FAMILY Movies
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",FAMILY Movies
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617148&extension=ts
 
-#EXTINF:-1 tvg-id="",CRIME Movies
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",CRIME Movies
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617146&extension=ts
 
-#EXTINF:-1 tvg-id="",SCIFI Movies
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",SCIFI Movies
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617117&extension=ts
 
-#EXTINF:-1 tvg-id="",DRAMA Movies
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",DRAMA Movies
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617119&extension=ts
 
-#EXTINF:-1 tvg-id="",THRILLER Movies
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",THRILLER Movies
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617149&extension=ts
 
-#EXTINF:-1 tvg-id="",SUPERHERO Movies
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",SUPERHERO Movies
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617112&extension=ts
 
-#EXTINF:-1 tvg-id="",WAR Movies
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",WAR Movies
 http://mohdtv.com:8880/live/voby3037/69246643/60247.ts
 
-#EXTINF:-1 tvg-id="",CHiPs
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",CHiPs
 http://supersonictv.live:8080/live/Derrick/Hitman50$/77109.ts
 
-#EXTINF:-1,Bionic Woman
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Bionic Woman
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=578167&extension=ts
 
-#EXTINF:-1,Six Million Dollar Man
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Six Million Dollar Man
 http://ott4k.me/play/live.php?mac=00:1A:79:2F:13:FC&stream=578163&extension=ts
 
-#EXTINF:-1,Arnold Schwarzenegger
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Arnold Schwarzenegger
 http://ott4k.me/play/live.php?mac=00:1A:79:2F:13:FC&stream=578175&extension=ts
 
-#EXTINF:-1,Sylvester Stallone
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Sylvester Stallone
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1790081&extension=ts
 
-#EXTINF:-1,Jackie Chan
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Jackie Chan
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1790291&extension=ts
 
 
 
 
-#EXTINF:-1 tvg-id="",Western 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Western 1
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=705055&extension=ts
 
-#EXTINF:-1 tvg-id="",Western 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Western 2
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=705054&extension=ts
 
-#EXTINF:-1 tvg-id="",Western 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Western 3
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=705053&extension=ts
 
-#EXTINF:-1 tvg-id="",Western 4
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Western 4
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=705052&extension=ts
 
-#EXTINF:-1 tvg-id="",Western 5
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Western 5
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=705051&extension=ts
 
 
