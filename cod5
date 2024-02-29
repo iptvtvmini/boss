@@ -264,6 +264,9 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469431&extension=m3
 #EXTINF:-1 tvg-id="SYFY.HD.uk",SYFY (UK)
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577898&extension=ts
 
+#EXTINF:-1 tvg-id="BBC.America.HDTV.(East).(BBC).us" tvg-name="BBC America HDTV (East) (BBC)" tvg-logo="https://docdog.top/Logotv/countries/bbcamerica.png" group-title="",BBC America
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469295&extension=m3u8
+
 #EXTINF:-1 tvg-id="Freeform.HDTV.(East).(FRFHD).us",FREEFORM
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=656385&extension=m3u8
 
