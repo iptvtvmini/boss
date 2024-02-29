@@ -226,10 +226,10 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=133589&extension=
 #EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US017CBS-HD.png",CBS 2
 http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=173249&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="CW Network FHD US" group-title="US Entertainment",CW Network FHD US
+#EXTINF:-1 tvg-id="",CW Network
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134197&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="CW 11 FHD US" group-title="US Entertainment",CW 11 FHD US
+#EXTINF:-1 tvg-id="",CW 11
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134196&extension=ts
 
 #EXTINF:-1 tvg-id="FOX.(WXXA).Albany,.NY.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US036FOX-HD.png",FOX 5
@@ -248,29 +248,11 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134073&extension=
 #EXTINF:-1 tvg-id="BBC.America.HDTV.(East).(BBC).us" tvg-name="BBC America HDTV (East) (BBC)" tvg-logo="https://docdog.top/Logotv/countries/bbcamerica.png" group-title="",BBC America
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134078&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Bravo HD US" group-title="US Entertainment",Bravo HD US
+#EXTINF:-1 tvg-id="Bravo.HDTV.(East).(BRAVOD).us",Bravo
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134085&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax 5Starmax HD US" group-title="US Movies",Cinemax 5Starmax HD US
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134088&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax ActionMax HD US" group-title="US Movies",Cinemax ActionMax HD US
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134089&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax FHD US" group-title="US Movies",Cinemax FHD US
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134091&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax Moremax HD US" group-title="US Movies",Cinemax Moremax HD US
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134092&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="E! FHD US" group-title="US Entertainment",E! FHD US
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.HDTV.(East).(E!.HD).us",E!
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134104&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Epix FHD US" group-title="US Movies",Epix FHD US
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134108&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Food Network FHD US" group-title="US Entertainment",Food Network FHD US
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134112&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Freeform HD US" group-title="US Entertainment",Freeform HD US
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134114&extension=ts
@@ -283,6 +265,39 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134119&extension=
 
 #EXTINF:-1 tvg-id="" tvg-name="FXX HD US" group-title="US Entertainment",FXX HD US
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134120&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SYFY HD US" group-title="US Entertainment",SYFY HD US
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134182&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="TBS HD US" group-title="US Entertainment",TBS HD US
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134183&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT FHD US" group-title="US Entertainment",TNT FHD US
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134188&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Sundance TV FHD US" group-title="US Movies",Sundance TV FHD US
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134181&extension=ts
+
+
+
+
+
+#EXTINF:-1 tvg-id="Five.Star.Max.HDTV.(5MXHD).us" tvg-name="" tvg-logo="" group-title="",5StarMax
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134088&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax ActionMax HD US" group-title="US Movies",Cinemax ActionMax HD US
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134089&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax FHD US" group-title="US Movies",Cinemax FHD US
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134091&extension=ts
+
+#EXTINF:-1 tvg-id="More.Max.(East).(MOMAX).us",Cinemax Moremax
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134092&extension=ts
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Epix FHD US" group-title="US Movies",Epix FHD US
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134108&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO East FHD US" group-title="US Movies",HBO East FHD US
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134128&extension=ts
@@ -306,8 +321,7 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134131&extension=
 #EXTINF:-1 tvg-id="" tvg-name="IndiePlex HD US" group-title="US Movies",IndiePlex HD US
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134138&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery FHD US" group-title="US Entertainment",Investigation Discovery FHD US
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134139&extension=ts
+
 
 #EXTINF:-1 tvg-id="" tvg-name="MovieMax HD US" group-title="US Movies",MovieMax HD US
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134144&extension=ts
@@ -315,11 +329,7 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134144&extension=
 #EXTINF:-1 tvg-id="" tvg-name="MoviePlex FHD US" group-title="US Movies",MoviePlex FHD US
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134145&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic HD US" group-title="US Entertainment",National Geographic HD US
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134150&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild HD US" group-title="US Entertainment",National Geographic Wild HD US
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134151&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Reelz HD US" group-title="US Entertainment",Reelz HD US
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134157&extension=ts
@@ -378,71 +388,25 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134178&extension=
 #EXTINF:-1 tvg-id="" tvg-name="Starz Kids & Family FHD US" group-title="US Movies",Starz Kids & Family FHD US
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134179&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Sundance TV FHD US" group-title="US Movies",Sundance TV FHD US
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134181&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="SYFY HD US" group-title="US Entertainment",SYFY HD US
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134182&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TBS HD US" group-title="US Entertainment",TBS HD US
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134183&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TNT FHD US" group-title="US Entertainment",TNT FHD US
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134188&extension=ts
 
 
 
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ITV 1 FHD UK" group-title="UK",ITV 1 FHD UK
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175327&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="ITV 2 FHD UK" group-title="UK",ITV 2 FHD UK
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175329&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="ITV 3 FHD UK" group-title="UK",ITV 3 FHD UK
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175331&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="ITV 4 FHD UK" group-title="UK",ITV 4 FHD UK
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175334&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="ITV Be FHD UK" group-title="UK",ITV Be FHD UK
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175337&extension=ts
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Channel 4 FHD UK" group-title="UK",Channel 4 FHD UK
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175269&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Channel 5 FHD UK" group-title="UK",Channel 5 FHD UK
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175271&extension=ts
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="4Seven FHD UK" group-title="UK",4Seven FHD UK
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175221&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="More4 FHD UK" group-title="UK",More4 FHD UK
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175347&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="5 Select UK" group-title="UK",5 Select UK
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175223&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="5 Star UK" group-title="UK",5 Star UK
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175224&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="5 USA UK" group-title="UK",5 USA UK
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175225&extension=ts
 
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD US" group-title="US Entertainment",Animal Planet HD US
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134076&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery FHD US" group-title="US Entertainment",Investigation Discovery FHD US
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134139&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic HD US" group-title="US Entertainment",National Geographic HD US
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134150&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild HD US" group-title="US Entertainment",National Geographic Wild HD US
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134151&extension=ts
 
 
 
@@ -455,7 +419,8 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134132&extension=
 #EXTINF:-1 tvg-id="" tvg-name="TLC FHD US" group-title="US Entertainment",TLC FHD US
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134186&extension=ts
 
-
+#EXTINF:-1 tvg-id="" tvg-name="Food Network FHD US" group-title="US Entertainment",Food Network FHD US
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134112&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Crime & Investigation Network FHD US" group-title="US Entertainment",Crime & Investigation Network FHD US
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134096&extension=ts
@@ -486,11 +451,44 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175316&extension=
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="4Seven FHD UK" group-title="UK",4Seven FHD UK
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175221&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="More4 FHD UK" group-title="UK",More4 FHD UK
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175347&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="5 Select UK" group-title="UK",5 Select UK
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175223&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="5 Star UK" group-title="UK",5 Star UK
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175224&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="5 USA UK" group-title="UK",5 USA UK
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175225&extension=ts
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="ITV 1 FHD UK" group-title="UK",ITV 1 FHD UK
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175327&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ITV 2 FHD UK" group-title="UK",ITV 2 FHD UK
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175329&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ITV 3 FHD UK" group-title="UK",ITV 3 FHD UK
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175331&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ITV 4 FHD UK" group-title="UK",ITV 4 FHD UK
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175334&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ITV Be FHD UK" group-title="UK",ITV Be FHD UK
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175337&extension=ts
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Channel 4 FHD UK" group-title="UK",Channel 4 FHD UK
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175269&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Channel 5 FHD UK" group-title="UK",Channel 5 FHD UK
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175271&extension=ts
 
 
 
