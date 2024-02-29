@@ -441,11 +441,14 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=626996&extension=m3
 #EXTINF:-1 tvg-id="ID.uk",INVESTIGATION DISCOVERY
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577901&extension=m3u8
 
-#EXTINF:-1 tvg-id="History.HDTV.(East).(HISHD).us",History
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577904&extension=m3u8
+#EXTINF:-1 tvg-id="History.HDTV.(East).(HISHD).us" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/144_144.png" group-title="",History
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469394&extension=m3u8
 
-#EXTINF:-1 tvg-id="",HISTORY 2
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577903&extension=m3u8
+#EXTINF:-1 tvg-id="History2.Canada.(H2).ca",History 2
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469395&extension=m3u8
+
+#EXTINF:-1 tvg-id="Sky.HistoryHD.uk" tvg-name="" tvg-logo="" group-title="",Sky History
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577904&extension=m3u8
 
 #EXTINF:-1 tvg-id="Discovery.HD.uk",DISCOVERY
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577890&extension=m3u8
