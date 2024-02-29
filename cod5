@@ -245,10 +245,26 @@ http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=173034&ex
 http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=173249&extension=ts
 
 #EXTINF:-1 tvg-id="FOX.(WXXA).Albany,.NY.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US036FOX-HD.png",FOX 5
-http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=173728&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=176821&extension=ts
 
 #EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US020CNBC.png",NBC 4
 http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=174038&extension=ts
+
+
+#EXTINF:-1 tvg-id="CTV.Calgary.HDTV.(CTVHC).ca",CTV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=176812&extension=ts
+
+#EXTINF:-1 tvg-id="CTV.Two.Ottawa/CHRO.(CTV2O).ca",CTV 2
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=176813&extension=ts
+
+#EXTINF:-1 tvg-id="CTV.Two.Barrie/Toronto/CKVR.HDTV.(CTV2T).ca",CTV 2 BARRIE
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1040103&extension=ts
+
+#EXTINF:-1 tvg-id="CTV.LIFE.Channel.HDTV.(LIFEHD).ca",CTV LIFE CHANNEL
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=176818&extension=ts
+
+#EXTINF:-1 tvg-id="CTV.SCI-FI.Channel.HDTV.(SCIFIHD).ca",CTV SCIFI
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=176819&extension=ts
 
 
 
