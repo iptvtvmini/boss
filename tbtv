@@ -254,28 +254,31 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134085&extension=
 #EXTINF:-1 tvg-id="E!.Entertainment.Television.HDTV.(East).(E!.HD).us",E!
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134104&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Freeform HD US" group-title="US Entertainment",Freeform HD US
+#EXTINF:-1 tvg-id="Freeform.HDTV.(East).(FRFHD).us",FREEFORM
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134114&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="FX FHD US" group-title="US Entertainment",FX FHD US
+#EXTINF:-1 tvg-id="FX.HDTV.(East).(FX.HD).us",FX
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134118&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="FX Movies FHD US" group-title="US Entertainment",FX Movies FHD US
+#EXTINF:-1 tvg-id="FX.Movie.Channel.HDTV.(FXMHD).us",FXM
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134119&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="FXX HD US" group-title="US Entertainment",FXX HD US
+#EXTINF:-1 tvg-id="FXX.HDTV.(East).(FXXHD).us",FXX
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134120&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="SYFY HD US" group-title="US Entertainment",SYFY HD US
+#EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-name="Syfy HDTV (SYFYHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/syfy-us.png" group-title="",Syfy
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134182&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="TBS HD US" group-title="US Entertainment",TBS HD US
+#EXTINF:-1 tvg-id="TBS.Superstation.HDTV.(East).(TBSHD).us",TBS
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134183&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="TNT FHD US" group-title="US Entertainment",TNT FHD US
+#EXTINF:-1 tvg-id="",TNT
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134188&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Sundance TV FHD US" group-title="US Movies",Sundance TV FHD US
+#EXTINF:-1 tvg-id="ReelzChannel.HDTV.(REELZH).us",Reelz
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134157&extension=ts
+
+#EXTINF:-1 tvg-id="SundanceTV.HDTV.(East).(SUNHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/sundance-tv-us.png",SUNDANCE
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134181&extension=ts
 
 
@@ -295,97 +298,100 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134091&extension=
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134092&extension=ts
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="Epix FHD US" group-title="US Movies",Epix FHD US
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134108&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO East FHD US" group-title="US Movies",HBO East FHD US
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134128&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD US" group-title="US Movies",HBO 2 HD US
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134125&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO Comedy FHD US" group-title="US Movies",HBO Comedy FHD US
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134127&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD US" group-title="US Movies",HBO Family HD US
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134129&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO Signature East HD US" group-title="US Movies",HBO Signature East HD US
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134130&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="HBO Zone FHD US" group-title="US Movies",HBO Zone FHD US
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134131&extension=ts
-
-
-#EXTINF:-1 tvg-id="" tvg-name="IndiePlex HD US" group-title="US Movies",IndiePlex HD US
+#EXTINF:-1 tvg-id="IndiePlex.HDTV.(INDIEHD).us",INDIEPLEX
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134138&extension=ts
 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="MovieMax HD US" group-title="US Movies",MovieMax HD US
+#EXTINF:-1 tvg-id="MoviePlex.East.(MPLEX).us",RetroPlex
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134144&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="MoviePlex FHD US" group-title="US Movies",MoviePlex FHD US
+#EXTINF:-1 tvg-id="MoviePlex.East.(MPLEX).us",MOVIEPLEX
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134145&extension=ts
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="Reelz HD US" group-title="US Entertainment",Reelz HD US
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134157&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Showtime 2 HD US" group-title="US Movies",Showtime 2 HD US
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134159&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Showtime Beyond HD US" group-title="US Movies",Showtime Beyond HD US
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134160&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Showtime Extreme FHD US" group-title="US Movies",Showtime Extreme FHD US
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134161&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Showtime Family Zone HD US" group-title="US Movies",Showtime Family Zone HD US
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134163&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Showtime HD US" group-title="US Movies",Showtime HD US
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134162&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Showtime Next HD US" group-title="US Movies",Showtime Next HD US
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134166&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Showtime Showcase FHD US" group-title="US Movies",Showtime Showcase FHD US
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134167&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Showtime Women HD US" group-title="US Movies",Showtime Women HD US0
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134165&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Sony Movie Channel HD US" group-title="US Movies",Sony Movie Channel HD US
+#EXTINF:-1 tvg-id="Sony.Movie.Channel.HD.(SONY).us" tvg-logo="https://docdog.top/Logotv/countries/uk/sonychannel.png",SONY MOVIES
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134169&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Starz Black FHD US" group-title="US Movies",Starz Black FHD US
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134170&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Starz Cinema FHD US" group-title="US Movies",Starz Cinema FHD US
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134171&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Starz Comedy FHD US" group-title="US Movies",Starz Comedy FHD US
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134172&extension=ts
+#EXTINF:-1 tvg-id="MGM+.HDTV.(East).(MGM+HD).us" tvg-name="MGM+ HDTV (East) (MGM+HD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-us.png" group-title="",EPIX
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134108&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Starz East HD US" group-title="US Movies",Starz East HD US
+
+
+#EXTINF:-1 tvg-id="HBO.HDTV.(East).(HBOHD).us",HBO
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134128&extension=ts
+
+#EXTINF:-1 tvg-id="HBO.2.HDTV.(East).(HBO2HD).us",HBO 2
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134125&extension=ts
+
+#EXTINF:-1 tvg-id="HBO.Comedy.HDTV.(East).(HBOCHD).us",HBO COMEDY
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134127&extension=ts
+
+#EXTINF:-1 tvg-id="HBO.Family.HDTV.(East).(HBOFHD).us",HBO FAMILY
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134129&extension=ts
+
+#EXTINF:-1 tvg-id="HBO.Signature.HDTV.(East).(HBOSHD).us",HBO SIGNATURE
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134130&extension=ts
+
+#EXTINF:-1 tvg-id="HBO.Zone.HDTV.(East).(HBOZHD).us",HBO ZONE
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134131&extension=ts
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Showtime.HDTV.(East).(SHOHD).us",SHOWTIME
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134162&extension=ts
+
+#EXTINF:-1 tvg-id="Showtime.2.HDTV.(East).(SHO2HD).us",SHOWTIME 2
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134159&extension=ts
+
+#EXTINF:-1 tvg-id="",Showtime Beyond
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134160&extension=ts
+
+#EXTINF:-1 tvg-id="Showtime.Extreme.(East).(SHOXe).us",SHOWTIME EXTREME
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134161&extension=ts
+
+#EXTINF:-1 tvg-id="Showtime.FamilyZone.(East).(SHOFe).us",SHOWTIME FAMILY ZONE
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134163&extension=ts
+
+#EXTINF:-1 tvg-id="Showtime.Next.East.HDTV.(East).(SHOND).us",SHOWTIME NEXT
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134166&extension=ts
+
+#EXTINF:-1 tvg-id="Showtime.Showcase.HDTV.(East).(SHOCHD).us",SHOWTIME SHOWCASE
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134167&extension=ts
+
+#EXTINF:-1 tvg-id="Showtime.Women.HDTV.(East).(SHOWD).us",SHOWTIME WOMEN
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134165&extension=ts
+
+
+#EXTINF:-1 tvg-id="STARZ.HD.(East).(STZHD).us",STARZ
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134173&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Starz Edge FHD US" group-title="US Movies",Starz Edge FHD US
+#EXTINF:-1 tvg-id="STARZ.InBlack.(East).(STZ.B).us",STARZ IN BLACK
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134170&extension=ts
+
+#EXTINF:-1 tvg-id="STARZ.Cinema.(East).(STZCI).us",STARZ CINEMA
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134171&extension=ts
+
+#EXTINF:-1 tvg-id="STARZ.Comedy.HD.(East).(SZCHD).us",STARZ COMEDY
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134172&extension=ts
+
+#EXTINF:-1 tvg-id="STARZ.Edge.HD.(East).(SZEHD).us",STARZ EDGE
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134174&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Family FHD US" group-title="US Movies",Starz Encore Family FHD US
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134175&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Starz Encore HD US" group-title="US Movies",Starz Encore HD US
+#EXTINF:-1 tvg-id="STARZ.ENCORE.HD.(East).(STZEH).us",STARZ ENCORE
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134176&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Westerns FHD US" group-title="US Movies",Starz Encore Westerns FHD US
+#EXTINF:-1 tvg-id="STARZ.ENCORE.Family.(East).(STZFM).us",STARZ ENCORE FAMILY
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134175&extension=ts
+
+#EXTINF:-1 tvg-id="STARZ.ENCORE.Westerns.(East).(STZWS).us",STARZ ENCORE WESTERNS
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134178&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Starz Kids & Family FHD US" group-title="US Movies",Starz Kids & Family FHD US
+#EXTINF:-1 tvg-id="STARZ.Kids.and.Family.HD.(East).(SZKHD).us",STARZ KIDS & FAMILY
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134179&extension=ts
 
 
@@ -396,100 +402,169 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134179&extension=
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD US" group-title="US Entertainment",Animal Planet HD US
+#EXTINF:-1 tvg-id="Animal.Planet.HDTV.(East).(APHD).us" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png" group-title="",Animal Planet
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134076&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery FHD US" group-title="US Entertainment",Investigation Discovery FHD US
+#EXTINF:-1 tvg-id="Investigation.Discovery.HDTV.(IDHD).us" tvg-name="http://myserveriptv.com:2082/images/e00a346a1e80c3d33bbb82d4fd74b31e.png" tvg-logo="" group-title="",Investigation Discovery
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134139&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic HD US" group-title="US Entertainment",National Geographic HD US
+#EXTINF:-1 tvg-id="National.Geographic.Channel.HDTV.(NGCHD).us" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/140_144.png" group-title="",National Geographic
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134150&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild HD US" group-title="US Entertainment",National Geographic Wild HD US
+#EXTINF:-1 tvg-id="",National Geographic Wild
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134151&extension=ts
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Cooking Channel FHD US" group-title="US Entertainment",Cooking Channel FHD US
+#EXTINF:-1 tvg-id="",Cooking Channel
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134095&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="HGTV FHD US" group-title="US Entertainment",HGTV FHD US
+#EXTINF:-1 tvg-id="",HGTV
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134132&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="TLC FHD US" group-title="US Entertainment",TLC FHD US
+#EXTINF:-1 tvg-id="",TLC
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134186&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Food Network FHD US" group-title="US Entertainment",Food Network FHD US
+#EXTINF:-1 tvg-id="",Food Network
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134112&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Crime & Investigation Network FHD US" group-title="US Entertainment",Crime & Investigation Network FHD US
+#EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HDTV.(CI.HD).us" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/369_144.png" group-title="",Crime Investigation
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134096&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD US" group-title="US Entertainment",Discovery Channel HD US
+#EXTINF:-1 tvg-id="",Discovery Channel
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134099&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Family HD US" group-title="US Entertainment",Discovery Family HD US
+#EXTINF:-1 tvg-id="",Discovery Family
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134100&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Life HD US" group-title="US Entertainment",Discovery Life HD US
+#EXTINF:-1 tvg-id="",Discovery Life
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134101&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="DIY NETWORK FHD US" group-title="US Entertainment",DIY NETWORK FHD US
+#EXTINF:-1 tvg-id="",DIY NETWORK
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134103&extension=ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="History FHD US" group-title="US Entertainment",History FHD US
+#EXTINF:-1 tvg-id="History.HDTV.(East).(HISHD).us" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/144_144.png" group-title="",History
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134134&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="History FHD UK" group-title="UK",History FHD UK
+#EXTINF:-1 tvg-id="",History UK
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175320&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="H2 FHD UK" group-title="UK",H2 FHD UK
+#EXTINF:-1 tvg-id="",H2 UK
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175316&extension=ts
 
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="4Seven FHD UK" group-title="UK",4Seven FHD UK
+#EXTINF:-1 tvg-id="",4Seven UK
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175221&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="More4 FHD UK" group-title="UK",More4 FHD UK
+#EXTINF:-1 tvg-id="",More4 UK
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175347&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="5 Select UK" group-title="UK",5 Select UK
+#EXTINF:-1 tvg-id="",5 Select UK
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175223&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="5 Star UK" group-title="UK",5 Star UK
+#EXTINF:-1 tvg-id="",5 Star UK
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175224&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="5 USA UK" group-title="UK",5 USA UK
+#EXTINF:-1 tvg-id="",5 USA UK
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175225&extension=ts
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ITV 1 FHD UK" group-title="UK",ITV 1 FHD UK
+#EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv1.png",ITV 1
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175327&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ITV 2 FHD UK" group-title="UK",ITV 2 FHD UK
+#EXTINF:-1 tvg-id="ITV2.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv2.png",ITV 2
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175329&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ITV 3 FHD UK" group-title="UK",ITV 3 FHD UK
+#EXTINF:-1 tvg-id="ITV3.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv3.png",ITV 3
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175331&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ITV 4 FHD UK" group-title="UK",ITV 4 FHD UK
+#EXTINF:-1 tvg-id="ITV4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv4.png",ITV 4
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175334&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ITV Be FHD UK" group-title="UK",ITV Be FHD UK
+#EXTINF:-1 tvg-id="ITVBe.uk",ITV BE
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175337&extension=ts
 
-
-#EXTINF:-1 tvg-id="" tvg-name="Channel 4 FHD UK" group-title="UK",Channel 4 FHD UK
+#EXTINF:-1 tvg-id="Channel.4.HD.uk",CHANNEL 4
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175269&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Channel 5 FHD UK" group-title="UK",Channel 5 FHD UK
+#EXTINF:-1 tvg-id="Channel.5.HD.uk",CHANNEL 5
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175271&extension=ts
 
 
 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Action Movies
+http://mohdtv.com:8880/live/voby3037/69246643/60207.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Comedy Movies
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617147&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",DISNEY Movies
+http://mohdtv.com:8880/live/voby3037/69246643/60928.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",HORROR Movies
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617145&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",FAMILY Movies
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617148&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",CRIME Movies
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617146&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",SCIFI Movies
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617117&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",DRAMA Movies
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617119&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",THRILLER Movies
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617149&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",SUPERHERO Movies
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617112&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",WAR Movies
+http://mohdtv.com:8880/live/voby3037/69246643/60247.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",CHiPs
+http://supersonictv.live:8080/live/Derrick/Hitman50$/77109.ts
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Bionic Woman
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=578167&extension=ts
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Six Million Dollar Man
+http://ott4k.me/play/live.php?mac=00:1A:79:2F:13:FC&stream=578163&extension=ts
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Arnold Schwarzenegger
+http://ott4k.me/play/live.php?mac=00:1A:79:2F:13:FC&stream=578175&extension=ts
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Sylvester Stallone
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1790081&extension=ts
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Jackie Chan
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1790291&extension=ts
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Western 1
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=705055&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Western 2
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=705054&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Western 3
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=705053&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Western 4
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=705052&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Western 5
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=705051&extension=ts
 
