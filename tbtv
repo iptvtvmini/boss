@@ -297,8 +297,9 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=79522&extension=t
 #EXTINF:-1 tvg-id="CTV.Two.Ottawa/CHRO.(CTV2O).ca",CTV 2
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=298629&extension=ts
 
-#EXTINF:-1 tvg-id="CTV.Two.Ottawa/CHRO.(CTV2O).ca",CTV 2
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=79531&extension=ts
+#EXTINF:-1 tvg-id="",CTV 2 BARRIE
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1040103&extension=ts
+
 
 #EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-name="A and E Network HDTV (A and EHD)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US001A&E-HD.png" group-title="",A&E
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134072&extension=m3u8
