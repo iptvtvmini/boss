@@ -1,1 +1,248 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="ABC" group-title="US| USA",ABC
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61430&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US| CBS FHD" group-title="US| USA",US| CBS FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61465&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CW HD" group-title="US| USA",CW HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61416&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Fox HD" group-title="US| USA",Fox HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61403&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="NBC" group-title="US| USA",NBC
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61387&extension=ts
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="US| AMC HD" group-title="US| USA",US| AMC HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61428&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US| Bravo FHD" group-title="US| USA",US| Bravo FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61466&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="FX" group-title="US| USA",FX
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61401&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="FXX FHD" group-title="US| USA",FXX FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61456&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SUNDANCETV FHD" group-title="US| USA",SUNDANCETV FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61460&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Syfy HD" group-title="US| USA",Syfy HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61373&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="TBS HD" group-title="US| USA",TBS HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61372&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" group-title="US| USA",TNT HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61370&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="USA Network" group-title="US| USA",USA Network
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61368&extension=ts
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="US| Cinemax FHD" group-title="US| USA",US| Cinemax FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61464&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US| Action Max FHD" group-title="US| USA",US| Action Max FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61469&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MoreMax HD" group-title="US| USA",MoreMax HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61390&extension=ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Showtime FHD" group-title="US| USA",Showtime FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61441&extension=ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Starz HD" group-title="US| USA",Starz HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61374&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Starz Cinema HD" group-title="US| USA",Starz Cinema HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61375&extension=ts
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="UK| EUROSPORT 1" group-title="UK| ENGLAND",UK| EUROSPORT 1
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97120&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UK| EUROSPORT 2" group-title="UK| ENGLAND",UK| EUROSPORT 2
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97121&extension=ts
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Big Ten Network BTN" group-title="US| USA",Big Ten Network BTN
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61386&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US| CBS Sports Network HD" group-title="US| USA",US| CBS Sports Network HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61352&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 FHD" group-title="US| USA",Fox Sports 1 FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61457&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 HD" group-title="US| USA",Fox Sports 2 HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61346&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Fox Soccer Plus" group-title="US| USA",Fox Soccer Plus
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61380&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN USA FHD" group-title="US| USA",ESPN USA FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61458&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 FHD" group-title="US| USA",ESPN 2 FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61459&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US| NBA HD" group-title="US| LEAGUE PASS",US| NBA HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=187070&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Network FHD" group-title="US| USA",NBC Sports Network FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61444&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="NFL Channel HD" group-title="US| USA",NFL Channel HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61348&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="NHL Network HD" group-title="US| USA",NHL Network HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61349&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Golf FHD" group-title="US| USA",Golf FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61455&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Tennis Channel FHD" group-title="US| USA",Tennis Channel FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61439&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="WWE TV FHD" group-title="US| USA",WWE TV FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61454&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US| WWE| WWE NETWORK HD" group-title="US| USA",US| WWE| WWE NETWORK HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=287479&extension=ts
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="UK| BT Sport 1 HD" group-title="UK| ENGLAND",UK| BT Sport 1 HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97146&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UK| BT Sport 2 HD" group-title="UK| ENGLAND",UK| BT Sport 2 HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97148&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UK| BT Sport 3 HD" group-title="UK| ENGLAND",UK| BT Sport 3 HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97150&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UK| BT SportESPN HD" group-title="UK| ENGLAND",UK| BT SportESPN HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97145&extension=ts
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="US| TSN 1 HD" group-title="US| USA",US| TSN 1 HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61412&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="TSN 2 HD-CA" group-title="US| USA",TSN 2 HD-CA
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61409&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="TSN 3 HD-CA" group-title="US| USA",TSN 3 HD-CA
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61408&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="TSN 4 HD-CA" group-title="US| USA",TSN 4 HD-CA
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61407&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="TSN 5 HD-CA" group-title="US| USA",TSN 5 HD-CA
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61406&extension=ts
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="US| Animal Planet FHD" group-title="US| USA",US| Animal Planet FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61468&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Crime Investigation Discovery HD" group-title="US| USA",Crime Investigation Discovery HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61417&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery HD" group-title="US| USA",Discovery HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61415&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UK| DMAX UK" group-title="UK| ENGLAND",UK| DMAX UK
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97060&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic" group-title="US| USA",National Geographic
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61388&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild FHD" group-title="US| USA",Nat Geo Wild FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61445&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="History FHD" group-title="US| USA",History FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61448&extension=ts
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Zone FHD" group-title="US| USA",HBO Zone FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61449&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature FHD" group-title="US| USA",HBO Signature FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61450&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO FHD" group-title="US| USA",HBO FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61451&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family FHD" group-title="US| USA",HBO Family FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61452&extension=ts
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="UK| BBC 1" group-title="UK| ENGLAND",UK| BBC 1
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97029&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UK| BBC 2 HD" group-title="UK| ENGLAND",UK| BBC 2 HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97030&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UK| BBC 3 HD" group-title="UK| ENGLAND",UK| BBC 3 HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97031&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UK| BBC 4 HD" group-title="UK| ENGLAND",UK| BBC 4 HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97032&extension=ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="UK| ITV 1" group-title="UK| ENGLAND",UK| ITV 1
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97037&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UK| ITV 2" group-title="UK| ENGLAND",UK| ITV 2
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97038&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UK| ITV 3" group-title="UK| ENGLAND",UK| ITV 3
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97039&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UK| ITV 4" group-title="UK| ENGLAND",UK| ITV 4
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97040&extension=ts
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="UK| 4 Seven HD" group-title="UK| ENGLAND",UK| 4 Seven HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97035&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UK| Channel 4" group-title="UK| ENGLAND",UK| Channel 4
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97044&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UK| Channel 5 FHD" group-title="UK| ENGLAND",UK| Channel 5 FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97045&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UK| Channel 5 Star" group-title="UK| ENGLAND",UK| Channel 5 Star
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97046&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UK| Channel 5 USA" group-title="UK| ENGLAND",UK| Channel 5 USA
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97047&extension=ts
+
+
+
+
+
+
+
+
 
