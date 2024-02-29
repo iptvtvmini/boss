@@ -349,21 +349,15 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97040&extension
 
 
 
-
 #EXTINF:-1 tvg-id="4seven.uk",4 Seven
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97035&extension=ts
 
 #EXTINF:-1 tvg-id="Channel.4.HD.uk",Channel 4
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97044&extension=ts
 
 #EXTINF:-1 tvg-id="Channel.5.HD.uk",Channel 5
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97045&extension=ts
 
-#EXTINF:-1 tvg-id="",Channel 5 Star
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97046&extension=ts
 
-#EXTINF:-1 tvg-id="",Channel 5 USA
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97047&extension=ts
 
 
 
