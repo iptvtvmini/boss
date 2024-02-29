@@ -83,24 +83,21 @@ https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6
 
 
 #EXTINF:-1 tvg-id="SHOWCASE.MOVIES.my" tvg-name="SHOWCASE MOVIES" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png" group-title="",SHOWCASE MOVIES
-
-#EXTINF:-1 tvg-id="CINEMAX.HD.my" tvg-name="CINEMAX HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png" group-title="",CINEMAX
-http://mohdtv.com:8880/live/voby3037/69246643/71058.ts
-
-#EXTINF:-1 tvg-id="HITS.Movies.HD.my" tvg-name="HITS Movies HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png" group-title="",HITS Movies
-http://mohdtv.com:8880/live/voby3037/69246643/71056.ts
-
-#EXTINF:-1 tvg-id="HITS.id" tvg-name="HITS HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png" group-title="",Hits
-http://mohdtv.com:8880/live/voby3037/69246643/60455.ts
-
-#EXTINF:-1 tvg-id="tvN.Movies.HD.my" tvg-name="tvN Movies HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png" group-title="",tvN Movies
+#EXTINF:-1 tvg-id="Cinemax.HD.id" tvg-name="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png" group-title="",CINEMAX
 
 
-#EXTINF:-1 tvg-id="Celestial.Movies.HD.my" tvg-name="Celestial Movies HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png" group-title="",Celestial Movies
-http://mohdtv.com:8880/live/voby3037/69246643/1718.ts
+#EXTINF:-1 tvg-id="HITS.MOVIES.HD.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png" group-title="",HITS Movies
+#EXTINF:-1 tvg-id="HITS.Movies.HD.my" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png" group-title="",HITS Movies
+http://vo01.mohdtv.com:8880/live/voby3037/69246643/71056.ts
 
-#EXTINF:-1 tvg-id="Celestial.Classic.Movies.my" tvg-name="Celestial Classic Movies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="",Celestial Classic Movies (CCM)
-http://mohdtv.com:8880/live/voby3037/69246643/71046.ts
+#EXTINF:-1 tvg-id="HITS.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png" group-title="",Hits
+http://vo01.mohdtv.com:8880/live/voby3037/69246643/60455.ts
+
+#EXTINF:-1 tvg-id="tvN.Movies.HD.id" tvg-name="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png" group-title="",tvN Movies
+#EXTINF:-1 tvg-id="Celestial.Movies.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png" group-title="",Celestial Movies
+
+#EXTINF:-1 tvg-id="Celestial.Classic.Movies.my" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="",Celestial Classic Movies (CCM)
+http://vo01.mohdtv.com:8880/live/voby3037/69246643/71046.ts
 
 #EXTINF:-1 tvg-id="CCM.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="",CCM (ID)
 
@@ -194,6 +191,31 @@ http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=134046&extension=m3
 http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=133974&extension=m3u8
 
 
+#EXTINF:-1 tvg-id="ESPN.HDTV.(Dish).(ESPNHD).us" tvg-name="ESPN HDTV (Dish) (ESPNHD)" tvg-logo="https://docdog.top/Logotv/countries//espn1.png" group-title="",ESPN 1
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487782&extension=m3u8
+
+#EXTINF:-1 tvg-id="ESPN2.HDTV.(Dish).(ESPN2HD).us" tvg-name="ESPN2 HDTV (Dish) (ESPN2HD)" tvg-logo="https://docdog.top/Logotv/countries//espn2.png" group-title="",ESPN 2
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487781&extension=m3u8
+
+#EXTINF:-1 tvg-id="ESPN3.HDTV.(Dish).(ESPN3HD).us" tvg-name="" tvg-logo="https://docdog.top/Logotv/countries//espn3.png" group-title="",ESPN 3
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=756601&extension=m3u8
+
+#EXTINF:-1 tvg-id="ESPNU.HDTV.(ESPNUHD).us" tvg-name="ESPNU HDTV (ESPNUHD)" tvg-logo="https://docdog.top/Logotv/countries//espnu.png" group-title="",ESPN U
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487778&extension=m3u8
+
+#EXTINF:-1 tvg-id="NBA.TV.HDTV.(NBA.HD).us",NBA TV
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487762&extension=m3u8
+
+#EXTINF:-1 tvg-id="NBCSNWH.NBC.Sports.Northwest.HD.us",NBC SPORTS
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487784&extension=m3u8
+
+#EXTINF:-1 tvg-id="CBS.Sports.Network.HDTV.(CBSSD).us",CBS Sport
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487785&extension=m3u8
+
+#EXTINF:-1 tvg-id="Big.Ten.Network.HDTV.(24/7.Overflow.#3).(BTFB3).us" tvg-name="Big Ten Network HDTV (24/7 Overflow #3) (BTFB3)" tvg-logo="https://docdog.top/Logotv/countries//bigtennetwork.png" group-title="",Big Ten Network
+http://mohdtv.com:8880/live/voby3037/69246643/3076.ts
+
+
 #EXTINF:-1 tvg-id="SPOTV.HD.id" tvg-name="SPOTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/456_144.png" group-title="",SPOTV
 http://mohdtv.com:8880/live/voby3037/69246643/60448.ts
 
@@ -213,8 +235,7 @@ http://mohdtv.com:8880/live/voby3037/69246643/3107.ts
 #EXTINF:-1 tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" tvg-name="Tennis Channel HDTV (TNNSHD)" tvg-logo="https://docdog.top/Logotv/countries//tennischannel.png" group-title="",Tennis
 http://mohdtv.com:8880/live/voby3037/69246643/3082.ts
 
-#EXTINF:-1 tvg-id="Big.Ten.Network.HDTV.(24/7.Overflow.#3).(BTFB3).us" tvg-name="Big Ten Network HDTV (24/7 Overflow #3) (BTFB3)" tvg-logo="https://docdog.top/Logotv/countries//bigtennetwork.png" group-title="",Big Ten Network
-http://mohdtv.com:8880/live/voby3037/69246643/3076.ts
+
 
 
 
@@ -362,6 +383,32 @@ http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=134183&extension=m3
 http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=134188&extension=m3u8
 
 
+
+
+
+#EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbcone.png",BBC 1
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577275&extension=m3u8
+
+#EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbc2.png",BBC 2
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577273&extension=m3u8
+
+#EXTINF:-1 tvg-id="BBC.Three.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbc3.png",BBC 3
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577271&extension=m3u8
+
+#EXTINF:-1 tvg-id="BBC.Four.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbc4.png",BBC 4
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577269&extension=m3u8
+
+#EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv1.png",ITV 1
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577266&extension=m3u8
+
+#EXTINF:-1 tvg-id="ITV2.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv2.png",ITV 2
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577264&extension=m3u8
+
+#EXTINF:-1 tvg-id="ITV3.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv3.png",ITV 3
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577262&extension=m3u8
+
+#EXTINF:-1 tvg-id="ITV4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv4.png",ITV 4
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577260&extension=m3u8
 
 
 
