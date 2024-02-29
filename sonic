@@ -89,10 +89,10 @@ http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=683149&ex
 http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=683142&extension=ts
 
 #EXTINF:-1 tvg-id="Celestial.Classic.Movies.my" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="",Celestial Classic Movies (CCM)
-http://mohdtv.com:8880/live/voby3037/69246643/71046.ts
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=571182&extension=ts
 
 #EXTINF:-1 tvg-id="CCM.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="",CCM (ID)
-http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=683110&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=683110&extension=ts
 
 
 #EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HDTV.(CI.HD).us",Crime Investigation
