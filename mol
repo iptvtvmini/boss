@@ -253,10 +253,14 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61403&extension
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61387&extension=ts
 
 
-
+#EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-name="A and E Network HDTV (A and EHD)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US001A&E-HD.png" group-title="",A&E
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45619&extension=ts
 
 #EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-name="AMC HDTV (East) (AMCHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/amc-us.png" group-title="",AMC
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61428&extension=ts
+
+#EXTINF:-1 tvg-id="BBC.America.HDTV.(East).(BBC).us" tvg-name="BBC America HDTV (East) (BBC)" tvg-logo="https://docdog.top/Logotv/countries/bbcamerica.png" group-title="",BBC America
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45612&extension=ts
 
 #EXTINF:-1 tvg-id="Bravo.HDTV.(East).(BRAVOD).us",Bravo
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61466&extension=ts
