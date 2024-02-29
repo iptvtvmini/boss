@@ -11,6 +11,16 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134003&extension=
 #EXTINF:-1 tvg-id="" tvg-name="ABC (EAST) HD US" group-title="US ABC Network",ABC (EAST) HD US
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=133589&extension=ts
 
+#EXTINF:-1 tvg-id="" tvg-name="CW Network FHD US" group-title="US Entertainment",CW Network FHD US
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134197&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CW 11 FHD US" group-title="US Entertainment",CW 11 FHD US
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134196&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX 11 KTTV (Los Angeles) HD US" group-title="US FOX Network",FOX 11 KTTV (Los Angeles) HD US
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=133422&extension=ts
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="A&E FHD US" group-title="US Entertainment",A&E FHD US
@@ -18,9 +28,6 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134072&extension=
 
 #EXTINF:-1 tvg-id="" tvg-name="AMC HD US" group-title="US Entertainment",AMC HD US
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134073&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD US" group-title="US Entertainment",Animal Planet HD US
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134076&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-name="BBC America HD US" group-title="US Entertainment",BBC America HD US
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134078&extension=ts
@@ -39,30 +46,6 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134091&extension=
 
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax Moremax HD US" group-title="US Movies",Cinemax Moremax HD US
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134092&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Cooking Channel FHD US" group-title="US Entertainment",Cooking Channel FHD US
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134095&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Crime & Investigation Network FHD US" group-title="US Entertainment",Crime & Investigation Network FHD US
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134096&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="CW 11 FHD US" group-title="US Entertainment",CW 11 FHD US
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134196&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="CW Network FHD US" group-title="US Entertainment",CW Network FHD US
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134197&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD US" group-title="US Entertainment",Discovery Channel HD US
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134099&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Family HD US" group-title="US Entertainment",Discovery Family HD US
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134100&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Life HD US" group-title="US Entertainment",Discovery Life HD US
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134101&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="DIY NETWORK FHD US" group-title="US Entertainment",DIY NETWORK FHD US
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134103&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-name="E! FHD US" group-title="US Entertainment",E! FHD US
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134104&extension=ts
@@ -103,11 +86,6 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134130&extension=
 #EXTINF:-1 tvg-id="" tvg-name="HBO Zone FHD US" group-title="US Movies",HBO Zone FHD US
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134131&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="HGTV FHD US" group-title="US Entertainment",HGTV FHD US
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134132&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="History FHD US" group-title="US Entertainment",History FHD US
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134134&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-name="IndiePlex HD US" group-title="US Movies",IndiePlex HD US
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134138&extension=ts
@@ -192,9 +170,6 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134182&extension=
 
 #EXTINF:-1 tvg-id="" tvg-name="TBS HD US" group-title="US Entertainment",TBS HD US
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134183&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TLC FHD US" group-title="US Entertainment",TLC FHD US
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134186&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT FHD US" group-title="US Entertainment",TNT FHD US
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134188&extension=ts
@@ -325,6 +300,43 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175224&extension=
 #EXTINF:-1 tvg-id="" tvg-name="5 USA UK" group-title="UK",5 USA UK
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175225&extension=ts
 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD US" group-title="US Entertainment",Animal Planet HD US
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134076&extension=ts
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Cooking Channel FHD US" group-title="US Entertainment",Cooking Channel FHD US
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134095&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="HGTV FHD US" group-title="US Entertainment",HGTV FHD US
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134132&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="TLC FHD US" group-title="US Entertainment",TLC FHD US
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134186&extension=ts
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Crime & Investigation Network FHD US" group-title="US Entertainment",Crime & Investigation Network FHD US
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134096&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD US" group-title="US Entertainment",Discovery Channel HD US
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134099&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Family HD US" group-title="US Entertainment",Discovery Family HD US
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134100&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Life HD US" group-title="US Entertainment",Discovery Life HD US
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134101&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="DIY NETWORK FHD US" group-title="US Entertainment",DIY NETWORK FHD US
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134103&extension=ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="History FHD US" group-title="US Entertainment",History FHD US
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134134&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-name="History FHD UK" group-title="UK",History FHD UK
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175320&extension=ts
