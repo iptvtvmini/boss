@@ -57,34 +57,36 @@ https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 #EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="",CNN INA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
 
-#EXTINF:-1 tvg-id="CINEMAX.HD.my" tvg-name="CINEMAX HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png" group-title="",CINEMAX
-http://mohdtv.com:8880/live/voby3037/69246643/71058.ts
 
-#EXTINF:-1 tvg-id="HITS.Movies.HD.my" tvg-name="HITS Movies HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png" group-title="",HITS Movies
-http://mohdtv.com:8880/live/voby3037/69246643/71056.ts
 
-#EXTINF:-1 tvg-id="HITS.id" tvg-name="HITS HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png" group-title="",Hits
-http://mohdtv.com:8880/live/voby3037/69246643/60455.ts
+#EXTINF:-1 tvg-id="Cinemax.HD.id" tvg-name="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png" group-title="",CINEMAX
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=683161&extension=ts
+
+#EXTINF:-1 tvg-id="HITS.MOVIES.HD.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png" group-title="",HITS Movies
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=683163&extension=ts
+
+#EXTINF:-1 tvg-id="HITS.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png" group-title="",Hits
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=683145&extension=ts
+
+#EXTINF:-1 tvg-id="tvN.Movies.HD.id" tvg-name="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png" group-title="",tvN Movies
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=683149&extension=ts
+
+#EXTINF:-1 tvg-id="Celestial.Movies.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png" group-title="",Celestial Movies
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=683142&extension=ts
+
+#EXTINF:-1 tvg-id="Celestial.Classic.Movies.my" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="",Celestial Classic Movies (CCM)
+http://mohdtv.com:8880/live/voby3037/69246643/71046.ts
 
 #EXTINF:-1 tvg-id="CCM.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="",CCM (ID)
-http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:09:eb:85&stream=683110&extension=ts
-
-
-
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=683110&extension=ts
 
 
 
 #EXTINF:-1 tvg-id="Channel.5.HD.sg" tvg-name="Channel 5" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428076_ico.png" group-title="",Channel 5
-http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:09:eb:85&stream=941615&extension=ts
-
 #EXTINF:-1 tvg-id="Channel.8.HD.sg" tvg-name="Channel 8" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428078_ico.png" group-title="",Channel 8
-http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:09:eb:85&stream=941616&extension=ts
-
 #EXTINF:-1 tvg-id="Channel.U.HD.sg" tvg-name="Channel U" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428075_ico.png" group-title="",Channel U
-http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:09:eb:85&stream=941617&extension=ts
-
 #EXTINF:-1 tvg-id="Suria.HD.sg" tvg-name="Suria" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428073_ico.png" group-title="",Suria
-http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:09:eb:85&stream=941575&extension=ts
+
 
 
 
