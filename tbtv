@@ -135,83 +135,86 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=828095&extension=m3
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 HD UK" group-title="UK Sports",Eurosport 1 HD UK
+#EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-name="Eurosport 1 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="",EuroSport 1
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175200&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 HD UK" group-title="UK Sports",Eurosport 2 HD UK
+#EXTINF:-1 tvg-id="Eurosport.2.HD.uk" tvg-name="Eurosport 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="",Eurosport 2
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175202&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Big Ten Network FHD US" group-title="General Sports (English)",Big Ten Network FHD US
+#EXTINF:-1 tvg-id="Big.Ten.Network.HDTV.(24/7.Overflow.#3).(BTFB3).us" tvg-name="Big Ten Network HDTV (24/7 Overflow #3) (BTFB3)" tvg-logo="https://docdog.top/Logotv/countries//bigtennetwork.png" group-title="",Big Ten Network
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=133960&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="CBS Sports Network HD US" group-title="General Sports (English)",CBS Sports Network HD US
+#EXTINF:-1 tvg-id="CBS.Sports.Network.HDTV.(CBSSD).us",CBS Sport
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134032&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Golf Channel FHD US" group-title="General Sports (English)",Golf Channel FHD US
+#EXTINF:-1 tvg-id="The.Golf.Channel.HDTV.(GLFHD).us" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png",Golf Channel
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134001&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 FHD US" group-title="General Sports (English)",Fox Sports 1 FHD US
+#EXTINF:-1 tvg-id="Fox.Sports.1.HDTV.(FS1HD).us" tvg-name="Fox Sports 1 HDTV (FS1HD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-sports-1-us.png" group-title="",FOX SPORTS 1
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=133975&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 FHD US" group-title="General Sports (English)",Fox Sports 2 FHD US
+#EXTINF:-1 tvg-id="Fox.Sports.2.HDTV.(FS2HD).us" tvg-name="Fox Sports 2 HDTV (FS2HD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-sports-2-us.png" group-title="",FOX SPORT 2
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=133976&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Fox Soccer Plus HD US" group-title="General Sports (English)",Fox Soccer Plus HD US
+#EXTINF:-1 tvg-id="Fox.Soccer.Plus.(FSPLUS).us" tvg-name="Fox Soccer Plus (FSPLUS)" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" group-title="",FOX SOCCER PLUS
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=133974&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN FHD US" group-title="General Sports (English)",ESPN FHD US
+#EXTINF:-1 tvg-id="ESPN.HDTV.(Dish).(ESPNHD).us" tvg-name="ESPN HDTV (Dish) (ESPNHD)" tvg-logo="https://docdog.top/Logotv/countries//espn1.png" group-title="",ESPN 1
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=133967&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 FHD US" group-title="General Sports (English)",ESPN 2 FHD US
+#EXTINF:-1 tvg-id="ESPN2.HDTV.(Dish).(ESPN2HD).us" tvg-name="ESPN2 HDTV (Dish) (ESPN2HD)" tvg-logo="https://docdog.top/Logotv/countries//espn2.png" group-title="",ESPN 2
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=133964&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD US" group-title="General Sports (English)",ESPN 3 HD US
+#EXTINF:-1 tvg-id="ESPN3.HDTV.(Dish).(ESPN3HD).us" tvg-name="" tvg-logo="https://docdog.top/Logotv/countries//espn3.png" group-title="",ESPN 3
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=133966&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN U FHD US" group-title="General Sports (English)",ESPN U FHD US
+#EXTINF:-1 tvg-id="ESPNU.HDTV.(ESPNUHD).us" tvg-name="ESPNU HDTV (ESPNUHD)" tvg-logo="https://docdog.top/Logotv/countries//espnu.png" group-title="",ESPN U
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=133970&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="NBA |  NBA TV" group-title="NBA",NBA |  NBA TV
+#EXTINF:-1 tvg-id="NBA.TV.HDTV.(NBA.HD).us" tvg-logo="https://docdog.top/Logotv/countries//nba.png",NBA TV
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=282052&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="NESN FHD US" group-title="General Sports (English)",NESN FHD US
+#EXTINF:-1 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us",NESN
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134014&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="World Fishing Network HD US" group-title="US Entertainment",World Fishing Network HD US
+#EXTINF:-1 tvg-id="World.Fishing.Network.(US).(WFN).us",World Fishing Network
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134201&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="WWE Network HD US" group-title="General Sports (English)",WWE Network HD US
+#EXTINF:-1 tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" tvg-name="Tennis Channel HDTV (TNNSHD)" tvg-logo="https://docdog.top/Logotv/countries//tennischannel.png" group-title="",Tennis
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134025&extension=ts
+
+#EXTINF:-1 tvg-id="WWE.Network.us" tvg-name="WWE Network" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png" group-title="",WWE
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134030&extension=ts
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TSN 1 HD CA" group-title="Canadian Sport Channels",TSN 1 HD CA
+#EXTINF:-1 tvg-id="The.Sports.Network.HDTV.(TSNHD).ca" tvg-name="The Sports Network HDTV (TSNHD)" tvg-logo="https://docdog.top/Logotv/countries//tsn1.png" group-title="",TSN 1
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134280&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="TSN 2 HD CA" group-title="Canadian Sport Channels",TSN 2 HD CA
+#EXTINF:-1 tvg-id="The.Sports.Network.2.HDTV.(TSN2D).ca" tvg-name="The Sports Network 2 HDTV (TSN2D)" tvg-logo="https://docdog.top/Logotv/countries//tsn2.png" group-title="",TSN 2
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134281&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="TSN 3 HD CA" group-title="Canadian Sport Channels",TSN 3 HD CA
+#EXTINF:-1 tvg-id="The.Sports.Network.3.HDTV.(TSN3HD).ca" tvg-name="The Sports Network 3 HDTV (TSN3HD)" tvg-logo="https://docdog.top/Logotv/countries//tsn3.png" group-title="",TSN 3
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134282&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="TSN 4 HD CA" group-title="Canadian Sport Channels",TSN 4 HD CA
+#EXTINF:-1 tvg-id="The.Sports.Network.4.HDTV.(TSN4H).ca" tvg-name="The Sports Network 4 HDTV (TSN4H)" tvg-logo="https://docdog.top/Logotv/countries//tsn4.png" group-title="",TSN 4
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134283&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="TSN 5 HD CA" group-title="Canadian Sport Channels",TSN 5 HD CA
+#EXTINF:-1 tvg-id="The.Sports.Network.5.HDTV.(TSN5HD).ca" tvg-name="The Sports Network 5 HDTV (TSN5HD)" tvg-logo="https://docdog.top/Logotv/countries//tsn5.png" group-title="",TSN 5
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134284&extension=ts
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 1 FHD UK" group-title="UK Sports",TNT Sports 1 FHD UK
+#EXTINF:-1 tvg-id="BT.Sport.1.uk" tvg-name="BT Sport 1 HD" tvg-logo="http://5.44.253.151:80/images/f0b8c39305ffdc6c9823055c1a006121.png" group-title="",BT Sports 1
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175184&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 2 FHD UK" group-title="UK Sports",TNT Sports 2 FHD UK
+#EXTINF:-1 tvg-id="BT.Sport.2.uk" tvg-name="BT Sport 2 HD" tvg-logo="http://5.44.253.151:80/images/f0b8c39305ffdc6c9823055c1a006121.png" group-title="",BT Sports 2
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175186&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 3 FHD UK" group-title="UK Sports",TNT Sports 3 FHD UK
+#EXTINF:-1 tvg-id="BT.Sport.3.uk" tvg-name="BT Sport 3 HD" tvg-logo="http://5.44.253.188:80/images/f0b8c39305ffdc6c9823055c1a006121.png" group-title="",BT Sports 3
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175188&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports ESPN FHD UK" group-title="UK Sports",TNT Sports ESPN FHD UK
+#EXTINF:-1 tvg-id="BT.Sport.4.uk" tvg-name="BT Sport 4 HD" tvg-logo="http://5.44.253.188:80/images/f0b8c39305ffdc6c9823055c1a006121.png" group-title="",BT Sports 4
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175195&extension=ts
 
 
