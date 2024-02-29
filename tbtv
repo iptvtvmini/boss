@@ -411,21 +411,21 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134139&extension=
 #EXTINF:-1 tvg-id="National.Geographic.Channel.HDTV.(NGCHD).us" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/140_144.png" group-title="",National Geographic
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134150&extension=ts
 
-#EXTINF:-1 tvg-id="",National Geographic Wild
+#EXTINF:-1 tvg-id="NatGeo.WILD.HDTV.(NGWILD).us",National Geographic Wild
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134151&extension=ts
 
 
 
-#EXTINF:-1 tvg-id="",Cooking Channel
+#EXTINF:-1 tvg-id="The.Cooking.Channel.HDTV.(COOKHD).us",Cooking Channel
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134095&extension=ts
 
-#EXTINF:-1 tvg-id="",HGTV
+#EXTINF:-1 tvg-id="Home.and.Garden.Television.HDTV.(East).(HGTVD).us",HGTV
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134132&extension=ts
 
-#EXTINF:-1 tvg-id="",TLC
+#EXTINF:-1 tvg-id="The.Learning.Channel.HDTV.(East).(TLCHD).us",TLC
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134186&extension=ts
 
-#EXTINF:-1 tvg-id="",Food Network
+#EXTINF:-1 tvg-id="Food.Network.HDTV.(East).(FOODHD).us",Food Network
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134112&extension=ts
 
 #EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HDTV.(CI.HD).us" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/369_144.png" group-title="",Crime Investigation
@@ -434,42 +434,42 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134096&extension=
 #EXTINF:-1 tvg-id="",Discovery Channel
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134099&extension=ts
 
-#EXTINF:-1 tvg-id="",Discovery Family
+#EXTINF:-1 tvg-id="Discovery.Family.Channel.HDTV.(DFCHD).us",Discovery Family
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134100&extension=ts
 
-#EXTINF:-1 tvg-id="",Discovery Life
+#EXTINF:-1 tvg-id="Discovery.Life.Channel.(DLIF).us",Discovery Life
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134101&extension=ts
 
-#EXTINF:-1 tvg-id="",DIY NETWORK
+#EXTINF:-1 tvg-id="Magnolia.Network.HDTV.(MAGNOLIA).us",DIY NETWORK
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134103&extension=ts
 
 
 #EXTINF:-1 tvg-id="History.HDTV.(East).(HISHD).us" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/144_144.png" group-title="",History
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134134&extension=ts
 
-#EXTINF:-1 tvg-id="",History UK
+#EXTINF:-1 tvg-id="History.Television.HDTV.(East).(HISHD).ca",History UK
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175320&extension=ts
 
-#EXTINF:-1 tvg-id="",H2 UK
+#EXTINF:-1 tvg-id="History2.Canada.(H2).ca",H2 UK
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175316&extension=ts
 
 
 
 
 
-#EXTINF:-1 tvg-id="",4Seven UK
+#EXTINF:-1 tvg-id="4seven.uk",4Seven UK
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175221&extension=ts
 
-#EXTINF:-1 tvg-id="",More4 UK
+#EXTINF:-1 tvg-id="More4.HD.uk",More4 UK
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175347&extension=ts
 
-#EXTINF:-1 tvg-id="",5 Select UK
+#EXTINF:-1 tvg-id="5SELECT.uk",5 Select UK
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175223&extension=ts
 
-#EXTINF:-1 tvg-id="",5 Star UK
+#EXTINF:-1 tvg-id="5STAR.uk",5 Star UK
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175224&extension=ts
 
-#EXTINF:-1 tvg-id="",5 USA UK
+#EXTINF:-1 tvg-id="5.USA.uk",5 USA UK
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175225&extension=ts
 
 
