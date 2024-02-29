@@ -116,67 +116,6 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=766855&extension=t
 
 
 
-#EXTINF:-1 tvg-id="",SUPER SPORTS PLAY 1
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=828118&extension=ts
-
-#EXTINF:-1 tvg-id="",SUPERSPORTS PLAY 2
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=828117&extension=ts
-
-#EXTINF:-1 tvg-id="",SUPERSPORTS PL
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=828116&extension=ts
-
-#EXTINF:-1 tvg-id="",SUPERSPORTS PSL
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=828112&extension=ts
-
-#EXTINF:-1 tvg-id="",SUPERSPORTS ACTION
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=828119&extension=ts
-
-#EXTINF:-1 tvg-id="",SUPERSPORTS BLITZ
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=828113&extension=ts
-
-#EXTINF:-1 tvg-id="",UPERSPORTS CRICKET
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=828106&extension=ts
-
-#EXTINF:-1 tvg-id="",SUPERSPORTS EVENTS
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=828121&extension=ts
-
-#EXTINF:-1 tvg-id="",SUPERSPORTS FOOTBALL
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=828108&extension=ts
-
-#EXTINF:-1 tvg-id="",SUPERSPORTS GOLF
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=828111&extension=ts
-
-#EXTINF:-1 tvg-id="",SUPERSPORTS GRANDSTAND
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=828110&extension=ts
-
-#EXTINF:-1 tvg-id="",SUPERSPORTS LIGA
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=828115&extension=ts
-
-#EXTINF:-1 tvg-id="",SUPERSPORTS MAXIMO
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=828120&extension=ts
-
-#EXTINF:-1 tvg-id="",SUPERSPORTS MOTORSPORT
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=828109&extension=ts
-
-#EXTINF:-1 tvg-id="",SUPERSPORTS RUGBY
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=828107&extension=ts
-
-#EXTINF:-1 tvg-id="",SUPERSPORTS TENNIS
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=828114&extension=ts
-
-#EXTINF:-1 tvg-id="",SUPERSPORTS VARIETY 1
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=828105&extension=ts
-
-#EXTINF:-1 tvg-id="",SUPERSPORTS VARIETY 2
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=828104&extension=ts
-
-#EXTINF:-1 tvg-id="",SUPERSPORTS VARIETY 3
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=828103&extension=ts
-
-#EXTINF:-1 tvg-id="",SUPERSPORTS VARIETY 4
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=828102&extension=ts
-
-
 
 #EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-name="Eurosport 1 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="",EuroSport 1
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577985&extension=ts
@@ -319,7 +258,7 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 https://6oclock.xyz:8443/live/Tyrone43147/My3boys/18337.m3u8
 
 #EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-name="" tvg-logo="https://watchindia.net/images/channels/usa/Fox_NY.png" group-title="",FOX 5
-https://6oclock.xyz:8443/live/Tyrone43147/My3boys/18321.m3u8
+https://6oclock.xyz:8443/live/Tyrone43147/My3boys/41882.ts
 
 #EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-name="" tvg-logo="https://watchindia.net/images/channels/usa/CBS.png" group-title="",CBS 2
 https://6oclock.xyz:8443/live/Tyrone43147/My3boys/922238.m3u8
