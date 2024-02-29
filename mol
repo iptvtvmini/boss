@@ -151,16 +151,16 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61458&extension
 #EXTINF:-1 tvg-id="ESPN2.HDTV.(Dish).(ESPN2HD).us" tvg-name="ESPN2 HDTV (Dish) (ESPN2HD)" tvg-logo="https://docdog.top/Logotv/countries//espn2.png" group-title="",ESPN 2
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61459&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US| NBA HD" group-title="US| LEAGUE PASS",US| NBA HD
+#EXTINF:-1 tvg-id="NBA.TV.HDTV.(NBA.HD).us",NBA
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=187070&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Network FHD" group-title="US| USA",NBC Sports Network FHD
+#EXTINF:-1 tvg-id="NBC.Sports.Washington.(NBCSWA).us",NBC Sports Network
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61444&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="NFL Channel HD" group-title="US| USA",NFL Channel HD
+#EXTINF:-1 tvg-id="NFL.RedZone.HDTV.(NFLRZD).us",NFL Channel HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61348&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="NHL Network HD" group-title="US| USA",NHL Network HD
+#EXTINF:-1 tvg-id="NHL.Network.US.HDTV.(NHLHD).us",NHL Network HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61349&extension=ts
 
 #EXTINF:-1 tvg-id="WWE.Network.us" tvg-name="WWE Network" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png" group-title="",WWE
@@ -210,25 +210,25 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61406&extension
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="US| Animal Planet FHD" group-title="US| USA",US| Animal Planet FHD
+#EXTINF:-1 tvg-id="Animal.Planet.HDTV.(East).(APHD).us",Animal Planet
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61468&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Crime Investigation Discovery HD" group-title="US| USA",Crime Investigation Discovery HD
+#EXTINF:-1 tvg-id="",Crime Investigation Discovery
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61417&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Discovery HD" group-title="US| USA",Discovery HD
+#EXTINF:-1 tvg-id="",Discovery
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61415&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="UK| DMAX UK" group-title="UK| ENGLAND",UK| DMAX UK
+#EXTINF:-1 tvg-id="",DMAX
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97060&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic" group-title="US| USA",National Geographic
+#EXTINF:-1 tvg-id="National.Geographic.Channel.HDTV.(NGCHD).us",National Geographic
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61388&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild FHD" group-title="US| USA",Nat Geo Wild FHD
+#EXTINF:-1 tvg-id="NatGeo.WILD.HDTV.(NGWILD).us",Nat Geo Wild
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61445&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="History FHD" group-title="US| USA",History FHD
+#EXTINF:-1 tvg-id="History.HDTV.(East).(HISHD).us",History
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61448&extension=ts
 
 
@@ -258,7 +258,7 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61387&extension
 #EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-name="AMC HDTV (East) (AMCHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/amc-us.png" group-title="",AMC
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61428&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US| Bravo FHD" group-title="US| USA",US| Bravo FHD
+#EXTINF:-1 tvg-id="Bravo.HDTV.(East).(BRAVOD).us",Bravo
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61466&extension=ts
 
 #EXTINF:-1 tvg-id="FX.HDTV.(East).(FX.HD).us" tvg-name="FX HDTV (East) (FX HD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/fx-us.png" group-title="",FX
@@ -350,19 +350,19 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97040&extension
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="UK| 4 Seven HD" group-title="UK| ENGLAND",UK| 4 Seven HD
+#EXTINF:-1 tvg-id="4seven.uk",4 Seven
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97035&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="UK| Channel 4" group-title="UK| ENGLAND",UK| Channel 4
+#EXTINF:-1 tvg-id="Channel.4.HD.uk",Channel 4
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97044&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="UK| Channel 5 FHD" group-title="UK| ENGLAND",UK| Channel 5 FHD
+#EXTINF:-1 tvg-id="Channel.5.HD.uk",Channel 5
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97045&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="UK| Channel 5 Star" group-title="UK| ENGLAND",UK| Channel 5 Star
+#EXTINF:-1 tvg-id="",Channel 5 Star
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97046&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="UK| Channel 5 USA" group-title="UK| ENGLAND",UK| Channel 5 USA
+#EXTINF:-1 tvg-id="",Channel 5 USA
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97047&extension=ts
 
 
