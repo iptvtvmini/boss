@@ -74,7 +74,7 @@ https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6
 
 #EXTINF:-1 tvg-id="SHOWCASE.MOVIES.my" tvg-name="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png" group-title="",SHOWCASE MOVIES
 #EXTINF:-1 tvg-id="Cinemax.HD.id" tvg-name="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png" group-title="",CINEMAX
-http://tv.premiumplus.tv:80/play/live.php?00:1A:79:B1:94:01&stream=683161&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=683161&extension=ts
 
 #EXTINF:-1 tvg-id="HITS.MOVIES.HD.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png" group-title="",HITS Movies
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=683163&extension=ts
