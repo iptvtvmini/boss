@@ -88,18 +88,6 @@ http://vo01.mohdtv.com:8880/live/voby3037/69246643/71046.ts
 
 
 
-
-
-
-#EXTINF:-1 tvg-id="Channel.5.HD.sg" tvg-name="Channel 5" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428076_ico.png" group-title="",Channel 5
-#EXTINF:-1 tvg-id="Channel.8.HD.sg" tvg-name="Channel 8" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428078_ico.png" group-title="",Channel 8
-#EXTINF:-1 tvg-id="Channel.U.HD.sg" tvg-name="Channel U" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428075_ico.png" group-title="",Channel U
-#EXTINF:-1 tvg-id="Suria.HD.sg" tvg-name="Suria" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428073_ico.png" group-title="",Suria
-
-
-
-
-
 #EXTINF:-1 tvg-id="TVSUKAN" tvg-name="Sukan RTM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/58_144.png" group-title="",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/index.m3u8?id=4
 
@@ -178,10 +166,10 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487689&extension=m3
 #EXTINF:-1 tvg-id="WWE.Network.us" tvg-name="WWE Network" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png" group-title="",WWE
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487679&extension=m3u8
 
-#EXTINF:-1 tvg-id="",Sportnet WWE
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=708830&extension=ts
+#EXTINF:-1 tvg-id="Sportsnet.360.HDTV.(360HD).ca" tvg-logo="https://docdog.top/Logotv/countries//sportsnet360.png",SPORTSNET 360
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487802&extension=ts
 
-#EXTINF:-1 tvg-id="Sportsnet.One.HDTV.(SN1HD).ca",Sportnet One
+#EXTINF:-1 tvg-id="Sportsnet.One.HDTV.(SN1HD).ca" tvg-logo="https://docdog.top/Logotv/countries//sportsnetone.png",Sportsnet One
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487799&extension=m3u8
 
 
@@ -277,8 +265,6 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469346&extension=m3
 #EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-name="Syfy HDTV (SYFYHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/syfy-us.png" group-title="",Syfy
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469431&extension=m3u8
 
-#EXTINF:-1 tvg-id="SYFY.HD.uk" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US072SYFY.png",SYFY (UK)
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577898&extension=ts
 
 #EXTINF:-1 tvg-id="BBC.America.HDTV.(East).(BBC).us" tvg-name="BBC America HDTV (East) (BBC)" tvg-logo="https://docdog.top/Logotv/countries/bbcamerica.png" group-title="",BBC America
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469295&extension=m3u8
