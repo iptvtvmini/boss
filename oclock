@@ -269,7 +269,7 @@ https://6oclock.xyz:8443/live/Tyrone43147/My3boys/27492.ts
 
 
 
-#EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-name="" tvg-logo="" group-title="",A&E
+#EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-name="" tvg-logo="https://docdog.top/Logotv/countries//A&E.jpg" group-title="",A&E
 https://6oclock.xyz:8443/live/Tyrone43147/My3boys/12793.ts
 
 #EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-name="AMC HDTV (East) (AMCHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/amc-us.png" group-title="",AMC
@@ -280,6 +280,9 @@ https://6oclock.xyz:8443/live/Tyrone43147/My3boys/12698.ts
 
 #EXTINF:-1 tvg-id="BBC.America.HDTV.(East).(BBC).us" tvg-name="BBC America HDTV (East) (BBC)" tvg-logo="https://docdog.top/Logotv/countries/bbcamerica.png" group-title="",BBC America
 http://watchindia.net:8880/live/65138/11733/2055.ts
+
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.HDTV.(East).(E!.HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/e-entertainment-us.png",E!
+https://6oclock.xyz:8443/live/Pumpkin1/Pumpkin1/12761.ts
 
 #EXTINF:-1 tvg-id="Freeform.HDTV.(East).(FRFHD).us" tvg-name="Freeform HDTV (East) (FRFHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/freeform-us.png" group-title="",FREEFORM
 https://6oclock.xyz:8443/live/Tyrone43147/My3boys/12755.ts
@@ -315,16 +318,17 @@ https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 https://6oclock.xyz:8443/live/Tyrone43147/My3boys/26820.ts
 
 #EXTINF:-1 tvg-id="MGM+.HDTV.(East).(MGM+HD).us" tvg-name="MGM+ HDTV (East) (MGM+HD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-us.png" group-title="",EPIX
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552048&extension=m3u8
+https://6oclock.xyz:8443/live/Pumpkin1/Pumpkin1/421495.ts
 
 #EXTINF:-1 tvg-id="MGM+.Marquee.HDTV.(East).(MGM+MRQ).us" tvg-name="MGM+ Marquee HDTV (East) (MGM+MRQ)" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-us.png" group-title="",EPIX 2
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552047&extension=m3u8
+https://6oclock.xyz:8443/live/Pumpkin1/Pumpkin1/421506.ts
 
 #EXTINF:-1 tvg-id="MGM+.Drive-In.(MGM+DI).us" tvg-name="MGM+ Drive-In (MGM+DI)" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-drive-in-us.png" group-title="",EPIX Drive-In
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=552046&extension=m3u8
+https://6oclock.xyz:8443/live/Pumpkin1/Pumpkin1/421449.ts
 
 #EXTINF:-1 tvg-id="MGM+.Hits.HDTV.(East).(MGM+HTHD).us" tvg-name="MGM+ Hits HDTV (East) (MGM+HTHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-us.png" group-title="",EPIX Hits
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=753280&extension=m3u8
+https://6oclock.xyz:8443/live/Pumpkin1/Pumpkin1/12759.ts
+
 
 
 
@@ -358,17 +362,50 @@ https://6oclock.xyz:8443/live/Tyrone43147/My3boys/421515.ts
 #EXTINF:-1 tvg-id="RetroPlex.HDTV.(RETROHD).us" tvg-name="RetroPlex HDTV (RETROHD)" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4c05111ed0c303d92a6b410a9719fba5.png" group-title="",Retro Plex
 https://6oclock.xyz:8443/live/Tyrone43147/My3boys/421505.ts
 
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="The.Cooking.Channel.HDTV.(COOKHD).us",Cooking Channel
+https://6oclock.xyz:8443/live/Pumpkin1/Pumpkin1/12770.ts
+
+#EXTINF:-1 tvg-id="Magnolia.Network.HDTV.(MAGNOLIA).us",MAGNOLIA  NETWORK
+https://6oclock.xyz:8443/live/Pumpkin1/Pumpkin1/12762.ts
+
+
+#EXTINF:-1 tvg-id="Animal.Planet.HDTV.(East).(APHD).us" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png" group-title="",Animal Planet
+https://6oclock.xyz:8443/live/Pumpkin1/Pumpkin1/12790.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//discoverychannel.png",DISCOVERY CHANNEL
+https://6oclock.xyz:8443/live/Pumpkin1/Pumpkin1/12767.ts
+
+#EXTINF:-1 tvg-id="Discovery.Family.Channel.HDTV.(DFCHD).us" tvg-logo="https://docdog.top/Logotv/countries//discoveryfamilychannel.png",DISCOVERY FAMILY
+https://6oclock.xyz:8443/live/Pumpkin1/Pumpkin1/22621.ts
+
+#EXTINF:-1 tvg-id="Discovery.Life.Channel.(DLIF).us" tvg-logo="https://docdog.top/Logotv/countries//discoverylife.png",DISCOVERY LIFE
+https://6oclock.xyz:8443/live/Pumpkin1/Pumpkin1/22620.ts
+
+#EXTINF:-1 tvg-id="Investigation.Discovery.HDTV.(IDHD).us" tvg-logo="https://docdog.top/Logotv/countries/uk/discoveryinvestigation.png",Investigation Discovery
+https://6oclock.xyz:8443/live/Pumpkin1/Pumpkin1/12734.ts
+
+
+
+
+
 #EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv1.png",ITV 1
-http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97037&extension=ts
+https://6oclock.xyz:8443/live/Pumpkin1/Pumpkin1/24298.ts
 
 #EXTINF:-1 tvg-id="ITV2.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv2.png",ITV 2
-http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97038&extension=ts
+https://6oclock.xyz:8443/live/Pumpkin1/Pumpkin1/24299.ts
 
 #EXTINF:-1 tvg-id="ITV3.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv3.png",ITV 3
-http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97039&extension=ts
+https://6oclock.xyz:8443/live/Pumpkin1/Pumpkin1/24300.ts
 
 #EXTINF:-1 tvg-id="ITV4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv4.png",ITV 4
-http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97040&extension=ts
+https://6oclock.xyz:8443/live/Pumpkin1/Pumpkin1/24301.ts
+
 
 
 
