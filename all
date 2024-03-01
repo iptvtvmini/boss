@@ -123,11 +123,14 @@ http://vo01.mohdtv.com:8880/live/voby4349/154984156/1707.m3u8
 
 
 
-
-
-
 #EXTINF:-1 tvg-id="Animal.Planet.HDTV.(East).(APHD).us" tvg-logo="https://docdog.top/Logotv/countries//animalplanet.png",Animal Planet
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=998385&extension=m3u8
+
+#EXTINF:-1 tvg-id="National.Geographic.Channel.HDTV.(NGCHD).us" tvg-logo="https://docdog.top/Logotv/countries//natgeo.png",National Geographic
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469407&extension=m3u8
+
+#EXTINF:-1 tvg-id="NatGeo.WILD.HDTV.(NGWILD).us" tvg-logo="https://docdog.top/Logotv/countries//natgeowild.png",NatGeo WILD
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469409&extension=m3u8
 
 #EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HDTV.(CI.HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/crime-and-investigation-us.png",Crime & Investigation
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=626996&extension=m3u8
@@ -135,19 +138,35 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=626996&extension=m3
 #EXTINF:-1 tvg-id="Investigation.Discovery.HDTV.(IDHD).us" tvg-logo="https://docdog.top/Logotv/countries//investigationdiscovery.png",Investigation Discovery
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577901&extension=m3u8
 
-#EXTINF:-1 tvg-id="National.Geographic.Channel.HDTV.(NGCHD).us" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/140_144.png",National Geographic
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469407&extension=m3u8
-
 #EXTINF:-1 tvg-id="The.Discovery.Channel.HDTV.(East).(DSCHD).us" tvg-logo="https://docdog.top/Logotv/countries//discoverychannel.png",Discovery Channel
 https://6oclock.xyz:8443/live/Pumpkin1/Pumpkin1/12767.ts
-
-#EXTINF:-1 tvg-id="Discovery.Life.Channel.(DLIF).us" tvg-logo="https://docdog.top/Logotv/countries//discoverylife.png",Discovery Life
-https://6oclock.xyz:8443/live/Pumpkin1/Pumpkin1/22620.ts
 
 #EXTINF:-1 tvg-id="Discovery.Family.Channel.HDTV.(DFCHD).us" tvg-logo="https://docdog.top/Logotv/countries//discoveryfamilychannel.png",Discovery Family
 https://6oclock.xyz:8443/live/Pumpkin1/Pumpkin1/22621.ts
 
-#EXTINF:-1 tvg-id="History.HDTV.(East).(HISHD).us" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/144_144.png" group-title="",History
+#EXTINF:-1 tvg-id="Discovery.Life.Channel.(DLIF).us" tvg-logo="https://docdog.top/Logotv/countries//discoverylife.png",Discovery Life
+https://6oclock.xyz:8443/live/Pumpkin1/Pumpkin1/22620.ts
+
+#EXTINF:-1 tvg-id="Magnolia.Network.HDTV.(MAGNOLIA).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/countrypic.png",Magnolia Network
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469379&extension=m3u8
+
+#EXTINF:-1 tvg-id="Home.and.Garden.Television.HDTV.(East).(HGTVD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/hgtv-us.png",HGTV
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469392&extension=m3u8
+
+#EXTINF:-1 tvg-id="Dish.Network.FYI.(DNTWRK).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fyi-us.png",FYI
+#EXTINF:-1 tvg-id="FYI.HDTV.(FYIHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fyi-us.png",FYI HDTV
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469389&extension=m3u8
+
+#EXTINF:-1 tvg-id="Food.Network.HDTV.(East).(FOODHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/food-network-us.png",Food Network
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469386&extension=m3u8
+
+#EXTINF:-1 tvg-id="The.Cooking.Channel.HDTV.(COOKHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cooking-channel-us.png",Cooking Channel
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469363&extension=m3u8
+
+#EXTINF:-1 tvg-id="TASTE.Tastemade.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/tastemade-us.png",Tastemade
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=551789&extension=m3u8
+
+#EXTINF:-1 tvg-id="History.HDTV.(East).(HISHD).us" tvg-logo="https://docdog.top/Logotv/countries//history.png",History
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469394&extension=m3u8
 
 #EXTINF:-1 tvg-id="History2.Canada.(H2).ca" tvg-logo="https://docdog.top/Logotv/countries/uk/history2.png",History 2
@@ -155,11 +174,6 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469395&extension=m3
 
 #EXTINF:-1 tvg-id="Sky.HistoryHD.uk" tvg-logo="",Sky History
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577904&extension=m3u8
-
-
-#EXTINF:-1 tvg-id="Food.Network.HDTV.(East).(FOODHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/food-network-us.png",Food Network
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469386&extension=m3u8
-
 
 
 
