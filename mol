@@ -255,6 +255,19 @@ http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61403&extension=t
 http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61387&extension=ts
 
 
+
+#EXTINF:-1 tvg-id="CTV.Calgary.HDTV.(CTVHC).ca" tvg-logo="https://docdog.top/Logotv/countries//ctvcalgary.png",CTV
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=191792&extension=ts
+
+#EXTINF:-1 tvg-id="CTV.Two.Ottawa/CHRO.(CTV2O).ca" tvg-logo="https://docdog.top/Logotv/countries//ctv2ottawa.png",CTV2
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=626966&extension=ts
+
+#EXTINF:-1 tvg-id="CTV.SCI-FI.Channel.HDTV.(SCIFIHD).ca" tvg-logo="https://docdog.top/Logotv/countries/canada/ctv-sci-fi-channel-ca.png",CTV SCI-FI
+http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=626898&extension=ts
+
+
+
+
 #EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-name="A and E Network HDTV (A and EHD)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US001A&E-HD.png" group-title="",A&E
 http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45619&extension=ts
 
