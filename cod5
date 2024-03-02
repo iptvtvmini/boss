@@ -219,10 +219,10 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487803&extension=m3
 #EXTINF:-1 tvg-id="5e54187aae660e00093561d6" tvg-logo="https://images.pluto.tv/channels/5e54187aae660e00093561d6/colorLogoPNG.png" group-title="",Game Show Central
 https://gsn-gameshowchannnel-1-us.vizio.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="GameTV.(GTV).ca" tvg-logo="http://5.44.253.151:80/images/86a43a112f1c64b381ae76c3a1040da8.png" group-title="",Game TV
+#EXTINF:-1 tvg-id="GameTV.(GTV).ca" tvg-logo="https://docdog.top/Logotv/countries//gameone.png",Game TV
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=626942&extension=m3u8
 
-#EXTINF:-1 tvg-id="GAME+.us" tvg-logo="http://5.44.253.151:80/images/86a43a112f1c64b381ae76c3a1040da8.png",Game Plus
+#EXTINF:-1 tvg-id="GAME+.us" tvg-logo="https://docdog.top/Logotv/countries//gameone.png",Game Plus
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=752916&extension=m3u8
 
 #EXTINF:-1 tvg-id="MBC.Wanasah.(MBCW).us" tvg-logo="https://i.imgur.com/AuYEozR.png" group-title="",Wanasah
