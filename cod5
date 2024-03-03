@@ -114,6 +114,17 @@ http://tvpanel.one:80/live/Abesan/U14N1bc6td/689880.ts
 #EXTINF:-1 tvg-id="Astro.Supersport.5.HD.my" tvg-name="Astro Supersport 5 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="",Astro SuperSport 5
 
 
+#EXTINF:-1,Now Sport 1
+http://tvpanel.one:80/live/Abesan/U14N1bc6td/689910.ts
+
+#EXTINF:-1,Now Sport 2
+http://tvpanel.one:80/live/Abesan/U14N1bc6td/689911.ts
+
+#EXTINF:-1,Now Sport 3
+http://tvpanel.one:80/live/Abesan/U14N1bc6td/689912.ts
+
+
+
 
 #EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="",EuroSport 1
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577985&extension=m3u8
