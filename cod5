@@ -230,19 +230,19 @@ https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6
 
 
 
-#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="" tvg-logo="http://stmgroup.xyz/logo/abcnewyork.png" group-title="",ABC 7
+#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/abc-us.png",ABC 7
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=548879&extension=ts
 
-#EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-name="" tvg-logo="https://watchindia.net/images/channels/usa/CBS.png" group-title="",CBS 2
+#EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cbs-logo-white-us.png",CBS 2
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=549522&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vstreams.tv:2082/images/bc68a7acd9f983d555c36cccd6b08f80.png" group-title="",CW 11
+#EXTINF:-1 tvg-id="CW.(WUPV).Richmond,.VA.us" tvg-logo="https://docdog.top/Logotv/countries//cw.png",CW 11
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=551454&extension=ts
 
-#EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-name="" tvg-logo="https://watchindia.net/images/channels/usa/Fox_NY.png" group-title="",FOX 5
+#EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png",FOX 5
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=549764&extension=ts
 
-#EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-name="" tvg-logo="https://watchindia.net/images/channels/usa/NBC.png" group-title="",NBC 4
+#EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries//nbcnewyork.png",NBC 4
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=550258&extension=ts
 
 
