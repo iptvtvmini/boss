@@ -209,16 +209,16 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134286&extension=
 #EXTINF:-1 tvg-id="Sportsnet.World.Plus.1.HDTV.(SWP1HD).ca",Sportsnet World
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134290&extension=ts
 
-#EXTINF:-1 tvg-id="BT.Sport.1.uk" tvg-name="BT Sport 1 HD" tvg-logo="http://5.44.253.151:80/images/f0b8c39305ffdc6c9823055c1a006121.png" group-title="",BT Sports 1
+#EXTINF:-1 tvg-id="BT.Sport.1.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png",BT Sport1
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175184&extension=ts
 
-#EXTINF:-1 tvg-id="BT.Sport.2.uk" tvg-name="BT Sport 2 HD" tvg-logo="http://5.44.253.151:80/images/f0b8c39305ffdc6c9823055c1a006121.png" group-title="",BT Sports 2
+#EXTINF:-1 tvg-id="BT.Sport.2.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsports2vip.png",BT Sport2
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175186&extension=ts
 
-#EXTINF:-1 tvg-id="BT.Sport.3.uk" tvg-name="BT Sport 3 HD" tvg-logo="http://5.44.253.188:80/images/f0b8c39305ffdc6c9823055c1a006121.png" group-title="",BT Sports 3
+#EXTINF:-1 tvg-id="BT.Sport.3.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport3.png",BT Sport3
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175188&extension=ts
 
-#EXTINF:-1 tvg-id="BT.Sport.4.uk" tvg-name="BT Sport 4 HD" tvg-logo="http://5.44.253.188:80/images/f0b8c39305ffdc6c9823055c1a006121.png" group-title="",BT Sports 4
+#EXTINF:-1 tvg-id="BT.Sport.4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",BT Sport4
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175195&extension=ts
 
 
@@ -466,74 +466,81 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134179&extension=
 
 
 
-#EXTINF:-1 tvg-id="Animal.Planet.HDTV.(East).(APHD).us" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png" group-title="",Animal Planet
+#EXTINF:-1 tvg-id="Animal.Planet.HDTV.(East).(APHD).us" tvg-logo="https://docdog.top/Logotv/countries//animalplanet.png",Animal Planet
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134076&extension=m3u8
 
-#EXTINF:-1 tvg-id="Investigation.Discovery.HDTV.(IDHD).us" tvg-name="http://myserveriptv.com:2082/images/e00a346a1e80c3d33bbb82d4fd74b31e.png" tvg-logo="" group-title="",Investigation Discovery
+#EXTINF:-1 tvg-id="Investigation.Discovery.HDTV.(IDHD).us" tvg-logo="https://docdog.top/Logotv/countries//investigationdiscovery.png",Investigation Discovery
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134139&extension=m3u8
 
-#EXTINF:-1 tvg-id="National.Geographic.Channel.HDTV.(NGCHD).us" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/140_144.png" group-title="",National Geographic
+#EXTINF:-1 tvg-id="National.Geographic.Channel.HDTV.(NGCHD).us" tvg-logo="https://docdog.top/Logotv/countries//natgeo.png",National Geographic
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134150&extension=m3u8
 
-#EXTINF:-1 tvg-id="NatGeo.WILD.HDTV.(NGWILD).us",National Geographic Wild
+#EXTINF:-1 tvg-id="NatGeo.WILD.HDTV.(NGWILD).us" tvg-logo="https://docdog.top/Logotv/countries//natgeowild.png",NatGeo WILD
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134151&extension=m3u8
 
 
-#EXTINF:-1 tvg-id="The.Cooking.Channel.HDTV.(COOKHD).us",Cooking Channel
+#EXTINF:-1 tvg-id="The.Cooking.Channel.HDTV.(COOKHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cooking-channel-us.png",Cooking Channel
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134095&extension=m3u8
 
-#EXTINF:-1 tvg-id="Home.and.Garden.Television.HDTV.(East).(HGTVD).us",HGTV
+#EXTINF:-1 tvg-id="Home.and.Garden.Television.HDTV.(East).(HGTVD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/hgtv-us.png",HGTV
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134132&extension=m3u8
 
-#EXTINF:-1 tvg-id="The.Learning.Channel.HDTV.(East).(TLCHD).us",TLC
+#EXTINF:-1 tvg-id="The.Learning.Channel.HDTV.(East).(TLCHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/tlc-us.png",TLC
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134186&extension=m3u8
 
-#EXTINF:-1 tvg-id="Food.Network.HDTV.(East).(FOODHD).us",Food Network
+#EXTINF:-1 tvg-id="Food.Network.HDTV.(East).(FOODHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/food-network-us.png",Food Network
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134112&extension=m3u8
 
-#EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HDTV.(CI.HD).us" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/369_144.png" group-title="",Crime Investigation
+#EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HDTV.(CI.HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/crime-and-investigation-us.png",Crime&Investigation
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134096&extension=m3u8
 
-#EXTINF:-1 tvg-id="",Discovery Channel
+#EXTINF:-1 tvg-id="The.Discovery.Channel.HDTV.(East).(DSCHD).us" tvg-logo="https://docdog.top/Logotv/countries//discoverychannel.png",Discovery Channel
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134099&extension=m3u8
 
-#EXTINF:-1 tvg-id="Discovery.Family.Channel.HDTV.(DFCHD).us",Discovery Family
+#EXTINF:-1 tvg-id="Discovery.Family.Channel.HDTV.(DFCHD).us" tvg-logo="https://docdog.top/Logotv/countries//discoveryfamilychannel.png",Discovery Family
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134100&extension=m3u8
 
-#EXTINF:-1 tvg-id="Discovery.Life.Channel.(DLIF).us",Discovery Life
+#EXTINF:-1 tvg-id="Discovery.Life.Channel.(DLIF).us" tvg-logo="https://docdog.top/Logotv/countries//discoverylife.png",Discovery Life
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134101&extension=m3u8
 
-#EXTINF:-1 tvg-id="Magnolia.Network.HDTV.(MAGNOLIA).us",DIY NETWORK
+#EXTINF:-1 tvg-id="Magnolia.Network.HDTV.(MAGNOLIA).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/countrypic.png",Magnolia Network
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134103&extension=m3u8
 
 
-#EXTINF:-1 tvg-id="History.HDTV.(East).(HISHD).us" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/144_144.png" group-title="",History
+#EXTINF:-1 tvg-id="History.HDTV.(East).(HISHD).us" tvg-logo="https://docdog.top/Logotv/countries//history.png",History
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134134&extension=m3u8
 
-#EXTINF:-1 tvg-id="History.Television.HDTV.(East).(HISHD).ca",History UK
+#EXTINF:-1 tvg-id="Sky.HistoryHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/history.png",Sky History
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175320&extension=ts
 
-#EXTINF:-1 tvg-id="History2.Canada.(H2).ca",H2 UK
+#EXTINF:-1 tvg-id="History2.Canada.(H2).ca" tvg-logo="https://docdog.top/Logotv/countries/uk/history2.png",History 2
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175316&extension=ts
 
-#EXTINF:-1 tvg-id="DMAX.uk",DMAX
+#EXTINF:-1 tvg-id="DMAX.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/dmax.png",DMAX
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175294&extension=ts
 
 
 
-#EXTINF:-1 tvg-id="4seven.uk",4Seven UK
+
+#EXTINF:-1 tvg-id="Channel.4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/channel4.png",Channel 4
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175269&extension=ts
+
+#EXTINF:-1 tvg-id="4seven.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/4seven.png",4 Seven
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175221&extension=ts
 
-#EXTINF:-1 tvg-id="More4.HD.uk",More4 UK
+#EXTINF:-1 tvg-id="More4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/more4.png",More4
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175347&extension=ts
 
-#EXTINF:-1 tvg-id="5SELECT.uk",5 Select UK
+#EXTINF:-1 tvg-id="Channel.5.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/channel5.png",Channel 5
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175271&extension=ts
+
+#EXTINF:-1 tvg-id="5SELECT.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/5select.png",5 Select
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175223&extension=ts
 
-#EXTINF:-1 tvg-id="5STAR.uk",5 Star UK
+#EXTINF:-1 tvg-id="5STAR.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/5star.png",5 Star
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175224&extension=ts
 
-#EXTINF:-1 tvg-id="5.USA.uk",5 USA UK
+#EXTINF:-1 tvg-id="5.USA.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/usa.png",5 USA
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175225&extension=ts
 
 
@@ -550,14 +557,8 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175331&extension=
 #EXTINF:-1 tvg-id="ITV4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv4.png",ITV 4
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175334&extension=ts
 
-#EXTINF:-1 tvg-id="ITVBe.uk",ITV BE
+#EXTINF:-1 tvg-id="ITVBe.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itvbe.png",ITVBe
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175337&extension=ts
-
-#EXTINF:-1 tvg-id="Channel.4.HD.uk",CHANNEL 4
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175269&extension=ts
-
-#EXTINF:-1 tvg-id="Channel.5.HD.uk",CHANNEL 5
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175271&extension=ts
 
 
 
