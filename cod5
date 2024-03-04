@@ -216,144 +216,45 @@ http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487803&extension=m3
 
 
 
-#EXTINF:-1,Arena Sport 1
+#EXTINF:-1 tvg-logo="https://docdog.top/Logotv/countries//arenasport1.png",Arena Sport 1
 http://tvpanel.one:80/live/Abesan/U14N1bc6td/689871.ts
 
-#EXTINF:-1,Arena Sport 2
+#EXTINF:-1 tvg-logo="https://docdog.top/Logotv/countries//arenasport2.png",Arena Sport 2
 http://tvpanel.one:80/live/Abesan/U14N1bc6td/689872.ts
 
-#EXTINF:-1,Arena Sport 3
+#EXTINF:-1 tvg-logo="https://docdog.top/Logotv/countries//arenasport3.png",Arena Sport 3
 http://tvpanel.one:80/live/Abesan/U14N1bc6td/689873.ts
 
-#EXTINF:-1,Arena Sport 4
+#EXTINF:-1 tvg-logo="https://docdog.top/Logotv/countries//arenasport4.png",Arena Sport 4
 http://tvpanel.one:80/live/Abesan/U14N1bc6td/689874.ts
 
-#EXTINF:-1,Arena Sport 5
+#EXTINF:-1 tvg-logo="https://docdog.top/Logotv/countries//arenasport5.png",Arena Sport 5
 http://tvpanel.one:80/live/Abesan/U14N1bc6td/689875.ts
 
-#EXTINF:-1,Arena Sport 6
+#EXTINF:-1 tvg-logo="https://docdog.top/Logotv/countries//arenasport6.png",Arena Sport 6
 http://tvpanel.one:80/live/Abesan/U14N1bc6td/689876.ts
 
 
 
-
-
-#EXTINF:-1,Now Sport 1
-http://tvpanel.one:80/live/Abesan/U14N1bc6td/689910.ts
-
-#EXTINF:-1,Now Sport 2
-http://tvpanel.one:80/live/Abesan/U14N1bc6td/689911.ts
-
-#EXTINF:-1,Now Sport 3
-http://tvpanel.one:80/live/Abesan/U14N1bc6td/689912.ts
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="",CANAL+ SPORT 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/poland/canalsport.png",CANAL+ SPORT 1
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=901667&extension=ts
 
-#EXTINF:-1 tvg-id="",CANAL+ SPORT 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/poland/canalsport.png",CANAL+ SPORT 2
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=901668&extension=ts
 
-#EXTINF:-1 tvg-id="",CANAL+ SPORT 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/poland/canalsport.png",CANAL+ SPORT 3
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=901669&extension=ts
 
-#EXTINF:-1 tvg-id="",CANAL+ SPORT 4
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/poland/canalsport.png",CANAL+ SPORT 4
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=901670&extension=ts
 
-#EXTINF:-1 tvg-id="",CANAL+ SPORT 5
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/poland/canalsport.png",CANAL+ SPORT 5
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=901671&extension=ts
 
 
 
 
-
-#EXTINF:-1 tvg-id="",RMC SPORT 1 UHD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=756577&extension=ts
-#EXTINF:-1 tvg-id="",RMC SPORT 2 UHD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=756578&extension=ts
-#EXTINF:-1 tvg-id="",BEIN SPORTS 1 UHD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=543394&extension=ts
-#EXTINF:-1 tvg-id="",BEIN SPORTS 2 UHD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=543396&extension=ts
-#EXTINF:-1 tvg-id="",BEIN SPORTS 3 UHD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=543398&extension=ts
-#EXTINF:-1 tvg-id="",BEIN SPORTS MAX 4 UHD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=548746&extension=ts
-#EXTINF:-1 tvg-id="",BEIN SPORTS MAX 5 UHD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=548747&extension=ts
-
-#EXTINF:-1 tvg-id="",BEIN SPORTS MAX 6 UHD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=548748&extension=ts
-#EXTINF:-1 tvg-id="",EIN SPORTS MAX 7 UHD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=548749&extension=ts
-#EXTINF:-1 tvg-id="",BEIN SPORTS MAX 8 UHD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=548750&extension=ts
-#EXTINF:-1 tvg-id="",BEIN SPORTS MAX 9 UHD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=548751&extension=ts
-#EXTINF:-1 tvg-id="",BEIN SPORTS MAX 10 UHD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=548745&extension=ts
-
-#EXTINF:-1 tvg-id="",CANAL+ SPORT UHD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=543382&extension=ts
-#EXTINF:-1 tvg-id="",CANAl+ SPORT LDC UHD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=629542&extension=ts
-#EXTINF:-1 tvg-id="",CANAL+ FORMULA 1 UHD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=835133&extension=ts
-#EXTINF:-1 tvg-id="",CANAL+ LIGUE 1 UHD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=756583&extension=ts
-#EXTINF:-1 tvg-id="",CANAL+ TOP UHD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=543380&extension=ts
-#EXTINF:-1 tvg-id="",CANAL+ PL UHD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=543384&extension=ts
-#EXTINF:-1 tvg-id="",CANAL+ FORMULA 1 UHD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=756580&extension=ts
-#EXTINF:-1 tvg-id="",CANAL+ MOTOGP UHD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=756582&extension=ts
-
-#EXTINF:-1 tvg-id="",EUROSPORT 1 UHD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=543413&extension=ts
-#EXTINF:-1 tvg-id="",EUROSPORT 2 UHD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=543415&extension=ts
-
-#EXTINF:-1 tvg-id="",MULTISPORTS 1 UHD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=543442&extension=ts
-#EXTINF:-1 tvg-id="",MULTISPORTS 2 UHD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=543443&extension=ts
-#EXTINF:-1 tvg-id="",MULTISPORTS 3 UHD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=543444&extension=ts
-#EXTINF:-1 tvg-id="",MULTISPORTS 4 UHD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=543445&extension=ts
-#EXTINF:-1 tvg-id="",MULTISPORTS 5 UHD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=543446&extension=ts
-#EXTINF:-1 tvg-id="",MULTISPORTS 6 UHD
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=543447&extension=ts
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="5e54187aae660e00093561d6" tvg-logo="https://images.pluto.tv/channels/5e54187aae660e00093561d6/colorLogoPNG.png" group-title="",Game Show Central
+#EXTINF:-1 tvg-id="5e54187aae660e00093561d6" tvg-logo="https://images.pluto.tv/channels/5e54187aae660e00093561d6/colorLogoPNG.png",Game Show Central
 https://gsn-gameshowchannnel-1-us.vizio.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GameTV.(GTV).ca" tvg-logo="https://docdog.top/Logotv/countries//gameone.png",Game TV
