@@ -243,7 +243,7 @@ https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6
 http://cord-cutter.net:8080/live/95549031/69361122/121139.m3u8
 
 #EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US017CBS-HD.png",CBS 2
-http://cord-cutter.net:8080/live/95549031/69361122/120749.m3u8
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=549522&extension=ts
 
 #EXTINF:-1 tvg-id="FOX.(WXXA).Albany,.NY.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US036FOX-HD.png",FOX 5
 http://cord-cutter.net:8080/live/95549031/69361122/121135.m3u8
@@ -271,39 +271,40 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577898&extension=t
 #EXTINF:-1 tvg-id="BBC.America.HDTV.(East).(BBC).us" tvg-name="BBC America HDTV (East) (BBC)" tvg-logo="https://docdog.top/Logotv/countries/bbcamerica.png" group-title="",BBC America
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=469295&extension=ts
 
-#EXTINF:-1 tvg-id="Freeform.HDTV.(East).(FRFHD).us",FREEFORM
+#EXTINF:-1 tvg-id="Freeform.HDTV.(East).(FRFHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/freeform-us.png",Freeform
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=656385&extension=ts
 
-#EXTINF:-1 tvg-id="FX.Movie.Channel.HDTV.(FXMHD).us",FXM
+#EXTINF:-1 tvg-id="FX.Movie.Channel.HDTV.(FXMHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fxm-movie-channel-us.png",FXM
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=552045&extension=ts
 
-#EXTINF:-1 tvg-id="FX.HDTV.(East).(FX.HD).us",FX
+#EXTINF:-1 tvg-id="FX.HDTV.(East).(FX.HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fx-us.png",FX
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=656132&extension=ts
 
-#EXTINF:-1 tvg-id="FXX.HDTV.(East).(FXXHD).us",FXX
+#EXTINF:-1 tvg-id="FXX.HDTV.(East).(FXXHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fxx-us.png",FXX
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=687889&extension=ts
 
-#EXTINF:-1 tvg-id="SundanceTV.HDTV.(East).(SUNHD).us",SUNDANCE
+#EXTINF:-1 tvg-id="SundanceTV.HDTV.(East).(SUNHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/sundance-tv-us.png",SundanceTV
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=469530&extension=ts
 
-#EXTINF:-1 tvg-id="HDNet.Movies.(HDNTM).us",HDNET MOVIES
+#EXTINF:-1 tvg-id="HDNet.Movies.(HDNTM).us" tvg-logo="https://docdog.top/Logotv/countries//hdnetmovies.png",HDNet Movies
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=552040&extension=ts
 
-#EXTINF:-1 tvg-id="Sony.Movie.Channel.HD.(SONY).us",SONY MOVIES
+#EXTINF:-1 tvg-id="Sony.Movie.Channel.HD.(SONY).us" tvg-logo="https://docdog.top/Logotv/countries/uk/sonymoviechannel.png",Sony Movie
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=552037&extension=ts
 
 
-#EXTINF:-1 tvg-id="SCRNPIX.ScreenPix.us",SCREENPIX
+#EXTINF:-1 tvg-id="SCRNPIX.ScreenPix.us" tvg-logo="https://docdog.top/Logotv/countries//dumisa.png",ScreenPix
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=552033&extension=ts
 
 #EXTINF:-1 tvg-id="",SCREENPIX ACTION
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=552035&extension=ts
 
-#EXTINF:-1 tvg-id="SCRNWST.ScreenPix.Westerns.us",SCREENPIX WESTERNS
+#EXTINF:-1 tvg-id="SCRNWST.ScreenPix.Westerns.us" tvg-logo="https://docdog.top/Logotv/countries//dumisa.png",ScreenPix Westerns
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=552034&extension=ts
 
 #EXTINF:-1 tvg-id="PixL.HDTV.(PixLHD).us",PIXL
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=469419&extension=m3u8
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=469419&extension=ts
+
 
 
 #EXTINF:-1 tvg-id="MGM+.HDTV.(East).(MGM+HD).us" tvg-name="MGM+ HDTV (East) (MGM+HD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-us.png" group-title="",EPIX
