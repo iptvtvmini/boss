@@ -240,19 +240,19 @@ https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6
 
 
 #EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US002ABCHD.png",ABC 7
-http://cord-cutter.net:8080/live/95549031/69361122/121139.m3u8
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=548962&extension=ts
 
 #EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US017CBS-HD.png",CBS 2
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=549522&extension=ts
 
 #EXTINF:-1 tvg-id="FOX.(WXXA).Albany,.NY.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US036FOX-HD.png",FOX 5
-http://cord-cutter.net:8080/live/95549031/69361122/121135.m3u8
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=549764&extension=ts
 
 #EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US020CNBC.png",NBC 4
-http://cord-cutter.net:8080/live/95549031/69361122/120832.m3u8
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=550187&extension=ts
 
 #EXTINF:-1 tvg-id="CW.(WUPV).Richmond,.VA.us" tvg-logo="https://docdog.top/Logotv/countries//cw.png",CW 11
-http://cord-cutter.net:8080/live/95549031/69361122/120897.m3u8
+http://cord-cutter.net:8080/live/95549031/69361122/120897.ts
 
 
 
