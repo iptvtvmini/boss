@@ -490,22 +490,22 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577253&extension=t
 
 
 
-#EXTINF:-1 tvg-id="Nat.Geo.HD.uk",NAT GEO
+#EXTINF:-1 tvg-id="Nat.Geo.HD.uk" tvg-logo="https://docdog.top/Logotv/countries//natgeo.png",National Geographic
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577909&extension=m3u8
 
-#EXTINF:-1 tvg-id="Crime+Inv.HD.uk",CRIME INVESTIGATION
+#EXTINF:-1 tvg-id="Crime+Inv.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/united-states/crime-and-investigation-us.png",Crime&Investigation
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577905&extension=ts
 
-#EXTINF:-1 tvg-id="ID.uk",INVESTIGATION DISCOVERY
+#EXTINF:-1 tvg-id="ID.uk" tvg-logo="https://docdog.top/Logotv/countries//investigationdiscovery.png",Investigation Discovery
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577901&extension=ts
 
-#EXTINF:-1 tvg-id="",HISTORY
+#EXTINF:-1 tvg-id="Sky.HistoryHD.uk" tvg-logo="https://docdog.top/Logotv/countries//history.png", Sky HISTORY
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577904&extension=ts
 
-#EXTINF:-1 tvg-id="",HISTORY 2
+#EXTINF:-1 tvg-id="SkyHistory2HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/history2.png",Sky HISTORY 2
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577903&extension=ts
 
-#EXTINF:-1 tvg-id="Discovery.HD.uk",DISCOVERY
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-logo="https://docdog.top/Logotv/countries//discoverychannel.png",Discovery Channel
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577890&extension=ts
 
 #EXTINF:-1 tvg-id="Disc.History.uk",DISCOVERY HISTORY
@@ -518,16 +518,16 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577886&extension=t
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577885&extension=ts
 
 
-#EXTINF:-1 tvg-id="Animal.Planet.uk",ANIMAL PLANET
+#EXTINF:-1 tvg-id="Animal.Planet.uk" tvg-logo="https://docdog.top/Logotv/countries//animalplanet.png",Animal Planet
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577882&extension=ts
 
-#EXTINF:-1 tvg-id="NatGeoWild.HD.uk",NAT GEO WILD
+#EXTINF:-1 tvg-id="NatGeoWild.HD.uk" tvg-logo="https://docdog.top/Logotv/countries//natgeowild.png",NatGeo WILD
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577910&extension=m3u8
 
-#EXTINF:-1 tvg-id="TLC.HD.uk",TLC
+#EXTINF:-1 tvg-id="TLC.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/united-states/tlc-us.png",TLC
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577877&extension=ts
 
-#EXTINF:-1 tvg-id="Food.Network.uk",FOOD NETWORK
+#EXTINF:-1 tvg-id="Food.Network.uk" tvg-logo="https://docdog.top/Logotv/countries/united-states/food-network-us.png",Food Network
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577876&extension=ts
 
 
