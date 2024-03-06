@@ -389,11 +389,22 @@ http://cord-cutter.net:8080/live/95549031/69361122/17774.ts
 
 
 #EXTINF:-1 tvg-id="HBO.HDTV.(East).(HBOHD).us" tvg-logo="https://docdog.top/Logotv/countries//hbo.png",HBO
+http://cord-cutter.net:8080/live/crystal/crystal/46713.m3u8
+
 #EXTINF:-1 tvg-id="HBO.2.HDTV.(East).(HBO2HD).us" tvg-logo="https://docdog.top/Logotv/countries//hbo.png",HBO 2
+http://cord-cutter.net:8080/live/crystal/crystal/9816.m3u8
+
 #EXTINF:-1 tvg-id="HBO.Comedy.HDTV.(East).(HBOCHD).us" tvg-logo="https://docdog.top/Logotv/countries//hbocomedy.png",HBO Comedy
+http://cord-cutter.net:8080/live/crystal/crystal/17773.m3u8
+
 #EXTINF:-1 tvg-id="HBO.Family.HDTV.(East).(HBOFHD).us" tvg-logo="https://docdog.top/Logotv/countries//hbofamily.png",HBO Family
+http://cord-cutter.net:8080/live/crystal/crystal/17772.m3u8
+
 #EXTINF:-1 tvg-id="HBO.Signature.HDTV.(East).(HBOSHD).us" tvg-logo="https://docdog.top/Logotv/countries//hbosignature.png",HBO Signature
+http://cord-cutter.net:8080/live/crystal/crystal/9266.m3u8
+
 #EXTINF:-1 tvg-id="HBO.Zone.HDTV.(East).(HBOZHD).us" tvg-logo="https://docdog.top/Logotv/countries//hbozone.png",HBO Zone
+http://cord-cutter.net:8080/live/crystal/crystal/9265.m3u8
 
 
 
