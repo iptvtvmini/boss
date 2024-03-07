@@ -536,79 +536,54 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577876&extension=t
 
 
 
+#EXTINF:-1 tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",ACTION Movies
+http://abcnew.site:8880/live/48msk050022/92297813/60207.ts
 
+#EXTINF:-1 tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",COMEDY Movies
+http://abcnew.site:8880/live/48msk050022/92297813/60049.ts
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Action Movies
-http://mohdtv.com:8880/live/voby3037/69246643/60207.ts
+#EXTINF:-1 tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",DISNEY Movies
+http://abcnew.site:8880/live/48msk050022/92297813/60928.ts
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",COMEDY MOVIES
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617147&extension=ts
+#EXTINF:-1 tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",HORROR Movies
+http://abcnew.site:8880/live/48msk050022/92297813/60857.ts
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",DISNEY MOVIES
-http://mohdtv.com:8880/live/voby3037/69246643/60928.ts
+#EXTINF:-1 tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",FAMILY Movies
+http://abcnew.site:8880/live/48msk050022/92297813/60862.ts
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",HORROR MOVIES
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617145&extension=ts
+#EXTINF:-1 tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",CRIME Movies
+http://abcnew.site:8880/live/48msk050022/92297813/60864.ts
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",FAMILY MOVIES
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617148&extension=ts
+#EXTINF:-1 tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",SCIFI Movies
+http://abcnew.site:8880/live/48msk050022/92297813/60836.ts
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",CRIME MOVIES
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617146&extension=ts
+#EXTINF:-1 tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",DRAMA Movies
+http://abcnew.site:8880/live/48msk050022/92297813/60838.ts
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",SCIFI MOVIES
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617117&extension=ts
+#EXTINF:-1 tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",THRILLER Movies
+http://abcnew.site:8880/live/48msk050022/92297813/60253.ts
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",DRAMA MOVIES
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617119&extension=ts
+#EXTINF:-1 tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",SUPERHERO Movies
+http://abcnew.site:8880/live/48msk050022/92297813/60257.ts
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",THRILLER MOVIES
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617149&extension=ts
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",SUPERHERO MOVIES
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617112&extension=ts
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",WAR MOVIES
-http://mohdtv.com:8880/live/voby3037/69246643/60247.ts
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",CHiPs
-http://supersonictv.live:8080/live/Derrick/Hitman50$/77109.ts
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",THE BIONIC WOMAN
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=578167&extension=ts
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",SIX MILLION DOLLAR MAN
-http://ott4k.me/play/live.php?mac=00:1A:79:2F:13:FC&stream=578163&extension=ts
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",ARNOLD SCHWARZENEGGER
-http://ott4k.me/play/live.php?mac=00:1A:79:2F:13:FC&stream=578175&extension=ts
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Sylvester Stallone
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1790081&extension=ts
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Jackie Chan
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1790291&extension=ts
+#EXTINF:-1 tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",WAR Movies
+http://abcnew.site:8880/live/48msk050022/92297813/60247.ts
 
 
 
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",WESTERN
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=705055&extension=ts
+#EXTINF:-1 tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",CHiPs
+http://abcnew.site:8880/live/48msk050022/92297813/60103.ts
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",WESTERN 1
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=705054&extension=ts
+#EXTINF:-1 tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Arnold Schwarzenegger
+http://abcnew.site:8880/live/48msk050022/92297813/60871.ts
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",WESTERN 2
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=705053&extension=ts
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",WESTERN 3
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=705052&extension=ts
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",WESTERN 4
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=705051&extension=ts
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",WESTERN 5
-http://cod5.me:80/play/live.php?mac=00:1A:79:00:04:DF&stream=705050&extension=ts
+
+
+
 
 
 
