@@ -326,7 +326,6 @@ http://supersonictv.live:8080/live/Derrick/Hitman50$/22885.ts
 #EXTINF:-1 tvg-id="IndiePlex.HDTV.(INDIEHD).us" tvg-logo="https://docdog.top/Logotv/countries//indieplex.png",INDIEPLEX
 http://supersonictv.live:8080/live/Derrick/Hitman50$/22903.ts
 
-
 #EXTINF:-1 tvg-id="MoviePlex.East.(MPLEX).us" tvg-logo="https://docdog.top/Logotv/countries//movieplex.png",MOVIEPLEX
 http://supersonictv.live:8080/live/Derrick/Hitman50$/22905.ts
 
@@ -352,76 +351,52 @@ http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97032&extension=t
 
 
 #EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv1.png",ITV 1
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1566&extension=ts
+http://cord-cutter.net:8080/live/95549031/69361122/53651.ts
 
 #EXTINF:-1 tvg-id="ITV2.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv2.png",ITV 2
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=2703&extension=ts
+http://cord-cutter.net:8080/live/95549031/69361122/53671.ts
 
 #EXTINF:-1 tvg-id="ITV3.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv3.png",ITV 3
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=2704&extension=ts
+http://cord-cutter.net:8080/live/95549031/69361122/53665.ts
 
 #EXTINF:-1 tvg-id="ITV4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv4.png",ITV 4
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=2705&extension=ts
+http://cord-cutter.net:8080/live/95549031/69361122/53666.ts
 
 #EXTINF:-1 tvg-id="4seven.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/4seven.png",4 Seven
 http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97035&extension=ts
 
 #EXTINF:-1 tvg-id="Channel.4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/channel4.png",Channel 4
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577166&extension=m3u8
+http://cord-cutter.net:8080/live/95549031/69361122/99138.ts
 
 #EXTINF:-1 tvg-id="Channel.5.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/channel5.png",Channel 5
-http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97045&extension=ts
+http://cord-cutter.net:8080/live/95549031/69361122/53653.ts
 
 
 
 
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",CHiPs
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",CHiPs
 http://supersonictv.live:8080/live/Derrick/Hitman50$/77109.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Action Movie
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Action Movie
 http://supersonictv.live:8080/live/Derrick/Hitman50$/40480.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Comedy Movie
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Comedy Movie
 http://supersonictv.live:8080/live/Derrick/Hitman50$/40484.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Crime Movie
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Crime Movie
 http://supersonictv.live:8080/live/Derrick/Hitman50$/40486.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Horror Movie
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Horror Movie
 http://supersonictv.live:8080/live/Derrick/Hitman50$/40492.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Horror Movie 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Horror Movie 2
 http://supersonictv.live:8080/live/Derrick/Hitman50$/40493.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Kungfu
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Kungfu
 http://supersonictv.live:8080/live/Derrick/Hitman50$/40495.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Western Movie
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Western Movie
 http://supersonictv.live:8080/live/Derrick/Hitman50$/40507.ts
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Bionic Women
-http://cod5.me/play/live.php?mac=00:1a:79:50:e3:b4&stream=578167&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Six Million Dollar Man
-http://cod5.me/play/live.php?mac=00:1a:79:50:e3:b4&stream=578163&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Arnold Schwarzenegger
-http://cod5.me/play/live.php?mac=00:1a:79:50:e3:b4&stream=578175&extension=ts
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Sylvester Stallone
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1790081&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Jackie Chan
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1790291&extension=ts
-
-
-
-
-
 
 
 
