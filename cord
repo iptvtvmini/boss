@@ -538,6 +538,7 @@ http://cord-cutter.net:8080/live/95549031/69361122/9229.ts
 http://cord-cutter.net:8080/live/95549031/69361122/46724.ts
 
 #EXTINF:-1 tvg-id="History2.Canada.(H2).ca" tvg-logo="https://docdog.top/Logotv/countries/uk/history2.png",History 2
+http://cord-cutter.net:8080/live/95549031/69361122/210450.ts
 
 #EXTINF:-1 tvg-id="DMAX.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/dmax.png",DMAX
 
@@ -600,6 +601,55 @@ http://cord-cutter.net:8080/live/95549031/69361122/53665.ts
 http://cord-cutter.net:8080/live/95549031/69361122/53666.ts
 
 #EXTINF:-1 tvg-id="ITVBe.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itvbe.png",ITVBe
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Sky.Comedy.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemacomedy.png",Sky Comedy
+http://cord-cutter.net:8080/live/95549031/69361122/35253.ts
+
+#EXTINF:-1 tvg-id="Sky.Crime.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemacrime-thriller.png",Sky Crime
+http://cord-cutter.net:8080/live/95549031/69361122/35252.ts
+
+#EXTINF:-1 tvg-id="Sky.Greats.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-cinema-greats-uk.png",Sky Greats
+http://cord-cutter.net:8080/live/95549031/69361122/35249.ts
+
+#EXTINF:-1 tvg-id="Sky.Sci-Fi.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemasci.png",Sky Sci-Fi
+http://cord-cutter.net:8080/live/95549031/69361122/53663.ts
+
+#EXTINF:-1 tvg-id="SkyAnimationHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaanimation.png",Sky Animation
+http://cord-cutter.net:8080/live/95549031/69361122/53698.ts
+
+#EXTINF:-1 tvg-id="Sky.Family.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-cinema-family-uk.png",Sky Family
+http://cord-cutter.net:8080/live/95549031/69361122/53699.ts
+
+#EXTINF:-1 tvg-id="SkyPremiereHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemapremiere.png",Sky Premiere
+http://cord-cutter.net:8080/live/95549031/69361122/35256.ts
+
+#EXTINF:-1 tvg-id="Sky.Action.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaaction.png",Sky Action
+http://cord-cutter.net:8080/live/95549031/69361122/35254.ts
+
+#EXTINF:-1 tvg-id="Sky.Drama.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemadrama.png",Sky Drama
+http://cord-cutter.net:8080/live/95549031/69361122/35251.ts
+
+
+
+
+#EXTINF:-1 tvg-id="Sky.Cinema.Hits.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemahits.png",Sky Cinema Hits
+http://cord-cutter.net:8080/live/95549031/69361122/35255.ts
+
+#EXTINF:-1 tvg-id="Sky.Comedy.Cinema.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemacomedy.png",Sky Cinema Comedy
+http://cord-cutter.net:8080/live/95549031/69361122/53661.ts
+
+#EXTINF:-1 tvg-id="Sky.ScFi/HorHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemasci.png",Sky Cinema ScFi
+http://cord-cutter.net:8080/live/95549031/69361122/35248.ts
+
+
+
+
 
 
 
