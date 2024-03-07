@@ -172,12 +172,12 @@ http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97148&extension=t
 http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97150&extension=ts
 
 #EXTINF:-1 tvg-id="BT.Sport.4.HD.uk" tvg-name="BT Sport 4 HD" tvg-logo="http://5.44.253.188:80/images/f0b8c39305ffdc6c9823055c1a006121.png" group-title="",BT Sports 4
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=782732&extension=ts
+http://supersonictv.live:8080/live/Derrick/Hitman50$/40440.ts
 
 
 
 #EXTINF:-1 tvg-id="The.Sports.Network.HDTV.(TSNHD).ca" tvg-name="The Sports Network HDTV (TSNHD)" tvg-logo="https://docdog.top/Logotv/countries//tsn1.png" group-title="",TSN 1
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487807&extension=ts
+http://cord-cutter.net:8080/live/95549031/69361122/57292.ts
 
 #EXTINF:-1 tvg-id="The.Sports.Network.2.HDTV.(TSN2D).ca" tvg-name="The Sports Network 2 HDTV (TSN2D)" tvg-logo="https://docdog.top/Logotv/countries//tsn2.png" group-title="",TSN 2
 http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61409&extension=ts
@@ -186,7 +186,7 @@ http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61409&extension=t
 http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61408&extension=ts
 
 #EXTINF:-1 tvg-id="The.Sports.Network.4.HDTV.(TSN4H).ca" tvg-name="The Sports Network 4 HDTV (TSN4H)" tvg-logo="https://docdog.top/Logotv/countries//tsn4.png" group-title="",TSN 4
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=487804&extension=ts
+http://cord-cutter.net:8080/live/95549031/69361122/16130.ts
 
 #EXTINF:-1 tvg-id="The.Sports.Network.5.HDTV.(TSN5HD).ca" tvg-name="The Sports Network 5 HDTV (TSN5HD)" tvg-logo="https://docdog.top/Logotv/countries//tsn5.png" group-title="",TSN 5
 http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61406&extension=ts
@@ -285,10 +285,10 @@ http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61387&extension=t
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=191792&extension=ts
 
 #EXTINF:-1 tvg-id="CTV.Two.Ottawa/CHRO.(CTV2O).ca" tvg-logo="https://docdog.top/Logotv/countries//ctv2ottawa.png",CTV2
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=626966&extension=ts
+http://cord-cutter.net:8080/live/95549031/69361122/136612.ts
 
 #EXTINF:-1 tvg-id="CTV.SCI-FI.Channel.HDTV.(SCIFIHD).ca" tvg-logo="https://docdog.top/Logotv/countries/canada/ctv-sci-fi-channel-ca.png",CTV SCI-FI
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=626898&extension=ts
+http://cord-cutter.net:8080/live/95549031/69361122/57253.ts
 
 
 
@@ -397,13 +397,13 @@ http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97040&extension=t
 http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97035&extension=ts
 
 #EXTINF:-1 tvg-id="Channel.4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/channel4.png",Channel 4
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577166&extension=m3u8
+http://cord-cutter.net:8080/live/95549031/69361122/99138.ts
 
 #EXTINF:-1 tvg-id="Channel.5.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/channel5.png",Channel 5
 http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97045&extension=ts
 
 #EXTINF:-1 tvg-id="Challenge.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/challenge.png",Challenge
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577481&extension=m3u8
+
 
 
 
@@ -449,11 +449,6 @@ http://supersonictv.live:8080/live/Derrick/Hitman50$/77109.ts
 http://mohdtv.com:8880/live/voby3037/69246643/60871.ts
 
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Sylvester Stallone
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1790081&extension=ts
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Jackie Chan
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1790291&extension=ts
 
 
 
