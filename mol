@@ -415,6 +415,8 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97051&extension
 #EXTINF:-1 tvg-id="Sky.Drama.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemadrama.png",Sky Drama
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97050&extension=ts
 
+#EXTINF:-1 tvg-id="Sky.ScFi/HorHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemasci.png",Sky Cinema ScFi
+http://supersonictv.live:8080/live/Derrick/Hitman50$/77469.m3u8
 
 
 
