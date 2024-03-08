@@ -198,6 +198,44 @@ http://supersonictv.live:8080/live/Derrick/Hitman50$/40471.ts
 
 
 
+#EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsaction.png",SkySport Action
+http://supersonictv.live:8080/live/Derrick/Hitman50$/78146.ts
+
+#EXTINF:-1 tvg-id="SkySp.ArenaHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsarena.png",SkySport Arena
+http://supersonictv.live:8080/live/Derrick/Hitman50$/78147.ts
+
+#EXTINF:-1 tvg-id="SkySpCricket.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-sports-cricket-uk.png",SkySport Cricket
+http://supersonictv.live:8080/live/Derrick/Hitman50$/78148.ts
+
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsf1.png",SkySport F1
+http://supersonictv.live:8080/live/Derrick/Hitman50$/78149.ts
+
+#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsfootball.png",SkySport Football
+http://supersonictv.live:8080/live/Derrick/Hitman50$/78150.ts
+
+#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsgolf.png",SkySport Golf
+http://supersonictv.live:8080/live/Derrick/Hitman50$/78151.ts
+
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsmainevent.png",SkySport Main Event
+http://supersonictv.live:8080/live/Derrick/Hitman50$/78152.ts
+
+#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsmix.png",SkySport Mix
+http://supersonictv.live:8080/live/Derrick/Hitman50$/78153.ts
+
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-sports-premier-league-uk.png",SkySport Primere League
+http://supersonictv.live:8080/live/Derrick/Hitman50$/78155.ts
+
+#EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsracing.png",SkySport Racing
+http://supersonictv.live:8080/live/Derrick/Hitman50$/78145.ts
+
+#EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/germany/sky-sport/sky-sport-news-alt-de.png",SkySport News
+http://supersonictv.live:8080/live/Derrick/Hitman50$/78154.ts
+
+
+
+
+
+
 
 
 
