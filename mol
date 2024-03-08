@@ -217,6 +217,43 @@ http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=213662&extension=
 
 
 
+#EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsaction.png",SkySport Action
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97127&extension=ts
+
+#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsmix.png",SkySport Mix
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97129&extension=ts
+
+
+#EXTINF:-1 tvg-id="SkySp.ArenaHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsarena.png",SkySport Arena
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97131&extension=ts
+
+#EXTINF:-1 tvg-id="SkySpCricket.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-sports-cricket-uk.png",SkySport Cricket
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97133&extension=ts
+
+#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsgolf.png",SkySport Golf
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97134&extension=ts
+
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsmainevent.png",SkySport Main Event
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97136&extension=ts
+
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-sports-premier-league-uk.png",SkySport Primere League
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97138&extension=ts
+
+#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsfootball.png",SkySport Football
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97140&extension=ts
+
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsf1.png",SkySport F1
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97142&extension=ts
+
+#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsgolf.png",SkySport Golf
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97143&extension=ts
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="Magnolia.Network.HDTV.(MAGNOLIA).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/countrypic.png",Magnolia Network
 #EXTINF:-1 tvg-id="Home.and.Garden.Television.HDTV.(East).(HGTVD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/hgtv-us.png",HGTV
