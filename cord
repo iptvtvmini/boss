@@ -661,7 +661,6 @@ http://cord-cutter.net:8080/live/95549031/69361122/35252.ts
 http://cord-cutter.net:8080/live/95549031/69361122/35249.ts
 
 #EXTINF:-1 tvg-id="Sky.Sci-Fi.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemasci.png",Sky Sci-Fi
-http://cord-cutter.net:8080/live/95549031/69361122/53663.ts
 
 #EXTINF:-1 tvg-id="SkyAnimationHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaanimation.png",Sky Animation
 http://cord-cutter.net:8080/live/95549031/69361122/53698.ts
@@ -686,6 +685,9 @@ http://cord-cutter.net:8080/live/95549031/69361122/35255.ts
 
 #EXTINF:-1 tvg-id="Sky.Comedy.Cinema.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemacomedy.png",Sky Cinema Comedy
 http://cord-cutter.net:8080/live/95549031/69361122/53661.ts
+
+#EXTINF:-1 tvg-id="Sky.ScFi/HorHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemasci.png",Sky Cinema ScFi
+http://supersonictv.live:8080/live/Derrick/Hitman50$/77469.ts
 
 #EXTINF:-1 tvg-id="Sky.ScFi/HorHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemasci.png",Sky Cinema ScFi
 http://cord-cutter.net:8080/live/95549031/69361122/35248.ts
