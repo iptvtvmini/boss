@@ -497,10 +497,10 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=758988&extension=t
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577356&extension=ts
 
 #EXTINF:-1 tvg-id="Sky.Drama.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemadrama.png",Sky Cinema Drama
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577354&extension=ts
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577369&extension=ts
 
 #EXTINF:-1 tvg-id="Sky.Family.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-cinema-family-uk.png",Sky Cinema Family
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577353&extension=ts
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577368&extension=ts
 
 #EXTINF:-1 tvg-id="Sky.Greats.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-cinema-greats-uk.png",Sky Cinema Greats
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577352&extension=ts
@@ -512,7 +512,7 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577351&extension=t
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577350&extension=ts
 
 #EXTINF:-1 tvg-id="Sky.Sci-Fi.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemasci.png",Sky Cinema Sci-Fi
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577349&extension=ts
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577364&extension=ts
 
 #EXTINF:-1 tvg-id="Sky.Thriller.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemathriller.png",Sky Cinema Thriller
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577348&extension=ts
