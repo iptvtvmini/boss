@@ -1,1 +1,357 @@
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz"
+
+
+#EXTINF:-1 tvg-id="game.show.network.east.us" tvg-name="US131:Game Show Network HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US131Game_Show_Network.png" group-title="USA General",US131:Game Show Network HD
+http://mohdtv.com:8880/live/voby3037/69246643/30059.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US002:ABC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US002ABCHD.png" group-title="USA ABC",US002:ABC HD
+http://mohdtv.com:8880/live/voby3037/69246643/3166.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US017:CBS-HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US017CBS-HD.png" group-title="USA CBS",US017:CBS-HD
+http://mohdtv.com:8880/live/voby3037/69246643/3151.ts
+
+#EXTINF:-1 tvg-id="cw.austin.tx.us" tvg-name="US023:CW HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US023CW-HD.png" group-title="USA General",US023:CW HD
+http://mohdtv.com:8880/live/voby3037/69246643/3145.ts
+
+#EXTINF:-1 tvg-id="fox.hd.english.bein" tvg-name="US036:FOX-HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US036FOX-HD.png" group-title="USA FOX",US036:FOX-HD
+http://mohdtv.com:8880/live/voby3037/69246643/3132.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US062:NBC-HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US062NBC-HD.png" group-title="USA NBC",US062:NBC-HD
+http://mohdtv.com:8880/live/voby3037/69246643/3106.ts
+
+
+
+
+#EXTINF:-1 tvg-id="a.e.eastern.us" tvg-name="US001:A&E HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US001A&E-HD.png" group-title="USA General",US001:A&E HD
+http://mohdtv.com:8880/live/voby3037/69246643/3167.ts
+
+#EXTINF:-1 tvg-id="amc.eastern.us" tvg-name="US006:AMC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US006AMC-HD.png" group-title="USA General",US006:AMC HD
+http://mohdtv.com:8880/live/voby3037/69246643/3162.ts
+
+#EXTINF:-1 tvg-id="bbc.america.east.us" tvg-name="US008:BBC America HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US008BBC-America.png" group-title="USA General",US008:BBC America HD
+http://mohdtv.com:8880/live/voby3037/69246643/3160.ts
+
+#EXTINF:-1 tvg-id="bravo.usa.eastern.us" tvg-name="US011:BRAVO HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US011BRAVO-HD.png" group-title="USA General",US011:BRAVO HD
+http://mohdtv.com:8880/live/voby3037/69246643/3157.ts
+
+#EXTINF:-1 tvg-id="the.cowboy.us" tvg-name="US801:Cowboy Channel" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US801" group-title="USA General",US801:Cowboy Channel
+http://mohdtv.com:8880/live/voby3037/69246643/64376.ts
+
+#EXTINF:-1 tvg-id="e.entertainment.usa.eastern.us" tvg-name="US030:E! HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US030E!.png" group-title="USA General",US030:E! HD
+http://mohdtv.com:8880/live/voby3037/69246643/3138.ts
+
+#EXTINF:-1 tvg-id="freeform.east.us" tvg-name="US040:Freeform HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US040Freeform.png" group-title="USA General",US040:Freeform HD
+http://mohdtv.com:8880/live/voby3037/69246643/3128.ts
+
+#EXTINF:-1 tvg-id="fxx.usa.eastern.us" tvg-name="US041:FX HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US041FX-HD.png" group-title="USA General",US041:FX HD
+http://mohdtv.com:8880/live/voby3037/69246643/3127.ts
+
+#EXTINF:-1 tvg-id="fxx.usa.eastern.us" tvg-name="US042:FXX HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US042FXX.png" group-title="USA General",US042:FXX HD
+http://mohdtv.com:8880/live/voby3037/69246643/3126.ts
+
+#EXTINF:-1 tvg-id="syfy.eastern.us" tvg-name="US072:SyFy HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US072SYFY.png" group-title="USA General",US072:SyFy HD
+http://mohdtv.com:8880/live/voby3037/69246643/3096.ts
+
+#EXTINF:-1 tvg-id="tbs.east.us" tvg-name="US073:TBS HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US073TBS-HD.png" group-title="USA General",US073:TBS HD
+http://mohdtv.com:8880/live/voby3037/69246643/3095.ts
+
+#EXTINF:-1 tvg-id="tnt.eastern.us" tvg-name="US076:TNT HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US076TNT-HD.png" group-title="USA General",US076:TNT HD
+http://mohdtv.com:8880/live/voby3037/69246643/3092.ts
+
+#EXTINF:-1 tvg-id="usa.network.east.us" tvg-name="US079:USA Network HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US079USA-Network.png" group-title="USA General",US079:USA Network HD
+http://mohdtv.com:8880/live/voby3037/69246643/3089.ts
+
+#EXTINF:-1 tvg-id="vh1.eastern.us" tvg-name="US081:VH1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US081VH1.png" group-title="USA General",US081:VH1 HD
+http://mohdtv.com:8880/live/voby3037/69246643/3087.ts
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="5.star.max.eastern.us" tvg-name="US772:Cinemax 5 Star Max" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US772Cinemax5StarMax.png" group-title="USA Movies",US772:Cinemax 5 Star Max
+http://mohdtv.com:8880/live/voby3037/69246643/64347.ts
+
+#EXTINF:-1 tvg-id="cinemax.eastern.us" tvg-name="US781:Cinemax East" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US781CinemaxEast.png" group-title="USA Movies",US781:Cinemax East
+http://mohdtv.com:8880/live/voby3037/69246643/64356.ts
+
+#EXTINF:-1 tvg-id="actionmax.eastern.us" tvg-name="US776:Cinemax Action East HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US776CinemaxActionEast.png" group-title="USA Movies",US776:Cinemax Action East HD
+http://mohdtv.com:8880/live/voby3037/69246643/64351.ts
+
+#EXTINF:-1 tvg-id="actionmax.pacific.us" tvg-name="US773:CineMax Action HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US773CineMaxActionHD.png" group-title="USA Movies",US773:CineMax Action HD
+http://mohdtv.com:8880/live/voby3037/69246643/64348.ts
+
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="US777:Cinemax Action Max HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US777CINEMAXACTIONMAXHD.png" group-title="USA Movies",US777:Cinemax Action Max HD
+http://mohdtv.com:8880/live/voby3037/69246643/64352.ts
+
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="US774:Cinemax Moviemax HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US774CINEMAXMOVIEMAXHD.png" group-title="USA Movies",US774:Cinemax Moviemax HD
+http://mohdtv.com:8880/live/voby3037/69246643/64349.ts
+
+#EXTINF:-1 tvg-id="thrillermax.east.us" tvg-name="US778:Cinemax ThrillerMax" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US778CINEMAXEastHD.png" group-title="USA Movies",US778:Cinemax ThrillerMax
+http://mohdtv.com:8880/live/voby3037/69246643/64353.ts
+
+
+
+
+#EXTINF:-1 tvg-id="actionmax.eastern.us" tvg-name="US005:ACTION MAX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US005ACTION-MAX.png" group-title="USA Movies",US005:ACTION MAX
+http://mohdtv.com:8880/live/voby3037/69246643/3163.ts
+
+#EXTINF:-1 tvg-id="outermax.eastern.us" tvg-name="US771:OuterMax HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US771OuterMaxHD.png" group-title="USA Movies",US771:OuterMax HD
+http://mohdtv.com:8880/live/voby3037/69246643/64346.ts
+
+#EXTINF:-1 tvg-id="moremax.eastern.us" tvg-name="US782:MoreMax HD" tvg-logo="" group-title="USA Movies",US782:MoreMax HD
+http://mohdtv.com:8880/live/voby3037/69246643/64357.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="starz.eastern.us" tvg-name="US019:STARZ EAST" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US019StarzEast.png" group-title="USA Movies",US019:STARZ EAST
+http://mohdtv.com:8880/live/voby3037/69246643/3149.ts
+
+#EXTINF:-1 tvg-id="starz.cinema.eastern.us" tvg-name="US692:Starz Cinema" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US692StarzCinema.png" group-title="USA Movies",US692:Starz Cinema
+http://mohdtv.com:8880/live/voby3037/69246643/29498.ts
+
+#EXTINF:-1 tvg-id="starz.comedy.eastern.us" tvg-name="US693:Starz Comedy" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US693StarzComedy.png" group-title="USA Movies",US693:Starz Comedy
+http://mohdtv.com:8880/live/voby3037/69246643/29497.ts
+
+#EXTINF:-1 tvg-id="starz.edge.eastern.us" tvg-name="US696:Starz Edge HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US696StarzEdgeHD.png" group-title="USA Movies",US696:Starz Edge HD
+http://mohdtv.com:8880/live/voby3037/69246643/29494.ts
+
+#EXTINF:-1 tvg-id="starz.encore.black.eastern.us" tvg-name="US719:STARZ IN BLACK" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US719StarzBlackHD.png" group-title="USA Movies",US719:STARZ IN BLACK
+http://mohdtv.com:8880/live/voby3037/69246643/29471.ts
+
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="US735:Starz Kids & Family FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US735STARZKIDS&FAMILYFHD.png" group-title="USA Movies",US735:Starz Kids & Family FHD
+http://mohdtv.com:8880/live/voby3037/69246643/29455.ts
+
+
+
+
+#EXTINF:-1 tvg-id="starz.encore.eastern.us" tvg-name="US698:Starz Encore East" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US698StarzEncoreEast.png" group-title="USA Movies",US698:Starz Encore East
+http://mohdtv.com:8880/live/voby3037/69246643/29492.ts
+
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="US724:Starz Encore Westerns" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US724STARZEDGEFHD.png" group-title="USA Movies",US724:Starz Encore Westerns
+http://mohdtv.com:8880/live/voby3037/69246643/29466.ts
+
+#EXTINF:-1 tvg-id="starz.encore.action.eastern.us" tvg-name="US726:Starz Encore Action" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US726StarzEncoreAction.png" group-title="USA Movies",US726:Starz Encore Action
+http://mohdtv.com:8880/live/voby3037/69246643/29464.ts
+
+#EXTINF:-1 tvg-id="starz.encore.black.eastern.us" tvg-name="US727:Starz Encore Black HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US727StarzEncoreBlackHD.png" group-title="USA Movies",US727:Starz Encore Black HD
+http://mohdtv.com:8880/live/voby3037/69246643/29463.ts
+
+#EXTINF:-1 tvg-id="starz.encore.classic.eastern.us" tvg-name="US728:Starz Encore Classic FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US728StarzEncoreClassicFHD.png" group-title="USA Movies",US728:Starz Encore Classic FHD
+http://mohdtv.com:8880/live/voby3037/69246643/29462.ts
+
+#EXTINF:-1 tvg-id="starz.encore.family.eastern.us" tvg-name="US730:Starz Encore Family FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US730StarzEncoreFamilyFHD.png" group-title="USA Movies",US730:Starz Encore Family FHD
+http://mohdtv.com:8880/live/voby3037/69246643/29460.ts
+
+#EXTINF:-1 tvg-id="starz.encore.suspense.eastern.us" tvg-name="US731:Starz Encore Suspense HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US731StarzEncoreSuspenseHD.png" group-title="USA Movies",US731:Starz Encore Suspense HD
+http://mohdtv.com:8880/live/voby3037/69246643/29459.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="hbo.eastern.us" tvg-name="US046:HBO East" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US046HBOEast.png" group-title="USA Movies",US046:HBO East
+http://mohdtv.com:8880/live/voby3037/69246643/3122.ts
+
+#EXTINF:-1 tvg-id="hbo.2.eastern.us" tvg-name="US055:HBO 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US055HBO2.png" group-title="USA Movies",US055:HBO 2
+http://mohdtv.com:8880/live/voby3037/69246643/3113.ts
+
+#EXTINF:-1 tvg-id="comedy.us" tvg-name="US045:HBO Comedy" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US045HBOComedyEast.png" group-title="USA Movies",US045:HBO Comedy
+http://mohdtv.com:8880/live/voby3037/69246643/3123.ts
+
+#EXTINF:-1 tvg-id="hbo.signature.eastern.us" tvg-name="US047:HBO Signature" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US047HBOSignatureWest.png" group-title="USA Movies",US047:HBO Signature
+http://mohdtv.com:8880/live/voby3037/69246643/3121.ts
+
+#EXTINF:-1 tvg-id="hbo.zone.east.us" tvg-name="US048:HBO Zone" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US048HBOZoneEast.png" group-title="USA Movies",US048:HBO Zone
+http://mohdtv.com:8880/live/voby3037/69246643/3120.ts
+
+
+
+
+
+#EXTINF:-1 tvg-id="showtime.west.us" tvg-name="US069:Showtime HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US069SHOWTIME.png" group-title="USA Movies",US069:Showtime HD
+http://mohdtv.com:8880/live/voby3037/69246643/3099.ts
+
+#EXTINF:-1 tvg-id="showtime.2.eastern.us" tvg-name="US070:Showtime 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US070SHOWTIME2.png" group-title="USA Movies",US070:Showtime 2 HD
+http://mohdtv.com:8880/live/voby3037/69246643/3098.ts
+
+#EXTINF:-1 tvg-id="showtime.showcase.east.us" tvg-name="US722:Showtime Showcase" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US722StarzComedyEastHD.png" group-title="USA Movies",US722:Showtime Showcase
+http://mohdtv.com:8880/live/voby3037/69246643/29468.ts
+
+#EXTINF:-1 tvg-id="starz.encore.eastern.us" tvg-name="US729:Showtime Women" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US729StarzEncoreEASTHD.png" group-title="USA Movies",US729:Showtime Women
+http://mohdtv.com:8880/live/voby3037/69246643/29461.ts
+
+#EXTINF:-1 tvg-id="showtime.eastern.us" tvg-name="US880:Showtime Extreme" tvg-logo="" group-title="USA Movies",US880:Showtime Extreme
+http://mohdtv.com:8880/live/voby3037/69246643/60145.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US882:Showtime Beyond HD" tvg-logo="" group-title="USA Movies",US882:Showtime Beyond HD
+http://mohdtv.com:8880/live/voby3037/69246643/60142.ts
+
+#EXTINF:-1 tvg-id="showtime.next.eastern.us" tvg-name="US888:Showtime Next HD" tvg-logo="" group-title="USA Movies",US888:Showtime Next HD
+http://mohdtv.com:8880/live/voby3037/69246643/60214.ts
+
+#EXTINF:-1 tvg-id="showtime.family.zone.eastern.us" tvg-name="US893:Showtime Family Zone HD" tvg-logo="" group-title="USA Movies",US893:Showtime Family Zone HD
+http://mohdtv.com:8880/live/voby3037/69246643/60227.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US894:Showtime Pacific & Beyond HD" tvg-logo="" group-title="USA Movies",US894:Showtime Pacific & Beyond HD
+http://mohdtv.com:8880/live/voby3037/69246643/60183.ts
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="epix.pacfic.us" tvg-name="US805:EPIX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US805EPIX.png" group-title="USA Movies",US805:EPIX
+http://mohdtv.com:8880/live/voby3037/69246643/59225.ts
+
+#EXTINF:-1 tvg-id="epix2.east.us" tvg-name="US806:EPIX 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US806EPIX2.png" group-title="USA Movies",US806:EPIX 2
+http://mohdtv.com:8880/live/voby3037/69246643/59224.ts
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="animal.planet.east.us" tvg-name="US007:Animal Planet HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US007ANIMAL-PLANET.png" group-title="USA General",US007:Animal Planet HD
+http://mohdtv.com:8880/live/voby3037/69246643/3161.ts
+
+
+#EXTINF:-1 tvg-id="discovery.on.demand.us" tvg-name="US025:Discovery HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US025Discovery-HD.png" group-title="USA General",US025:Discovery HD
+http://mohdtv.com:8880/live/voby3037/69246643/3143.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US080:Discovery Velocity HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US080Velocity-HD.png" group-title="USA General",US080:Discovery Velocity HD
+http://mohdtv.com:8880/live/voby3037/69246643/3088.ts
+
+#EXTINF:-1 tvg-id="discovery.family.us" tvg-name="US767:Discovery Family" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US767DISCOVERYFAMILYCHANNEL.png" group-title="USA General",US767:Discovery Family
+http://mohdtv.com:8880/live/voby3037/69246643/64342.ts
+
+#EXTINF:-1 tvg-id="discovery.life.us" tvg-name="US768:Discovery Life HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US768DiscoveryLifeHD.png" group-title="USA General",US768:Discovery Life HD
+http://mohdtv.com:8880/live/voby3037/69246643/64343.ts
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="diya.houston.tx.us" tvg-name="US029:DIY Network HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US029DIYNetwork.png" group-title="USA General",US029:DIY Network HD
+http://mohdtv.com:8880/live/voby3037/69246643/3139.ts
+
+#EXTINF:-1 tvg-id="food.network.usa.eastern.us" tvg-name="US035:Food Network HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US035Food-Network.png" group-title="USA General",US035:Food Network HD
+http://mohdtv.com:8880/live/voby3037/69246643/3133.ts
+
+#EXTINF:-1 tvg-id="fyi.usa.eastern.us" tvg-name="US889:FYI" tvg-logo="" group-title="USA General",US889:FYI
+http://mohdtv.com:8880/live/voby3037/69246643/60245.ts
+
+#EXTINF:-1 tvg-id="hgtv.usa.eastern.us" tvg-name="US049:HGTV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US049HGTV-HD.png" group-title="USA General",US049:HGTV HD
+http://mohdtv.com:8880/live/voby3037/69246643/3119.ts
+
+#EXTINF:-1 tvg-id="tlc.usa.eastern.us" tvg-name="US075:TLC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US075TLC-HD.png" group-title="USA General",US075:TLC HD
+http://mohdtv.com:8880/live/voby3037/69246643/3093.ts
+
+#EXTINF:-1 tvg-id="history.eastern.us" tvg-name="US050:History HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US050HISTORY-HD.png" group-title="USA General",US050:History HD
+http://mohdtv.com:8880/live/voby3037/69246643/3118.ts
+
+#EXTINF:-1 tvg-id="investigation.discovery.usa.eastern.us" tvg-name="US051:Investigation Discovery HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US051 ID-HD.png" group-title="USA General",US051:Investigation Discovery HD
+http://mohdtv.com:8880/live/voby3037/69246643/3117.ts
+
+#EXTINF:-1 tvg-id="national.geographic.eastern.us" tvg-name="US059:NAT GEO HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US059NAT-GEO.png" group-title="USA General",US059:NAT GEO HD
+http://mohdtv.com:8880/live/voby3037/69246643/3109.ts
+
+#EXTINF:-1 tvg-id="national.geographic.wild.us" tvg-name="US130:NAT GEO WILD HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US130NATGEOWILD.png" group-title="USA General",US130:NAT GEO WILD HD
+http://mohdtv.com:8880/live/voby3037/69246643/30060.ts
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="big.ten.network.us" tvg-name="US092:Big Ten Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US092BigTenNetwork.png" group-title="USA Sports",US092:Big Ten Network
+http://mohdtv.com:8880/live/voby3037/69246643/3076.ts
+
+#EXTINF:-1 tvg-id="cbs.sports.network.usa.us" tvg-name="US088:CBS Sports Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US088CBSSportsNetwork.png" group-title="USA CBS",US088:CBS Sports Network
+http://mohdtv.com:8880/live/voby3037/69246643/3080.ts
+
+#EXTINF:-1 tvg-id="nesn.us" tvg-name="US087:NESN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US087NESN.png" group-title="USA Sports",US087:NESN
+http://mohdtv.com:8880/live/voby3037/69246643/3081.ts
+
+
+
+
+#EXTINF:-1 tvg-id="espn.us" tvg-name="US032:ESPN-HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US032ESPN-HD.png" group-title="USA Sports",US032:ESPN-HD
+http://mohdtv.com:8880/live/voby3037/69246643/3136.ts
+
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="US031:ESPN-2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US031ESPN-2.png" group-title="USA Sports",US031:ESPN-2
+http://mohdtv.com:8880/live/voby3037/69246643/3137.ts
+
+#EXTINF:-1 tvg-id="espn.u.us" tvg-name="US034:ESPN-U" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US034ESPN-U.png" group-title="USA Sports",US034:ESPN-U
+http://mohdtv.com:8880/live/voby3037/69246643/3134.ts
+
+#EXTINF:-1 tvg-id="fox.sports.1.us" tvg-name="US038:FOX-Sports1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US038FOX-Sports1.png" group-title="USA FOX",US038:FOX-Sports1
+http://mohdtv.com:8880/live/voby3037/69246643/3130.ts
+
+#EXTINF:-1 tvg-id="fox.sports.2.us" tvg-name="US039:FOX-Sports2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US039FOX-Sports2.png" group-title="USA FOX",US039:FOX-Sports2
+http://mohdtv.com:8880/live/voby3037/69246643/3129.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US495:FOX SOCCER PLUS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US495FOX_KMPH.png" group-title="USA FOX",US495:FOX SOCCER PLUS
+http://mohdtv.com:8880/live/voby3037/69246643/29695.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US061:NBC-Golf" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US061NBC-Golf.png" group-title="USA NBC",US061:NBC-Golf
+http://mohdtv.com:8880/live/voby3037/69246643/3107.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US156:NBC_Golf_Channel" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US156NBC_Golf_Channel.png" group-title="USA NBC",US156:NBC_Golf_Channel
+http://mohdtv.com:8880/live/voby3037/69246643/30034.ts
+
+#EXTINF:-1 tvg-id="wwe.us" tvg-name="US085:WWE-Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US085WWE-Network.png" group-title="USA Sports",US085:WWE-Network
+http://mohdtv.com:8880/live/voby3037/69246643/3083.ts
+
+#EXTINF:-1 tvg-id="the.tennis.us" tvg-name="US086:Tennis HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US086Tennis.png" group-title="USA Sports",US086:Tennis HD
+http://mohdtv.com:8880/live/voby3037/69246643/3082.ts
+
+#EXTINF:-1 tvg-id="wfn.world.fishing.network.us" tvg-name="US150:World_Fishing_Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US150World_Fishing_Network.png" group-title="USA Sports",US150:World_Fishing_Network
+http://mohdtv.com:8880/live/voby3037/69246643/30040.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
 
