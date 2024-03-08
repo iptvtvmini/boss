@@ -224,6 +224,43 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=708838&extension=t
 
 
 
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsmainevent.png",Sky Sport Main Event
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577997&extension=ts
+
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-sports-premier-league-uk.png",Sky Sport Primere League
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577996&extension=ts
+
+#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsfootball.png",Sky Sport Football
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577995&extension=ts
+
+#EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/germany/sky-sport/sky-sport-news-alt-de.png",Sky Sport News
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577994&extension=ts
+
+#EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsaction.png",Sky Sport Action
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577993&extension=ts
+
+#EXTINF:-1 tvg-id="SkySp.ArenaHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsarena.png",Sky Sport Arena
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577992&extension=ts
+
+#EXTINF:-1 tvg-id="SkySpCricket.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-sports-cricket-uk.png",Sky Sport Cricket
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577991&extension=ts
+
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsf1.png",Sky Sport F1
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577990&extension=ts
+
+#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsmix.png",Sky Sport Mix
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577989&extension=ts
+
+#EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsracing.png",Sky Sport Racing
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577988&extension=ts
+
+#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsgolf.png",Sky Sport Golf
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577987&extension=ts
+
+
+
+
+
 
 
 
