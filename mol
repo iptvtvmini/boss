@@ -365,6 +365,16 @@ http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61452&extension=t
 
 
 
+#EXTINF:-1 tvg-id="SkyPremiereHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemapremiere.png",Sky Premiere
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97054&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Cinema.Select.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaselect.png",Sky Cinema Select
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97055&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Family.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-cinema-family-uk.png",Sky Family
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97051&extension=ts
+
+
 
 #EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbcone.png",BBC 1
 http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97029&extension=ts
@@ -403,6 +413,8 @@ http://cord-cutter.net:8080/live/95549031/69361122/99138.ts
 http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97045&extension=ts
 
 #EXTINF:-1 tvg-id="Challenge.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/challenge.png",Challenge
+
+
 
 
 
