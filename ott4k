@@ -487,6 +487,54 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=552050&extension=t
 
 
 
+#EXTINF:-1 tvg-id="Sky.Action.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaaction.png",Sky Cinema Action
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577357&extension=ts
+
+#EXTINF:-1 tvg-id="SkyAnimationHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaanimation.png",Sky Cinema Animation
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=758988&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Comedy.Cinema.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemacomedy.png",Sky Cinema Comedy
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577356&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Drama.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemadrama.png",Sky Cinema Drama
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577354&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Family.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-cinema-family-uk.png",Sky Cinema Family
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577353&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Greats.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-cinema-greats-uk.png",Sky Cinema Greats
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577352&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Cinema.Hits.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemahits.png",Sky Cinema Hits
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577351&extension=ts
+
+#EXTINF:-1 tvg-id="SkyPremiereHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemapremiere.png",Sky Cinema Premiere
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577350&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Sci-Fi.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemasci.png",Sky Cinema Sci-Fi
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577349&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Thriller.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemathriller.png",Sky Cinema Thriller
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577348&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Witness.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skywitness.png",Sky Cinema Witness
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577355&extension=ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbcone.png",BBC 1
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577275&extension=ts
 
