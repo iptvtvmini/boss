@@ -168,19 +168,19 @@ https://6oclock.xyz:8443/live/Tyrone43147/My3boys/15877.ts
 
 
 
-#EXTINF:-1 tvg-id="BT.Sport.1.uk" tvg-name="BT Sport 1 HD" tvg-logo="http://5.44.253.151:80/images/f0b8c39305ffdc6c9823055c1a006121.png" group-title="",BT Sports 1
+#EXTINF:-1 tvg-id="BT.Sport.1.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png",BT Sport1
 https://6oclock.xyz:8443/live/Tyrone43147/My3boys/20821.ts
 
-#EXTINF:-1 tvg-id="BT.Sport.2.uk" tvg-name="BT Sport 2 HD" tvg-logo="http://5.44.253.151:80/images/f0b8c39305ffdc6c9823055c1a006121.png" group-title="",BT Sports 2
+#EXTINF:-1 tvg-id="BT.Sport.2.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsports2vip.png",BT Sport2
 https://6oclock.xyz:8443/live/Tyrone43147/My3boys/20820.ts
 
-#EXTINF:-1 tvg-id="BT.Sport.3.uk" tvg-name="BT Sport 3 HD" tvg-logo="http://5.44.253.188:80/images/f0b8c39305ffdc6c9823055c1a006121.png" group-title="",BT Sports 3
+#EXTINF:-1 tvg-id="BT.Sport.3.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport3.png",BT Sport3
 https://6oclock.xyz:8443/live/Tyrone43147/My3boys/20819.ts
 
-#EXTINF:-1 tvg-id="BT.Sport.4.uk" tvg-name="BT Sport 4 HD" tvg-logo="http://5.44.253.188:80/images/f0b8c39305ffdc6c9823055c1a006121.png" group-title="",BT Sports 4
+#EXTINF:-1 tvg-id="BT.Sport.4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",BT Sport4
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=782732&extension=ts
 
-#EXTINF:-1 tvg-id="BT.Sport.5.uk",BT SPORTS ESPN
+#EXTINF:-1 tvg-id="BT.Sport.5.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",BT Sport5
 https://6oclock.xyz:8443/live/Tyrone43147/My3boys/24304.ts
 
 
@@ -372,6 +372,38 @@ https://6oclock.xyz:8443/live/Tyrone43147/My3boys/421505.ts
 
 
 
+#EXTINF:-1 tvg-id="Sky.Witness.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skywitness.png",Sky Witness
+https://6oclock.xyz:8443/live/Tyrone43147/My3boys/18696.ts
+
+#EXTINF:-1 tvg-id="Sky.Action.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaaction.png",Sky Action
+https://6oclock.xyz:8443/live/Tyrone43147/My3boys/18695.ts
+
+#EXTINF:-1 tvg-id="Sky.Comedy.Cinema.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemacomedy.png",Sky Cinema Comedy
+https://6oclock.xyz:8443/live/Tyrone43147/My3boys/18692.ts
+
+#EXTINF:-1 tvg-id="SkyAnimationHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaanimation.png",Sky Animation
+https://6oclock.xyz:8443/live/Tyrone43147/My3boys/18691.ts
+
+#EXTINF:-1 tvg-id="Sky.Drama.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemadrama.png",Sky Drama
+https://6oclock.xyz:8443/live/Tyrone43147/My3boys/18690.ts
+
+#EXTINF:-1 tvg-id="Sky.Family.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-cinema-family-uk.png",Sky Family
+https://6oclock.xyz:8443/live/Tyrone43147/My3boys/18689.ts
+
+#EXTINF:-1 tvg-id="SkyPremiereHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemapremiere.png",Sky Premiere
+https://6oclock.xyz:8443/live/Tyrone43147/My3boys/18686.ts
+
+#EXTINF:-1 tvg-id="Sky.ScFi/HorHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemasci.png",Sky Cinema ScFi
+https://6oclock.xyz:8443/live/Tyrone43147/My3boys/18685.ts
+
+#EXTINF:-1 tvg-id="Sky.Cinema.Select.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaselect.png",Sky Cinema Select
+https://6oclock.xyz:8443/live/Tyrone43147/My3boys/18687.ts
+
+#EXTINF:-1 tvg-id="Sky.Thriller.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemathriller.png",Sky Thriller
+https://6oclock.xyz:8443/live/Tyrone43147/My3boys/18684.ts
+
+
+
 
 #EXTINF:-1 tvg-id="Animal.Planet.HDTV.(East).(APHD).us" tvg-logo="https://docdog.top/Logotv/countries//animalplanet.png",Animal Planet
 https://6oclock.xyz:8443/live/Pumpkin1/Pumpkin1/12790.ts
@@ -424,6 +456,34 @@ https://6oclock.xyz:8443/live/Pumpkin1/Pumpkin1/12738.ts
 
 
 
+
+
+#EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbcone.png",BBC 1
+https://6oclock.xyz:8443/live/Tyrone43147/My3boys/18709.ts
+
+#EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbc2.png",BBC 2
+https://6oclock.xyz:8443/live/Tyrone43147/My3boys/28899.ts
+
+
+
+#EXTINF:-1 tvg-id="Channel.4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/channel4.png",Channel 4
+https://6oclock.xyz:8443/live/Tyrone43147/My3boys/28883.ts
+
+#EXTINF:-1 tvg-id="More4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/more4.png",More 4
+https://6oclock.xyz:8443/live/Tyrone43147/My3boys/440247.ts
+
+#EXTINF:-1 tvg-id="E4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/e4.png",E4
+https://6oclock.xyz:8443/live/Tyrone43147/My3boys/440235.ts
+
+
+#EXTINF:-1 tvg-id="Channel.5.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/channel5.png",Channel 5
+https://6oclock.xyz:8443/live/Tyrone43147/My3boys/28884.ts
+
+#EXTINF:-1 tvg-id="5.USA.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/usa.png",5USA
+https://6oclock.xyz:8443/live/Tyrone43147/My3boys/28880.ts
+
+#EXTINF:-1 tvg-id="Film4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/film4.png",Film 4
+https://6oclock.xyz:8443/live/Tyrone43147/My3boys/24291.ts
 
 
 
