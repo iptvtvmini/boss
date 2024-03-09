@@ -288,6 +288,9 @@ http://watchindia.net:8880/live/65138/11733/2055.ts
 #EXTINF:-1 tvg-id="E!.Entertainment.Television.HDTV.(East).(E!.HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/e-entertainment-us.png",E!
 https://6oclock.xyz:8443/live/Pumpkin1/Pumpkin1/12761.ts
 
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.Canada.HDTV.(E!).ca" tvg-logo="https://docdog.top/Logotv/countries/united-states/e-entertainment-us.png",E! (CA)
+https://6oclock.xyz:8443/live/Tyrone43147/My3boys/21428.ts
+
 #EXTINF:-1 tvg-id="Freeform.HDTV.(East).(FRFHD).us" tvg-name="Freeform HDTV (East) (FRFHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/freeform-us.png" group-title="",FREEFORM
 https://6oclock.xyz:8443/live/Tyrone43147/My3boys/12755.ts
 
