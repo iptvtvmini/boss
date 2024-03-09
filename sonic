@@ -267,6 +267,9 @@ http://supersonictv.live:8080/live/Derrick/Hitman50$/22946.ts
 #EXTINF:-1 tvg-id="BBC.America.HDTV.(East).(BBC).us" tvg-name="BBC America HDTV (East) (BBC)" tvg-logo="https://docdog.top/Logotv/countries/bbcamerica.png" group-title="",BBC America
 http://supersonictv.live:8080/live/Derrick/Hitman50$/22051.ts
 
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.Canada.HDTV.(E!).ca" tvg-logo="https://docdog.top/Logotv/countries/united-states/e-entertainment-us.png",E! (CA)
+http://cord-cutter.net:8080/live/95549031/69361122/57422.ts
+
 #EXTINF:-1 tvg-id="Freeform.HDTV.(East).(FRFHD).us" tvg-name="Freeform HDTV (East) (FRFHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/freeform-us.png" group-title="",FREEFORM
 http://supersonictv.live:8080/live/Derrick/Hitman50$/21804.ts
 
