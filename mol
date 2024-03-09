@@ -343,6 +343,9 @@ http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45612&ext
 #EXTINF:-1 tvg-id="Bravo.HDTV.(East).(BRAVOD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/bravo-us.png",Bravo
 http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61466&extension=ts
 
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.Canada.HDTV.(E!).ca" tvg-logo="https://docdog.top/Logotv/countries/united-states/e-entertainment-us.png",E! (CA)
+http://cord-cutter.net:8080/live/95549031/69361122/57422.ts
+
 #EXTINF:-1 tvg-id="FX.HDTV.(East).(FX.HD).us" tvg-name="FX HDTV (East) (FX HD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/fx-us.png" group-title="",FX
 http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61401&extension=ts
 
