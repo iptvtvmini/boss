@@ -220,6 +220,11 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=708839&extension=t
 #EXTINF:-1 tvg-id="The.Sports.Network.5.HDTV.(TSN5HD).ca" tvg-name="The Sports Network 5 HDTV (TSN5HD)" tvg-logo="https://docdog.top/Logotv/countries//tsn5.png" group-title="",TSN 5
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=708838&extension=ts
 
+#EXTINF:-1 tvg-id="TVA.Sports.HDTV.(TVASHD).ca" tvg-logo="https://docdog.top/Logotv/countries//tvasports.png",TVA SPORTS
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626271&extension=ts
+
+#EXTINF:-1 tvg-id="TVA.Sports.2.HD.(TSP2H).ca" tvg-logo="https://docdog.top/Logotv/countries//tvasports.png",TVA SPORTS 2
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626270&extension=ts
 
 
 
