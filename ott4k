@@ -120,7 +120,7 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=766854&extension=t
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=766855&extension=ts
 
 #EXTINF:-1 tvg-id="Astro.Supersport.5.HD.my" tvg-name="Astro Supersport 5 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="",Astro SuperSport 5
-
+http://abcnew.site:8880/live/48msk050022/92297813/1713.ts
 
 #EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-name="Eurosport 1 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="",EuroSport 1
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577985&extension=ts
@@ -165,7 +165,32 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487785&extension=t
 #EXTINF:-1 tvg-id="Big.Ten.Network.HDTV.(24/7.Overflow.#3).(BTFB3).us" tvg-logo="https://docdog.top/Logotv/countries//bigtennetwork.png",Big Ten Network
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487676&extension=ts
 
+#EXTINF:-1 tvg-id="Bally.Sports.Midwest.(St..Louis).(BSMW).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/nbc-logo-flat-us.png",Bally Sport
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=620786&extension=ts
 
+#EXTINF:-1 tvg-id="MLB.Network.HDTV.(DISH).(MLBHD).us" tvg-logo="https://docdog.top/Logotv/countries//mlbnetwork.png",MLB Network
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487766&extension=ts
+
+#EXTINF:-1 tvg-id="The.NFL.Network.HDTV.(NFLHD).us" tvg-logo="https://docdog.top/Logotv/countries//nflnetwork.png",NFL Network
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487758&extension=ts
+
+#EXTINF:-1 tvg-id="NHL.Network.US.HDTV.(NHLHD).us" tvg-logo="https://docdog.top/Logotv/countries//nbaatlantahawks.png",NHL NETWORK
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487724&extension=ts
+
+#EXTINF:-1 tvg-id="Pac-12.Network.HDTV.(PAC12).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/pac-12-los-angeles-us.png",PAC-12 NETWORK
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487652&extension=ts
+
+#EXTINF:-1 tvg-id="SEC.Network.HDTV.(SECN).us" tvg-logo="https://docdog.top/Logotv/countries//secnetwork.png",SEC NETWORK
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487664&extension=ts
+
+#EXTINF:-1 tvg-id="Spectrum.SportsNet.LA.(SNLA).us" tvg-logo="https://docdog.top/Logotv/countries/cz/novasport1.png",SPECTRUM SPORTSNET
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487660&extension=ts
+
+#EXTINF:-1 tvg-id="Sportsnet.One.HDTV.(SN1HD).ca" tvg-logo="https://docdog.top/Logotv/countries//sportsnetone.png",Sportsnet One
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=708835&extension=ts
+
+#EXTINF:-1 tvg-id="Sportsnet.360.HDTV.(360HD).ca" tvg-logo="https://docdog.top/Logotv/countries//sportsnet360.png",SPORTSNET 360
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487802&extension=ts
 
 
 
@@ -178,11 +203,9 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487679&extension=t
 #EXTINF:-1 tvg-id="WWE.Network.us" tvg-name="WWE Network" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png" group-title="",Sportnet WWE
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=708830&extension=ts
 
-#EXTINF:-1 tvg-id="Sportsnet.One.HDTV.(SN1HD).ca" tvg-logo="https://docdog.top/Logotv/countries//sportsnetone.png",Sportsnet One
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=708835&extension=ts
+#EXTINF:-1 tvg-id="World.Fishing.Network.(US).(WFN).us" tvg-logo="https://docdog.top/Logotv/countries//worldfishingnetwork.png",World Fishing Network
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487658&extension=ts
 
-#EXTINF:-1 tvg-id="Sportsnet.360.HDTV.(360HD).ca" tvg-logo="https://docdog.top/Logotv/countries//sportsnet360.png",SPORTSNET 360
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487802&extension=ts
 
 
 #EXTINF:-1 tvg-id="BT.Sport.1.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png",BT Sport1
