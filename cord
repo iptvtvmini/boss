@@ -582,6 +582,7 @@ http://cord-cutter.net:8080/live/95549031/69361122/46724.ts
 http://cord-cutter.net:8080/live/95549031/69361122/210450.ts
 
 #EXTINF:-1 tvg-id="DMAX.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/dmax.png",DMAX
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1651&extension=ts
 
 #EXTINF:-1 tvg-id="Sky.HistoryHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/history.png",Sky History
 #EXTINF:-1 tvg-id="SkyHistory2HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/history.png",Sky History 2
@@ -592,7 +593,7 @@ http://cord-cutter.net:8080/live/95549031/69361122/210450.ts
 #EXTINF:-1 tvg-id="HLN.HDTV.(HLNHD).us" tvg-logo="https://docdog.top/Logotv/countries//hln.png",HLN
 
 
-#EXTINF:-1 tvg-id="Great.American.Country.HDTV.(GACHD).us" tvg-logo="https://docdog.top/Logotv/countries//dumisa.png",GAC
+#EXTINF:-1 tvg-id="Great.American.Country.HDTV.(GACHD).us" tvg-logo="https://docdog.top/Logotv/countries//dumisa.png",Great American Country
 #EXTINF:-1 tvg-id="Great.American.Family.(GFAM).us" tvg-logo="https://docdog.top/Logotv/countries//dumisa.png",Great American Family
 #EXTINF:-1 tvg-id="Great.American.Living.(GLIV).us" tvg-logo="https://docdog.top/Logotv/countries//dumisa.png",Great American Living
 
@@ -607,7 +608,10 @@ http://cord-cutter.net:8080/live/95549031/69361122/53649.ts
 http://cord-cutter.net:8080/live/95549031/69361122/53650.ts
 
 #EXTINF:-1 tvg-id="BBC.Three.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbc3.png",BBC 3
+http://abcnew.site:8880/live/48msk050022/92297813/2948.ts
+
 #EXTINF:-1 tvg-id="BBC.Four.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbc4.png",BBC 4
+http://abcnew.site:8880/live/48msk050022/92297813/2947.ts
 
 #EXTINF:-1 tvg-id="Channel.4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/channel4.png",Channel 4
 http://cord-cutter.net:8080/live/95549031/69361122/99138.ts
@@ -619,6 +623,8 @@ http://cord-cutter.net:8080/live/95549031/69361122/53672.ts
 http://cord-cutter.net:8080/live/95549031/69361122/53702.ts
 
 #EXTINF:-1 tvg-id="4seven.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/4seven.png",4 Seven
+http://abcnew.site:8880/live/48msk050022/92297813/2955.ts
+
 #EXTINF:-1 tvg-id="More4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/more4.png",More 4
 http://cord-cutter.net:8080/live/95549031/69361122/53673.ts
 
@@ -627,10 +633,16 @@ http://cord-cutter.net:8080/live/95549031/69361122/53673.ts
 http://cord-cutter.net:8080/live/95549031/69361122/53653.ts
 
 #EXTINF:-1 tvg-id="5SELECT.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/5select.png",5 Select
+http://abcnew.site:8880/live/48msk050022/92297813/28837.ts
+
 #EXTINF:-1 tvg-id="5STAR.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/5star.png",5 Star
+http://abcnew.site:8880/live/48msk050022/92297813/2954.ts
+
 #EXTINF:-1 tvg-id="5.USA.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/usa.png",5 USA
+http://abcnew.site:8880/live/48msk050022/92297813/2953.ts
 
 #EXTINF:-1 tvg-id="Challenge.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/challenge.png",Challenge
+http://abcnew.site:8880/live/48msk050022/92297813/28813.ts
 
 
 
@@ -648,6 +660,7 @@ http://cord-cutter.net:8080/live/95549031/69361122/53665.ts
 http://cord-cutter.net:8080/live/95549031/69361122/53666.ts
 
 #EXTINF:-1 tvg-id="ITVBe.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itvbe.png",ITVBe
+http://abcnew.site:8880/live/48msk050022/92297813/28801.ts
 
 
 
