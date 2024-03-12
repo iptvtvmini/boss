@@ -147,11 +147,20 @@ https://6oclock.xyz:8443/live/Tyrone43147/My3boys/15974.ts
 #EXTINF:-1 tvg-id="ESPNU.HDTV.(ESPNUHD).us" tvg-name="ESPNU HDTV (ESPNUHD)" tvg-logo="https://docdog.top/Logotv/countries//espnu.png" group-title="",ESPN U
 https://6oclock.xyz:8443/live/Tyrone43147/My3boys/15972.ts
 
+#EXTINF:-1 tvg-id="Bally.Sports.Midwest.(St..Louis).(BSMW).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/nbc-logo-flat-us.png",BALLY SPORTS
+https://6oclock.xyz:8443/live/gZpw5weynu/C6gJj6DfxV/15903.ts
+
+#EXTINF:-1 tvg-id="MLB.Network.HDTV.(DISH).(MLBHD).us" tvg-logo="https://docdog.top/Logotv/countries//mlbnetwork.png",MLB Network
+https://6oclock.xyz:8443/live/gZpw5weynu/C6gJj6DfxV/12728.ts
+
 #EXTINF:-1 tvg-id="NBA.TV.HDTV.(NBA.HD).us" tvg-logo="https://docdog.top/Logotv/countries//nba.png",NBA TV
 https://6oclock.xyz:8443/live/Tyrone43147/My3boys/12722.ts
 
 #EXTINF:-1 tvg-id="NBCSNWH.NBC.Sports.Northwest.HD.us" tvg-logo="https://docdog.top/Logotv/countries//nbcnewyork.png",NBC SPORTS
 https://6oclock.xyz:8443/live/Tyrone43147/My3boys/26823.ts
+
+#EXTINF:-1 tvg-id="NHL.Network.US.HDTV.(NHLHD).us" tvg-logo="https://docdog.top/Logotv/countries//nbaatlantahawks.png",NHL NETWORK
+https://6oclock.xyz:8443/live/gZpw5weynu/C6gJj6DfxV/15889.ts
 
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HDTV.(CBSSD).us" tvg-logo="https://docdog.top/Logotv/countries//cbssports.png",CBS Sports Network
 https://6oclock.xyz:8443/live/Tyrone43147/My3boys/15977.ts
@@ -160,6 +169,8 @@ https://6oclock.xyz:8443/live/Tyrone43147/My3boys/15977.ts
 #EXTINF:-1 tvg-id="Big.Ten.Network.HDTV.(24/7.Overflow.#3).(BTFB3).us" tvg-name="Big Ten Network HDTV (24/7 Overflow #3) (BTFB3)" tvg-logo="https://docdog.top/Logotv/countries//bigtennetwork.png" group-title="",Big Ten Network
 https://6oclock.xyz:8443/live/Tyrone43147/My3boys/15978.ts
 
+#EXTINF:-1 tvg-id="Pac-12.Network.HDTV.(PAC12).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/pac-12-los-angeles-us.png",PAC-12 NETWORK
+https://6oclock.xyz:8443/live/gZpw5weynu/C6gJj6DfxV/15884.ts
 
 #EXTINF:-1 tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" tvg-name="Tennis Channel HDTV (TNNSHD)" tvg-logo="https://docdog.top/Logotv/countries//tennischannel.png" group-title="",Tennis
 https://6oclock.xyz:8443/live/Tyrone43147/My3boys/15880.ts
@@ -205,6 +216,11 @@ https://6oclock.xyz:8443/live/Tyrone43147/My3boys/21003.ts
 #EXTINF:-1 tvg-id="The.Sports.Network.5.HDTV.(TSN5HD).ca" tvg-name="The Sports Network 5 HDTV (TSN5HD)" tvg-logo="https://docdog.top/Logotv/countries//tsn5.png" group-title="",TSN 5
 https://6oclock.xyz:8443/live/Tyrone43147/My3boys/21002.ts
 
+#EXTINF:-1 tvg-id="Sportsnet.360.HDTV.(360HD).ca" tvg-logo="https://docdog.top/Logotv/countries//sportsnet360.png",SPORTSNET 360
+https://6oclock.xyz:8443/live/gZpw5weynu/C6gJj6DfxV/21001.ts
+
+#EXTINF:-1 tvg-id="Sportsnet.One.HDTV.(SN1HD).ca" tvg-logo="https://docdog.top/Logotv/countries//sportsnetone.png",Sportsnet One
+https://6oclock.xyz:8443/live/gZpw5weynu/C6gJj6DfxV/20995.ts
 
 
 
