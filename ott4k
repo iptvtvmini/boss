@@ -612,14 +612,32 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577258&extension=t
 #EXTINF:-1 tvg-id="Channel.4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/channel4.png",Channel 4
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577257&extension=ts
 
-#EXTINF:-1 tvg-id="Channel.5.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/channel5.png",Channel 5
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577256&extension=ts
-
-#EXTINF:-1 tvg-id="E4.HD.uk",E4
+#EXTINF:-1 tvg-id="E4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/e4.png",E4
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577255&extension=ts
 
 #EXTINF:-1 tvg-id="4seven.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/4seven.png",4 Seven
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577253&extension=ts
+
+#EXTINF:-1 tvg-id="More4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/more4.png",More 4
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577518&extension=ts
+
+#EXTINF:-1 tvg-id="Film4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/film4.png",Film 4
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577359&extension=ts
+
+
+
+#EXTINF:-1 tvg-id="Channel.5.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/channel5.png",Channel 5
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577256&extension=ts
+
+#EXTINF:-1 tvg-id="5SELECT.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/5select.png",5 Select
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577501&extension=ts
+
+#EXTINF:-1 tvg-id="5STAR.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/5star.png",5 Star
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577500&extension=ts
+
+#EXTINF:-1 tvg-id="5.USA.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/usa.png",5USA
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577498&extension=ts
+
 
 
 
