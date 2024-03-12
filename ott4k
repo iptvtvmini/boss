@@ -77,6 +77,7 @@ http://vo01.mohdtv.com:8880/live/voby3037/69246643/60455.ts
 
 #EXTINF:-1 tvg-id="tvN.Movies.HD.id" tvg-name="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png" group-title="",tvN Movies
 #EXTINF:-1 tvg-id="Celestial.Movies.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png" group-title="",Celestial Movies
+http://abcnew.site:8880/live/48msk050022/92297813/60471.ts
 
 #EXTINF:-1 tvg-id="Celestial.Classic.Movies.my" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="",Celestial Classic Movies (CCM)
 http://vo01.mohdtv.com:8880/live/voby3037/69246643/71046.ts
@@ -121,6 +122,20 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=766855&extension=t
 
 #EXTINF:-1 tvg-id="Astro.Supersport.5.HD.my" tvg-name="Astro Supersport 5 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="",Astro SuperSport 5
 http://abcnew.site:8880/live/48msk050022/92297813/1713.ts
+
+
+
+#EXTINF:-1 tvg-id="SPOTV.HD.id" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/456_144.png",SPOTV
+http://abcnew.site:8880/live/48msk050022/92297813/60448.ts
+
+#EXTINF:-1 tvg-id="SPOTV.2.HD.id" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/456_144.png",SPOTV 2
+http://abcnew.site:8880/live/48msk050022/92297813/60482.ts
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-name="Eurosport 1 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="",EuroSport 1
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577985&extension=ts
