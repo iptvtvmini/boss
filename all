@@ -158,6 +158,23 @@ http://abcnew.site:8880/live/48msk050022/92297813/1719.ts
 http://abcnew.site:8880/live/48msk050022/92297813/1713.ts
 
 
+#EXTINF:-1 tvg-id="TNT.Sports.1.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png",BT Sport 1
+http://abcnew.site:8880/live/48msk050022/92297813/2943.ts
+
+#EXTINF:-1 tvg-id="TNT.Sports.2.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsports2vip.png",BT Sport 2
+http://abcnew.site:8880/live/48msk050022/92297813/2942.ts
+
+#EXTINF:-1 tvg-id="TNT.Sports.3.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport3.png",BT Sport 3
+http://abcnew.site:8880/live/48msk050022/92297813/2941.ts
+
+#EXTINF:-1 tvg-id="TNT.Sports.4.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",BT Sport ESPN
+http://abcnew.site:8880/live/48msk050022/92297813/2940.ts
+
+#EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",BT Sport 5
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="SPOTV.HD.id" tvg-name="SPOTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/456_144.png" group-title="",SPOTV
@@ -165,19 +182,6 @@ http://mohdtv.com:8880/live/voby3037/69246643/60448.ts
 
 #EXTINF:-1 tvg-id="SPOTV.2.HD.id" tvg-name="SPOTV 2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/474_144.png" group-title="",SPOTV2
 http://mohdtv.com:8880/live/voby3037/69246643/60482.ts
-
-
-#EXTINF:-1 tvg-id="WWE.Network.HD.my" tvg-name="WWE Network HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png" group-title="",WWE
-http://mohdtv.com:8880/live/voby3037/69246643/1698.ts
-
-#EXTINF:-1 tvg-id="WWE.Network.us" tvg-name="WWE Network" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png" group-title="",WWE
-http://mohdtv.com:8880/live/voby3037/69246643/3083.ts
-
-#EXTINF:-1 tvg-id="The.Golf.Channel.HDTV.(GLFHD).us" tvg-name="The Golf Channel HDTV (GLFHD)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png" group-title="",GOLF
-http://mohdtv.com:8880/live/voby3037/69246643/3107.ts
-
-#EXTINF:-1 tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" tvg-name="Tennis Channel HDTV (TNNSHD)" tvg-logo="https://docdog.top/Logotv/countries//tennischannel.png" group-title="",Tennis
-http://mohdtv.com:8880/live/voby3037/69246643/3082.ts
 
 
 
@@ -238,21 +242,21 @@ http://cord-cutter.net:8080/live/95549031/69361122/2210.ts
 #EXTINF:-1 tvg-id="ESPNU.HDTV.(ESPNUHD).us" tvg-logo="https://docdog.top/Logotv/countries//espnu.png",ESPN U
 http://cord-cutter.net:8080/live/95549031/69361122/10255.ts
 
+#EXTINF:-1 tvg-id="WWE.Network.HD.my" tvg-name="WWE Network HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png" group-title="",WWE
+http://mohdtv.com:8880/live/voby3037/69246643/1698.ts
+
+#EXTINF:-1 tvg-id="WWE.Network.us" tvg-name="WWE Network" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png" group-title="",WWE
+http://mohdtv.com:8880/live/voby3037/69246643/3083.ts
+
+#EXTINF:-1 tvg-id="The.Golf.Channel.HDTV.(GLFHD).us" tvg-name="The Golf Channel HDTV (GLFHD)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png" group-title="",GOLF
+http://mohdtv.com:8880/live/voby3037/69246643/3107.ts
+
+#EXTINF:-1 tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" tvg-name="Tennis Channel HDTV (TNNSHD)" tvg-logo="https://docdog.top/Logotv/countries//tennischannel.png" group-title="",Tennis
+http://mohdtv.com:8880/live/voby3037/69246643/3082.ts
 
 
-#EXTINF:-1 tvg-id="TNT.Sports.1.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png",BT Sport 1
-http://abcnew.site:8880/live/48msk050022/92297813/2943.ts
 
-#EXTINF:-1 tvg-id="TNT.Sports.2.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsports2vip.png",BT Sport 2
-http://abcnew.site:8880/live/48msk050022/92297813/2942.ts
 
-#EXTINF:-1 tvg-id="TNT.Sports.3.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport3.png",BT Sport 3
-http://abcnew.site:8880/live/48msk050022/92297813/2941.ts
-
-#EXTINF:-1 tvg-id="TNT.Sports.4.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",BT Sport ESPN
-http://abcnew.site:8880/live/48msk050022/92297813/2940.ts
-
-#EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",BT Sport 5
 
 
 
