@@ -119,6 +119,27 @@ http://abcnew.site:8880/live/48msk050022/92297813/1713.ts
 
 
 
+#EXTINF:-1 tvg-id="TNT.Sports.1.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png",BT Sport 1
+https://6oclock.xyz:8443/live/Tyrone43147/My3boys/20821.ts
+
+#EXTINF:-1 tvg-id="TNT.Sports.2.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsports2vip.png",BT Sport 2
+https://6oclock.xyz:8443/live/Tyrone43147/My3boys/20820.ts
+
+#EXTINF:-1 tvg-id="TNT.Sports.3.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport3.png",BT Sport 3
+https://6oclock.xyz:8443/live/Tyrone43147/My3boys/20819.ts
+
+#EXTINF:-1 tvg-id="TNT.Sports.4.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",BT Sport ESPN
+http://abcnew.site:8880/live/48msk050022/92297813/2940.ts
+
+#EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",BT Sport 5
+https://6oclock.xyz:8443/live/Tyrone43147/My3boys/24304.ts
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/eurosport1.png",EuroSport 1
 http://abcnew.site:8880/live/48msk050022/92297813/2917.ts
@@ -180,20 +201,7 @@ https://6oclock.xyz:8443/live/Tyrone43147/My3boys/15877.ts
 
 
 
-#EXTINF:-1 tvg-id="BT.Sport.1.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png",BT Sport1
-https://6oclock.xyz:8443/live/Tyrone43147/My3boys/20821.ts
 
-#EXTINF:-1 tvg-id="BT.Sport.2.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsports2vip.png",BT Sport2
-https://6oclock.xyz:8443/live/Tyrone43147/My3boys/20820.ts
-
-#EXTINF:-1 tvg-id="BT.Sport.3.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport3.png",BT Sport3
-https://6oclock.xyz:8443/live/Tyrone43147/My3boys/20819.ts
-
-#EXTINF:-1 tvg-id="BT.Sport.4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",BT Sport4
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=782732&extension=ts
-
-#EXTINF:-1 tvg-id="BT.Sport.5.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",BT Sport5
-https://6oclock.xyz:8443/live/Tyrone43147/My3boys/24304.ts
 
 
 
