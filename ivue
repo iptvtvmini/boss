@@ -124,6 +124,26 @@ http://vo01.mohdtv.com:8880/live/voby4349/154984156/1719.ts
 http://mohdtv.com:8880/live/voby3037/69246643/1713.ts
 
 
+
+#EXTINF:-1 tvg-id="TNT.Sports.1.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png",BT Sport 1
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=2126&extension=ts
+
+#EXTINF:-1 tvg-id="TNT.Sports.2.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsports2vip.png",BT Sport 2
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=2125&extension=ts
+
+#EXTINF:-1 tvg-id="TNT.Sports.3.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport3.png",BT Sport 3
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=2124&extension=ts
+
+#EXTINF:-1 tvg-id="TNT.Sports.4.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",BT Sport ESPN
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=2123&extension=ts
+
+#EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",BT Sport 5
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-name="Eurosport 1 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="",EuroSport 1
 http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577985&extension=ts
 
