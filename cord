@@ -137,6 +137,23 @@ http://mohdtv.com:8880/live/voby3037/69246643/1719.ts
 #EXTINF:-1 tvg-id="Astro.Supersport.5.HD.my" tvg-name="Astro Supersport 5 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="",Astro SuperSport 5
 
 
+#EXTINF:-1 tvg-id="TNT.Sports.1.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png",BT Sport 1
+http://abcnew.site:8880/live/48msk050022/92297813/2943.ts
+
+#EXTINF:-1 tvg-id="TNT.Sports.2.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsports2vip.png",BT Sport 2
+http://abcnew.site:8880/live/48msk050022/92297813/2942.ts
+
+#EXTINF:-1 tvg-id="TNT.Sports.3.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport3.png",BT Sport 3
+http://abcnew.site:8880/live/48msk050022/92297813/2941.ts
+
+#EXTINF:-1 tvg-id="TNT.Sports.4.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",BT Sport ESPN
+http://abcnew.site:8880/live/48msk050022/92297813/2940.ts
+
+#EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",BT Sport 5
+
+
+
+
 #EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/eurosport1.png",EuroSport 1
 http://cord-cutter.net:8080/live/95549031/69361122/53713.ts
 
@@ -238,11 +255,7 @@ http://cord-cutter.net:8080/live/95549031/69361122/16131.ts
 
 
 
-#EXTINF:-1 tvg-id="BT.Sport.1.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png",BT Sport1
-#EXTINF:-1 tvg-id="BT.Sport.2.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsports2vip.png",BT Sport2
-#EXTINF:-1 tvg-id="BT.Sport.3.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport3.png",BT Sport3
-#EXTINF:-1 tvg-id="BT.Sport.4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",BT Sport4
-#EXTINF:-1 tvg-id="BT.Sport.5.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",BT Sport5
+
 
 
 
