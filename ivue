@@ -145,10 +145,10 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=2123&extensi
 
 
 #EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-name="Eurosport 1 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="",EuroSport 1
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577985&extension=ts
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=2120&extension=ts
 
 #EXTINF:-1 tvg-id="Eurosport.2.HD.uk" tvg-name="Eurosport 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="",Eurosport 2
-http://cod5.me:80/play/live.php?mac=00:1a:79:50:e3:b4&stream=577984&extension=ts
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=2119&extension=ts
 
 
 
@@ -518,13 +518,13 @@ http://supersonictv.live:8080/live/Derrick/Hitman50$/40507.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Bionic Women
-http://cod5.me/play/live.php?mac=00:1a:79:50:e3:b4&stream=578167&extension=ts
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Six Million Dollar Man
-http://cod5.me/play/live.php?mac=00:1a:79:50:e3:b4&stream=578163&extension=ts
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Arnold Schwarzenegger
-http://cod5.me/play/live.php?mac=00:1a:79:50:e3:b4&stream=578175&extension=ts
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Sylvester Stallone
