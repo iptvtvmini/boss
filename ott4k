@@ -133,6 +133,24 @@ http://abcnew.site:8880/live/48msk050022/92297813/60482.ts
 
 
 
+#EXTINF:-1 tvg-id="TNT.Sports.1.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png",BT Sport 1
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=578001&extension=ts
+
+#EXTINF:-1 tvg-id="TNT.Sports.2.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsports2vip.png",BT Sport 2
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=578000&extension=ts
+
+#EXTINF:-1 tvg-id="TNT.Sports.3.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport3.png",BT Sport 3
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577999&extension=ts
+
+#EXTINF:-1 tvg-id="TNT.Sports.4.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",BT Sport ESPN
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=782732&extension=ts
+
+#EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",BT Sport 5
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577998&extension=ts
+
+
+
+
 
 
 
@@ -223,20 +241,7 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487658&extension=t
 
 
 
-#EXTINF:-1 tvg-id="BT.Sport.1.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png",BT Sport1
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=578001&extension=ts
 
-#EXTINF:-1 tvg-id="BT.Sport.2.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsports2vip.png",BT Sport2
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=578000&extension=ts
-
-#EXTINF:-1 tvg-id="BT.Sport.3.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport3.png",BT Sport3
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577999&extension=ts
-
-#EXTINF:-1 tvg-id="BT.Sport.4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",BT Sport4
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=782732&extension=ts
-
-#EXTINF:-1 tvg-id="BT.Sport.5.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",BT Sport5
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577998&extension=ts
 
 
 
