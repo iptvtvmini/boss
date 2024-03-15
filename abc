@@ -1,1 +1,242 @@
 
+
+
+
+#EXTINF:-1 tvg-id="espn.us" tvg-name="US032:ESPN-HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US032ESPN-HD.png" group-title="USA Sports",US032:ESPN-HD
+http://abcnew.site:8880/live/48msk050022/92297813/3136.ts
+
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="US031:ESPN-2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US031ESPN-2.png" group-title="USA Sports",US031:ESPN-2
+http://abcnew.site:8880/live/48msk050022/92297813/3137.ts
+
+#EXTINF:-1 tvg-id="espn.u.us" tvg-name="US034:ESPN-U" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US034ESPN-U.png" group-title="USA Sports",US034:ESPN-U
+http://abcnew.site:8880/live/48msk050022/92297813/3134.ts
+
+#EXTINF:-1 tvg-id="fox.sports.1.us" tvg-name="US038:FOX-Sports1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US038FOX-Sports1.png" group-title="USA FOX",US038:FOX-Sports1
+http://abcnew.site:8880/live/48msk050022/92297813/3130.ts
+
+#EXTINF:-1 tvg-id="fox.sports.2.us" tvg-name="US039:FOX-Sports2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US039FOX-Sports2.png" group-title="USA FOX",US039:FOX-Sports2
+http://abcnew.site:8880/live/48msk050022/92297813/3129.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US061:NBC-Golf" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US061NBC-Golf.png" group-title="USA NBC",US061:NBC-Golf
+http://abcnew.site:8880/live/48msk050022/92297813/3107.ts
+
+#EXTINF:-1 tvg-id="wwe.us" tvg-name="US085:WWE-Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US085WWE-Network.png" group-title="USA Sports",US085:WWE-Network
+http://abcnew.site:8880/live/48msk050022/92297813/3083.ts
+
+#EXTINF:-1 tvg-id="the.tennis.us" tvg-name="US086:Tennis HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US086Tennis.png" group-title="USA Sports",US086:Tennis HD
+http://abcnew.site:8880/live/48msk050022/92297813/3082.ts
+
+
+#EXTINF:-1 tvg-id="nesn.us" tvg-name="US087:NESN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US087NESN.png" group-title="USA Sports",US087:NESN
+http://abcnew.site:8880/live/48msk050022/92297813/3081.ts
+
+#EXTINF:-1 tvg-id="cbs.sports.network.usa.us" tvg-name="US088:CBS Sports Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US088CBSSportsNetwork.png" group-title="USA CBS",US088:CBS Sports Network
+http://abcnew.site:8880/live/48msk050022/92297813/3080.ts
+
+#EXTINF:-1 tvg-id="fox.sports.1.us" tvg-name="US090:Fox Sports Yes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US090FoxSportsYes.png" group-title="USA FOX",US090:Fox Sports Yes
+http://abcnew.site:8880/live/48msk050022/92297813/3078.ts
+
+#EXTINF:-1 tvg-id="sec.network.us" tvg-name="US091:SEC Network HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US091SecNetwork.png" group-title="USA Sports",US091:SEC Network HD
+http://abcnew.site:8880/live/48msk050022/92297813/3077.ts
+
+#EXTINF:-1 tvg-id="big.ten.network.us" tvg-name="US092:Big Ten Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US092BigTenNetwork.png" group-title="USA Sports",US092:Big Ten Network
+http://abcnew.site:8880/live/48msk050022/92297813/3076.ts
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="US002:ABC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US002ABCHD.png" group-title="USA ABC",US002:ABC HD
+http://abcnew.site:8880/live/48msk050022/92297813/3166.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US004:ABC 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US004ABC7.png" group-title="USA ABC",US004:ABC 7
+http://abcnew.site:8880/live/48msk050022/92297813/3164.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US017:CBS-HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US017CBS-HD.png" group-title="USA CBS",US017:CBS-HD
+http://abcnew.site:8880/live/48msk050022/92297813/3151.ts
+
+#EXTINF:-1 tvg-id="cbn.news.us" tvg-name="US096:CBN HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US096CBN.png" group-title="USA General",US096:CBN HD
+http://abcnew.site:8880/live/48msk050022/92297813/3072.ts
+
+#EXTINF:-1 tvg-id="cbssnhd.us" tvg-name="US018:CBSN HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US018CBSN-HD.png" group-title="USA General",US018:CBSN HD
+http://abcnew.site:8880/live/48msk050022/92297813/3150.ts
+
+#EXTINF:-1 tvg-id="cnbc.usa.us" tvg-name="US020:CNBC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US020CNBC.png" group-title="USA General",US020:CNBC HD
+http://abcnew.site:8880/live/48msk050022/92297813/3148.ts
+
+#EXTINF:-1 tvg-id="cw.austin.tx.us" tvg-name="US023:CW HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US023CW-HD.png" group-title="USA General",US023:CW HD
+http://abcnew.site:8880/live/48msk050022/92297813/3145.ts
+
+#EXTINF:-1 tvg-id="fox.hd.english.bein" tvg-name="US036:FOX-HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US036FOX-HD.png" group-title="USA FOX",US036:FOX-HD
+http://abcnew.site:8880/live/48msk050022/92297813/3132.ts
+
+#EXTINF:-1 tvg-id="msnbc.usa.us" tvg-name="US057:MSNBC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US057MSNBC-HD.png" group-title="USA General",US057:MSNBC HD
+http://abcnew.site:8880/live/48msk050022/92297813/3111.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US062:NBC-HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US062NBC-HD.png" group-title="USA NBC",US062:NBC-HD
+http://abcnew.site:8880/live/48msk050022/92297813/3106.ts
+
+#EXTINF:-1 tvg-id="nbcsn.us" tvg-name="US063:NBCSN HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US063NBCSN-HD.png" group-title="USA General",US063:NBCSN HD
+http://abcnew.site:8880/live/48msk050022/92297813/3105.ts
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="a.e.eastern.us" tvg-name="US001:A&E HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US001A&E-HD.png" group-title="USA General",US001:A&E HD
+http://abcnew.site:8880/live/48msk050022/92297813/3167.ts
+
+#EXTINF:-1 tvg-id="amc.eastern.us" tvg-name="US006:AMC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US006AMC-HD.png" group-title="USA General",US006:AMC HD
+http://abcnew.site:8880/live/48msk050022/92297813/3162.ts
+
+#EXTINF:-1 tvg-id="bbc.america.east.us" tvg-name="US008:BBC America HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US008BBC-America.png" group-title="USA General",US008:BBC America HD
+http://abcnew.site:8880/live/48msk050022/92297813/3160.ts
+
+#EXTINF:-1 tvg-id="bet.eastern.us" tvg-name="US010:BET HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US010BET-HD.png" group-title="USA General",US010:BET HD
+http://abcnew.site:8880/live/48msk050022/92297813/3158.ts
+
+#EXTINF:-1 tvg-id="bravo.usa.eastern.us" tvg-name="US011:BRAVO HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US011BRAVO-HD.png" group-title="USA General",US011:BRAVO HD
+http://abcnew.site:8880/live/48msk050022/92297813/3157.ts
+
+#EXTINF:-1 tvg-id="comedy.us" tvg-name="US022:Comedy Central HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US022COMEDY-CENTRAL.png" group-title="USA General",US022:Comedy Central HD
+http://abcnew.site:8880/live/48msk050022/92297813/3146.ts
+
+#EXTINF:-1 tvg-id="e.entertainment.usa.eastern.us" tvg-name="US030:E! HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US030E!.png" group-title="USA General",US030:E! HD
+http://abcnew.site:8880/live/48msk050022/92297813/3138.ts
+
+#EXTINF:-1 tvg-id="freeform.east.us" tvg-name="US040:Freeform HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US040Freeform.png" group-title="USA General",US040:Freeform HD
+http://abcnew.site:8880/live/48msk050022/92297813/3128.ts
+
+#EXTINF:-1 tvg-id="fxx.usa.eastern.us" tvg-name="US041:FX HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US041FX-HD.png" group-title="USA General",US041:FX HD
+http://abcnew.site:8880/live/48msk050022/92297813/3127.ts
+
+#EXTINF:-1 tvg-id="fxx.usa.eastern.us" tvg-name="US042:FXX HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US042FXX.png" group-title="USA General",US042:FXX HD
+http://abcnew.site:8880/live/48msk050022/92297813/3126.ts
+
+#EXTINF:-1 tvg-id="syfy.eastern.us" tvg-name="US072:SyFy HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US072SYFY.png" group-title="USA General",US072:SyFy HD
+http://abcnew.site:8880/live/48msk050022/92297813/3096.ts
+
+#EXTINF:-1 tvg-id="tbs.east.us" tvg-name="US073:TBS HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US073TBS-HD.png" group-title="USA General",US073:TBS HD
+http://abcnew.site:8880/live/48msk050022/92297813/3095.ts
+
+#EXTINF:-1 tvg-id="tnt.eastern.us" tvg-name="US076:TNT HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US076TNT-HD.png" group-title="USA General",US076:TNT HD
+http://abcnew.site:8880/live/48msk050022/92297813/3092.ts
+
+#EXTINF:-1 tvg-id="usa.network.east.us" tvg-name="US079:USA Network HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US079USA-Network.png" group-title="USA General",US079:USA Network HD
+http://abcnew.site:8880/live/48msk050022/92297813/3089.ts
+
+#EXTINF:-1 tvg-id="vh1.eastern.us" tvg-name="US081:VH1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US081VH1.png" group-title="USA General",US081:VH1 HD
+http://abcnew.site:8880/live/48msk050022/92297813/3087.ts
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="hbo.eastern.us" tvg-name="US046:HBO East" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US046HBOEast.png" group-title="USA Movies",US046:HBO East
+http://abcnew.site:8880/live/48msk050022/92297813/3122.ts
+
+#EXTINF:-1 tvg-id="hbo.2.eastern.us" tvg-name="US055:HBO 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US055HBO2.png" group-title="USA Movies",US055:HBO 2
+http://abcnew.site:8880/live/48msk050022/92297813/3113.ts
+
+#EXTINF:-1 tvg-id="comedy.us" tvg-name="US045:HBO Comedy" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US045HBOComedyEast.png" group-title="USA Movies",US045:HBO Comedy
+http://abcnew.site:8880/live/48msk050022/92297813/3123.ts
+
+#EXTINF:-1 tvg-id="hbo.signature.eastern.us" tvg-name="US047:HBO Signature" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US047HBOSignatureWest.png" group-title="USA Movies",US047:HBO Signature
+http://abcnew.site:8880/live/48msk050022/92297813/3121.ts
+
+#EXTINF:-1 tvg-id="hbo.zone.east.us" tvg-name="US048:HBO Zone" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US048HBOZoneEast.png" group-title="USA Movies",US048:HBO Zone
+http://abcnew.site:8880/live/48msk050022/92297813/3120.ts
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="actionmax.eastern.us" tvg-name="US005:ACTION MAX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US005ACTION-MAX.png" group-title="USA Movies",US005:ACTION MAX
+http://abcnew.site:8880/live/48msk050022/92297813/3163.ts
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="starz.eastern.us" tvg-name="US019:STARZ EAST" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US019StarzEast.png" group-title="USA Movies",US019:STARZ EAST
+http://abcnew.site:8880/live/48msk050022/92297813/3149.ts
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="showtime.west.us" tvg-name="US069:Showtime HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US069SHOWTIME.png" group-title="USA Movies",US069:Showtime HD
+http://abcnew.site:8880/live/48msk050022/92297813/3099.ts
+
+#EXTINF:-1 tvg-id="showtime.2.eastern.us" tvg-name="US070:Showtime 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US070SHOWTIME2.png" group-title="USA Movies",US070:Showtime 2 HD
+http://abcnew.site:8880/live/48msk050022/92297813/3098.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="animal.planet.east.us" tvg-name="US007:Animal Planet HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US007ANIMAL-PLANET.png" group-title="USA General",US007:Animal Planet HD
+http://abcnew.site:8880/live/48msk050022/92297813/3161.ts
+
+#EXTINF:-1 tvg-id="discovery.on.demand.us" tvg-name="US025:Discovery HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US025Discovery-HD.png" group-title="USA General",US025:Discovery HD
+http://abcnew.site:8880/live/48msk050022/92297813/3143.ts
+
+#EXTINF:-1 tvg-id="disney.eastern.us" tvg-name="US026:Disney Channel HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US026Disney-Channel.png" group-title="USA General",US026:Disney Channel HD
+http://abcnew.site:8880/live/48msk050022/92297813/3142.ts
+
+#EXTINF:-1 tvg-id="diya.houston.tx.us" tvg-name="US029:DIY Network HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US029DIYNetwork.png" group-title="USA General",US029:DIY Network HD
+http://abcnew.site:8880/live/48msk050022/92297813/3139.ts
+
+#EXTINF:-1 tvg-id="food.network.usa.eastern.us" tvg-name="US035:Food Network HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US035Food-Network.png" group-title="USA General",US035:Food Network HD
+http://abcnew.site:8880/live/48msk050022/92297813/3133.ts
+
+#EXTINF:-1 tvg-id="hgtv.usa.eastern.us" tvg-name="US049:HGTV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US049HGTV-HD.png" group-title="USA General",US049:HGTV HD
+http://abcnew.site:8880/live/48msk050022/92297813/3119.ts
+
+#EXTINF:-1 tvg-id="history.eastern.us" tvg-name="US050:History HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US050HISTORY-HD.png" group-title="USA General",US050:History HD
+http://abcnew.site:8880/live/48msk050022/92297813/3118.ts
+
+#EXTINF:-1 tvg-id="investigation.discovery.usa.eastern.us" tvg-name="US051:Investigation Discovery HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US051 ID-HD.png" group-title="USA General",US051:Investigation Discovery HD
+http://abcnew.site:8880/live/48msk050022/92297813/3117.ts
+
+#EXTINF:-1 tvg-id="national.geographic.eastern.us" tvg-name="US059:NAT GEO HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US059NAT-GEO.png" group-title="USA General",US059:NAT GEO HD
+http://abcnew.site:8880/live/48msk050022/92297813/3109.ts
+
+#EXTINF:-1 tvg-id="tlc.usa.eastern.us" tvg-name="US075:TLC HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US075TLC-HD.png" group-title="USA General",US075:TLC HD
+http://abcnew.site:8880/live/48msk050022/92297813/3093.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US080:Discovery Velocity HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US080Velocity-HD.png" group-title="USA General",US080:Discovery Velocity HD
+http://abcnew.site:8880/live/48msk050022/92297813/3088.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
