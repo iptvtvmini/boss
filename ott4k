@@ -121,15 +121,15 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=766854&extension=t
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=766855&extension=ts
 
 #EXTINF:-1 tvg-id="Astro.Supersport.5.HD.my" tvg-name="Astro Supersport 5 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="",Astro SuperSport 5
-http://abcnew.site:8880/live/48msk050022/92297813/1713.ts
 
 
 
-#EXTINF:-1 tvg-id="SPOTV.HD.id" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/456_144.png",SPOTV
-http://abcnew.site:8880/live/48msk050022/92297813/60448.ts
 
-#EXTINF:-1 tvg-id="SPOTV.2.HD.id" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/456_144.png",SPOTV 2
-http://abcnew.site:8880/live/48msk050022/92297813/60482.ts
+#EXTINF:-1 tvg-id="SPOTV.HD.id" tvg-name="SPOTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/456_144.png" group-title="",SPOTV
+http://mohdtv.com:8880/live/voby3037/69246643/60448.ts
+
+#EXTINF:-1 tvg-id="SPOTV.2.HD.id" tvg-name="SPOTV 2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/474_144.png" group-title="",SPOTV2
+http://mohdtv.com:8880/live/voby3037/69246643/60482.ts
 
 
 
@@ -689,48 +689,49 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577876&extension=t
 
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Action Movies
+http://mohdtv.com:8880/live/voby3037/69246643/60207.ts
 
-#EXTINF:-1 tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",ACTION Movies
-http://abcnew.site:8880/live/48msk050022/92297813/60207.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Comedy Movies
+http://mohdtv.com:8880/live/voby3037/69246643/60049.ts
 
-#EXTINF:-1 tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",COMEDY Movies
-http://abcnew.site:8880/live/48msk050022/92297813/60049.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",DISNEY Movies
+http://mohdtv.com:8880/live/voby3037/69246643/60928.ts
 
-#EXTINF:-1 tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",DISNEY Movies
-http://abcnew.site:8880/live/48msk050022/92297813/60928.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",HORROR Movies
+http://mohdtv.com:8880/live/voby3037/69246643/60857.ts
 
-#EXTINF:-1 tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",HORROR Movies
-http://abcnew.site:8880/live/48msk050022/92297813/60857.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",FAMILY Movies
+http://mohdtv.com:8880/live/voby3037/69246643/60862.ts
 
-#EXTINF:-1 tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",FAMILY Movies
-http://abcnew.site:8880/live/48msk050022/92297813/60862.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",CRIME Movies
+http://mohdtv.com:8880/live/voby3037/69246643/60864.ts
 
-#EXTINF:-1 tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",CRIME Movies
-http://abcnew.site:8880/live/48msk050022/92297813/60864.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",SCIFI Movies
+http://mohdtv.com:8880/live/voby3037/69246643/60836.ts
 
-#EXTINF:-1 tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",SCIFI Movies
-http://abcnew.site:8880/live/48msk050022/92297813/60836.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",THRILLER Movies
+http://mohdtv.com:8880/live/voby3037/69246643/60253.ts
 
-#EXTINF:-1 tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",DRAMA Movies
-http://abcnew.site:8880/live/48msk050022/92297813/60838.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",SUPERHERO Movies
+http://mohdtv.com:8880/live/voby3037/69246643/60257.ts
 
-#EXTINF:-1 tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",THRILLER Movies
-http://abcnew.site:8880/live/48msk050022/92297813/60253.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",WAR Movies
+http://mohdtv.com:8880/live/voby3037/69246643/60247.ts
 
-#EXTINF:-1 tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",SUPERHERO Movies
-http://abcnew.site:8880/live/48msk050022/92297813/60257.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",CHiPs
+http://supersonictv.live:8080/live/Derrick/Hitman50$/77109.ts
 
-#EXTINF:-1 tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",WAR Movies
-http://abcnew.site:8880/live/48msk050022/92297813/60247.ts
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Bionic Woman
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Six Million Dollar Man
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Arnold Schwarzenegger
+http://mohdtv.com:8880/live/voby3037/69246643/60871.ts
 
 
 
 
-#EXTINF:-1 tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",CHiPs
-http://abcnew.site:8880/live/48msk050022/92297813/60103.ts
 
-#EXTINF:-1 tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Arnold Schwarzenegger
-http://abcnew.site:8880/live/48msk050022/92297813/60871.ts
 
 
 
