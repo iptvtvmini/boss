@@ -1,1 +1,37 @@
 
+
+
+
+
+#EXTINF:-1 tvg-id="aande.us" tvg-name="A&E Network" tvg-logo="http://watchindia.net/images/channels/usa/A&E.png" group-title="USA Network",A&E Network
+http://watchindia.net:8880/live/17524/03503/2044.ts
+
+#EXTINF:-1 tvg-id="amc.us" tvg-name="AMC" tvg-logo="https://watchindia.net/images/channels/usa/AMC.png" group-title="USA Network",AMC
+http://watchindia.net:8880/live/17524/03503/2043.ts
+
+#EXTINF:-1 tvg-id="bbcamerica.us" tvg-name="BBC America" tvg-logo="http://watchindia.net/images/channels/usa/BBC_America.png" group-title="USA Network",BBC America
+http://watchindia.net:8880/live/17524/03503/2055.ts
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="animalplanet.us" tvg-name="Animal Planet" tvg-logo="https://watchindia.net/images/channels/usa/Animal_Planet_HD.png" group-title="USA Network",Animal Planet
+http://watchindia.net:8880/live/17524/03503/2039.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
