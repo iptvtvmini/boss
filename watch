@@ -1,6 +1,5 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz"
 
-
 #EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-name="CBS Sports Network" tvg-logo="https://watchindia.net/images/channels/usa/CBS.png" group-title="USA Network",CBS Sports Network
 http://watchindia.net:8880/live/17524/03503/2121.ts
 
