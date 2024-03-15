@@ -1,1 +1,168 @@
 
+
+
+
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="US: ABC" tvg-logo="http://daleplay.club:8080/images/b7fe3d5b286be607282dd8e155f8e892.png" group-title="(TV) USA",US: ABC
+http://novared.pro:8080/live/120323.122323.231203./NrsjEuCkzAgy/134308.ts
+
+
+
+
+#EXTINF:-1 tvg-id="I3.12421.schedulesdirect.org" tvg-name="US: A&E" tvg-logo="http://daleplaypro.com:8080/images/62f28b7e7e4a05ccfe49b4b29ccb471a.png" group-title="(TV) USA",US: A&E
+http://novared.pro:8080/live/120323.122323.231203./NrsjEuCkzAgy/134307.ts
+
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="US: AMC" tvg-logo="http://daleplay.club:8080/images/1a1cbf36d2ae966793cb9b3a3dc45413.png" group-title="(TV) USA",US: AMC
+http://novared.pro:8080/live/120323.122323.231203./NrsjEuCkzAgy/134309.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: BET EAST" tvg-logo="http://daleplay.club:8080/images/0c23eba97720c742fe3ad8210e57e13d.png" group-title="(TV) USA",US: BET EAST
+http://novared.pro:8080/live/120323.122323.231203./NrsjEuCkzAgy/134319.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: BOUNCE" tvg-logo="http://daleplay.club:8080/images/a8e0e416c7a7ee8cff2acc3fd91fb6c7.png" group-title="(TV) USA",US: BOUNCE
+http://novared.pro:8080/live/120323.122323.231203./NrsjEuCkzAgy/134324.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: BRAVO" tvg-logo="http://daleplay.club:8080/images/7b44a30de71c6832621a79844e8838da.png" group-title="(TV) USA",US: BRAVO
+http://novared.pro:8080/live/120323.122323.231203./NrsjEuCkzAgy/134325.ts
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="US: 5 STARMAX" tvg-logo="http://daleplay.club:8080/images/a74acac51a09c41d12051fdaaf459476.png" group-title="USA| MOVIE NETWORTS",US: 5 STARMAX
+http://novared.pro:8080/live/120323.122323.231203./NrsjEuCkzAgy/53536.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: ACTIONMAX" tvg-logo="http://daleplay.club:8080/images/160bf9730f9699b6025b49a730d864ed.png" group-title="USA| MOVIE NETWORTS",US: ACTIONMAX
+http://novared.pro:8080/live/120323.122323.231203./NrsjEuCkzAgy/53537.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: CINEMAX EAST" tvg-logo="http://daleplay.club:8080/images/59c6b2870302b1e2530f5aadc3ef856f.png" group-title="USA| MOVIE NETWORTS",US: CINEMAX EAST
+http://novared.pro:8080/live/120323.122323.231203./NrsjEuCkzAgy/53538.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="US: OUTERMAX" tvg-logo="http://daleplay.club:8080/images/1fbada6e2d37df9706eabb06558b1db7.png" group-title="USA| MOVIE NETWORTS",US: OUTERMAX
+http://novared.pro:8080/live/120323.122323.231203./NrsjEuCkzAgy/53540.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: MOREMAX" tvg-logo="http://latinoamericatv.vip:8080/images/091faafc658c3157bf3452d669290132.png" group-title="USA| MOVIE NETWORTS",US: MOREMAX
+http://novared.pro:8080/live/120323.122323.231203./NrsjEuCkzAgy/53541.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: THRILLERMAX" tvg-logo="http://daleplay.club:8080/images/5b5e1fd418c68e5655615dc12a471673.png" group-title="USA| MOVIE NETWORTS",US: THRILLERMAX
+http://novared.pro:8080/live/120323.122323.231203./NrsjEuCkzAgy/53542.ts
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="US: EPIX" tvg-logo="http://daleplaypro.com:8080/images/e1ae849b31bb146485b11ed0c53f1c73.png" group-title="USA| MOVIE NETWORTS",US: EPIX
+http://novared.pro:8080/live/120323.122323.231203./NrsjEuCkzAgy/53543.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: EPIX 2" tvg-logo="http://daleplay.club:8080/images/33ed80c31a5ceece1d8b42930f283060.png" group-title="USA| MOVIE NETWORTS",US: EPIX 2
+http://novared.pro:8080/live/120323.122323.231203./NrsjEuCkzAgy/53544.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: EPIX DRIVE-IN" tvg-logo="http://daleplay.club:8080/images/449ef154d647d703f5f7d6b604740c60.png" group-title="USA| MOVIE NETWORTS",US: EPIX DRIVE-IN
+http://novared.pro:8080/live/120323.122323.231203./NrsjEuCkzAgy/53545.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: EPIX HITS" tvg-logo="http://daleplaypro.com:8080/images/a4ab43e553cc22d0c3e268b55cc6066b.png" group-title="USA| MOVIE NETWORTS",US: EPIX HITS
+http://novared.pro:8080/live/120323.122323.231203./NrsjEuCkzAgy/53546.ts
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO EAST" tvg-logo="http://daleplaypro.com:8080/images/10718ab4dbde3899bbc31dc48d8a5f91.png" group-title="USA| MOVIE NETWORTS",US: HBO EAST
+http://novared.pro:8080/live/120323.122323.231203./NrsjEuCkzAgy/53547.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO 2" tvg-logo="http://daleplaypro.com:8080/images/f2973347dfd89ca735e8ee43bbfbb48b.png" group-title="USA| MOVIE NETWORTS",US: HBO 2
+http://novared.pro:8080/live/120323.122323.231203./NrsjEuCkzAgy/53548.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO COMEDY" tvg-logo="http://daleplaypro.com:8080/images/feffe048275a9d6da6535e48e6e903e4.png" group-title="USA| MOVIE NETWORTS",US: HBO COMEDY
+http://novared.pro:8080/live/120323.122323.231203./NrsjEuCkzAgy/53549.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO FAMILY" tvg-logo="http://daleplay.club:8080/images/bd92803d5defb80f6e80c2243301375e.png" group-title="USA| MOVIE NETWORTS",US: HBO FAMILY
+http://novared.pro:8080/live/120323.122323.231203./NrsjEuCkzAgy/53550.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO SIGNATURE" tvg-logo="http://daleplay.club:8080/images/c202c96c71d0e8817ece662524bdce7a.png" group-title="USA| MOVIE NETWORTS",US: HBO SIGNATURE
+http://novared.pro:8080/live/120323.122323.231203./NrsjEuCkzAgy/53551.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO ZONE" tvg-logo="http://daleplaypro.com:8080/images/9db33946c136281a913bdfd2447c9bf9.png" group-title="USA| MOVIE NETWORTS",US: HBO ZONE
+http://novared.pro:8080/live/120323.122323.231203./NrsjEuCkzAgy/53554.ts
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="US: MOVIE PLEX" tvg-logo="http://daleplaypro.com:8080/images/4c1321feb975219e202367390d69e53a.png" group-title="USA| MOVIE NETWORTS",US: MOVIE PLEX
+http://novared.pro:8080/live/120323.122323.231203./NrsjEuCkzAgy/53556.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: INDIE PLEX" tvg-logo="http://daleplay.club:8080/images/db059dc8a47602a03922791832109693.png" group-title="USA| MOVIE NETWORTS",US: INDIE PLEX
+http://novared.pro:8080/live/120323.122323.231203./NrsjEuCkzAgy/53557.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: RETRO PLEX" tvg-logo="http://daleplaypro.com:8080/images/de80c3b033cac62b8c199ef866d3d3cd.png" group-title="USA| MOVIE NETWORTS",US: RETRO PLEX
+http://novared.pro:8080/live/120323.122323.231203./NrsjEuCkzAgy/53558.ts
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="US: SHOWTIME EAST" tvg-logo="http://daleplay.club:8080/images/ab0f6caa9805cabc974ba5c835b30a23.png" group-title="USA| MOVIE NETWORTS",US: SHOWTIME EAST
+http://novared.pro:8080/live/120323.122323.231203./NrsjEuCkzAgy/53559.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: SHOWTIME SHOWCASE" tvg-logo="http://epg.justco.cc/guide/logos/SHOWTIME BEYOND.png" group-title="USA| MOVIE NETWORTS",US: SHOWTIME SHOWCASE
+http://novared.pro:8080/live/120323.122323.231203./NrsjEuCkzAgy/53561.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: SHOWTIME EXTREME" tvg-logo="http://daleplaypro.com:8080/images/22a09eae943b6174e51accf5da586360.png" group-title="USA| MOVIE NETWORTS",US: SHOWTIME EXTREME
+http://novared.pro:8080/live/120323.122323.231203./NrsjEuCkzAgy/53562.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: SHOWTIME FAMILY ZONE" tvg-logo="http://daleplaypro.com:8080/images/ea686ff21bf525a3d06c7b346dbc6a37.png" group-title="USA| MOVIE NETWORTS",US: SHOWTIME FAMILY ZONE
+http://novared.pro:8080/live/120323.122323.231203./NrsjEuCkzAgy/53563.ts
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="US: STARZ CINEMA" tvg-logo="http://daleplay.club:8080/images/b2c43ebabb7c849a357fa221da49c24b.png" group-title="USA| MOVIE NETWORTS",US: STARZ CINEMA
+http://novared.pro:8080/live/120323.122323.231203./NrsjEuCkzAgy/53566.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: STARZ EAST" tvg-logo="http://daleplay.club:8080/images/4a71106e228ba206fac95c718a9e389e.png" group-title="USA| MOVIE NETWORTS",US: STARZ EAST
+http://novared.pro:8080/live/120323.122323.231203./NrsjEuCkzAgy/53567.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: STARZ COMEDY" tvg-logo="http://daleplaypro.com:8080/images/9ddc776ce1df88425a9d1ca0fb77edc7.png" group-title="USA| MOVIE NETWORTS",US: STARZ COMEDY
+http://novared.pro:8080/live/120323.122323.231203./NrsjEuCkzAgy/53569.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: STARZ EDGE" tvg-logo="http://daleplay.club:8080/images/0bc74a3b8166bc9e9338e958af0285b2.png" group-title="USA| MOVIE NETWORTS",US: STARZ EDGE
+http://novared.pro:8080/live/120323.122323.231203./NrsjEuCkzAgy/53570.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: STARZENCORE" tvg-logo="http://daleplaypro.com:8080/images/b2c43ebabb7c849a357fa221da49c24b.png" group-title="USA| MOVIE NETWORTS",US: STARZENCORE
+http://novared.pro:8080/live/120323.122323.231203./NrsjEuCkzAgy/53571.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: STARZENCORE ACTION" tvg-logo="http://daleplaypro.com:8080/images/116e61022a8c5933a759124db21c968c.png" group-title="USA| MOVIE NETWORTS",US: STARZENCORE ACTION
+http://novared.pro:8080/live/120323.122323.231203./NrsjEuCkzAgy/53573.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: STARZ ENCORE CLASSIC" tvg-logo="http://daleplay.club:8080/images/6bb0d5d14331d5574244575ef118caa6.png" group-title="USA| MOVIE NETWORTS",US: STARZ ENCORE CLASSIC
+http://novared.pro:8080/live/120323.122323.231203./NrsjEuCkzAgy/53574.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: STARZ ENCORE FAMILY" tvg-logo="http://daleplaypro.com:8080/images/e55395f45cb858315cbd2e7983a5e79a.png" group-title="USA| MOVIE NETWORTS",US: STARZ ENCORE FAMILY
+http://novared.pro:8080/live/120323.122323.231203./NrsjEuCkzAgy/53575.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: STARZENCORE SUSPENSE" tvg-logo="http://daleplay.club:8080/images/324c8d5f876d45cae6c3db4409cf1652.png" group-title="USA| MOVIE NETWORTS",US: STARZENCORE SUSPENSE
+http://novared.pro:8080/live/120323.122323.231203./NrsjEuCkzAgy/53576.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: STARZENCORE WESTERNS" tvg-logo="http://daleplay.club:8080/images/bb0ce5935f18c27caa7556b6afe5a7fa.png" group-title="USA| MOVIE NETWORTS",US: STARZENCORE WESTERNS
+http://novared.pro:8080/live/120323.122323.231203./NrsjEuCkzAgy/53577.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: STARZ IN BLACK" tvg-logo="http://daleplaypro.com:8080/images/0c83f368a29d1381e414dec6ecb4f222.png" group-title="USA| MOVIE NETWORTS",US: STARZ IN BLACK
+http://novared.pro:8080/live/120323.122323.231203./NrsjEuCkzAgy/53578.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: STARZ KIDS & FAMILY" tvg-logo="http://daleplaypro.com:8080/images/19149e7186af1a52b9fb461242f07516.png" group-title="USA| MOVIE NETWORTS",US: STARZ KIDS & FAMILY
+http://novared.pro:8080/live/120323.122323.231203./NrsjEuCkzAgy/53579.ts
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="US: SHOWTIME " tvg-logo="http://daleplay.club:8080/images/0a6909d16b68b1906d5ffbc9827d9b13.png" group-title="USA| MOVIE NETWORTS",US: SHOWTIME 
+http://novared.pro:8080/live/120323.122323.231203./NrsjEuCkzAgy/53581.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: SHOWTIME 2" tvg-logo="http://daleplay.club:8080/images/64010bea9fb527682a75921e68840077.png" group-title="USA| MOVIE NETWORTS",US: SHOWTIME 2
+http://novared.pro:8080/live/120323.122323.231203./NrsjEuCkzAgy/53582.ts
+
+
+
+
+#EXTINF:-1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="US: ANIMAL PLANET" tvg-logo="http://daleplay.club:8080/images/f933f437d4d03eae8fd68c98baa39c6b.png" group-title="(TV) USA",US: ANIMAL PLANET
+http://novared.pro:8080/live/120323.122323.231203./NrsjEuCkzAgy/134314.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
