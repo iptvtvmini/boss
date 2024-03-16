@@ -164,10 +164,10 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134032&extension=
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134001&extension=ts
 
 #EXTINF:-1 tvg-id="Fox.Sports.1.HDTV.(FS1HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-sports-1-us.png",FOX SPORTS 1
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=133975&extension=ts
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=133976&extension=ts
 
 #EXTINF:-1 tvg-id="Fox.Sports.2.HDTV.(FS2HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-sports-2-us.png",FOX SPORT 2
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=133976&extension=ts
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=133978&extension=ts
 
 #EXTINF:-1 tvg-id="Fox.Soccer.Plus.(FSPLUS).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png",FOX SOCCER PLUS
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=133974&extension=ts
