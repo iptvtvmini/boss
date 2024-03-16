@@ -283,6 +283,9 @@ http://mohdtv.com:8880/live/voby3037/69246643/64376.ts
 #EXTINF:-1 tvg-id="E!.Entertainment.Television.HDTV.(East).(E!.HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/e-entertainment-us.png",E!
 http://mohdtv.com:8880/live/voby3037/69246643/3138.ts
 
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.Canada.HDTV.(E!).ca" tvg-logo="https://docdog.top/Logotv/countries/united-states/e-entertainment-us.png",E! (CA)
+http://cord-cutter.net:8080/live/95549031/69361122/57422.ts
+
 #EXTINF:-1 tvg-id="Freeform.HDTV.(East).(FRFHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/freeform-us.png",Freeform
 http://mohdtv.com:8880/live/voby3037/69246643/3128.ts
 
