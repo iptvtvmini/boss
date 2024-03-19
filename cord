@@ -79,26 +79,20 @@ http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/145.ts
 
 #EXTINF:-1 tvg-id="Al-Hijrah.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png",TV Alhijrah
 
-#EXTINF:-1,Astro Rania
+#EXTINF:-1 tvg-id="Astro.Rania.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",Astro Rania
 http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/147.ts
 
 
-
-#EXTINF:-1,Astro HBO
+#EXTINF:-1 tvg-id="HBO.HD.id" tvg-logo="",HBO
 http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/104.ts
 
-#EXTINF:-1,Astro HBO Signature
-http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/103.ts
+#EXTINF:-1 tvg-id="HBO.Hits.HD.id" tvg-logo="",HBO Hits
 
-#EXTINF:-1,Astro HBO Family
+#EXTINF:-1 tvg-id="HBO.Family.HD.id" tvg-logo="",HBO Family
 http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/105.ts
 
-#EXTINF:-1,Astro Cinemax
-http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/106.ts
-
-#EXTINF:-1,Astro BOO
-http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/108.ts
-
+#EXTINF:-1 tvg-id="HBO.Signature.HD.id" tvg-logo="",HBO Signature
+http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/103.ts
 
 
 
@@ -119,7 +113,8 @@ http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/24.ts
 #EXTINF:-1 tvg-id="Celestial.Classic.Movies.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",CCM
 #EXTINF:-1 tvg-id="CCM.id" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",CCM (ID)
 
-
+#EXTINF:-1,Astro BOO
+http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/108.ts
 
 
 
@@ -158,10 +153,10 @@ http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/150.ts
 http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/57.ts
 
 #EXTINF:-1 tvg-id="Astro.SuperSport.2.HD.my" tvg-name="Astro SuperSport 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="",Astro SuperSport 2
-http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/58.ts
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=766853&extension=ts
 
 #EXTINF:-1 tvg-id="Astro.SuperSport.3.HD.my" tvg-name="Astro SuperSport 3 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="",Astro SuperSport 3
-http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/59.ts
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=766854&extension=ts
 
 #EXTINF:-1 tvg-id="Astro.SuperSport.4.HD.my" tvg-name="Astro SuperSport 4 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="",Astro SuperSport 4
 http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/60.ts
@@ -171,11 +166,7 @@ http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/142.ts
 
 
 
-#EXTINF:-1,FS1 HD
-http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/127.ts
 
-#EXTINF:-1,FS2 HD
-http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/128.ts
 
 
 
@@ -247,6 +238,12 @@ http://cord-cutter.net:8080/live/95549031/69361122/1846.ts
 
 #EXTINF:-1 tvg-id="Fox.Sports.2.HDTV.(FS2HD).us" tvg-logo="https://docdog.top/Logotv/countries//foxsport2.png",Fox Sports 2
 http://cord-cutter.net:8080/live/95549031/69361122/1847.ts
+
+#EXTINF:-1 tvg-id="Fox.Sports.1.HDTV.(FS1HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-sports-1-us.png",Fox Sports 1
+http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/127.ts
+
+#EXTINF:-1 tvg-id="Fox.Sports.2.HDTV.(FS2HD).us" tvg-logo="https://docdog.top/Logotv/countries//foxsport2.png",Fox Sports 2
+http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/128.ts
 
 #EXTINF:-1 tvg-id="Fox.Soccer.Plus.(FSPLUS).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png",Fox Soccer Plus
 
