@@ -462,10 +462,10 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497544&exte
 
 
 #EXTINF:-1 tvg-id="Sky.Thriller.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemathriller.png",Sky Thriller
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=712382&extension=ts
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1796&extension=ts
 
 #EXTINF:-1 tvg-id="Sky.ScFi/HorHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemasci.png",Sky Cinema ScFi
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=712380&extension=ts
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1802&extension=ts
 
 #EXTINF:-1 tvg-id="Sky.Drama.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemadrama.png",Sky Drama
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=712378&extension=ts
