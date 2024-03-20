@@ -186,6 +186,11 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497355&exte
 
 
 
+
+
+
+
+
 #EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HDTV.(CI.HD).us",CRIME AND INVESTIGATION
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497300&extension=ts
 
@@ -454,6 +459,44 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497544&exte
 
 
 
+
+
+#EXTINF:-1 tvg-id="Sky.Thriller.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemathriller.png",Sky Thriller
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=712382&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.ScFi/HorHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemasci.png",Sky Cinema ScFi
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=712380&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Drama.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemadrama.png",Sky Drama
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=712378&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Action.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaaction.png",Sky Action
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=712376&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Comedy.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemacomedy.png",Sky Comedy
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=712374&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Family.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-cinema-family-uk.png",Sky Family
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=712372&extension=ts
+
+
+#EXTINF:-1 tvg-id="Sky.Cinema.Hits.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemahits.png",Sky Cinema Hits
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=712369&extension=ts
+
+#EXTINF:-1 tvg-id="SkyPremiereHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemapremiere.png",Sky Premiere
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=712367&extension=ts
+
+#EXTINF:-1 tvg-id="SkyAnimationHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaanimation.png",Sky Animation
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=712363&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Greats.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-cinema-greats-uk.png",Sky Greats
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=712346&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Cinema.Select.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaselect.png",Sky Cinema Select
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1797&extension=ts
+
+
+
 #EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbcone.png",BBC 1
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1559&extension=ts
 
@@ -483,10 +526,51 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=2705&extensi
 #EXTINF:-1 tvg-id="ITVBe.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itvbe.png",ITVBe
 
 
+#EXTINF:-1 tvg-id="Channel.4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/channel4.png",Channel 4
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=2700&extension=ts
 
+#EXTINF:-1 tvg-id="4seven.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/4seven.png",4 Seven
+#EXTINF:-1 tvg-id="More4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/more4.png",More 4
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1722&extension=ts
+
+#EXTINF:-1 tvg-id="E4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/e4.png",E4
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1723&extension=ts
+
+#EXTINF:-1 tvg-id="Film4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/film4.png",Film 4
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1824&extension=ts
+
+#EXTINF:-1 tvg-id="Channel.5.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/channel5.png",Channel 5
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=2701&extension=ts
+
+#EXTINF:-1 tvg-id="5SELECT.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/5select.png",5 Select
+#EXTINF:-1 tvg-id="5STAR.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/5star.png",5 Star
+#EXTINF:-1 tvg-id="5.USA.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/usa.png",5USA
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Bionic Women
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Six Million Dollar Man
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Knight Rider
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1790001&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",CHiPs
 http://supersonictv.live:8080/live/Derrick/Hitman50$/77109.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Rush Hour
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1790137&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Beverly Hills Cop
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1790003&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Die Hard
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1790000&extension=ts
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Action Movie
 http://supersonictv.live:8080/live/Derrick/Hitman50$/40480.ts
@@ -510,10 +594,10 @@ http://supersonictv.live:8080/live/Derrick/Hitman50$/40495.ts
 http://supersonictv.live:8080/live/Derrick/Hitman50$/40507.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Bionic Women
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Six Million Dollar Man
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Clint Eastwood
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1790039&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Dwayne Johnson
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1790071&extension=ts
@@ -536,8 +620,10 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1790278&exte
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Liam Neeson
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1790115&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Rush Hour
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1790137&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Tom Hanks
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1790096&extension=ts
+
+
 
 
 
