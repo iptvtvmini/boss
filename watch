@@ -396,7 +396,63 @@ http://watchindia.net:8880/live/17524/03503/2139.ts
 
 
 
+#EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbcone.png",BBC 1
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=162120&extension=ts
 
+#EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbc2.png",BBC 2
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=162121&extension=ts
+
+#EXTINF:-1 tvg-id="BBC.Three.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbc3.png",BBC 3
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=162122&extension=ts
+
+#EXTINF:-1 tvg-id="BBC.Four.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbc4.png",BBC 4
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=162123&extension=ts
+
+
+
+
+#EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv1.png",ITV1
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=162104&extension=ts
+
+#EXTINF:-1 tvg-id="ITV2.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv2.png",ITV2
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=162106&extension=ts
+
+#EXTINF:-1 tvg-id="ITV3.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv3.png",ITV3
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=162108&extension=ts
+
+#EXTINF:-1 tvg-id="ITV4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv4.png",ITV4
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=162110&extension=ts
+
+#EXTINF:-1 tvg-id="ITVBe.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itvbe.png",ITVBe
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=162112&extension=ts
+
+
+#EXTINF:-1 tvg-id="Channel.4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/channel4.png",Channel 4
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=162137&extension=ts
+
+#EXTINF:-1 tvg-id="4seven.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/4seven.png",4 Seven
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=162117&extension=ts
+
+#EXTINF:-1 tvg-id="More4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/more4.png",More 4
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=162268&extension=ts
+
+#EXTINF:-1 tvg-id="E4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/e4.png",E4
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=162135&extension=ts
+
+#EXTINF:-1 tvg-id="Film4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/film4.png",Film 4
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=717671&extension=ts
+
+#EXTINF:-1 tvg-id="Channel.5.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/channel5.png",Channel 5
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=162136&extension=ts
+
+#EXTINF:-1 tvg-id="5SELECT.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/5select.png",5 Select
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=162293&extension=ts
+
+#EXTINF:-1 tvg-id="5STAR.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/5star.png",5 Star
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=162291&extension=ts
+
+#EXTINF:-1 tvg-id="5.USA.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/usa.png",5USA
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=162294&extension=ts
 
 
 
