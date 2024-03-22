@@ -187,6 +187,45 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497355&exte
 
 
 
+#EXTINF:-1 tvg-id="SkySp.ArenaHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsarena.png",Sky Sport Arena
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1909&extension=ts
+
+#EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsaction.png",Sky Sport Action
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1907&extension=ts
+
+#EXTINF:-1 tvg-id="SkySpCricket.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-sports-cricket-uk.png",Sky Sport Cricket
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1899&extension=ts
+
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsf1.png",Sky Sport F1
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1905&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsfootball.png",Sky Sport Football
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1897&extension=ts
+
+#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsgolf.png",Sky Sport Golf
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1901&extension=ts
+
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsmainevent.png",Sky Sport Main Event
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1893&extension=ts
+
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-sports-premier-league-uk.png",Sky Sport Primere League
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1895&extension=ts
+
+#EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsracing.png",Sky Sport Racing
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1903&extension=ts
+
+#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsmix.png",Sky Sport Mix
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1911&extension=ts
+
+
+
+
+
+
+
+
+
+
 
 
 
