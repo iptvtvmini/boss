@@ -470,6 +470,48 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134179&extension=
 
 
 
+#EXTINF:-1 tvg-id="Sky.Cinema.Hits.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemahits.png",Sky Cinema Hits
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175467&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Cinema.Select.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaselect.png",Sky Cinema Select
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175473&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Action.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaaction.png",Sky Action
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175453&extension=ts
+
+#EXTINF:-1 tvg-id="SkyAnimationHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaanimation.png",Sky Animation
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175455&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Comedy.Cinema.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemacomedy.png",Sky Cinema Comedy
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175457&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Crime.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemacrime-thriller.png",Sky Crime
+#EXTINF:-1 tvg-id="Sky.Drama.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemadrama.png",Sky Drama
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175463&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Family.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-cinema-family-uk.png",Sky Family
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175464&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Greats.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-cinema-greats-uk.png",Sky Greats
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175465&extension=ts
+
+#EXTINF:-1 tvg-id="SkyPremiereHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemapremiere.png",Sky Premiere
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175469&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.ScFi/HorHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemasci.png",Sky Cinema ScFi
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175471&extension=ts
+
+#EXTINF:-1 tvg-id="SkyShowcaseHD.uk" tvg-logo="",Sky Showcase
+#EXTINF:-1 tvg-id="Sky.Thriller.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemathriller.png",Sky Thriller
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175475&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Witness.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skywitness.png",Sky Witness
+#EXTINF:-1 tvg-id="SkyShowcaseHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemashowcase.png",Sky Showcase
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="Animal.Planet.HDTV.(East).(APHD).us" tvg-logo="https://docdog.top/Logotv/countries//animalplanet.png",Animal Planet
