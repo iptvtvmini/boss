@@ -1,1 +1,406 @@
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz"
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="US: SEC NETWORK HD" group-title="US| ENTERTAINMENT HD/4K",US: SEC NETWORK HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325807&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: COWBOY CHANNEL" group-title="US| ENTERTAINMENT HD/4K",US: COWBOY CHANNEL
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325912&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: WORLD FISHING NETWORK HD" group-title="US| ENTERTAINMENT HD/4K",US: WORLD FISHING NETWORK HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325891&extension=ts
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="US: ABC HD" group-title="US| ENTERTAINMENT HD/4K",US: ABC HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325773&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: CBN" group-title="US| ENTERTAINMENT HD/4K",US: CBN
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325928&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX 16 LITTLE ROCK AR (KLRT)" group-title="US| ENTERTAINMENT HD/4K",US: FOX 16 LITTLE ROCK AR (KLRT)
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=417449&extension=ts
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="US: A&E HD" group-title="US| ENTERTAINMENT HD/4K",US: A&E HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325830&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: AMC HD" group-title="US| ENTERTAINMENT HD/4K",US: AMC HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325778&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: BBC AMERICA HD" group-title="US| ENTERTAINMENT HD/4K",US: BBC AMERICA HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325827&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: BET HD" group-title="US| ENTERTAINMENT HD/4K",US: BET HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325826&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: BET HER HD" group-title="US| ENTERTAINMENT HD/4K",US: BET HER HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325849&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: BOUNCE TV HD" group-title="US| ENTERTAINMENT HD/4K",US: BOUNCE TV HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325851&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: BOUNCE XL" group-title="US| ENTERTAINMENT HD/4K",US: BOUNCE XL
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325938&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: BRAVO HD" group-title="US| ENTERTAINMENT HD/4K",US: BRAVO HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325779&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: COMEDY CENTRAL HD" group-title="US| ENTERTAINMENT HD/4K",US: COMEDY CENTRAL HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325781&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: COMEDY TV HD" group-title="US| ENTERTAINMENT HD/4K",US: COMEDY TV HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325909&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: E! ENTERTAINMENT HD" group-title="US| ENTERTAINMENT HD/4K",US: E! ENTERTAINMENT HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325822&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: FREEFORM WEST HD" group-title="US| ENTERTAINMENT HD/4K",US: FREEFORM WEST HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325858&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: FX HD" group-title="US| ENTERTAINMENT HD/4K",US: FX HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325784&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: FXM HD" group-title="US| ENTERTAINMENT HD/4K",US: FXM HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325783&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: FXX HD" group-title="US| ENTERTAINMENT HD/4K",US: FXX HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325782&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: GAME TV HD" group-title="US| ENTERTAINMENT HD/4K",US: GAME TV HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325802&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: Game Show" group-title="US| ENTERTAINMENT HD/4K",US: Game Show
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=626909&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: Game Show Central" group-title="US| ENTERTAINMENT HD/4K",US: Game Show Central
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=698885&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: GSN HD" group-title="US| ENTERTAINMENT HD/4K",US: GSN HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325819&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: IFC HD" group-title="US| ENTERTAINMENT HD/4K",US: IFC HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325817&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: PIXL HD" group-title="US| ENTERTAINMENT HD/4K",US: PIXL HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325905&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: REELZ HD" group-title="US| ENTERTAINMENT HD/4K",US: REELZ HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325809&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: SUNDANCE HD" group-title="US| ENTERTAINMENT HD/4K",US: SUNDANCE HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325805&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: SYFY HD" group-title="US| ENTERTAINMENT HD/4K",US: SYFY HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325804&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: TBS HD" group-title="US| ENTERTAINMENT HD/4K",US: TBS HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325803&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: TNT HD" group-title="US| ENTERTAINMENT HD/4K",US: TNT HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325799&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: USA NETWORK 4K" group-title="US| ENTERTAINMENT HD/4K",US: USA NETWORK 4K
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=610437&extension=ts
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="US: ANIMAL PLANET HD" group-title="US| ENTERTAINMENT HD/4K",US: ANIMAL PLANET HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325780&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: NAT GEO HD" group-title="US| ENTERTAINMENT HD/4K",US: NAT GEO HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325786&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: NAT GEO WILD HD" group-title="US| ENTERTAINMENT HD/4K",US: NAT GEO WILD HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325785&extension=ts
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="US: COOKING CHANNEL HD" group-title="US| ENTERTAINMENT HD/4K",US: COOKING CHANNEL HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325825&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: FOOD NETWORK HD" group-title="US| ENTERTAINMENT HD/4K",US: FOOD NETWORK HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325821&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: TASTEMADE HD" group-title="US| ENTERTAINMENT HD/4K",US: TASTEMADE HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325923&extension=ts
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="US: DIY HD" group-title="US| ENTERTAINMENT HD/4K",US: DIY HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325823&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: FYI HD" group-title="US| ENTERTAINMENT HD/4K",US: FYI HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325820&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: HGTV HD" group-title="US| ENTERTAINMENT HD/4K",US: HGTV HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325791&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: HLN HD" group-title="US| ENTERTAINMENT HD/4K",US: HLN HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325864&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: TLC HD" group-title="US| ENTERTAINMENT HD/4K",US: TLC HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325801&extension=ts
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="US: CRIME & INVESTIGATION HD" group-title="US| ENTERTAINMENT HD/4K",US: CRIME & INVESTIGATION HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325832&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: ID HD" group-title="US| ENTERTAINMENT HD/4K",US: ID HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325818&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: DISCOVERY FAMILY HD" group-title="US| ENTERTAINMENT HD/4K",US: DISCOVERY FAMILY HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325776&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: DISCOVERY HD" group-title="US| ENTERTAINMENT HD/4K",US: DISCOVERY HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325775&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: DISCOVERY LIFE HD" group-title="US| ENTERTAINMENT HD/4K",US: DISCOVERY LIFE HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=326358&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: DISCOVERY SCIENCE HD" group-title="US| ENTERTAINMENT HD/4K",US: DISCOVERY SCIENCE HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325774&extension=ts
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="US: HISTORY HD" group-title="US| ENTERTAINMENT HD/4K",US: HISTORY HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325777&extension=ts
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO HD" group-title="US| MOVIES HD/4K",US: HBO HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325973&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO 2 HD" group-title="US| MOVIES HD/4K",US: HBO 2 HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325976&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO COMEDY HD" group-title="US| ENTERTAINMENT HD/4K",US: HBO COMEDY HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325975&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO FAMILY HD" group-title="US| MOVIES HD/4K",US: HBO FAMILY HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325974&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO SIGNATURE HD" group-title="US| MOVIES HD/4K",US: HBO SIGNATURE HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325972&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO ZONE HD" group-title="US| MOVIES HD/4K",US: HBO ZONE HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325971&extension=ts
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="US: EPIX HD" group-title="US| MOVIES HD/4K",US: EPIX HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325977&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: EPIX 2" group-title="US| MOVIES HD/4K",US: EPIX 2
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325985&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: EPIX HITS" group-title="US| MOVIES HD/4K",US: EPIX HITS
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325986&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: EPIX DRIVE IN" group-title="US| MOVIES HD/4K",US: EPIX DRIVE IN
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325987&extension=ts
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="US: SCREENPIX HD" group-title="US| MOVIES HD/4K",US: SCREENPIX HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=326002&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: SCREENPIX WESTERNS HD" group-title="US| MOVIES HD/4K",US: SCREENPIX WESTERNS HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=326001&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: SCREENPIX ACTION HD" group-title="US| MOVIES HD/4K",US: SCREENPIX ACTION HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=326000&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: SCREENPIX VOICES HD" group-title="US| MOVIES HD/4K",US: SCREENPIX VOICES HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325999&extension=ts
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="US: ACTION MAX HD" group-title="US| MOVIES HD/4K",US: ACTION MAX HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325984&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: MOREMAX HD" group-title="US| MOVIES HD/4K",US: MOREMAX HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325970&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: MOVIEMAX HD" group-title="US| MOVIES HD/4K",US: MOVIEMAX HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325969&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: OUTERMAX HD" group-title="US| MOVIES HD/4K",US: OUTERMAX HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325967&extension=ts
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="US: MOVIEPLEX HD" group-title="US| MOVIES HD/4K",US: MOVIEPLEX HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325968&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: INDIEPLEX HD" group-title="US| ENTERTAINMENT HD/4K",US: INDIEPLEX HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325816&extension=ts
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="US: HD NET MOVIES HD" group-title="US| ENTERTAINMENT HD/4K",US: HD NET MOVIES HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325885&extension=ts
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="US: CINEMAX HD" group-title="US| MOVIES HD/4K",US: CINEMAX HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325981&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: CINEMAX EAST HD" group-title="US| MOVIES HD/4K",US: CINEMAX EAST HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325982&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: CINEMAX ACTION EAST HD" group-title="US| MOVIES HD/4K",US: CINEMAX ACTION EAST HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325983&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: CINEMAX MOREMAX HDAR" group-title="US| MOVIES HD/4K",US: CINEMAX MOREMAX HDAR
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325980&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: CINEMAX THRILLERMAX HD" group-title="US| MOVIES HD/4K",US: CINEMAX THRILLERMAX HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325979&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: CINEMAX 5 STAR MAX" group-title="US| MOVIES HD/4K",US: CINEMAX 5 STAR MAX
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=436537&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: CINEMAX 5 STARMAX 4K" group-title="US| MOVIES HD/4K",US: CINEMAX 5 STARMAX 4K
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=436158&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: CINEMA DINAMITA 4K" group-title="US| MOVIES HD/4K",US: CINEMA DINAMITA 4K
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=436159&extension=ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="US: SHOWTIME EAST HD" group-title="US| MOVIES HD/4K",US: SHOWTIME EAST HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325965&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: SHOWTIME 2 HD" group-title="US| MOVIES HD/4K",US: SHOWTIME 2 HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325966&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: SHOWTIME NEXT HD" group-title="US| MOVIES HD/4K",US: SHOWTIME NEXT HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325997&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: SHOWTIME WOMEN HD" group-title="US| MOVIES HD/4K",US: SHOWTIME WOMEN HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325996&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: SHOWTIME EXTREME HD" group-title="US| MOVIES HD/4K",US: SHOWTIME EXTREME HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325991&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: SHOWTIME SHOWCASE HD" group-title="US| MOVIES HD/4K",US: SHOWTIME SHOWCASE HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325963&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: SHOWTIME FAMILY ZONE HD" group-title="US| MOVIES HD/4K",US: SHOWTIME FAMILY ZONE HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325992&extension=ts
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="US: SONY MOVIE CHANNEL HD" group-title="US| MOVIES HD/4K",US: SONY MOVIE CHANNEL HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325988&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: SHOWTIME BET HD" group-title="US| ENTERTAINMENT HD/4K",US: SHOWTIME BET HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325932&extension=ts
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="US: STARZ EAST HD" group-title="US| MOVIES HD/4K",US: STARZ EAST HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325957&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: STARZ BLACK HD" group-title="US| MOVIES HD/4K",US: STARZ BLACK HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325961&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: STARZ CINEMA HD" group-title="US| MOVIES HD/4K",US: STARZ CINEMA HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325959&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: STARZ COMEDY HD" group-title="US| MOVIES HD/4K",US: STARZ COMEDY HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325958&extension=ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="US: STARZ EDGE HD" group-title="US| MOVIES HD/4K",US: STARZ EDGE HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325956&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: STARZ FAMILY HD" group-title="US| MOVIES HD/4K",US: STARZ FAMILY HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325948&extension=ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="US: STARZ ENCORE HD" group-title="US| MOVIES HD/4K",US: STARZ ENCORE HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325950&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: STARZ ENCORE ACTION HD" group-title="US| MOVIES HD/4K",US: STARZ ENCORE ACTION HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325955&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: STARZ ENCORE BLACK HD" group-title="US| MOVIES HD/4K",US: STARZ ENCORE BLACK HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325954&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: STARZ ENCORE CLASSIC HD" group-title="US| MOVIES HD/4K",US: STARZ ENCORE CLASSIC HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325953&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: STARZ ENCORE FAMILY HD" group-title="US| MOVIES HD/4K",US: STARZ ENCORE FAMILY HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325951&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: STARZ KIDS & FAMILY HD" group-title="US| MOVIES HD/4K",US: STARZ KIDS & FAMILY HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325946&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: STARZ ENCORE WEST HD" group-title="US| MOVIES HD/4K",US: STARZ ENCORE WEST HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325949&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: STARZ ENCORE WESTERNS HD" group-title="US| MOVIES HD/4K",US: STARZ ENCORE WESTERNS HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325994&extension=ts
+
+
+
+
+
+
+
 
