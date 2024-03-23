@@ -1,15 +1,321 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz"
 
+#EXTINF:-1 tvg-id="TV1.HD.my" tvg-name="TV1 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" group-title="",TV1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/index.m3u8?id=1
 
+#EXTINF:-1 tvg-id="TV2.HD.my" tvg-name="TV2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="",TV2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/index.m3u8?id=2
+
+#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="",TV3
+http://vo01.mohdtv.com:8880/live/voby3037/69246643/1732.ts
+
+#EXTINF:-1 tvg-id="TV6.my" tvg-name="TV6" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/302_144.png" group-title="",TV6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/index.m3u8?id=6
+
+#EXTINF:-1 tvg-id="NTV7.my" tvg-name="NTV7" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" group-title="",NTV7
+http://vo01.mohdtv.com:8880/live/voby3037/69246643/1731.ts
+
+#EXTINF:-1 tvg-id="TV9.my" tvg-name="TV9" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" group-title="",TV9
+http://vo01.mohdtv.com:8880/live/voby3037/69246643/1729.ts
+
+#EXTINF:-1 tvg-id="TV.Okey.HD.my" tvg-name="TV Okey HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png" group-title="",TV Okey
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/index.m3u8?id=3
+
+#EXTINF:-1 tvg-id="Awesome.TV.my" tvg-name="Awesome TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png" group-title="",Awesome TV
+http://vo01.mohdtv.com:8880/live/voby3037/69246643/71021.ts
+
+#EXTINF:-1 tvg-id="TVS.my" tvg-name="TVS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png" group-title="",TVS
+https://stream.smg.my/live/tvs_1080p2628kbs/index.m3u8
+
+#EXTINF:-1 tvg-id="Al-Hijrah.my" tvg-name="Al-Hijrah" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png" group-title="",TV Alhijrah
+http://vo01.mohdtv.com:8880/live/voby3037/69246643/71024.ts
+
+#EXTINF:-1 tvg-id="Astro.Prima.HD.my" tvg-name="Astro Prima HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="",Astro Prima
+http://vo01.mohdtv.com:8880/live/voby3037/69246643/1702.ts
+
+#EXTINF:-1 tvg-id="Astro.Warna.HD.my" tvg-name="Astro Warna HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="",Astro Warna
+http://vo01.mohdtv.com:8880/live/voby3037/69246643/1706.ts
+
+#EXTINF:-1 tvg-id="RTMK05" tvg-name="Bertia RTM" tvg-logo="https://i.imgur.com/9fAlB8K.png" group-title="",Berita RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/index.m3u8?id=5
+ 
+#EXTINF:-1 tvg-id="RTMK07" tvg-name="Dewan Rakyat" tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="",Parlimen Dewan Rakyat
+https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/auto.m3u8?id=7
+ 
+#EXTINF:-1 tvg-id="RTMK08" tvg-name="Dewan Negara" tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="",Parlimen Dewan Negara
+https://d25tgymtnqzu8s.cloudfront.net/smil:negara/index.m3u8?id=8
+ 
+#EXTINF:-1 tvg-id="Astro.Awani.HD.my" tvg-name="Astro Awani HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png" group-title="",Astro Awani
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="",Trans7
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+ 
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png" group-title="",Trans TV
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="",CNN INA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Game.Show.Network.HDTV.(EAST).(GMSHWHD).us" tvg-name="Game Show Network HDTV (EAST) (GMSHWHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/game-show-network-us.png" group-title="",Game Show Network
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="SHOWCASE.MOVIES.my" tvg-name="SHOWCASE MOVIES" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png" group-title="",SHOWCASE MOVIES
+#EXTINF:-1 tvg-id="Cinemax.HD.id" tvg-name="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png" group-title="",CINEMAX
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=683161&extension=ts
+
+#EXTINF:-1 tvg-id="HITS.MOVIES.HD.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png" group-title="",HITS Movies
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=683163&extension=ts
+
+#EXTINF:-1 tvg-id="HITS.Movies.HD.my" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png" group-title="",HITS Movies
+http://vo01.mohdtv.com:8880/live/voby3037/69246643/71056.ts
+
+#EXTINF:-1 tvg-id="HITS.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png" group-title="",Hits
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=683145&extension=ts
+
+#EXTINF:-1 tvg-id="HITS.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png" group-title="",Hits
+http://vo01.mohdtv.com:8880/live/voby3037/69246643/60455.ts
+
+#EXTINF:-1 tvg-id="tvN.Movies.HD.id" tvg-name="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png" group-title="",tvN Movies
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=683149&extension=ts
+
+#EXTINF:-1 tvg-id="Celestial.Movies.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png" group-title="",Celestial Movies
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=683142&extension=ts
+
+#EXTINF:-1 tvg-id="Celestial.Classic.Movies.my" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="",Celestial Classic Movies (CCM)
+http://vo01.mohdtv.com:8880/live/voby3037/69246643/71046.ts
+
+#EXTINF:-1 tvg-id="CCM.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="",CCM (ID)
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=683110&extension=ts
+
+
+
+
+
+#EXTINF:-1 tvg-id="Channel.5.HD.sg" tvg-name="Channel 5" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428076_ico.png" group-title="",Channel 5
+#EXTINF:-1 tvg-id="Channel.8.HD.sg" tvg-name="Channel 8" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428078_ico.png" group-title="",Channel 8
+#EXTINF:-1 tvg-id="Channel.U.HD.sg" tvg-name="Channel U" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428075_ico.png" group-title="",Channel U
+#EXTINF:-1 tvg-id="Suria.HD.sg" tvg-name="Suria" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428073_ico.png" group-title="",Suria
+
+
+
+
+
+#EXTINF:-1 tvg-id="TVSUKAN" tvg-name="Sukan RTM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/58_144.png" group-title="",Sukan RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/index.m3u8?id=4
+
+#EXTINF:-1 tvg-id="Astro.Arena.HD.my" tvg-name="Astro Arena HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png" group-title="",Astro Arena
+http://vo01.mohdtv.com:8880/live/voby3037/69246643/1703.ts
+
+#EXTINF:-1 tvg-id="Astro.Arena.2.HD.my" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="",Astro Arena 2
+http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/150.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-title="",Arena Bola 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-title="",Arena Bola 2
+
+
+#EXTINF:-1 tvg-id="Astro.SuperSport.HD.my" tvg-name="Astro SuperSport HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="",Astro SuperSport 1
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=766852&extension=ts
+
+#EXTINF:-1 tvg-id="Astro.SuperSport.2.HD.my" tvg-name="Astro SuperSport 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="",Astro SuperSport 2
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=766853&extension=ts
+
+#EXTINF:-1 tvg-id="Astro.SuperSport.3.HD.my" tvg-name="Astro SuperSport 3 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="",Astro SuperSport 3
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=766854&extension=ts
+
+#EXTINF:-1 tvg-id="Astro.SuperSport.4.HD.my" tvg-name="Astro SuperSport 4 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="",Astro SuperSport 4
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=766855&extension=ts
+
+#EXTINF:-1 tvg-id="Astro.Supersport.5.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="",W Sport
+http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/142.ts
+
+
+
+#EXTINF:-1 tvg-id="SPOTV.HD.id" tvg-name="SPOTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/456_144.png" group-title="",SPOTV
+http://mohdtv.com:8880/live/voby3037/69246643/60448.ts
+
+#EXTINF:-1 tvg-id="SPOTV.2.HD.id" tvg-name="SPOTV 2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/474_144.png" group-title="",SPOTV2
+http://mohdtv.com:8880/live/voby3037/69246643/60482.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: EUROSPORT 1 HD \u25c9" group-title="UK| SPORT HD/4K",UK: EUROSPORT 1 HD \u25c9
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=588054&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: EUROSPORT 2 HD \u25c9" group-title="UK| SPORT HD/4K",UK: EUROSPORT 2 HD \u25c9
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=588053&extension=ts
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX SPORTS 1 HD" group-title="US| SPORT HD/4K",US: FOX SPORTS 1 HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325017&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX SPORTS 2 HD" group-title="US| SPORT HD/4K",US: FOX SPORTS 2 HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325016&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX SOCCER PLUS HD" group-title="US| SPORT HD/4K",US: FOX SOCCER PLUS HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325018&extension=ts
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN HD" group-title="US| SPORT HD/4K",US: ESPN HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325020&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN 2 HD" group-title="US| SPORT HD/4K",US: ESPN 2 HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325021&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN 3 HD" group-title="US| SPORT HD/4K",US: ESPN 3 HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=434360&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN U" group-title="US| SPORT HD/4K",US: ESPN U
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325035&extension=ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="US: BIG TEN NETWORK HD" group-title="US| SPORT HD/4K",US: BIG TEN NETWORK HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325024&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: CBS SPORTS NETWORK HD" group-title="US| SPORT HD/4K",US: CBS SPORTS NETWORK HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325023&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: HSN" group-title="US| SPORT HD/4K",US: HSN
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=436113&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: MLB NETWORK" group-title="US| SPORT HD/4K",US: MLB NETWORK
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325002&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: NFL NETWORK HD" group-title="US| SPORT HD/4K",US: NFL NETWORK HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=395713&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC SPORTS NETWORK" group-title="US| SPORT HD/4K",US: NBC SPORTS NETWORK
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325067&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC SPORTS WASHINGTON" group-title="US| SPORT HD/4K",US: NBC SPORTS WASHINGTON
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325062&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: PAC 12 WASHINGTON HD" group-title="US| SPORT HD/4K",US: PAC 12 WASHINGTON HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=324995&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: SPORTSNET NEW YORK HD" group-title="US| SPORT HD/4K",US: SPORTSNET NEW YORK HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325034&extension=ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="US: SEC NETWORK HD" group-title="US| SPORT HD/4K",US: SEC NETWORK HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=549252&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-name="US: SEC NETWORK HD" group-title="US| ENTERTAINMENT HD/4K",US: SEC NETWORK HD
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325807&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: YES NETWORK HD" group-title="US| SPORT HD/4K",US: YES NETWORK HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325036&extension=ts
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="US: COWBOY CHANNEL" group-title="US| ENTERTAINMENT HD/4K",US: COWBOY CHANNEL
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325912&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-name="US: WORLD FISHING NETWORK HD" group-title="US| ENTERTAINMENT HD/4K",US: WORLD FISHING NETWORK HD
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325891&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: GOLF CHANNEL HD" group-title="US| SPORT HD/4K",US: GOLF CHANNEL HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325003&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC GOLF" group-title="US| SPORT HD/4K",US: NBC GOLF
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325001&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: TENNIS CHANNEL" group-title="US| SPORT HD/4K",US: TENNIS CHANNEL
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325092&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: WWE HD" group-title="US| SPORT HD/4K",US: WWE HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=324992&extension=ts
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CA: TSN 1 HD" group-title="CA| TSN SPORT HD/4K",CA: TSN 1 HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=498812&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CA: TSN 2 HD" group-title="CA| TSN SPORT HD/4K",CA: TSN 2 HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=498811&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CA: TSN 3 HD" group-title="CA| TSN SPORT HD/4K",CA: TSN 3 HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=498810&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CA: TSN 4 HD" group-title="CA| TSN SPORT HD/4K",CA: TSN 4 HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=498809&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CA: TSN 5 HD" group-title="CA| TSN SPORT HD/4K",CA: TSN 5 HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=498808&extension=ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CA: SPORTSNET 360" group-title="CA| TSN SPORT HD/4K",CA: SPORTSNET 360
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=498671&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CA: SPORTSNET EAST" group-title="CA| TSN SPORT HD/4K",CA: SPORTSNET EAST
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=498672&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CA: TVA SPORTS" group-title="CA| CANADA HD/4K",CA: TVA SPORTS
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=498806&extension=ts
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: TNT SPORTS 1 4K" group-title="UK| SPORT HD/4K",UK: TNT SPORTS 1 4K
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=588012&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: TNT SPORTS 2 4K" group-title="UK| SPORT HD/4K",UK: TNT SPORTS 2 4K
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=588011&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: TNT SPORTS 3 4K" group-title="UK| SPORT HD/4K",UK: TNT SPORTS 3 4K
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=588010&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: TNT SPORTS 4 4K" group-title="UK| SPORT HD/4K",UK: TNT SPORTS 4 4K
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=588009&extension=ts
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS PREMIER LEAGUE 4K" group-title="UK| SPORT HD/4K",UK: SKY SPORTS PREMIER LEAGUE 4K
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=588026&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS MAIN EVENT 4K" group-title="UK| SPORT HD/4K",UK: SKY SPORTS MAIN EVENT 4K
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=588046&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS FOOTBALL 4K" group-title="UK| SPORT HD/4K",UK: SKY SPORTS FOOTBALL 4K
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=588044&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS ARENA 4K" group-title="UK| SPORT HD/4K",UK: SKY SPORTS ARENA 4K
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=588042&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS ACTION 4K" group-title="UK| SPORT HD/4K",UK: SKY SPORTS ACTION 4K
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=588043&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS CRICKET 4K" group-title="UK| SPORT HD/4K",UK: SKY SPORTS CRICKET 4K
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=588041&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS RACING 4K" group-title="UK| SPORT HD/4K",UK: SKY SPORTS RACING 4K
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=588036&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS GOLF 4K" group-title="UK| SPORT HD/4K",UK: SKY SPORTS GOLF 4K
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=588039&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS PL 4K" group-title="UK| SPORT HD/4K",UK: SKY SPORTS PL 4K
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=588045&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS F1 4K" group-title="UK| SPORT HD/4K",UK: SKY SPORTS F1 4K
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=588040&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS MIX 4K" group-title="UK| SPORT HD/4K",UK: SKY SPORTS MIX 4K
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=588038&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS TENNIS 4K" group-title="UK| SPORT HD/4K",UK: SKY SPORTS TENNIS 4K
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=707005&extension=ts
+
+
+
+
 
 
 
@@ -26,6 +332,14 @@ http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325928&extension
 
 #EXTINF:-1 tvg-id="" tvg-name="US: FOX 16 LITTLE ROCK AR (KLRT)" group-title="US| ENTERTAINMENT HD/4K",US: FOX 16 LITTLE ROCK AR (KLRT)
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=417449&extension=ts
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CA EN: CTV OTTAWA HD" group-title="CA| GENERAL EN",CA EN: CTV OTTAWA HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=414185&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CA EN: CTV2 OTTAWA HD(R)" group-title="CA| GENERAL EN",CA EN: CTV2 OTTAWA HD(R)
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=414115&extension=ts
 
 
 
@@ -65,6 +379,9 @@ http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325909&extension
 #EXTINF:-1 tvg-id="" tvg-name="US: E! ENTERTAINMENT HD" group-title="US| ENTERTAINMENT HD/4K",US: E! ENTERTAINMENT HD
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325822&extension=ts
 
+#EXTINF:-1 tvg-id="" tvg-name="CA EN:  E! HD" group-title="CA| GENERAL EN",CA EN:  E! HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=414093&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="US: FREEFORM WEST HD" group-title="US| ENTERTAINMENT HD/4K",US: FREEFORM WEST HD
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325858&extension=ts
 
@@ -79,6 +396,9 @@ http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325782&extension
 
 #EXTINF:-1 tvg-id="" tvg-name="US: GAME TV HD" group-title="US| ENTERTAINMENT HD/4K",US: GAME TV HD
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325802&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CA EN: GAME TV HD" group-title="CA| GENERAL EN",CA EN: GAME TV HD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=414162&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-name="US: Game Show" group-title="US| ENTERTAINMENT HD/4K",US: Game Show
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=626909&extension=ts
@@ -396,6 +716,72 @@ http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325949&extension
 
 #EXTINF:-1 tvg-id="" tvg-name="US: STARZ ENCORE WESTERNS HD" group-title="US| MOVIES HD/4K",US: STARZ ENCORE WESTERNS HD
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325994&extension=ts
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY CINEMA ACTION 4K" group-title="UK| SKY CINEMA HD/4K",UK: SKY CINEMA ACTION 4K
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=162330&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY CINEMA COMEDY 4K" group-title="UK| SKY CINEMA HD/4K",UK: SKY CINEMA COMEDY 4K
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=162331&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY CINEMA DRAMA 4K" group-title="UK| SKY CINEMA HD/4K",UK: SKY CINEMA DRAMA 4K
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=162335&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY CINEMA ANIMATION 4K" group-title="UK| SKY CINEMA HD/4K",UK: SKY CINEMA ANIMATION 4K
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=162337&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY CINEMA SELECT/OSCARS 4K" group-title="UK| SKY CINEMA HD/4K",UK: SKY CINEMA SELECT/OSCARS 4K
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=162338&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY CINEMA GREATS 4K" group-title="UK| SKY CINEMA HD/4K",UK: SKY CINEMA GREATS 4K
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=162339&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY CINEMA SUPERHEROES HD \u25c9" group-title="UK| SKY CINEMA HD/4K",UK: SKY CINEMA SUPERHEROES HD \u25c9
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=162341&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY CINEMA HITS 4K" group-title="UK| SKY CINEMA HD/4K",UK: SKY CINEMA HITS 4K
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=162342&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY CINEMA PREMIERE 4K" group-title="UK| SKY CINEMA HD/4K",UK: SKY CINEMA PREMIERE 4K
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=162344&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY CINEMA THRILLER 4K" group-title="UK| SKY CINEMA HD/4K",UK: SKY CINEMA THRILLER 4K
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=162346&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY CINEMA FAMILY 4K" group-title="UK| SKY CINEMA HD/4K",UK: SKY CINEMA FAMILY 4K
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=162348&extension=ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY CINEMA SCIFI HORROR 4K" group-title="UK| SKY CINEMA HD/4K",UK: SKY CINEMA SCIFI HORROR 4K
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=162351&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SHOWCASE 4K" group-title="UK| SKY CINEMA HD/4K",UK: SKY SHOWCASE 4K
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=304725&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY MAX 4K" group-title="UK| SKY CINEMA HD/4K",UK: SKY MAX 4K
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=304727&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY CRIME 4K \u25c9" group-title="UK| SKY CINEMA HD/4K",UK: SKY CRIME 4K \u25c9
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=162383&extension=ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
