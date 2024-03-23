@@ -142,175 +142,172 @@ http://mohdtv.com:8880/live/voby3037/69246643/60448.ts
 http://mohdtv.com:8880/live/voby3037/69246643/60482.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="UK: EUROSPORT 1 HD \u25c9" group-title="UK| SPORT HD/4K",UK: EUROSPORT 1 HD \u25c9
+#EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/eurosport1.png",EuroSport 1
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=588054&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="UK: EUROSPORT 2 HD \u25c9" group-title="UK| SPORT HD/4K",UK: EUROSPORT 2 HD \u25c9
+#EXTINF:-1 tvg-id="Eurosport.2.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/eurosport2.png",Eurosport 2
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=588053&extension=ts
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX SPORTS 1 HD" group-title="US| SPORT HD/4K",US: FOX SPORTS 1 HD
+#EXTINF:-1 tvg-id="Fox.Sports.1.HDTV.(FS1HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-sports-1-us.png",Fox Sports 1
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325017&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX SPORTS 2 HD" group-title="US| SPORT HD/4K",US: FOX SPORTS 2 HD
+#EXTINF:-1 tvg-id="Fox.Sports.2.HDTV.(FS2HD).us" tvg-logo="https://docdog.top/Logotv/countries//foxsport2.png",Fox Sports 2
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325016&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX SOCCER PLUS HD" group-title="US| SPORT HD/4K",US: FOX SOCCER PLUS HD
+#EXTINF:-1 tvg-id="Fox.Soccer.Plus.(FSPLUS).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png",Fox Soccer Plus
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325018&extension=ts
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="US: ESPN HD" group-title="US| SPORT HD/4K",US: ESPN HD
+#EXTINF:-1 tvg-id="ESPN.HDTV.(Dish).(ESPNHD).us" tvg-logo="https://docdog.top/Logotv/countries//espn1.png",ESPN
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325020&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: ESPN 2 HD" group-title="US| SPORT HD/4K",US: ESPN 2 HD
+#EXTINF:-1 tvg-id="ESPN2.HDTV.(Dish).(ESPN2HD).us" tvg-logo="https://docdog.top/Logotv/countries//espn2.png",ESPN 2
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325021&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: ESPN 3 HD" group-title="US| SPORT HD/4K",US: ESPN 3 HD
+#EXTINF:-1 tvg-id="",ESPN 3
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=434360&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: ESPN U" group-title="US| SPORT HD/4K",US: ESPN U
+#EXTINF:-1 tvg-id="ESPNU.HDTV.(ESPNUHD).us" tvg-logo="https://docdog.top/Logotv/countries//espnu.png",ESPN U
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325035&extension=ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="US: BIG TEN NETWORK HD" group-title="US| SPORT HD/4K",US: BIG TEN NETWORK HD
+#EXTINF:-1 tvg-id="Big.Ten.Network.HDTV.(National).(BTNHD).us" tvg-logo="https://docdog.top/Logotv/countries//bigtennetwork.png",Big Ten Network
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325024&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: CBS SPORTS NETWORK HD" group-title="US| SPORT HD/4K",US: CBS SPORTS NETWORK HD
+#EXTINF:-1 tvg-id="CBS.Sports.Network.HDTV.(CBSSD).us" tvg-logo="https://docdog.top/Logotv/countries//cbssports.png",CBS Sports Network
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325023&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: HSN" group-title="US| SPORT HD/4K",US: HSN
+#EXTINF:-1 tvg-id="",HSN
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=436113&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: MLB NETWORK" group-title="US| SPORT HD/4K",US: MLB NETWORK
+#EXTINF:-1 tvg-id="MLB.Network.HDTV.(DISH).(MLBHD).us" tvg-logo="https://docdog.top/Logotv/countries//mlbnetwork.png",MLB Network
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325002&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: NFL NETWORK HD" group-title="US| SPORT HD/4K",US: NFL NETWORK HD
+#EXTINF:-1 tvg-id="The.NFL.Network.HDTV.(NFLHD).us" tvg-logo="https://docdog.top/Logotv/countries//nflnetwork.png",NFL Network
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=395713&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: NBC SPORTS NETWORK" group-title="US| SPORT HD/4K",US: NBC SPORTS NETWORK
+#EXTINF:-1 tvg-id="NBCSNWH.NBC.Sports.Northwest.HD.us" tvg-logo="https://docdog.top/Logotv/countries//nbcnewyork.png",NBC Sport
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325067&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: NBC SPORTS WASHINGTON" group-title="US| SPORT HD/4K",US: NBC SPORTS WASHINGTON
+#EXTINF:-1 tvg-id="",NBC SPORTS WASHINGTON
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325062&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: PAC 12 WASHINGTON HD" group-title="US| SPORT HD/4K",US: PAC 12 WASHINGTON HD
+#EXTINF:-1 tvg-id="Pac-12.Network.HDTV.(PAC12).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/pac-12-los-angeles-us.png",PAC-12 NETWORK
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=324995&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: SPORTSNET NEW YORK HD" group-title="US| SPORT HD/4K",US: SPORTSNET NEW YORK HD
+#EXTINF:-1 tvg-id="SportsNet.New.York.HDTV.(SNYHD).us" tvg-logo="https://docdog.top/Logotv/countries//fubosportsnetwork.png",SportsNet NY
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325034&extension=ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="US: SEC NETWORK HD" group-title="US| SPORT HD/4K",US: SEC NETWORK HD
+#EXTINF:-1 tvg-id="SEC.Network.HDTV.(SECN).us" tvg-logo="https://docdog.top/Logotv/countries//secnetwork.png",SEC NETWORK
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=549252&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: SEC NETWORK HD" group-title="US| ENTERTAINMENT HD/4K",US: SEC NETWORK HD
+#EXTINF:-1 tvg-id="",SEC NETWORK
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325807&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: YES NETWORK HD" group-title="US| SPORT HD/4K",US: YES NETWORK HD
+#EXTINF:-1 tvg-id="",YES NETWORK
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325036&extension=ts
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="US: COWBOY CHANNEL" group-title="US| ENTERTAINMENT HD/4K",US: COWBOY CHANNEL
+#EXTINF:-1 tvg-id="",COWBOY CHANNEL
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325912&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: WORLD FISHING NETWORK HD" group-title="US| ENTERTAINMENT HD/4K",US: WORLD FISHING NETWORK HD
+#EXTINF:-1 tvg-id="World.Fishing.Network.(US).(WFN).us" tvg-logo="https://docdog.top/Logotv/countries//worldfishingnetwork.png",World Fishing Network
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325891&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: GOLF CHANNEL HD" group-title="US| SPORT HD/4K",US: GOLF CHANNEL HD
+#EXTINF:-1 tvg-id="The.Golf.Channel.HDTV.(GLFHD).us" tvg-logo="https://docdog.top/Logotv/countries//nbcgolfchannel.png",Golf Channel
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325003&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: NBC GOLF" group-title="US| SPORT HD/4K",US: NBC GOLF
+#EXTINF:-1 tvg-id="",NBC GOLF
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325001&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: TENNIS CHANNEL" group-title="US| SPORT HD/4K",US: TENNIS CHANNEL
+#EXTINF:-1 tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" tvg-logo="https://docdog.top/Logotv/countries//tennischannel.png",Tennis
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325092&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: WWE HD" group-title="US| SPORT HD/4K",US: WWE HD
+#EXTINF:-1 tvg-id="WWE.Network.us" tvg-logo="https://docdog.top/Logotv/countries//wwenetwork.png",WWE
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=324992&extension=ts
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="CA: TSN 1 HD" group-title="CA| TSN SPORT HD/4K",CA: TSN 1 HD
+#EXTINF:-1 tvg-id="The.Sports.Network.HDTV.(TSNHD).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn1",TSN 1
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=498812&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="CA: TSN 2 HD" group-title="CA| TSN SPORT HD/4K",CA: TSN 2 HD
+#EXTINF:-1 tvg-id="The.Sports.Network.2.HDTV.(TSN2D).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn2.png",TSN 2
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=498811&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="CA: TSN 3 HD" group-title="CA| TSN SPORT HD/4K",CA: TSN 3 HD
+#EXTINF:-1 tvg-id="The.Sports.Network.3.HDTV.(TSN3HD).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn3.png",TSN 3
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=498810&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="CA: TSN 4 HD" group-title="CA| TSN SPORT HD/4K",CA: TSN 4 HD
+#EXTINF:-1 tvg-id="The.Sports.Network.4.HDTV.(TSN4H).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn4.png",TSN 4
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=498809&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="CA: TSN 5 HD" group-title="CA| TSN SPORT HD/4K",CA: TSN 5 HD
+#EXTINF:-1 tvg-id="The.Sports.Network.5.HDTV.(TSN5HD).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn5.png",TSN 5
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=498808&extension=ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="CA: SPORTSNET 360" group-title="CA| TSN SPORT HD/4K",CA: SPORTSNET 360
+#EXTINF:-1 tvg-id="Sportsnet.360.HDTV.(360HD).ca" tvg-logo="https://docdog.top/Logotv/countries//sportsnet360.png",SPORTSNET 360
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=498671&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="CA: SPORTSNET EAST" group-title="CA| TSN SPORT HD/4K",CA: SPORTSNET EAST
+#EXTINF:-1 tvg-id="",SPORTSNET
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=498672&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="CA: TVA SPORTS" group-title="CA| CANADA HD/4K",CA: TVA SPORTS
+#EXTINF:-1 tvg-id="TVA.Sports.HDTV.(TVASHD).ca" tvg-logo="https://docdog.top/Logotv/countries//tvasports.png",TVA SPORTS
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=498806&extension=ts
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="UK: TNT SPORTS 1 4K" group-title="UK| SPORT HD/4K",UK: TNT SPORTS 1 4K
+#EXTINF:-1 tvg-id="TNT.Sports.1.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png",BT Sport 1
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=588012&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="UK: TNT SPORTS 2 4K" group-title="UK| SPORT HD/4K",UK: TNT SPORTS 2 4K
+#EXTINF:-1 tvg-id="TNT.Sports.2.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsports2vip.png",BT Sport 2
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=588011&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="UK: TNT SPORTS 3 4K" group-title="UK| SPORT HD/4K",UK: TNT SPORTS 3 4K
+#EXTINF:-1 tvg-id="TNT.Sports.3.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport3.png",BT Sport 3
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=588010&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="UK: TNT SPORTS 4 4K" group-title="UK| SPORT HD/4K",UK: TNT SPORTS 4 4K
+#EXTINF:-1 tvg-id="TNT.Sports.4.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",BT Sport ESPN
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=588009&extension=ts
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS PREMIER LEAGUE 4K" group-title="UK| SPORT HD/4K",UK: SKY SPORTS PREMIER LEAGUE 4K
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-sports-premier-league-uk.png",Sky Sport Primere League
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=588026&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS MAIN EVENT 4K" group-title="UK| SPORT HD/4K",UK: SKY SPORTS MAIN EVENT 4K
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsmainevent.png",Sky Sport Main Event
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=588046&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS FOOTBALL 4K" group-title="UK| SPORT HD/4K",UK: SKY SPORTS FOOTBALL 4K
+#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsfootball.png",Sky Sport Football
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=588044&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS ARENA 4K" group-title="UK| SPORT HD/4K",UK: SKY SPORTS ARENA 4K
+#EXTINF:-1 tvg-id="SkySp.ArenaHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsarena.png",Sky Sport Arena
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=588042&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS ACTION 4K" group-title="UK| SPORT HD/4K",UK: SKY SPORTS ACTION 4K
+#EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsaction.png",Sky Sport Action
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=588043&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS CRICKET 4K" group-title="UK| SPORT HD/4K",UK: SKY SPORTS CRICKET 4K
+#EXTINF:-1 tvg-id="SkySpCricket.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-sports-cricket-uk.png",Sky Sport Cricket
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=588041&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS RACING 4K" group-title="UK| SPORT HD/4K",UK: SKY SPORTS RACING 4K
+#EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsracing.png",Sky Sport Racing
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=588036&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS GOLF 4K" group-title="UK| SPORT HD/4K",UK: SKY SPORTS GOLF 4K
+#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsgolf.png",Sky Sport Golf
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=588039&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS PL 4K" group-title="UK| SPORT HD/4K",UK: SKY SPORTS PL 4K
-http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=588045&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS F1 4K" group-title="UK| SPORT HD/4K",UK: SKY SPORTS F1 4K
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsf1.png",Sky Sport F1
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=588040&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS MIX 4K" group-title="UK| SPORT HD/4K",UK: SKY SPORTS MIX 4K
+#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsmix.png",Sky Sport Mix
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=588038&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS TENNIS 4K" group-title="UK| SPORT HD/4K",UK: SKY SPORTS TENNIS 4K
+#EXTINF:-1 tvg-id="",SKY SPORTS TENNIS
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=707005&extension=ts
 
 
@@ -324,90 +321,100 @@ http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=707005&extension
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="US: ABC HD" group-title="US| ENTERTAINMENT HD/4K",US: ABC HD
+#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/abc-us.png",ABC 7
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325773&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: CBN" group-title="US| ENTERTAINMENT HD/4K",US: CBN
+#EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cbs-logo-white-us.png",CBS 2
+#EXTINF:-1 tvg-id="CW.(WUPV).Richmond,.VA.us" tvg-logo="https://docdog.top/Logotv/countries//cw.png",CW 11
+
+#EXTINF:-1 tvg-id="",CBN
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325928&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: FOX 16 LITTLE ROCK AR (KLRT)" group-title="US| ENTERTAINMENT HD/4K",US: FOX 16 LITTLE ROCK AR (KLRT)
+#EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png",FOX 5
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=417449&extension=ts
 
+#EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries//nbcnewyork.png",NBC 4
 
 
-#EXTINF:-1 tvg-id="" tvg-name="CA EN: CTV OTTAWA HD" group-title="CA| GENERAL EN",CA EN: CTV OTTAWA HD
+
+
+#EXTINF:-1 tvg-id="CTV.Calgary.HDTV.(CTVHC).ca" tvg-logo="https://docdog.top/Logotv/countries//ctvcalgary.png",CTV
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=414185&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="CA EN: CTV2 OTTAWA HD(R)" group-title="CA| GENERAL EN",CA EN: CTV2 OTTAWA HD(R)
+#EXTINF:-1 tvg-id="CTV.Two.Ottawa/CHRO.(CTV2O).ca" tvg-logo="https://docdog.top/Logotv/countries//ctv2ottawa.png",CTV2
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=414115&extension=ts
 
+#EXTINF:-1 tvg-id="CTV.SCI-FI.Channel.HDTV.(SCIFIHD).ca" tvg-logo="https://docdog.top/Logotv/countries/canada/ctv-sci-fi-channel-ca.png",CTV SCI-FI
 
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="US: A&E HD" group-title="US| ENTERTAINMENT HD/4K",US: A&E HD
+#EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-logo="https://docdog.top/Logotv/countries//A&E.jpg",A&E
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325830&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: AMC HD" group-title="US| ENTERTAINMENT HD/4K",US: AMC HD
+#EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/amc-us.png",AMC
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325778&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: BBC AMERICA HD" group-title="US| ENTERTAINMENT HD/4K",US: BBC AMERICA HD
+#EXTINF:-1 tvg-id="BBC.America.HDTV.(East).(BBC).us" tvg-logo="https://docdog.top/Logotv/countries/bbcamerica.png",BBC America
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325827&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: BET HD" group-title="US| ENTERTAINMENT HD/4K",US: BET HD
+#EXTINF:-1 tvg-id="Black.Entertainment.Television.HDTV.(East).(BET-HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/bet-us.png",BET
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325826&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: BET HER HD" group-title="US| ENTERTAINMENT HD/4K",US: BET HER HD
+#EXTINF:-1 tvg-id="BET.Her.HDTV.(BHERHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/bet-her-us.png",BET HER
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325849&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: BOUNCE TV HD" group-title="US| ENTERTAINMENT HD/4K",US: BOUNCE TV HD
+#EXTINF:-1 tvg-id="Bounce.TV.(Bounce).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/bounce-us.png",Bounce TV
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325851&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: BOUNCE XL" group-title="US| ENTERTAINMENT HD/4K",US: BOUNCE XL
+#EXTINF:-1 tvg-id="",BOUNCE XL
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325938&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: BRAVO HD" group-title="US| ENTERTAINMENT HD/4K",US: BRAVO HD
+#EXTINF:-1 tvg-id="Bravo.HDTV.(East).(BRAVOD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/bravo-us.png",Bravo
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325779&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: COMEDY CENTRAL HD" group-title="US| ENTERTAINMENT HD/4K",US: COMEDY CENTRAL HD
+#EXTINF:-1 tvg-id="Comedy.Central.HDTV.(East).(CMDHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/comedy-central-us.png",Comedy Central
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325781&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: COMEDY TV HD" group-title="US| ENTERTAINMENT HD/4K",US: COMEDY TV HD
+#EXTINF:-1 tvg-id="",COMEDY TV
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325909&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: E! ENTERTAINMENT HD" group-title="US| ENTERTAINMENT HD/4K",US: E! ENTERTAINMENT HD
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.HDTV.(East).(E!.HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/e-entertainment-us.png",E!
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325822&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="CA EN:  E! HD" group-title="CA| GENERAL EN",CA EN:  E! HD
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.Canada.HDTV.(E!).ca" tvg-logo="https://docdog.top/Logotv/countries/united-states/e-entertainment-us.png",E! (CA)
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=414093&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: FREEFORM WEST HD" group-title="US| ENTERTAINMENT HD/4K",US: FREEFORM WEST HD
+#EXTINF:-1 tvg-id="Freeform.HDTV.(East).(FRFHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/freeform-us.png",Freeform
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325858&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: FX HD" group-title="US| ENTERTAINMENT HD/4K",US: FX HD
+#EXTINF:-1 tvg-id="FX.HDTV.(East).(FX.HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fx-us.png",FX
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325784&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: FXM HD" group-title="US| ENTERTAINMENT HD/4K",US: FXM HD
+#EXTINF:-1 tvg-id="FX.Movie.Channel.HDTV.(FXMHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fxm-movie-channel-us.png",FXM
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325783&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: FXX HD" group-title="US| ENTERTAINMENT HD/4K",US: FXX HD
+#EXTINF:-1 tvg-id="FXX.HDTV.(East).(FXXHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fxx-us.png",FXX
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325782&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: GAME TV HD" group-title="US| ENTERTAINMENT HD/4K",US: GAME TV HD
+#EXTINF:-1 tvg-id="GameTV.(GTV).ca" tvg-logo="https://docdog.top/Logotv/countries//gameone.png",Game TV
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325802&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="CA EN: GAME TV HD" group-title="CA| GENERAL EN",CA EN: GAME TV HD
-http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=414162&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: Game Show" group-title="US| ENTERTAINMENT HD/4K",US: Game Show
+#EXTINF:-1 tvg-id="Game.Show.Network.HDTV.(EAST).(GMSHWHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/game-show-network-us.png",Game Show Network
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325819&extension=ts
+
+#EXTINF:-1 tvg-id="Game.Show.Network.HDTV.(EAST).(GMSHWHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/game-show-network-us.png",Game Show Network
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=626909&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: Game Show Central" group-title="US| ENTERTAINMENT HD/4K",US: Game Show Central
+#EXTINF:-1 tvg-id="",GAME TV
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=414162&extension=ts
+
+#EXTINF:-1 tvg-id="",Game Show Central
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=698885&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: GSN HD" group-title="US| ENTERTAINMENT HD/4K",US: GSN HD
-http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325819&extension=ts
+
 
 #EXTINF:-1 tvg-id="" tvg-name="US: IFC HD" group-title="US| ENTERTAINMENT HD/4K",US: IFC HD
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325817&extension=ts
