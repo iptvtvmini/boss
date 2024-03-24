@@ -157,10 +157,10 @@ http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=621621&extension
 
 
 #EXTINF:-1 tvg-id="Fox.Sports.1.HDTV.(FS1HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-sports-1-us.png",Fox Sports 1
-http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325017&extension=ts
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=429590&extension=ts
 
 #EXTINF:-1 tvg-id="Fox.Sports.2.HDTV.(FS2HD).us" tvg-logo="https://docdog.top/Logotv/countries//foxsport2.png",Fox Sports 2
-http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325016&extension=ts
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=429589&extension=ts
 
 #EXTINF:-1 tvg-id="Fox.Soccer.Plus.(FSPLUS).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png",Fox Soccer Plus
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325018&extension=ts
