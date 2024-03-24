@@ -141,12 +141,18 @@ http://mohdtv.com:8880/live/voby3037/69246643/60448.ts
 #EXTINF:-1 tvg-id="SPOTV.2.HD.id" tvg-name="SPOTV 2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/474_144.png" group-title="",SPOTV2
 http://mohdtv.com:8880/live/voby3037/69246643/60482.ts
 
+#EXTINF:-1 tvg-id="",PREMIER SPORTS 1
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=621620&extension=ts
+
+#EXTINF:-1 tvg-id="",PREMIER SPORTS 2
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=621619&extension=ts
+
 
 #EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/eurosport1.png",EuroSport 1
-http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=588054&extension=ts
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=621622&extension=ts
 
 #EXTINF:-1 tvg-id="Eurosport.2.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/eurosport2.png",Eurosport 2
-http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=588053&extension=ts
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=621621&extension=ts
 
 
 
