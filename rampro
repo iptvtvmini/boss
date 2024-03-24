@@ -264,13 +264,14 @@ http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=498806&extension
 
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png",BT Sport 1
-http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=588012&extension=ts
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=621639&extension=ts
 
 #EXTINF:-1 tvg-id="TNT.Sports.2.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsports2vip.png",BT Sport 2
-http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=588011&extension=ts
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=621638&extension=ts
+
 
 #EXTINF:-1 tvg-id="TNT.Sports.3.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport3.png",BT Sport 3
-http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=588010&extension=ts
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=621637&extension=ts
 
 #EXTINF:-1 tvg-id="TNT.Sports.4.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",BT Sport ESPN
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=621636&extension=ts
@@ -701,62 +702,75 @@ http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325994&extension
 
 
 
-
-#EXTINF:-1 tvg-id="Sky.Action.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaaction.png",Sky Action
-http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=162330&extension=ts
-
-#EXTINF:-1 tvg-id="Sky.Comedy.Cinema.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemacomedy.png",Sky Cinema Comedy
-http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=162331&extension=ts
-
-#EXTINF:-1 tvg-id="Sky.Drama.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemadrama.png",Sky Drama
-http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=162335&extension=ts
-
-#EXTINF:-1 tvg-id="SkyAnimationHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaanimation.png",Sky Animation
-http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=162337&extension=ts
+#EXTINF:-1 tvg-id="Sky.Thriller.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemathriller.png",Sky Thriller
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=639183&extension=ts
 
 #EXTINF:-1 tvg-id="Sky.Cinema.Select.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaselect.png",Sky Cinema Select
-http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=162338&extension=ts
-
-#EXTINF:-1 tvg-id="Sky.Greats.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-cinema-greats-uk.png",Sky Greats
-http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=162339&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY CINEMA SUPERHEROES HD \u25c9" group-title="UK| SKY CINEMA HD/4K",UK: SKY CINEMA SUPERHEROES HD \u25c9
-http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=162341&extension=ts
-
-#EXTINF:-1 tvg-id="Sky.Cinema.Hits.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemahits.png",Sky Cinema Hits
-http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=162342&extension=ts
-
-#EXTINF:-1 tvg-id="SkyPremiereHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemapremiere.png",Sky Premiere
-http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=162344&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY CINEMA THRILLER 4K" group-title="UK| SKY CINEMA HD/4K",UK: SKY CINEMA THRILLER 4K
-http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=162346&extension=ts
-
-#EXTINF:-1 tvg-id="Sky.Family.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-cinema-family-uk.png",Sky Family
-http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=162348&extension=ts
-
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=639182&extension=ts
 
 #EXTINF:-1 tvg-id="Sky.ScFi/HorHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemasci.png",Sky Cinema ScFi
-http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=162351&extension=ts
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=639181&extension=ts
+
+#EXTINF:-1 tvg-id="SkyPremiereHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemapremiere.png",Sky Premiere
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=639180&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Cinema.Hits.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemahits.png",Sky Cinema Hits
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=639179&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Greats.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-cinema-greats-uk.png",Sky Greats
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=639178&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Family.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-cinema-family-uk.png",Sky Family
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=639177&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Drama.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemadrama.png",Sky Drama
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=639176&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Comedy.Cinema.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemacomedy.png",Sky Cinema Comedy
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=639175&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Action.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaaction.png",Sky Action
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=639174&extension=ts
+
+#EXTINF:-1 tvg-id="SkyAnimationHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaanimation.png",Sky Animation
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=639173&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Kids.HD.uk" tvg-logo="",Sky Kids
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=639172&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Nature.HD.uk" tvg-logo="",Sky Nature
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=639171&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Arts.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skyarts.png",Sky Arts
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=639170&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Witness.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skywitness.png",Sky Witness
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=639169&extension=ts
 
 #EXTINF:-1 tvg-id="SkyShowcaseHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemashowcase.png",Sky Showcase
-http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=304725&extension=ts
-
-#EXTINF:-1 tvg-id="",SKY MAX
-http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=304727&extension=ts
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=639168&extension=ts
 
 #EXTINF:-1 tvg-id="Sky.Crime.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemacrime-thriller.png",Sky Crime
-http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=162383&extension=ts
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=639167&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Comedy.Cinema.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemacomedy.png",Sky Comedy
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=639166&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Atlantic.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skyatlantic.png",Sky Atlantic
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=639165&extension=ts
+
+
+
 
 
 
 
 
 #EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbcone.png",BBC 1
-http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=162096&extension=ts
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=717666&extension=ts
 
 #EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbc2.png",BBC 2
-http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=162098&extension=ts
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=717665&extension=ts
 
 #EXTINF:-1 tvg-id="BBC.Three.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbc3.png",BBC 3
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=162100&extension=ts
@@ -779,7 +793,7 @@ http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=162268&extension
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=162115&extension=ts
 
 #EXTINF:-1 tvg-id="Film4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/film4.png",Film 4
-http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=717671&extension=ts
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=162266&extension=ts
 
 #EXTINF:-1 tvg-id="Channel.5.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/channel5.png",Channel 5
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=162114&extension=ts
@@ -794,6 +808,7 @@ http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=162291&extension
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=162294&extension=ts
 
 #EXTINF:-1 tvg-id="Challenge.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/challenge.png",Challenge
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=162302&extension=ts
 
 
 
