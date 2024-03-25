@@ -840,13 +840,13 @@ http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=162112&extension
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="US: 24/7 CLINT EASTWOOD" group-title="US| 24/7 PPV TV",US: 24/7 CLINT EASTWOOD
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",CLINT EASTWOOD
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=485299&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: 24/7  EDDY MURPHY" group-title="US| 24/7 PPV TV",US: 24/7  EDDY MURPHY
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",EDDY MURPHY
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=485222&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: 24/7 ARNOLD SCHWARZENEGGER" group-title="US| 24/7 PPV TV",US: 24/7 ARNOLD SCHWARZENEGGER
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",ARNOLD SCHWARZENEGGER
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=485213&extension=ts
 
 
@@ -854,25 +854,25 @@ http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=485213&extension
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="US: 24/7 THE BEVERLY HILLBILLIES" group-title="US| 24/7 PPV TV",US: 24/7 THE BEVERLY HILLBILLIES
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",THE BEVERLY HILLBILLIES
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=485152&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: 24/7 THE BIONIC WOMAN" group-title="US| 24/7 PPV TV",US: 24/7 THE BIONIC WOMAN
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",THE BIONIC WOMAN
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=485154&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: 24/7 SIX MILLION DOLLAR MAN" group-title="US| 24/7 PPV TV",US: 24/7 SIX MILLION DOLLAR MAN
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",SIX MILLION DOLLAR MAN
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=485150&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: 24/7 KNIGHT RIDER 1982-1986" group-title="US| 24/7 PPV TV",US: 24/7 KNIGHT RIDER 1982-1986
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",KNIGHT RIDER
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=485291&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: 24/7 FAST & FURIOUS" group-title="US| 24/7 PPV TV",US: 24/7 FAST & FURIOUS
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",FAST & FURIOUS
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=485278&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: 24/7 RUSH HOUR" group-title="US| 24/7 PPV TV",US: 24/7 RUSH HOUR
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",RUSH HOUR
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=485176&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: 24/7 DIE HARD" group-title="US| 24/7 PPV TV",US: 24/7 DIE HARD
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",DIE HARD
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=485168&extension=ts
 
 
@@ -880,21 +880,25 @@ http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=485168&extension
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="US: 24/7 SUPERHERO MOVIES" group-title="US| 24/7 PPV TV",US: 24/7 SUPERHERO MOVIES
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",SUPERHERO MOVIES
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=485169&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: 24/7 SCIFI MOVIES" group-title="US| 24/7 PPV TV",US: 24/7 SCIFI MOVIES
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",SCIFI MOVIES
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=485174&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: 24/7  THRILLER MOVIES" group-title="US| 24/7 PPV TV",US: 24/7  THRILLER MOVIES
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",THRILLER MOVIES
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=485209&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="US: 24/7 FAMILY MOVIES" group-title="US| 24/7 PPV TV",US: 24/7 FAMILY MOVIES
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",FAMILY MOVIES
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=485208&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="US: 24/7  COMEDY MOVIES" group-title="US| 24/7 PPV TV",US: 24/7  COMEDY MOVIES
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",COMEDY MOVIES
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=485207&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="US: 24/7 CRIME MOVIES" group-title="US| 24/7 PPV TV",US: 24/7 CRIME MOVIES
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",CRIME MOVIES
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=485206&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="US: 24/7 HORROR MOVIES" group-title="US| 24/7 PPV TV",US: 24/7 HORROR MOVIES
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",HORROR MOVIES
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=485205&extension=ts
 
 
@@ -904,17 +908,22 @@ http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=485205&extension
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="US: 24/7 WESTERN 1" group-title="US| 24/7 PPV TV",US: 24/7 WESTERN 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",WESTERN 1
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=485238&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="US: 24/7 WESTERN 2" group-title="US| 24/7 PPV TV",US: 24/7 WESTERN 2
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",WESTERN 2
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=485237&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="US: 24/7 WESTERN 3" group-title="US| 24/7 PPV TV",US: 24/7 WESTERN 3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",WESTERN 3
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=485236&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="US: 24/7 WESTERN 4" group-title="US| 24/7 PPV TV",US: 24/7 WESTERN 4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",WESTERN 4
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=485235&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="US: 24/7 WESTERN 5" group-title="US| 24/7 PPV TV",US: 24/7 WESTERN 5
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",WESTERN 5
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=485234&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="US: 24/7 WESTERN 6" group-title="US| 24/7 PPV TV",US: 24/7 WESTERN 6
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",WESTERN 6
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=485233&extension=ts
 
 
