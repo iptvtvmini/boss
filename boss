@@ -90,9 +90,6 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="5e54187aae660e00093561d6" tvg-name="" tvg-logo="https://images.pluto.tv/channels/5e54187aae660e00093561d6/colorLogoPNG.png" group-title="",Game Show Central
 https://gsn-gameshowchannnel-1-us.vizio.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="GameTV.(GTV).ca" tvg-name="GameTV (GTV)" tvg-logo="http://5.44.253.151:80/images/86a43a112f1c64b381ae76c3a1040da8.png" group-title="",Game TV
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:A3:A5:ED&stream=191749&extension=ts
-
 #EXTINF:-1 tvg-id="Challenge.uk" tvg-name="" tvg-logo="" group-title="",Challenge
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:A8:AE:7C&stream=1654&extension=m3u8
 
@@ -396,6 +393,9 @@ http://likea8bitboss.xyz:80/live/ericn/3259674108/293.m3u8
 
 #EXTINF:-1 tvg-id="Bravo.HDTV.(East).(BRAVOD).us" tvg-name="" tvg-logo="https://docdog.top/Logotv/countries//bravo.png" group-title="",Bravo
 http://likea8bitboss.xyz:80/live/ericn/3259674108/302.ts
+
+#EXTINF:-1 tvg-id="GameTV.(GTV).ca" tvg-name="GameTV (GTV)" tvg-logo="http://5.44.253.151:80/images/86a43a112f1c64b381ae76c3a1040da8.png" group-title="",Game TV
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A3:A5:ED&stream=191749&extension=ts
 
 #EXTINF:-1 tvg-id="Freeform.HDTV.(East).(FRFHD).us" tvg-name="Freeform HDTV (East) (FRFHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/freeform-us.png" group-title="",FREEFORM
 http://likea8bitboss.xyz:80/live/ericn/3259674108/329.ts
