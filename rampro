@@ -174,7 +174,7 @@ http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325020&extension
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325021&extension=ts
 
 #EXTINF:-1 tvg-id="",ESPN 3
-http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=434360&extension=ts
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=1548&extension=ts
 
 #EXTINF:-1 tvg-id="ESPNU.HDTV.(ESPNUHD).us" tvg-logo="https://docdog.top/Logotv/countries//espnu.png",ESPN U
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325035&extension=ts
