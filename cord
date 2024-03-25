@@ -111,7 +111,8 @@ http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/24.ts
 #EXTINF:-1 tvg-id="tvN.Movies.HD.id" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png",tvN Movies
 #EXTINF:-1 tvg-id="Celestial.Movies.id" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png",Celestial Movies
 #EXTINF:-1 tvg-id="Celestial.Classic.Movies.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",CCM
-#EXTINF:-1 tvg-id="CCM.id" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",CCM (ID)
+#EXTINF:-1 tvg-id="CCM.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="",CCM (ID)
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=683110&extension=ts
 
 #EXTINF:-1,Astro BOO
 http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/108.ts
