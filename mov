@@ -137,28 +137,28 @@ http://ott4k.me/play/live.php?mac=00:1A:79:2F:13:FC&stream=577984&extension=ts
 
 
 
-#EXTINF:-1 tvg-id="",CHiPs
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",CHiPs
 http://supersonictv.live:8080/live/Derrick/Hitman50$/77109.ts
 
-#EXTINF:-1 tvg-id="",Action Movie
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Action Movie
 http://supersonictv.live:8080/live/Derrick/Hitman50$/40480.ts
 
-#EXTINF:-1 tvg-id="",Comedy Movie
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Comedy Movie
 http://supersonictv.live:8080/live/Derrick/Hitman50$/40484.ts
 
-#EXTINF:-1 tvg-id="",Crime Movie
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Crime Movie
 http://supersonictv.live:8080/live/Derrick/Hitman50$/40486.ts
 
-#EXTINF:-1 tvg-id="",Horror Movie
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Horror Movie
 http://supersonictv.live:8080/live/Derrick/Hitman50$/40492.ts
 
-#EXTINF:-1 tvg-id="",Horror Movie 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Horror Movie 2
 http://supersonictv.live:8080/live/Derrick/Hitman50$/40493.ts
 
-#EXTINF:-1 tvg-id="",Kungfu
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Kungfu
 http://supersonictv.live:8080/live/Derrick/Hitman50$/40495.ts
 
-#EXTINF:-1 tvg-id="",Western Movie
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Western Movie
 http://supersonictv.live:8080/live/Derrick/Hitman50$/40507.ts
 
 
