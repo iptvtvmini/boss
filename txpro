@@ -1,4 +1,4 @@
-
+#EXTM3U
 
 
 
@@ -27,12 +27,54 @@ http://vp-txpro.com:80/live/octavod2021/octaprime2021/51989.ts
 #EXTINF:-1,Big Ten Network
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/51994.ts
 
+#EXTINF:-1,Eleven Sports
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52031.ts
+
+#EXTINF:-1,ESPN
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52036.ts
+
+#EXTINF:-1,ESPN 2
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52037.ts
+
+#EXTINF:-1,ESPN News
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52038.ts
+
+#EXTINF:-1,ESPN U
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52039.ts
+
+#EXTINF:-1,Fight Network
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52040.ts
+
+#EXTINF:-1,FS1
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52049.ts
+
+#EXTINF:-1,FS2
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52050.ts
+
+#EXTINF:-1,Fox Soccer Plus
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52047.ts
+
+#EXTINF:-1,Golf Channel
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52059.ts
 
 
 
 
 #EXTINF:-1,ABC
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/51952.ts
+
+#EXTINF:-1,CBS
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52005.ts
+
+#EXTINF:-1,CNBC
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52016.ts
+
+#EXTINF:-1,Fox
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52042.ts
+
+
+
+
 
 
 
@@ -63,10 +105,103 @@ http://vp-txpro.com:80/live/octavod2021/octaprime2021/51998.ts
 #EXTINF:-1,Bravo
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/51999.ts
 
+#EXTINF:-1,CMT
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52015.ts
+
+#EXTINF:-1,Comedy Central
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52018.ts
+
+#EXTINF:-1,Comet
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52019.ts
+
+#EXTINF:-1,E! Entertainment
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52030.ts
+
+#EXTINF:-1,Fox Life
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52045.ts
+
+#EXTINF:-1,Freeform
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52048.ts
+
+#EXTINF:-1,Fuse
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52052.ts
+
+#EXTINF:-1,FX
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52053.ts
+
+#EXTINF:-1,FXM
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52054.ts
+
+#EXTINF:-1,FXX
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52055.ts
+
+#EXTINF:-1,Great American Country
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52060.ts
+
+#EXTINF:-1,Grit
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52061.ts
+
+#EXTINF:-1,Heroes & Icons
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52073.ts
 
 
 
 
+
+
+
+#EXTINF:-1,Cinemax
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52008.ts
+
+#EXTINF:-1,Cinemax 5 StarMAX
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52009.ts
+
+#EXTINF:-1,Cinemax Actionmax
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52010.ts
+
+#EXTINF:-1,Cinemax Moremax
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52011.ts
+
+#EXTINF:-1,Cinemax Moviemax
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52012.ts
+
+#EXTINF:-1,Cinemax Outermax
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52013.ts
+
+#EXTINF:-1,Cinemax Thrillermax
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52014.ts
+
+
+#EXTINF:-1,EPIX
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52032.ts
+
+#EXTINF:-1,EPIX 2
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52033.ts
+
+#EXTINF:-1,EPIX Drive In
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52034.ts
+
+#EXTINF:-1,EPIX Hits
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52035.ts
+
+
+#EXTINF:-1,HBO
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52067.ts
+
+#EXTINF:-1,HBO 2
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52068.ts
+
+#EXTINF:-1,HBO Comedy
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52069.ts
+
+#EXTINF:-1,HBO Family
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52070.ts
+
+#EXTINF:-1,HBO Signature
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52071.ts
+
+#EXTINF:-1,HBO Zone
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52072.ts
 
 
 
@@ -81,11 +216,59 @@ http://vp-txpro.com:80/live/octavod2021/octaprime2021/51959.ts
 #EXTINF:-1,Aspire
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/51961.ts
 
+#EXTINF:-1,Court TV
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52020.ts
+
+#EXTINF:-1,Destination America
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52022.ts
+
+#EXTINF:-1,Discovery Channel
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52023.ts
+
+#EXTINF:-1,Discovery Family
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52024.ts
+
+#EXTINF:-1,Discovery Life
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52025.ts
+
+#EXTINF:-1,Discovery Science
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52026.ts
+
+#EXTINF:-1,Food Network
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52041.ts
+
+#EXTINF:-1,FYI
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52056.ts
+
+#EXTINF:-1,HGTV
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52074.ts
+
+#EXTINF:-1,History Channel
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52075.ts
+
+#EXTINF:-1,H2
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52063.ts
+
+
 
 
 
 #EXTINF:-1,Boomerang
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/51997.ts
+
+#EXTINF:-1,Cartoon Network
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52004.ts
+
+#EXTINF:-1,Disney Channel
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52027.ts
+
+#EXTINF:-1,Disney Jr.
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52028.ts
+
+#EXTINF:-1,Disney XD
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52029.ts
+
+
 
 
 
@@ -95,6 +278,32 @@ http://vp-txpro.com:80/live/octavod2021/octaprime2021/51953.ts
 
 #EXTINF:-1,Bloomberg
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/51996.ts
+
+#EXTINF:-1,C-Span
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52001.ts
+
+#EXTINF:-1,C-Span 2
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52002.ts
+
+#EXTINF:-1,C-Span 3
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52003.ts
+
+#EXTINF:-1,Cheddar News
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52007.ts
+
+#EXTINF:-1,CNN
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52017.ts
+
+#EXTINF:-1,Fox News
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52046.ts
+
+
+
+#EXTINF:-1,Buzzr
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52000.ts
+
+#EXTINF:-1,Game Show Network
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52062.ts
 
 
 
