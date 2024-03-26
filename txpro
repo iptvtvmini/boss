@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz"
+#EXTM3U
 
 #EXTINF:-1 tvg-id="TV1.HD.my" tvg-name="TV1 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" group-title="",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/index.m3u8?id=1
@@ -360,10 +360,10 @@ http://vp-txpro.com:80/live/octavod2021/octaprime2021/52244.ts
 
 
 
-#EXTINF:-1,A&E
+#EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-logo="https://docdog.top/Logotv/countries//A&E.jpg",A&E
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/51951.ts
 
-#EXTINF:-1,AMC
+#EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/amc-us.png",AMC
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/51956.ts
 
 #EXTINF:-1,AMC +
@@ -372,49 +372,49 @@ http://vp-txpro.com:80/live/octavod2021/octaprime2021/51957.ts
 #EXTINF:-1,American Heroes Channel
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/51958.ts
 
-#EXTINF:-1,BBC America
+#EXTINF:-1 tvg-id="BBC.America.HDTV.(East).(BBC).us" tvg-logo="https://docdog.top/Logotv/countries/bbcamerica.png",BBC America
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/51986.ts
 
-#EXTINF:-1,BET
+#EXTINF:-1 tvg-id="Black.Entertainment.Television.HDTV.(East).(BET-HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/bet-us.png",BET
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/51990.ts
 
-#EXTINF:-1,BET Her
+#EXTINF:-1 tvg-id="BET.Her.HDTV.(BHERHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/bet-her-us.png",BET HER
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/51991.ts
 
-#EXTINF:-1,Bounce TV
+#EXTINF:-1 tvg-id="Bounce.TV.(Bounce).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/bounce-us.png",Bounce TV
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/51998.ts
 
-#EXTINF:-1,Bravo
+#EXTINF:-1 tvg-id="Bravo.HDTV.(East).(BRAVOD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/bravo-us.png",Bravo
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/51999.ts
 
 #EXTINF:-1,CMT
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/52015.ts
 
-#EXTINF:-1,Comedy Central
+#EXTINF:-1 tvg-id="Comedy.Central.HDTV.(East).(CMDHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/comedy-central-us.png",Comedy Central
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/52018.ts
 
 #EXTINF:-1,Comet
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/52019.ts
 
-#EXTINF:-1,E! Entertainment
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.HDTV.(East).(E!.HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/e-entertainment-us.png",E!
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/52030.ts
 
 #EXTINF:-1,Fox Life
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/52045.ts
 
-#EXTINF:-1,Freeform
+#EXTINF:-1 tvg-id="Freeform.HDTV.(East).(FRFHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/freeform-us.png",Freeform
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/52048.ts
 
 #EXTINF:-1,Fuse
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/52052.ts
 
-#EXTINF:-1,FX
+#EXTINF:-1 tvg-id="FX.HDTV.(East).(FX.HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fx-us.png",FX
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/52053.ts
 
-#EXTINF:-1,FXM
+#EXTINF:-1 tvg-id="FX.Movie.Channel.HDTV.(FXMHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fxm-movie-channel-us.png",FXM
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/52054.ts
 
-#EXTINF:-1,FXX
+#EXTINF:-1 tvg-id="FXX.HDTV.(East).(FXXHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fxx-us.png",FXX
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/52055.ts
 
 #EXTINF:-1,Great American Country
@@ -426,7 +426,7 @@ http://vp-txpro.com:80/live/octavod2021/octaprime2021/52061.ts
 #EXTINF:-1,Heroes & Icons
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/52073.ts
 
-#EXTINF:-1,IFC
+#EXTINF:-1 tvg-id="IFC.HDTV.(East).(IFCHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/ifc-us.png",IFC
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/52079.ts
 
 #EXTINF:-1,ION
@@ -435,7 +435,7 @@ http://vp-txpro.com:80/live/octavod2021/octaprime2021/52083.ts
 #EXTINF:-1,Lifetime
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/52085.ts
 
-#EXTINF:-1,Lifetime Movies Network
+#EXTINF:-1 tvg-id="Lifetime.Movies.HDTV.(East).(LIFEMOV).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/lifetime-us.png",Lifetime Movies
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/52086.ts
 
 #EXTINF:-1,MTV
@@ -447,7 +447,7 @@ http://vp-txpro.com:80/live/octavod2021/octaprime2021/52102.ts
 #EXTINF:-1,My9
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/52129.ts
 
-#EXTINF:-1,Reelz Channel
+#EXTINF:-1 tvg-id="ReelzChannel.HDTV.(REELZH).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/reelz-us.png",Reelz
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/52173.ts
 
 #EXTINF:-1,Revolt
@@ -456,16 +456,16 @@ http://vp-txpro.com:80/live/octavod2021/octaprime2021/52174.ts
 #EXTINF:-1,Sony Movie Channel
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/52186.ts
 
-#EXTINF:-1,Sundance TV
+#EXTINF:-1 tvg-id="SundanceTV.HDTV.(East).(SUNHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/sundance-tv-us.png",SundanceTV
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/52207.ts
 
-#EXTINF:-1,SyFy
+#EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/syfy-us.png",Syfy
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/52208.ts
 
-#EXTINF:-1,TBS
+#EXTINF:-1 tvg-id="TBS.Superstation.HDTV.(East).(TBSHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/tbs-us.png",TBS
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/52209.ts
 
-#EXTINF:-1,TNT
+#EXTINF:-1 tvg-id="Turner.Network.Television.HDTV.(East).(TNTHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/tnt-us.png",TNT
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/52221.ts
 
 #EXTINF:-1,Tru TV
@@ -477,7 +477,7 @@ http://vp-txpro.com:80/live/octavod2021/octaprime2021/52224.ts
 #EXTINF:-1,TV One
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/52225.ts
 
-#EXTINF:-1,USA Network
+#EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/usa-us.png",USA Network
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/52233.ts
 
 
