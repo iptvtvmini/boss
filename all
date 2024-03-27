@@ -123,8 +123,6 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=683110&ex
 #EXTINF:-1 tvg-id="HBO.Hits.my" tvg-name="HBO Hits" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/449_144.png" group-title="",HBO HITS
 #EXTINF:-1 tvg-id="HBO.Hits.HD.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/449_144.png" group-title="",HBO HITS
 #EXTINF:-1 tvg-id="HBO.Family.my" tvg-name="HBO Family" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png" group-title="",HBO FAMILY
-http://vo01.mohdtv.com:8880/live/voby4349/154984156/1707.m3u8
-
 #EXTINF:-1 tvg-id="HBO.Family.HD.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png" group-title="",HBO FAMILY
 #EXTINF:-1 tvg-id="HBO.Signature.my" tvg-name="HBO Signature" tvg-logo="" group-title="",HBO Signature
 
