@@ -308,20 +308,37 @@ http://vp-txpro.com:80/live/octavod2021/octaprime2021/52246.ts
 
 
 
-#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/abc-us.png",ABC 7
+#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/abc-us.png",ABC
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/51952.ts
 
-#EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cbs-logo-white-us.png",CBS 2
-http://vp-txpro.com:80/live/octavod2021/octaprime2021/52005.ts
-
-#EXTINF:-1 tvg-id="CW.(WUPV).Richmond,.VA.us" tvg-logo="https://docdog.top/Logotv/countries//cw.png",CW 11
-http://vp-txpro.com:80/live/octavod2021/octaprime2021/52217.ts
-
-#EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png",FOX 5
+#EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png",FOX
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/52042.ts
 
-#EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries//nbcnewyork.png",NBC 4
+#EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cbs-logo-white-us.png",CBS
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52005.ts
+
+#EXTINF:-1 tvg-id="CW.(WUPV).Richmond,.VA.us" tvg-logo="https://docdog.top/Logotv/countries//cw.png",CW
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52217.ts
+
+#EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries//nbcnewyork.png",NBC
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/52134.ts
+
+
+
+
+
+#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/abc-us.png",ABC 7
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/53277.ts
+
+#EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cbs-logo-white-us.png",CBS 2
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/53412.ts
+
+#EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png",FOX 5
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/53523.ts
+
+#EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries//nbcnewyork.png",NBC 4
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/53700.ts
+
 
 
 
@@ -650,6 +667,67 @@ http://vp-txpro.com:80/live/octavod2021/octaprime2021/52151.ts
 
 #EXTINF:-1 tvg-id="TeenNick.(East).(TNCK).us" tvg-logo="",TeenNick
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/52211.ts
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",BEVERLY HILLS COP
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/44278.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",BRUCE WILLIS
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/44284.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",CHARLIES ANGELES
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/44287.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",DWAYNE JOHNSON
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/44315.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",EDDIE MURPHY
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/44318.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",KNIGHT RIDER
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/44374.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",LETHAL WEAPON MOVIES
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/44380.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",LIAM NEESON MOVIES
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/44381.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",LION KING MOVIES
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/44382.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",MACGYVER
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/44388.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",SIX MILLION DOLLAR MAN
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/44450.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",STARSKY & HUTCH
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/44463.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",TOM HANKS MOVIES
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/44500.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",TWILIGHT ZONE
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/44505.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",WESTERNS
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/44513.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",WILL SMITH
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/44519.ts
+
+
+
+
+
+
+
+
+
 
 
 
