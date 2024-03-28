@@ -760,31 +760,28 @@ http://vp-txpro.com:80/live/octavod2021/octaprime2021/44519.ts
 
 
 
-#EXTINF:-1,ABC News
+#EXTINF:-1 tvg-id="ABCNEWS.us" tvg-logo="https://docdog.top/Logotv/countries//abcnewslive.png",ABC News
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/51953.ts
 
-#EXTINF:-1,Bloomberg
-http://vp-txpro.com:80/live/octavod2021/octaprime2021/51996.ts
-
-#EXTINF:-1,C-Span
+#EXTINF:-1 tvg-id="Cable.Satellite.Public.Affairs.Network.(CSPAN).us" tvg-logo="https://docdog.top/Logotv/countries//cspan1.png",C-SPAN 1
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/52001.ts
 
-#EXTINF:-1,C-Span 2
+#EXTINF:-1 tvg-id="Cable.Satellite.Public.Affairs.Network.2.(CSPAN2).us" tvg-logo="https://docdog.top/Logotv/countries//cspan2.png",C-SPAN 2
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/52002.ts
 
-#EXTINF:-1,C-Span 3
+#EXTINF:-1 tvg-id="CSPAN3.us" tvg-logo="https://docdog.top/Logotv/countries//cspan3.png",C-SPAN 3
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/52003.ts
 
 #EXTINF:-1,Cheddar News
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/52007.ts
 
-#EXTINF:-1,CNN
+#EXTINF:-1 tvg-id="Cable.News.Network.HDTV.(CNNHD).us" tvg-logo="https://docdog.top/Logotv/countries/uk/cnn.png",CNN
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/52017.ts
 
 #EXTINF:-1,Fox News
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/52046.ts
 
-#EXTINF:-1,NewsMAX TV
+#EXTINF:-1 tvg-id="Newsmax.(NEWSM).us" tvg-logo="https://docdog.top/Logotv/countries//newsmax.png",Newsmax
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/52143.ts
 
 
