@@ -502,7 +502,7 @@ http://mohdtv.com:8880/live/voby3037/69246643/28936.ts
 #EXTINF:-1 tvg-id="SkyPremiereHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemapremiere.png",Sky Premiere
 http://mohdtv.com:8880/live/voby3037/69246643/28935.ts
 
-#EXTINF:-1 tvg-id="Sky.ScFi/HorHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemasci.png",Sky Cinema ScFi
+#EXTINF:-1 tvg-id="Sky.Sci-Fi.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemasci.png",Sky Sci-Fi
 http://mohdtv.com:8880/live/voby3037/69246643/28934.ts
 
 #EXTINF:-1 tvg-id="Sky.Cinema.Select.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaselect.png",Sky Cinema Select
