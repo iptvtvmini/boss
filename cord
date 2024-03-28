@@ -70,53 +70,54 @@ https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 #EXTINF:-1 tvg-id="Astro.Ria.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",Astro Ria
 #EXTINF:-1 tvg-id="Astro.Ceria.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png",Astro Ceria
 #EXTINF:-1 tvg-id="Astro.Prima.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",Astro Prima
+http://vo01.mohdtv.com:8880/live/voby3037/69246643/1702.ts
+
 #EXTINF:-1 tvg-id="Astro.Warna.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png",Astro Warna
-http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/146.ts
+http://vo01.mohdtv.com:8880/live/voby3037/69246643/1706.ts
 
 #EXTINF:-1 tvg-id="Astro.Citra.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",Astro Citra
 
 #EXTINF:-1 tvg-id="Astro.Oasis.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",Astro Oasis
-http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/145.ts
+
 
 #EXTINF:-1 tvg-id="Al-Hijrah.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png",TV Alhijrah
+http://vo01.mohdtv.com:8880/live/voby3037/69246643/71024.ts
 
 #EXTINF:-1 tvg-id="Astro.Rania.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",Astro Rania
-http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/147.ts
 
 
-#EXTINF:-1 tvg-id="HBO.HD.id" tvg-logo="",HBO
-http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/104.ts
 
-#EXTINF:-1 tvg-id="HBO.Hits.HD.id" tvg-logo="",HBO Hits
 
-#EXTINF:-1 tvg-id="HBO.Family.HD.id" tvg-logo="",HBO Family
-http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/105.ts
-
-#EXTINF:-1 tvg-id="HBO.Signature.HD.id" tvg-logo="",HBO Signature
-http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/103.ts
 
 
 
 
 #EXTINF:-1 tvg-id="SHOWCASE.MOVIES.my" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png",SHOWCASE MOVIES
 #EXTINF:-1 tvg-id="Cinemax.HD.id" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png",CINEMAX
-http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/106.ts
+
 
 #EXTINF:-1 tvg-id="HITS.MOVIES.HD.id" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",HITS Movies
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=683163&extension=ts
+
 #EXTINF:-1 tvg-id="HITS.Movies.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",HITS Movies
-http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/25.ts
+http://vo01.mohdtv.com:8880/live/voby3037/69246643/71056.ts
 
 #EXTINF:-1 tvg-id="HITS.id" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png",Hits
-http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/24.ts
+http://vo01.mohdtv.com:8880/live/voby3037/69246643/60455.ts
 
 #EXTINF:-1 tvg-id="tvN.Movies.HD.id" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png",tvN Movies
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=683149&extension=ts
+
 #EXTINF:-1 tvg-id="Celestial.Movies.id" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png",Celestial Movies
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=683142&extension=ts
+
 #EXTINF:-1 tvg-id="Celestial.Classic.Movies.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",CCM
+http://vo01.mohdtv.com:8880/live/voby3037/69246643/71046.ts
+
 #EXTINF:-1 tvg-id="CCM.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="",CCM (ID)
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=683110&extension=ts
 
-#EXTINF:-1,Astro BOO
-http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/108.ts
+
 
 
 
@@ -143,16 +144,16 @@ https://gsn-gameshowchannnel-1-us.vizio.wurl.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Astro.Arena.HD.my" tvg-name="Astro Arena HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png" group-title="",Astro Arena
-http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/149.ts
+http://vo01.mohdtv.com:8880/live/voby3037/69246643/1703.ts
 
 #EXTINF:-1 tvg-id="Astro.Arena.2.HD.my" tvg-name="Astro Arena 2 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="",Astro Arena 2
-http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/150.ts
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-title="",Arena Bola 1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-title="",Arena Bola 2
 
 #EXTINF:-1 tvg-id="Astro.SuperSport.HD.my" tvg-name="Astro SuperSport HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="",Astro SuperSport
-http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/57.ts
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=766852&extension=ts
 
 #EXTINF:-1 tvg-id="Astro.SuperSport.2.HD.my" tvg-name="Astro SuperSport 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="",Astro SuperSport 2
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=766853&extension=ts
@@ -161,7 +162,7 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=766853&extension=t
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=766854&extension=ts
 
 #EXTINF:-1 tvg-id="Astro.SuperSport.4.HD.my" tvg-name="Astro SuperSport 4 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="",Astro SuperSport 4
-http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/60.ts
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=766855&extension=ts
 
 #EXTINF:-1 tvg-id="Astro.Supersport.5.HD.my" tvg-name="Astro Supersport 5 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="",W Sport
 http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/142.ts
@@ -242,12 +243,13 @@ http://cord-cutter.net:8080/live/95549031/69361122/1846.ts
 http://cord-cutter.net:8080/live/95549031/69361122/1847.ts
 
 #EXTINF:-1 tvg-id="Fox.Sports.1.HDTV.(FS1HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-sports-1-us.png",Fox Sports 1
-http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/127.ts
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487776&extension=ts
 
 #EXTINF:-1 tvg-id="Fox.Sports.2.HDTV.(FS2HD).us" tvg-logo="https://docdog.top/Logotv/countries//foxsport2.png",Fox Sports 2
-http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/128.ts
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487775&extension=ts
 
 #EXTINF:-1 tvg-id="Fox.Soccer.Plus.(FSPLUS).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png",Fox Soccer Plus
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487641&extension=ts
 
 #EXTINF:-1 tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" tvg-logo="https://docdog.top/Logotv/countries//tennischannel.png",Tennis
 http://cord-cutter.net:8080/live/95549031/69361122/20184.ts
