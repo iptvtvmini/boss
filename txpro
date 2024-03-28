@@ -391,7 +391,7 @@ http://vp-txpro.com:80/live/octavod2021/octaprime2021/51951.ts
 #EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/amc-us.png",AMC
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/51956.ts
 
-#EXTINF:-1,AMC +
+#EXTINF:-1 tvg-id="AMC+.us" tvg-logo="",AMC+
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/51957.ts
 
 #EXTINF:-1 tvg-id="American.Heroes.Channel.(AHC).us" tvg-logo="https://docdog.top/Logotv/countries//americanheroeschannel.png",American Heroes
@@ -478,13 +478,13 @@ http://vp-txpro.com:80/live/octavod2021/octaprime2021/52209.ts
 #EXTINF:-1 tvg-id="Turner.Network.Television.HDTV.(East).(TNTHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/tnt-us.png",TNT
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/52221.ts
 
-#EXTINF:-1,Tru TV
+#EXTINF:-1 tvg-id="truTV.HDTV.(East).(TruTVD).us" tvg-logo="",truTV
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/52223.ts
 
-#EXTINF:-1,TV Land
+#EXTINF:-1 tvg-id="TV.Land.(East).(TVLAND).us" tvg-logo="",TV Land
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/52224.ts
 
-#EXTINF:-1,TV One
+#EXTINF:-1 tvg-id="TV.ONE.HDTV.(TVONEHD).us" tvg-logo="",TV ONE
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/52225.ts
 
 #EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/usa-us.png",USA Network
@@ -627,13 +627,10 @@ http://vp-txpro.com:80/live/octavod2021/octaprime2021/52131.ts
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/52132.ts
 
 
-#EXTINF:-1,Aspire
+#EXTINF:-1 tvg-id="ASPiRE.SDTV.(ASPRE).us" tvg-logo="",ASPiRE
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/51961.ts
 
-#EXTINF:-1,Court TV
-http://vp-txpro.com:80/live/octavod2021/octaprime2021/52020.ts
-
-#EXTINF:-1,Destination America
+#EXTINF:-1 tvg-id="Destination.America.HDTV.(DESTAMHD).us" tvg-logo="",Destination America
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/52022.ts
 
 #EXTINF:-1 tvg-id="Investigation.Discovery.HDTV.(IDHD).us" tvg-logo="https://docdog.top/Logotv/countries//investigationdiscovery.png",Investigation Discovery
@@ -648,7 +645,7 @@ http://vp-txpro.com:80/live/octavod2021/octaprime2021/52024.ts
 #EXTINF:-1 tvg-id="Discovery.Life.Channel.(DLIF).us" tvg-logo="https://docdog.top/Logotv/countries//discoverylife.png",Discovery Life
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/52025.ts
 
-#EXTINF:-1,Discovery Science
+#EXTINF:-1 tvg-id="Science.HDTV.(SCIHD).us" tvg-logo="",Discovery Science
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/52026.ts
 
 #EXTINF:-1 tvg-id="The.Cooking.Channel.HDTV.(COOKHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cooking-channel-us.png",Cooking Channel
