@@ -678,31 +678,31 @@ http://vp-txpro.com:80/live/octavod2021/octaprime2021/52063.ts
 
 
 
-#EXTINF:-1 tvg-id="Boomerang.(BOOM).us" tvg-logo="",Boomerang
+#EXTINF:-1 tvg-id="Boomerang.(BOOM).us" tvg-logo="https://docdog.top/Logotv/countries//boomerang.png",Boomerang
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/51997.ts
 
-#EXTINF:-1 tvg-id="Cartoon.Network.HDTV.(East).(TOONHD).us" tvg-logo="",Cartoon Network
+#EXTINF:-1 tvg-id="Cartoon.Network.HDTV.(East).(TOONHD).us" tvg-logo="https://docdog.top/Logotv/countries/uk/cartoonnetwork.png",Cartoon Network
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/52004.ts
 
-#EXTINF:-1 tvg-id="The.Disney.Channel.HDTV.(East).(DISHD).us" tvg-logo="",Disney Channel
+#EXTINF:-1 tvg-id="The.Disney.Channel.HDTV.(East).(DISHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/disney-channel-us.png",Disney Channel
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/52027.ts
 
-#EXTINF:-1 tvg-id="Nick.Jr..(NicJr).us" tvg-logo="",Nick Jr
+#EXTINF:-1 tvg-id="Nick.Jr..(NicJr).us" tvg-logo="https://docdog.top/Logotv/countries//nickjr.png",Nick Jr
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/52028.ts
 
-#EXTINF:-1 tvg-id="Disney.XD.(East).(DISXD).us" tvg-logo="",Disney XD
+#EXTINF:-1 tvg-id="Disney.XD.(East).(DISXD).us" tvg-logo="https://docdog.top/Logotv/countries//disneyxd.png",Disney XD
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/52029.ts
 
-#EXTINF:-1 tvg-id="Nick.Jr..(NicJr).us" tvg-logo="",Nick Jr
+#EXTINF:-1 tvg-id="Nick.Jr..(NicJr).us" tvg-logo="https://docdog.top/Logotv/countries//nickjr.png",Nick Jr
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/52148.ts
 
-#EXTINF:-1 tvg-id="Nickelodeon.HDTV.(East).(NICHD).us" tvg-logo="",Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon.HDTV.(East).(NICHD).us" tvg-logo="https://docdog.top/Logotv/countries//nickelodeon.png",Nickelodeon
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/52150.ts
 
-#EXTINF:-1 tvg-id="Nicktoons.Network.(East).(NICKTOON).us" tvg-logo="",Nicktoons
+#EXTINF:-1 tvg-id="Nicktoons.Network.(East).(NICKTOON).us" tvg-logo="https://docdog.top/Logotv/countries//nicktoons.png",Nicktoons
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/52151.ts
 
-#EXTINF:-1 tvg-id="TeenNick.(East).(TNCK).us" tvg-logo="",TeenNick
+#EXTINF:-1 tvg-id="TeenNick.(East).(TNCK).us" tvg-logo="https://docdog.top/Logotv/countries//teennick.png",TeenNick
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/52211.ts
 
 
@@ -760,14 +760,6 @@ http://vp-txpro.com:80/live/octavod2021/octaprime2021/44519.ts
 
 
 
-
-
-
-
-
-
-
-
 #EXTINF:-1,ABC News
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/51953.ts
 
@@ -799,11 +791,6 @@ http://vp-txpro.com:80/live/octavod2021/octaprime2021/52143.ts
 
 
 
-#EXTINF:-1,Buzzr
-http://vp-txpro.com:80/live/octavod2021/octaprime2021/52000.ts
-
-#EXTINF:-1,Game Show Network
-http://vp-txpro.com:80/live/octavod2021/octaprime2021/52062.ts
 
 
 
