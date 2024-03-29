@@ -363,12 +363,6 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497351&exte
 #EXTINF:-1 tvg-id="FX.Movie.Channel.HDTV.(FXMHD).us" tvg-name="FX Movie Channel HDTV (FXMHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/fxm-movie-channel-us.png" group-title="",FXM
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497350&extension=ts
 
-#EXTINF:-1 tvg-id="FX.Movie.Channel.HDTV.(FXMHD).us" tvg-name="FX Movie Channel HDTV (FXMHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/fxm-movie-channel-us.png" group-title="",FXM
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497349&extension=ts
-
-#EXTINF:-1 tvg-id="FX.Movie.Channel.HDTV.(FXMHD).us" tvg-name="FX Movie Channel HDTV (FXMHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/fxm-movie-channel-us.png" group-title="",FXM
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497348&extension=ts
-
 #EXTINF:-1 tvg-id="SundanceTV.HDTV.(East).(SUNHD).us" tvg-name="SundanceTV HDTV (East) (SUNHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/sundance-tv-us.png" group-title="",Sundance
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497510&extension=ts
 
