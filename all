@@ -278,20 +278,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default.mpd
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="Trans7.HD.id" tvg-name="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="",Trans7
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
  
@@ -315,45 +301,6 @@ https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6
 
 
 
-#EXTINF:-1 tvg-id="SHOWCASE.MOVIES.my" tvg-name="SHOWCASE MOVIES" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png" group-title="",SHOWCASE MOVIES
-#EXTINF:-1 tvg-id="Cinemax.HD.id" tvg-name="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png" group-title="",CINEMAX
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=683161&extension=ts
-
-#EXTINF:-1 tvg-id="HITS.MOVIES.HD.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png" group-title="",HITS Movies
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=683163&extension=ts
-
-#EXTINF:-1 tvg-id="HITS.Movies.HD.my" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png" group-title="",HITS Movies
-http://vo01.mohdtv.com:8880/live/voby3037/69246643/71056.ts
-
-#EXTINF:-1 tvg-id="HITS.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png" group-title="",Hits
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=683145&extension=ts
-
-#EXTINF:-1 tvg-id="HITS.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png" group-title="",Hits
-http://vo01.mohdtv.com:8880/live/voby3037/69246643/60455.ts
-
-#EXTINF:-1 tvg-id="tvN.Movies.HD.id" tvg-name="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png" group-title="",tvN Movies
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=683149&extension=ts
-
-#EXTINF:-1 tvg-id="Celestial.Movies.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png" group-title="",Celestial Movies
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=683142&extension=ts
-
-#EXTINF:-1 tvg-id="Celestial.Classic.Movies.my" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="",Celestial Classic Movies (CCM)
-http://vo01.mohdtv.com:8880/live/voby3037/69246643/71046.ts
-
-#EXTINF:-1 tvg-id="CCM.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="",CCM (ID)
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=683110&extension=ts
-
-
-
-#EXTINF:-1 tvg-id="HBO.HD.my" tvg-name="HBO HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png" group-title="",HBO
-#EXTINF:-1 tvg-id="HBO.Hits.my" tvg-name="HBO Hits" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/449_144.png" group-title="",HBO HITS
-#EXTINF:-1 tvg-id="HBO.Hits.HD.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/449_144.png" group-title="",HBO HITS
-#EXTINF:-1 tvg-id="HBO.Family.my" tvg-name="HBO Family" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png" group-title="",HBO FAMILY
-#EXTINF:-1 tvg-id="HBO.Family.HD.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png" group-title="",HBO FAMILY
-#EXTINF:-1 tvg-id="HBO.Signature.my" tvg-name="HBO Signature" tvg-logo="" group-title="",HBO Signature
-
-
-
 #EXTINF:-1 tvg-id="Boomerang.my" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/430_144.png" group-title="",Boomerang
 #EXTINF:-1 tvg-id="Cartoon.Network.HD.my" tvg-name="Cartoon Network HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/371_144.png" group-title="",Cartoon Network
 #EXTINF:-1 tvg-id="Nickelodeon.HD.my" tvg-name="Nickelodeon HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/370_144.png" group-title="",Nickelodeon
@@ -363,33 +310,6 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=683110&ex
 
 
 
-
-
-
-#EXTINF:-1 tvg-id="TVSUKAN" tvg-name="Sukan RTM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/58_144.png" group-title="",Sukan RTM
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/index.m3u8?id=4
-
-#EXTINF:-1 tvg-id="Astro.Arena.HD.my" tvg-name="Astro Arena HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png" group-title="",Astro Arena
-http://vo01.mohdtv.com:8880/live/voby4349/154984156/1703.ts
-
-#EXTINF:-1 tvg-id="Astro.Arena.2.HD.my" tvg-name="Astro Arena 2 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="",Astro Arena 2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-title="",Arena Bola 1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-title="",Arena Bola 2
-
-#EXTINF:-1 tvg-id="Astro.SuperSport.HD.my" tvg-name="Astro SuperSport HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="",Astro SuperSport
-http://mohdtv.com:8880/live/voby3037/69246643/1722.ts
-
-#EXTINF:-1 tvg-id="Astro.SuperSport.2.HD.my" tvg-name="Astro SuperSport 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="",Astro SuperSport 2
-http://mohdtv.com:8880/live/voby3037/69246643/1721.ts
-
-#EXTINF:-1 tvg-id="Astro.SuperSport.3.HD.my" tvg-name="Astro SuperSport 3 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="",Astro SuperSport 3
-http://mohdtv.com:8880/live/voby3037/69246643/1720.ts
-
-#EXTINF:-1 tvg-id="Astro.SuperSport.4.HD.my" tvg-name="Astro SuperSport 4 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="",Astro SuperSport 4
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=766855&extension=ts
-
-#EXTINF:-1 tvg-id="Astro.Supersport.5.HD.my" tvg-name="Astro Supersport 5 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="",Astro SuperSport 5
-http://mohdtv.com:8880/live/voby3037/69246643/1713.ts
 
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png",BT Sport 1
