@@ -24,6 +24,22 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=79483&ext
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="CA| TSN1 FHD" group-title="CA| SPORT",CA| TSN1 FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=904216&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CA| TSN2 FHD" group-title="CA| SPORT",CA| TSN2 FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=904215&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CA| TSN3 FHD" group-title="CA| SPORT",CA| TSN3 FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=904214&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CA| TSN4 FHD" group-title="CA| SPORT",CA| TSN4 FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=904213&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CA| TSN5 FHD" group-title="CA| SPORT",CA| TSN5 FHD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=904212&extension=ts
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="US| ESPN HD" group-title="US| SPORTS NETWORK",US| ESPN HD
