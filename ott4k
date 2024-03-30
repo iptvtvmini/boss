@@ -365,6 +365,62 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577987&extension=t
 
 
 
+#EXTINF:-1 tvg-id="",SuperSports ACTION
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577933&extension=ts
+
+#EXTINF:-1 tvg-id="",SuperSports BLITZ
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577927&extension=ts
+
+#EXTINF:-1 tvg-id="",SuperSports CRICKET
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577916&extension=ts
+
+#EXTINF:-1 tvg-id="",SuperSports PLAY 1
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577932&extension=ts
+
+#EXTINF:-1 tvg-id="",SuperSports PLAY 2
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577931&extension=ts
+
+#EXTINF:-1 tvg-id="",SuperSports PL
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577930&extension=ts
+
+#EXTINF:-1 tvg-id="",SuperSports LIGA
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577929&extension=ts
+
+#EXTINF:-1 tvg-id="",SuperSports TENNIS
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577928&extension=ts
+
+#EXTINF:-1 tvg-id="",SuperSports PSL
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577926&extension=ts
+
+#EXTINF:-1 tvg-id="",SuperSports GOLF
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577925&extension=ts
+
+#EXTINF:-1 tvg-id="",SuperSports GRANDSTAND
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577924&extension=ts
+
+#EXTINF:-1 tvg-id="",SuperSports RUGBY
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577917&extension=ts
+
+#EXTINF:-1 tvg-id="",SuperSports MOTORSPORT
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577921&extension=ts
+
+#EXTINF:-1 tvg-id="",SuperSports FOOTBALL
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577920&extension=ts
+
+#EXTINF:-1 tvg-id="",SuperSports MAXIMO
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577934&extension=ts
+
+#EXTINF:-1 tvg-id="",SuperSports VARIETY 1
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577922&extension=ts
+
+#EXTINF:-1 tvg-id="",SuperSports VARIETY 2
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577923&extension=ts
+
+#EXTINF:-1 tvg-id="",SuperSports VARIETY 3
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577918&extension=ts
+
+#EXTINF:-1 tvg-id="",SuperSports VARIETY 4
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577919&extension=ts
 
 
 
