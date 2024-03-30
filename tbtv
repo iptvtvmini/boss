@@ -201,6 +201,9 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=133966&extension=
 #EXTINF:-1 tvg-id="ESPNU.HDTV.(ESPNUHD).us" tvg-logo="https://docdog.top/Logotv/countries//espnu.png",ESPN U
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=133970&extension=ts
 
+#EXTINF:-1 tvg-id="The.Longhorn.Network.HDTV.(LONG).us" tvg-logo="https://docdog.top/Logotv/countries//longhornnetwork.png",Longhorn Network
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134071&extension=ts
+
 #EXTINF:-1 tvg-id="NBA.TV.HDTV.(NBA.HD).us" tvg-logo="https://docdog.top/Logotv/countries//nba.png",NBA TV
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=282052&extension=ts
 
