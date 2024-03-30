@@ -49,33 +49,6 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=571307&extension=ts
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://scripps.com/wp-content/uploads/2019/01/local_media_23_abc.png",23ABC
-https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//abcnews.png",ABC News
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kDqyJcP.jpg",CBS News
-https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/foxnews.png",FOX News Now
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/90/USBA300028QU_20210622T090622.png",Newsmax
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://images2.imgbox.com/1f/8c/vA9CqYr4_o.jpeg",One America News
-https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/usatoday_logo_dark_v2.png",USA TODAY
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="",RT News
-https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="",Wion
-https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8
-
 #EXTINF:-1 tvg-id="RTMK07" tvg-name="Dewan Rakyat" tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="",Parlimen Dewan Rakyat
 https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/auto.m3u8?id=7
  
@@ -238,6 +211,14 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577932&extension=t
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577931&extension=ts
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="",NOW SPORTS 1 (HK)
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1110615&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="",NOW SPORTS 2
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1110616&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="",NOW SPORTS 3
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1110617&extension=ts
 
 
 
@@ -860,7 +841,32 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1430189&e
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1430183&extension=ts
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://scripps.com/wp-content/uploads/2019/01/local_media_23_abc.png",23ABC
+https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//abcnews.png",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kDqyJcP.jpg",CBS News
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/foxnews.png",FOX News Now
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/90/USBA300028QU_20210622T090622.png",Newsmax
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images2.imgbox.com/1f/8c/vA9CqYr4_o.jpeg",One America News
+https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/usatoday_logo_dark_v2.png",USA TODAY
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="",RT News
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="",Wion
+https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8
 
 
 
