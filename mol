@@ -173,6 +173,9 @@ http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61458&extension=t
 #EXTINF:-1 tvg-id="ESPN2.HDTV.(Dish).(ESPN2HD).us" tvg-name="ESPN2 HDTV (Dish) (ESPN2HD)" tvg-logo="https://docdog.top/Logotv/countries//espn2.png",ESPN 2
 http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61459&extension=ts
 
+#EXTINF:-1 tvg-id="The.Longhorn.Network.HDTV.(LONG).us" tvg-logo="https://docdog.top/Logotv/countries//longhornnetwork.png",Longhorn Network
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497389&extension=ts
+
 #EXTINF:-1 tvg-id="NBA.TV.HDTV.(NBA.HD).us" tvg-logo="https://docdog.top/Logotv/countries//nba.png",NBA TV
 http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=187070&extension=ts
 
