@@ -82,9 +82,35 @@ http://mohdtv.com:8880/live/voby3037/69246643/1706.ts
 
 
 
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="",Trans7
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+ 
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png" group-title="",Trans TV
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="",CNN INA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Game.Show.Network.HDTV.(EAST).(GMSHWHD).us" tvg-name="Game Show Network HDTV (EAST) (GMSHWHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/game-show-network-us.png" group-title="",Game Show Network
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5e54187aae660e00093561d6" tvg-name="" tvg-logo="https://images.pluto.tv/channels/5e54187aae660e00093561d6/colorLogoPNG.png" group-title="",Game Show Central
+https://gsn-gameshowchannnel-1-us.vizio.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MBC.Wanasah.(MBCW).us" tvg-name="" tvg-logo="https://i.imgur.com/AuYEozR.png" group-title="",Wanasah
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="SHOWCASE.MOVIES.my" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png" group-title="",Showcase Movies
 
 #EXTINF:-1 tvg-id="CINEMAX.HD.my" tvg-name="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png" group-title="",Cinemax
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=683161&extension=ts
 
 #EXTINF:-1 tvg-id="HITS.Movies.HD.my" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png" group-title="",HITS Movies
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -93,8 +119,14 @@ http://mohdtv.com:8880/live/voby3037/69246643/1706.ts
 #KODIPROP:inputstream.adaptive.license_key={"ff1febd7018d0dd711601e795e0d6210": "38fbfb3a56e40ff92c9df8acbcba9ef6"}
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
 
+#EXTINF:-1 tvg-id="HITS.MOVIES.HD.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png" group-title="",HITS Movies (ID)
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=683163&extension=ts
+
 #EXTINF:-1 tvg-id="HITS.HD.my" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png" group-title="",Hits
 http://vo01.mohdtv.com:8880/live/voby3037/69246643/71056.ts
+
+#EXTINF:-1 tvg-id="HITS.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png" group-title="",Hits (ID)
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=683145&extension=ts
 
 #EXTINF:-1 tvg-id="tvN.Movies.HD.my" tvg-name="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png" group-title="",tvN Movies
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -103,6 +135,9 @@ http://vo01.mohdtv.com:8880/live/voby3037/69246643/71056.ts
 #KODIPROP:inputstream.adaptive.license_key={"8e269c8aa32ad77eb83068312343d610": "d12ccebafbba2a535d88a3087f884252"}
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2406/default.mpd
 
+#EXTINF:-1 tvg-id="tvN.Movies.HD.id" tvg-name="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png" group-title="",tvN Movies (ID)
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=683149&extension=ts
+
 #EXTINF:-1 tvg-id="Celestial.Movies.HD.my" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png" group-title="",Celestial Movies
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -110,10 +145,14 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2406/default.mpd
 #KODIPROP:inputstream.adaptive.license_key={"c5c1ba26907291afec11a9a78d513410": "361197805d0149c29801946cf2dde67c"}
 https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_primary.mpd
 
+#EXTINF:-1 tvg-id="Celestial.Movies.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png" group-title="",Celestial Movies (ID)
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=683142&extension=ts
+
 #EXTINF:-1 tvg-id="Celestial.Classic.Movies.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="",CCM
 http://vo01.mohdtv.com:8880/live/voby3037/69246643/71046.ts
 
-
+#EXTINF:-1 tvg-id="CCM.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="",CCM (ID)
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=683110&extension=ts
 
 
 #EXTINF:-1 tvg-id="HBO.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png",HBO
