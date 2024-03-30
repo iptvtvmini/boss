@@ -195,6 +195,9 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577928&extension=t
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportpsl.png",SuperSports PSL
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577926&extension=ts
 
+#EXTINF:-1 tvg-id="",SuperSports Priemier League
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577930&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportgolf.png",SuperSports GOLF
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577925&extension=ts
 
@@ -221,9 +224,6 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=457064&extensio
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety4.png",SuperSports VARIETY 4
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577919&extension=ts
-
-#EXTINF:-1 tvg-id="",SuperSports PL
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577930&extension=ts
 
 #EXTINF:-1 tvg-id="",SuperSports BLITZ
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577927&extension=ts
