@@ -66,13 +66,6 @@ http://mohdtv.com:8880/live/voby3037/69246643/1701.ts
 #EXTINF:-1 tvg-id="Astro.Ria.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",Astro Ria
 http://mohdtv.com:8880/live/voby3037/69246643/1705.ts
 
-#EXTINF:-1 tvg-id="Astro.Ria.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",Astro Ria
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"3f726fd5cbbf5944437a4dbfab431b10": "376b009796e4ad50ea8f68d796676692"}
-https://linears-playback.astro.com.my/vsg/41dKS1PonH0R7zcrnNWUf7fKSxTDn_Syvl97gzCdVxe-0=0vfQ/dash-wv/jitp-linearwm/1004/default_ott.mpd
-
 #EXTINF:-1 tvg-id="Astro.Ceria.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png",Astro Ceria
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
