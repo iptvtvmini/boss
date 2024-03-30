@@ -694,12 +694,6 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577355&extension=t
 
 
 
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbcone.png",BBC 1
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577275&extension=ts
 
@@ -847,12 +841,23 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617151&extension=t
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="CINEMANIA" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",BORDER SECURITY
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1430406&extension=ts
 
+#EXTINF:-1 tvg-id="" tvg-name="CINEMANIA" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",CHIPS
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1430386&extension=ts
 
+#EXTINF:-1 tvg-id="" tvg-name="CINEMANIA" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",KNIGHT RIDER
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1430274&extension=ts
 
+#EXTINF:-1 tvg-id="" tvg-name="CINEMANIA" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",INCREDIBLE HULK
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1430203&extension=ts
 
+#EXTINF:-1 tvg-id="" tvg-name="CINEMANIA" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",SIX MILLION DOLLAR MAN
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1430189&extension=ts
 
-
+#EXTINF:-1 tvg-id="" tvg-name="CINEMANIA" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",THE TWILIGHT ZONE
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1430183&extension=ts
 
 
 
