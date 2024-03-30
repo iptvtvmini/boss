@@ -129,6 +129,66 @@ http://mohdtv.com:8880/live/voby3037/69246643/1713.ts
 
 
 
+
+
+#EXTINF:-1 tvg-id="",SuperSport Action
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1350744&extension=ts
+
+#EXTINF:-1 tvg-id="",SuperSport Blitz
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1350745&extension=ts
+
+#EXTINF:-1 tvg-id="",SuperSport Cricket FHD
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1350746&extension=ts
+
+#EXTINF:-1 tvg-id="",SuperSport ESPN
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1350757&extension=ts
+
+#EXTINF:-1 tvg-id="",SuperSport ESPN2
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1350756&extension=ts
+
+#EXTINF:-1 tvg-id="",SuperSport Football
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1350752&extension=ts
+
+#EXTINF:-1 tvg-id="",SuperSport  Grandstand
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1350743&extension=ts
+
+#EXTINF:-1 tvg-id="",Supersport Golf
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1350759&extension=ts
+
+#EXTINF:-1 tvg-id="",SuperSport PLAY
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1350758&extension=ts
+
+#EXTINF:-1 tvg-id="",SuperSport PSL
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1350750&extension=ts
+
+#EXTINF:-1 tvg-id="",SuperSport Premier League
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1350748&extension=ts
+
+#EXTINF:-1 tvg-id="",SuperSport La liga
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1350747&extension=ts
+
+#EXTINF:-1 tvg-id="",SuperSport Rugby
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1350751&extension=ts
+
+#EXTINF:-1 tvg-id="",SuperSport Tennis
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1350760&extension=ts
+
+#EXTINF:-1 tvg-id="",SuperSport Variety 1
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1350749&extension=ts
+
+#EXTINF:-1 tvg-id="",SuperSport Variety 2
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1350753&extension=ts
+
+#EXTINF:-1 tvg-id="",SuperSport Variety 3
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1350754&extension=ts
+
+#EXTINF:-1 tvg-id="",SuperSport Variety 4
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1350755&extension=ts
+
+
+
+
+
 #EXTINF:-1 tvg-id="TNT.Sports.1.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png",BT Sport 1
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=2126&extension=ts
 
