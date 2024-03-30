@@ -183,6 +183,8 @@ http://supersonictv.live:8080/live/Derrick/Hitman50$/40433.ts
 #EXTINF:-1 tvg-id="Big.Ten.Network.HDTV.(24/7.Overflow.#3).(BTFB3).us" tvg-logo="https://docdog.top/Logotv/countries//bigtennetwork.png" group-title="",Big Ten Network
 http://mohdtv.com:8880/live/voby3037/69246643/3076.ts
 
+#EXTINF:-1 tvg-id="The.Longhorn.Network.HDTV.(LONG).us" tvg-logo="https://docdog.top/Logotv/countries//longhornnetwork.png",Longhorn Network
+http://supersonictv.live:8080/live/Derrick/Hitman50$/22207.ts
 
 
 
