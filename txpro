@@ -254,6 +254,9 @@ http://vp-txpro.com:80/live/octavod2021/octaprime2021/52047.ts
 #EXTINF:-1 tvg-id="The.Golf.Channel.HDTV.(GLFHD).us" tvg-logo="https://docdog.top/Logotv/countries//nbcgolfchannel.png",Golf Channel
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/52059.ts
 
+#EXTINF:-1 tvg-id="The.Longhorn.Network.HDTV.(LONG).us" tvg-logo="https://docdog.top/Logotv/countries//longhornnetwork.png",Longhorn Network
+http://vp-txpro.com:80/live/octavod2021/octaprime2021/52218.ts
+
 #EXTINF:-1 tvg-id="MARQ.Marquee.Sports.Network.us" tvg-logo="",Marquee Sports
 http://vp-txpro.com:80/live/octavod2021/octaprime2021/52089.ts
 
