@@ -129,6 +129,48 @@ http://mohdtv.com:8880/live/voby3037/69246643/1713.ts
 
 
 
+#EXTINF:-1 tvg-id="",Supersport ACTION
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=457066&extension=ts
+
+#EXTINF:-1 tvg-id="",Supersport BLITZ
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=457069&extension=ts
+
+#EXTINF:-1 tvg-id="",Supersport CRICKET
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=457068&extension=ts
+
+#EXTINF:-1 tvg-id="",Supersport GRANDSTAND
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=457057&extension=ts
+
+#EXTINF:-1 tvg-id="",Supersport RUGBY
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=457067&extension=ts
+
+#EXTINF:-1 tvg-id="",Supersport LA LIGA
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=457060&extension=ts
+
+#EXTINF:-1 tvg-id="",Supersport PREMIER LEAGUE
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=457059&extension=ts
+
+#EXTINF:-1 tvg-id="" ,Supersport PSL
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=457058&extension=ts
+
+#EXTINF:-1 tvg-id="",Supersport VARIETY 1
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=457062&extension=ts
+
+#EXTINF:-1 tvg-id="",Supersport VARIETY 2
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=457063&extension=ts
+
+#EXTINF:-1 tvg-id="",Supersport VARIETY 3
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=457064&extension=ts
+
+#EXTINF:-1 tvg-id="",Supersport VARIETY 4
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=457065&extension=ts
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="TNT.Sports.1.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png",BT Sport 1
 http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97146&extension=ts
 
