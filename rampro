@@ -214,6 +214,9 @@ http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325023&extension
 #EXTINF:-1 tvg-id="",HSN
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=436113&extension=ts
 
+#EXTINF:-1 tvg-id="The.Longhorn.Network.HDTV.(LONG).us" tvg-logo="https://docdog.top/Logotv/countries//longhornnetwork.png",Longhorn Network
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325814&extension=ts
+
 #EXTINF:-1 tvg-id="MLB.Network.HDTV.(DISH).(MLBHD).us" tvg-logo="https://docdog.top/Logotv/countries//mlbnetwork.png",MLB Network
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325002&extension=ts
 
