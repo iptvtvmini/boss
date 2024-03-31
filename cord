@@ -191,13 +191,13 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577964&extension=t
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Now HK Now Sports 1" group-title="NOW TV HONG KONG",Now HK Now Sports 1
+#EXTINF:-1 tvg-id="",Now Sports 1
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:1c:5d:9e&stream=1497551&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Now HK Now Sports 2" group-title="NOW TV HONG KONG",Now HK Now Sports 2
+#EXTINF:-1 tvg-id="",Now Sports 2
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:1c:5d:9e&stream=1497552&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Now HK Now Sports 3" group-title="NOW TV HONG KONG",Now HK Now Sports 3
+#EXTINF:-1 tvg-id="",Now Sports 3
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:1c:5d:9e&stream=1497553&extension=ts
 
 
