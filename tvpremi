@@ -147,55 +147,62 @@ http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/142.ts
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="UK| EUROSPORT 1 FHD" group-title="UK| SPORTS",UK| EUROSPORT 1 FHD
+#EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/eurosport1.png",EuroSport 1
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=30541&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="UK| EUROSPORT 2 FHD" group-title="UK| SPORTS",UK| EUROSPORT 2 FHD
+#EXTINF:-1 tvg-id="Eurosport.2.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/eurosport2.png",Eurosport 2
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=30540&extension=ts
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="UK| TNT SPORTS 1 HD" group-title="UK| SPORTS",UK| TNT SPORTS 1 HD
+#EXTINF:-1 tvg-id="TNT.Sports.1.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png",BT Sport 1
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=79486&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="UK| TNT SPORTS 2 HD" group-title="UK| SPORTS",UK| TNT SPORTS 2 HD
+#EXTINF:-1 tvg-id="TNT.Sports.2.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsports2vip.png",BT Sport 2
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=79485&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK| TNT SPORTS 3 HD" group-title="UK| SPORTS",UK| TNT SPORTS 3 HD
+
+#EXTINF:-1 tvg-id="TNT.Sports.3.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport3.png",BT Sport 3
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=79484&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK| TNT SPORTS 4 HD" group-title="UK| SPORTS",UK| TNT SPORTS 4 HD
+
+#EXTINF:-1 tvg-id="TNT.Sports.4.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",BT 4
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1002857&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK| TNT SPORTS 5 HD" group-title="UK| SPORTS",UK| TNT SPORTS 5 HD
+
+#EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",BT Sport 5
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1004549&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="UK| TNT SPORTS ESPN HD" group-title="UK| SPORTS",UK| TNT SPORTS ESPN HD
+
+#EXTINF:-1 tvg-id="TNT.Sports.4.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",BT Sport ESPN
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=79483&extension=ts
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="CA| TSN1 FHD" group-title="CA| SPORT",CA| TSN1 FHD
+#EXTINF:-1 tvg-id="The.Sports.Network.HDTV.(TSNHD).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn1",TSN 1
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=904216&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="CA| TSN2 FHD" group-title="CA| SPORT",CA| TSN2 FHD
+#EXTINF:-1 tvg-id="The.Sports.Network.2.HDTV.(TSN2D).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn2.png",TSN 2
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=904215&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="CA| TSN3 FHD" group-title="CA| SPORT",CA| TSN3 FHD
+#EXTINF:-1 tvg-id="The.Sports.Network.3.HDTV.(TSN3HD).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn3.png",TSN 3
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=904214&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="CA| TSN4 FHD" group-title="CA| SPORT",CA| TSN4 FHD
+#EXTINF:-1 tvg-id="The.Sports.Network.4.HDTV.(TSN4H).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn4.png",TSN 4
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=904213&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="CA| TSN5 FHD" group-title="CA| SPORT",CA| TSN5 FHD
+#EXTINF:-1 tvg-id="The.Sports.Network.5.HDTV.(TSN5HD).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn5.png",TSN 5
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=904212&extension=ts
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="US| ESPN HD" group-title="US| SPORTS NETWORK",US| ESPN HD
+#EXTINF:-1 tvg-id="ESPN.HDTV.(Dish).(ESPNHD).us" tvg-logo="https://docdog.top/Logotv/countries//espn1.png",ESPN
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45579&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="US| ESPN 2 HD" group-title="US| SPORTS NETWORK",US| ESPN 2 HD
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45580&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="US| ESPN NEWS HD" group-title="US| SPORTS NETWORK",US| ESPN NEWS HD
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45578&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="US| ESPN U" group-title="US| SPORTS NETWORK",US| ESPN U
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=90958&extension=ts
 
