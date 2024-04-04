@@ -592,11 +592,14 @@ http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=326002&extension
 #EXTINF:-1 tvg-id="SCRNWST.ScreenPix.Westerns.us" tvg-logo="https://docdog.top/Logotv/countries//dumisa.png",ScreenPix Westerns
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=326001&extension=ts
 
-#EXTINF:-1 tvg-id="",SCREENPIX ACTION
+#EXTINF:-1 tvg-id="SCRNACT.ScreenPix.Action.us" tvg-logo="https://docdog.top/Logotv/countries//dumisa.png",ScreenPix Action
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=326000&extension=ts
 
 #EXTINF:-1 tvg-id="SCRNVOI.ScreenPix.Voices.us" tvg-logo="https://docdog.top/Logotv/countries//dumisa.png",ScreenPix Voices
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325999&extension=ts
+
+#EXTINF:-1 tvg-id="HDNet.Movies.(HDNTM).us" tvg-logo="https://docdog.top/Logotv/countries//hdnetmovies.png",HDNet Movies
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325885&extension=ts
 
 
 
@@ -605,6 +608,9 @@ http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325999&extension
 
 #EXTINF:-1 tvg-id="Cinemax.HDTV.(East).(MAXHD).us" tvg-logo="https://docdog.top/Logotv/countries//cinemax.png",CineMAX
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325982&extension=ts
+
+#EXTINF:-1 tvg-id="",CINEMAX ACTION
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325983&extension=ts
 
 #EXTINF:-1 tvg-id="5StarMAX.HD.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cinemax-5-starmax-us.png",5StarMAX
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=436158&extension=ts
@@ -615,9 +621,6 @@ http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=436159&extension
 
 #EXTINF:-1 tvg-id="ActionMAX.HDTV.(East).(AMXHD).us" tvg-logo="https://docdog.top/Logotv/countries//actionmax.png",ActionMAX
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325984&extension=ts
-
-#EXTINF:-1 tvg-id="",CINEMAX ACTION
-http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325983&extension=ts
 
 #EXTINF:-1 tvg-id="More.Max.(East).(MOMAX).us" tvg-logo="https://docdog.top/Logotv/countries//cinemaxmoremax.png",MoreMAX
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325970&extension=ts
@@ -643,9 +646,6 @@ http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325816&extension
 
 #EXTINF:-1 tvg-id="RetroPlex.HDTV.(RETROHD).us" tvg-logo="https://docdog.top/Logotv/countries//retroplex.png",RetroPlex
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325808&extension=ts
-
-#EXTINF:-1 tvg-id="",HD NET MOVIES
-http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325885&extension=ts
 
 
 
