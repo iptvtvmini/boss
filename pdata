@@ -414,8 +414,7 @@ http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=61400&exten
 
 
 
-#EXTINF:-1 tvg-id="DMAX.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/dmax.png",DMAX
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=97060&extension=ts
+
 
 
 
@@ -437,6 +436,29 @@ http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=61449&exten
 
 
 
+#EXTINF:-1 tvg-id="5StarMAX.HD.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cinemax-5-starmax-us.png",5StarMAX
+
+#EXTINF:-1 tvg-id="Cinemax.HDTV.(East).(MAXHD).us" tvg-logo="https://docdog.top/Logotv/countries//cinemax.png",CineMAX
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=61464&extension=ts
+
+#EXTINF:-1 tvg-id="ActionMAX.HDTV.(East).(AMXHD).us" tvg-logo="https://docdog.top/Logotv/countries//actionmax.png",ActionMAX
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=61469&extension=ts
+
+#EXTINF:-1 tvg-id="More.Max.(East).(MOMAX).us" tvg-logo="https://docdog.top/Logotv/countries//cinemaxmoremax.png",MoreMAX
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=61390&extension=ts
+
+#EXTINF:-1 tvg-id="MOVIEMAX.HDTV.(MMXHD).us" tvg-logo="https://docdog.top/Logotv/countries/turkey/movie-smart-fest-tr.png",MovieMAX
+
+#EXTINF:-1 tvg-id="OuterMax.east.us" tvg-logo="https://docdog.top/Logotv/countries//outermax.png",OuterMAX
+
+#EXTINF:-1 tvg-id="ThrillerMAX.HDTV.(East).(TMXHD).us" tvg-logo="https://docdog.top/Logotv/countries//thrillermax.png",ThrillerMAX
+
+
+#EXTINF:-1 tvg-id="MoviePlex.East.(MPLEX).us" tvg-logo="https://docdog.top/Logotv/countries//movieplex.png",MoviePlex
+
+#EXTINF:-1 tvg-id="IndiePlex.HDTV.(INDIEHD).us" tvg-logo="https://docdog.top/Logotv/countries//indieplex.png",IndiePlex
+
+#EXTINF:-1 tvg-id="RetroPlex.HDTV.(RETROHD).us" tvg-logo="https://docdog.top/Logotv/countries//retroplex.png",RetroPlex
 
 
 #EXTINF:-1 tvg-id="Sky.Drama.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemadrama.png",Sky Drama
@@ -461,7 +483,8 @@ http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=97076&exten
 
 
 
-
+#EXTINF:-1 tvg-id="DMAX.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/dmax.png",DMAX
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=97060&extension=ts
 
 
 
