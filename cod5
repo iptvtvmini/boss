@@ -159,7 +159,7 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577922&extension=ts
 http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577923&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety3.png",SuperSports VARIETY 3
-http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577918&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=144419&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety4.png",SuperSports VARIETY 4
 http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577919&extension=ts
