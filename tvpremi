@@ -915,5 +915,84 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=741955&ex
 
 
 
+#EXTINF:-1 tvg-id="",JACKIE CHAN MOVIES
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1295630&extension=ts
+
+#EXTINF:-1 tvg-id="",CLINT EASTWOOD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1187708&extension=ts
+
+#EXTINF:-1 tvg-id="",EDDY MURPHY
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=558932&extension=ts
+
+#EXTINF:-1 tvg-id="",ARNOLD SCHWARZENEGGER
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=534117&extension=ts
+
+
+#EXTINF:-1 tvg-id="",SIX MILLION DOLLAR MAN
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=534105&extension=ts
+
+#EXTINF:-1 tvg-id="",KNIGHT RIDER 1982-1986
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1207320&extension=ts
+
+#EXTINF:-1 tvg-id="",BORDER SECURITY
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1002805&extension=ts
+
+#EXTINF:-1 tvg-id="",BACK TO THE FUTURE
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=558799&extension=ts
+
+#EXTINF:-1 tvg-id="",RUSH HOUR
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=558771&extension=ts
+
+#EXTINF:-1 tvg-id="",DIE HARD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=558764&extension=ts
+
+
+
+
+
+#EXTINF:-1 tvg-id="",SCIFI MOVIES
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=558770&extension=ts
+
+#EXTINF:-1 tvg-id="",THRILLER MOVIES
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=558933&extension=ts
+
+#EXTINF:-1 tvg-id="",FAMILY MOVIES
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=558796&extension=ts
+
+#EXTINF:-1 tvg-id="",COMEDY MOVIES
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=558930&extension=ts
+
+#EXTINF:-1 tvg-id="",CRIME MOVIES
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=558762&extension=ts
+
+#EXTINF:-1 tvg-id="",HORROR MOVIES
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=558791&extension=ts
+
+#EXTINF:-1 tvg-id="",SUPERHERO MOVIES
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=558765&extension=ts
+
+
+
+
+#EXTINF:-1 tvg-id="",WESTERN 1
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=924749&extension=ts
+
+#EXTINF:-1 tvg-id="",WESTERN 2
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=924750&extension=ts
+
+#EXTINF:-1 tvg-id="",WESTERN 3
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=924751&extension=ts
+
+#EXTINF:-1 tvg-id="",WESTERN 4
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=924752&extension=ts
+
+#EXTINF:-1 tvg-id="",WESTERN 5
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=924753&extension=ts
+
+#EXTINF:-1 tvg-id="",WESTERN 6
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=924754&extension=ts
+
+
+
 
 
