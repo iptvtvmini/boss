@@ -377,6 +377,45 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=90970&ext
 
 
 
+#EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsaction.png",Sky Sport Action
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=83456&extension=ts
+
+#EXTINF:-1 tvg-id="SkySp.ArenaHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsarena.png",Sky Sport Arena
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=83455&extension=ts
+
+#EXTINF:-1 tvg-id="SkySpBoxOff.uk" tvg-logo="",SkySport Box Office
+#EXTINF:-1 tvg-id="SkySpCricket.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-sports-cricket-uk.png",Sky Sport Cricket
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=83454&extension=ts
+
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsf1.png",Sky Sport F1
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=83453&extension=ts
+
+#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsfootball.png",Sky Sport Football
+
+
+#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsfootball.png",Sky Sport Football
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=83452&extension=ts
+
+#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsgolf.png",Sky Sport Golf
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=83451&extension=ts
+
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsmainevent.png",Sky Sport Main Event
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=83450&extension=ts
+
+#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsmix.png",Sky Sport Mix
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=83449&extension=ts
+
+#EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/germany/sky-sport/sky-sport-news-alt-de.png",Sky Sport News
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=83448&extension=ts
+
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-sports-premier-league-uk.png",Sky Sport Primere League
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=83447&extension=ts
+
+#EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsracing.png",Sky Sport Racing
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=83446&extension=ts
+
+#EXTINF:-1 tvg-id="",SKY SPORTS TENNIS
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1454231&extension=ts
 
 
 
@@ -767,10 +806,22 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45444&ext
 
 
 
+
+
+
+
+
 #EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbcone.png",BBC 1
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=30581&extension=ts
+
 #EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbc2.png",BBC 2
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=30580&extension=ts
+
 #EXTINF:-1 tvg-id="BBC.Three.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbc3.png",BBC 3
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45336&extension=ts
+
 #EXTINF:-1 tvg-id="BBC.Four.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbc4.png",BBC 4
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45335&extension=ts
 
 #EXTINF:-1 tvg-id="Channel.4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/channel4.png",Channel 4
 #EXTINF:-1 tvg-id="4seven.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/4seven.png",4 Seven
@@ -786,35 +837,82 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45444&ext
 #EXTINF:-1 tvg-id="Challenge.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/challenge.png",Challenge
 
 
+#EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv1.png",ITV1
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=30533&extension=ts
+
+#EXTINF:-1 tvg-id="ITV2.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv2.png",ITV2
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=30532&extension=ts
+
+#EXTINF:-1 tvg-id="ITV3.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv3.png",ITV3
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=30531&extension=ts
+
+#EXTINF:-1 tvg-id="ITV4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv4.png",ITV4
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=30530&extension=ts
+
+#EXTINF:-1 tvg-id="ITVBe.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itvbe.png",ITVBe
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45333&extension=ts
 
 
 
 #EXTINF:-1 tvg-id="Sky.Cinema.Hits.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemahits.png",Sky Cinema Hits
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=30510&extension=ts
+
 #EXTINF:-1 tvg-id="Sky.Cinema.Select.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaselect.png",Sky Cinema Select
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=949137&extension=ts
+
 #EXTINF:-1 tvg-id="Sky.Action.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaaction.png",Sky Action
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=30517&extension=ts
+
 #EXTINF:-1 tvg-id="SkyAnimationHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaanimation.png",Sky Animation
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=30513&extension=ts
+
 #EXTINF:-1 tvg-id="Sky.Comedy.Cinema.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemacomedy.png",Sky Cinema Comedy
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=30516&extension=ts
+
 #EXTINF:-1 tvg-id="Sky.Comedy.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemacomedy.png",Sky Comedy
 #EXTINF:-1 tvg-id="Sky.Crime.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemacrime-thriller.png",Sky Crime
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=164073&extension=ts
+
 #EXTINF:-1 tvg-id="Sky.Drama.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemadrama.png",Sky Drama
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=30514&extension=ts
+
 #EXTINF:-1 tvg-id="Sky.Family.HD.uk" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Family.png",Sky Family
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=79467&extension=ts
+
 #EXTINF:-1 tvg-id="Sky.Greats.HD.uk" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Greats.png",Sky Greats
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=30512&extension=ts
+
 #EXTINF:-1 tvg-id="SkyPremiereHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemapremiere.png",Sky Premiere
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=30509&extension=ts
+
 #EXTINF:-1 tvg-id="Sky.ScFi/HorHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemasci.png",Sky Cinema ScFi
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=30508&extension=ts
+
 #EXTINF:-1 tvg-id="Sky.Sci-Fi.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemasci.png",Sky Sci-Fi
 #EXTINF:-1 tvg-id="Sky.Thriller.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemathriller.png",Sky Thriller
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=30506&extension=ts
 
 #EXTINF:-1 tvg-id="Sky.Witness.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skywitness.png",Sky Witness
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=83704&extension=ts
+
 #EXTINF:-1 tvg-id="SkyShowcaseHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemashowcase.png",Sky Showcase
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=741952&extension=ts
 
 #EXTINF:-1 tvg-id="Sky.Adventure.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaaction.png",Sky Adventure
 
 #EXTINF:-1 tvg-id="Sky.Arts.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skyarts.png",Sky Arts
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=30519&extension=ts
+
 #EXTINF:-1 tvg-id="Sky.Atlantic.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skyatlantic.png",Sky Atlantic
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=30518&extension=ts
 
 #EXTINF:-1 tvg-id="Sky.Kids.HD.uk" tvg-logo="",Sky Kids
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45328&extension=ts
+
 #EXTINF:-1 tvg-id="Sky.Max.HD.uk" tvg-logo="https://docdog.top/Logotv/countries//skymax.png",Sky Max
-#EXTINF:-1 tvg-id="SkyMegaHitsHD.uk" tvg-logo="",Sky MegaHits
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=741955&extension=ts
+
+
 
 
 
