@@ -197,58 +197,62 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=904212&ex
 #EXTINF:-1 tvg-id="ESPN.HDTV.(Dish).(ESPNHD).us" tvg-logo="https://docdog.top/Logotv/countries//espn1.png",ESPN
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45579&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US| ESPN 2 HD" group-title="US| SPORTS NETWORK",US| ESPN 2 HD
+#EXTINF:-1 tvg-id="ESPN2.HDTV.(Dish).(ESPN2HD).us" tvg-logo="https://docdog.top/Logotv/countries//espn2.png",ESPN 2
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45580&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US| ESPN NEWS HD" group-title="US| SPORTS NETWORK",US| ESPN NEWS HD
+#EXTINF:-1 tvg-id="",ESPN NEWS
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45578&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US| ESPN U" group-title="US| SPORTS NETWORK",US| ESPN U
+#EXTINF:-1 tvg-id="ESPNU.HDTV.(ESPNUHD).us" tvg-logo="https://docdog.top/Logotv/countries//espnu.png",ESPN U
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=90958&extension=ts
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="US| FOX SPORTS 1 HD" group-title="US| SPORTS NETWORK",US| FOX SPORTS 1 HD
+#EXTINF:-1 tvg-id="Fox.Sports.1.HDTV.(FS1HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-sports-1-us.png",Fox Sports 1
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45571&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="US| FOX SPORTS 2 HD" group-title="US| SPORTS NETWORK",US| FOX SPORTS 2 HD
+
+#EXTINF:-1 tvg-id="Fox.Sports.2.HDTV.(FS2HD).us" tvg-logo="https://docdog.top/Logotv/countries//foxsport2.png",Fox Sports 2
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45570&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="US| FOX SOCCER PLUS HD" group-title="US| SPORTS NETWORK",US| FOX SOCCER PLUS HD
+
+#EXTINF:-1 tvg-id="Fox.Soccer.Plus.(FSPLUS).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png",Fox Soccer Plus
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45572&extension=ts
 
 
 
 
 
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="US| ACC NETWORK HD" group-title="US| SPORTS NETWORK",US| ACC NETWORK HD
+#EXTINF:-1 tvg-id="",ACC NETWORK
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=90960&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="US| AFN SPORT" group-title="US| SPORTS NETWORK",US| AFN SPORT
+
+#EXTINF:-1 tvg-id="",AFN SPORT
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1099330&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="US| ALTITUDE SPORTS HD" group-title="US| SPORTS NETWORK",US| ALTITUDE SPORTS HD
+
+#EXTINF:-1 tvg-id="",ALTITUDE SPORTS
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=460918&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="US| ALTITUDE SPORTS 2 HD" group-title="US| SPORTS NETWORK",US| ALTITUDE SPORTS 2 HD
+
+#EXTINF:-1 tvg-id="",ALTITUDE SPORTS 2
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1060883&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US| AT&T SPORTSNET SOUTHWEST HD" group-title="US| SPORTS NETWORK",US| AT&T SPORTSNET SOUTHWEST HD
+#EXTINF:-1 tvg-id="",AT&T SPORTSNET SOUTHWEST
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=91892&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US| SPORTSNET PITTSBURGH HD" group-title="US| SPORTS NETWORK",US| SPORTSNET PITTSBURGH HD
+#EXTINF:-1 tvg-id="",SPORTSNET PITTSBURGH
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=272825&extension=ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="US| MASN" group-title="US| SPORTS NETWORK",US| MASN
+#EXTINF:-1 tvg-id="",MASN
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1145055&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="US| MASN 2" group-title="US| SPORTS NETWORK",US| MASN 2
+
+#EXTINF:-1 tvg-id="",MASN 2
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1292023&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="US| MARQUEE SPORTS NETWORK HD" group-title="US| SPORTS NETWORK",US| MARQUEE SPORTS NETWORK HD
+
+#EXTINF:-1 tvg-id="",MARQUEE SPORTS NETWORK
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=272828&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="US| ROOT SPORTS" group-title="US| SPORTS NETWORK",US| ROOT SPORTS
+
+#EXTINF:-1 tvg-id="",ROOT SPORTS
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=272827&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="US| BIG TEN NETWORK HD" group-title="US| SPORTS NETWORK",US| BIG TEN NETWORK HD
+
+#EXTINF:-1 tvg-id="Big.Ten.Network.HDTV.(National).(BTNHD).us" tvg-logo="https://docdog.top/Logotv/countries//bigtennetwork.png",Big Ten Network
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45609&extension=ts
 
 
@@ -256,21 +260,25 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45609&ext
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="US| BEIN SPORTS HD" group-title="US| SPORTS NETWORK",US| BEIN SPORTS HD
+#EXTINF:-1 tvg-id="",BEIN SPORTS 1
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45611&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US| BEIN SPORTS 2 HD" group-title="US| SPORTS NETWORK",US| BEIN SPORTS 2 HD
+#EXTINF:-1 tvg-id="",BEIN SPORTS 2
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=83953&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US| BEIN SPORTS 4 HD" group-title="US| SPORTS NETWORK",US| BEIN SPORTS 4 HD
+#EXTINF:-1 tvg-id="",BEIN SPORTS 4
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=83954&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="US| BEIN SPORTS 5 HD" group-title="US| SPORTS NETWORK",US| BEIN SPORTS 5 HD
+
+#EXTINF:-1 tvg-id="",BEIN SPORTS 5
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=83955&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="US| BEIN SPORTS 6 HD" group-title="US| SPORTS NETWORK",US| BEIN SPORTS 6 HD
+
+#EXTINF:-1 tvg-id="",BEIN SPORTS 6
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=83956&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="US| BEIN SPORTS 7 HD" group-title="US| SPORTS NETWORK",US| BEIN SPORTS 7 HD
+
+#EXTINF:-1 tvg-id="",BEIN SPORTS 7
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=83957&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="US| BEIN SPORTS 8 HD" group-title="US| SPORTS NETWORK",US| BEIN SPORTS 8 HD
+
+#EXTINF:-1 tvg-id="",BEIN SPORTS 8
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=83958&extension=ts
 
 
@@ -278,52 +286,56 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=83958&ext
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="US| CBS SPORTS NETWORK HD" group-title="US| SPORTS NETWORK",US| CBS SPORTS NETWORK HD
+#EXTINF:-1 tvg-id="CBS.Sports.Network.HDTV.(CBSSD).us" tvg-logo="https://docdog.top/Logotv/countries//cbssports.png",CBS Sports Network
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45601&extension=ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="US| CBS SPORTS GALAZO NETWORK HD" group-title="US| SPORTS NETWORK",US| CBS SPORTS GALAZO NETWORK HD
+#EXTINF:-1 tvg-id="",CBS SPORTS GALAZO NETWORK
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1293199&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US| CSN WASHINGTON HD" group-title="US| SPORTS NETWORK",US| CSN WASHINGTON HD
+#EXTINF:-1 tvg-id="",CSN WASHINGTON
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=90940&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US| COWBOY CHANNEL" group-title="US| SPORTS NETWORK",US| COWBOY CHANNEL
+#EXTINF:-1 tvg-id="The.Cowboy.Channel.(COWBOY).us" tvg-logo="",Cowboy Channel
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=91951&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US| LONGHORN NETWORK HD" group-title="US| SPORTS NETWORK",US| LONGHORN NETWORK HD
+#EXTINF:-1 tvg-id="The.Longhorn.Network.HDTV.(LONG).us" tvg-logo="https://docdog.top/Logotv/countries//longhornnetwork.png",Longhorn Network
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45540&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US| MLB NETWORK" group-title="US| SPORTS NETWORK",US| MLB NETWORK
+#EXTINF:-1 tvg-id="MLB.Network.HDTV.(DISH).(MLBHD).us" tvg-logo="https://docdog.top/Logotv/countries//mlbnetwork.png",MLB Network
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45539&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US| NBC SPORTS NETWORK" group-title="US| SPORTS NETWORK",US| NBC SPORTS NETWORK
+#EXTINF:-1 tvg-id="NBCSNWH.NBC.Sports.Northwest.HD.us" tvg-logo="https://docdog.top/Logotv/countries//nbcnewyork.png",NBC Sport
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=234677&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US| NBC SPORTS UHD/4K" group-title="US| SPORTS NETWORK",US| NBC SPORTS UHD/4K
+#EXTINF:-1 tvg-id="NBCSNWH.NBC.Sports.Northwest.HD.us" tvg-logo="https://docdog.top/Logotv/countries//nbcnewyork.png",NBC Sport
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1124350&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US| NBC BAY AREA HD" group-title="US| SPORTS NETWORK",US| NBC BAY AREA HD
+#EXTINF:-1 tvg-id="",NBC BAY AREA
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=91893&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US| NBC GOLF" group-title="US| SPORTS NETWORK",US| NBC GOLF
+#EXTINF:-1 tvg-id="The.Golf.Channel.HDTV.(GLFHD).us" tvg-logo="https://docdog.top/Logotv/countries//nbcgolfchannel.png",NBC Golf
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45532&extension=ts
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="US| NESN HD" group-title="US| NEWS NETWORK",US| NESN HD
+#EXTINF:-1 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/nesn-us.png",NESN
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45528&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US| NESN PLUS HD" group-title="US| SPORTS NETWORK",US| NESN PLUS HD
+#EXTINF:-1 tvg-id="",NESN PLUS
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=91903&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US| PAC 12 WASHINGTON HD" group-title="US| SPORTS NETWORK",US| PAC 12 WASHINGTON HD
+#EXTINF:-1 tvg-id="Pac-12.Network.HDTV.(PAC12).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/pac-12-los-angeles-us.png",PAC-12 NETWORK
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45511&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="US| SEC NETWORK HD" group-title="US| SPORTS NETWORK",US| SEC NETWORK HD
+
+#EXTINF:-1 tvg-id="SEC.Network.HDTV.(SECN).us" tvg-logo="https://docdog.top/Logotv/countries//secnetwork.png",SEC NETWORK
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45506&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="US| SPORTSMAN CHANNEL HD" group-title="US| SPORTS NETWORK",US| SPORTSMAN CHANNEL HD
+
+#EXTINF:-1 tvg-id="The.Sportsman.Channel.HDTV.(SPTMANHD).us" tvg-logo="https://docdog.top/Logotv/countries//sportsmanchannel.png",Sportman Channel
+
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=91873&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="US| SPORTSNET NEW YORK HD" group-title="US| SPORTS NETWORK",US| SPORTSNET NEW YORK HD
+
+#EXTINF:-1 tvg-id="",SPORTSNET NEW YORK HD
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=90946&extension=ts
 
 
