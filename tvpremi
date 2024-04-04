@@ -580,7 +580,14 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45538&ext
 #EXTINF:-1 tvg-id="OuterMax.east.us" tvg-logo="https://docdog.top/Logotv/countries//outermax.png",OuterMAX
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45519&extension=ts
 
+#EXTINF:-1 tvg-id="IndiePlex.HDTV.(INDIEHD).us" tvg-logo="https://docdog.top/Logotv/countries//indieplex.png",IndiePlex
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45543&extension=ts
 
+#EXTINF:-1 tvg-id="RetroPlex.HDTV.(RETROHD).us" tvg-logo="https://docdog.top/Logotv/countries//retroplex.png",RetroPlex
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45507&extension=ts
+
+#EXTINF:-1 tvg-id="MoviePlex.East.(MPLEX).us" tvg-logo="https://docdog.top/Logotv/countries//movieplex.png",MoviePlex
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45536&extension=ts
 
 
 
@@ -648,14 +655,7 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=91789&ext
 
 
 
-#EXTINF:-1 tvg-id="IndiePlex.HDTV.(INDIEHD).us" tvg-logo="https://docdog.top/Logotv/countries//indieplex.png",IndiePlex
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45543&extension=ts
 
-#EXTINF:-1 tvg-id="RetroPlex.HDTV.(RETROHD).us" tvg-logo="https://docdog.top/Logotv/countries//retroplex.png",RetroPlex
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45507&extension=ts
-
-#EXTINF:-1 tvg-id="MoviePlex.East.(MPLEX).us" tvg-logo="https://docdog.top/Logotv/countries//movieplex.png",MoviePlex
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45536&extension=ts
 
 
 
