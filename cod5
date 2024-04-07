@@ -119,73 +119,6 @@ http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/142.ts
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportaction.png",SuperSports ACTION
-http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577933&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportcricket.png",SuperSports CRICKET
-http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577916&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportlaliga.png",SuperSports LA LIGA
-http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577929&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//supersporttennis.png",SuperSports TENNIS
-http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577928&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportpsl.png",SuperSports PSL
-http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577926&extension=ts
-
-#EXTINF:-1 tvg-id="",SuperSports Priemier League
-http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577930&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportgolf.png",SuperSports GOLF
-http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577925&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportgrandstand.png",SuperSports GRANDSTAND
-http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577924&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportrugby.png",SuperSports RUGBY
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577917&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportmotorsport.png",SuperSports MOTORSPORT
-http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577921&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportfootball.png",SuperSports FOOTBALL
-http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577920&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety1.png",SuperSports VARIETY 1
-http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577922&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety2.png",SuperSports VARIETY 2
-http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577923&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety3.png",SuperSports VARIETY 3
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=144419&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety4.png",SuperSports VARIETY 4
-http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577919&extension=ts
-
-#EXTINF:-1 tvg-id="",SuperSports BLITZ
-http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577927&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//supersportmaximo1.png",SuperSports MAXIMO
-http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577934&extension=ts
-
-#EXTINF:-1 tvg-id="",SuperSports PLAY 1
-http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577932&extension=ts
-
-#EXTINF:-1 tvg-id="",SuperSports PLAY 2
-http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577931&extension=ts
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="",NOW SPORTS 1 (HK)
-http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=827932&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="",NOW SPORTS 2
-http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=827931&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="",NOW SPORTS 3
-http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=827930&extension=ts
 
 
 
@@ -297,6 +230,90 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=487804&extension=ts
 
 #EXTINF:-1 tvg-id="The.Sports.Network.5.HDTV.(TSN5HD).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn5.png" group-title="",TSN 5
 http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=487803&extension=ts
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety1.png",SuperSports VARIETY 1
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577922&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety2.png",SuperSports VARIETY 2
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577923&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety3.png",SuperSports VARIETY 3
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=144419&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety4.png",SuperSports VARIETY 4
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577919&extension=ts
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportaction.png",SuperSports ACTION
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577933&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportcricket.png",SuperSports CRICKET
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577916&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportlaliga.png",SuperSports LA LIGA
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577929&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//supersporttennis.png",SuperSports TENNIS
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577928&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportpsl.png",SuperSports PSL
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577926&extension=ts
+
+#EXTINF:-1 tvg-id="",SuperSports Priemier League
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577930&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportgolf.png",SuperSports GOLF
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577925&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportgrandstand.png",SuperSports GRANDSTAND
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577924&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportrugby.png",SuperSports RUGBY
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577917&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportmotorsport.png",SuperSports MOTORSPORT
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577921&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportfootball.png",SuperSports FOOTBALL
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577920&extension=ts
+
+
+#EXTINF:-1 tvg-id="",SuperSports BLITZ
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577927&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//supersportmaximo1.png",SuperSports MAXIMO
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577934&extension=ts
+
+#EXTINF:-1 tvg-id="",SuperSports PLAY 1
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577932&extension=ts
+
+#EXTINF:-1 tvg-id="",SuperSports PLAY 2
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577931&extension=ts
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="",NOW SPORTS 1 (HK)
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=827932&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="",NOW SPORTS 2
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=827931&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="",NOW SPORTS 3
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=827930&extension=ts
+
+
+
+
+
+
+
+
+
+
 
 
 
