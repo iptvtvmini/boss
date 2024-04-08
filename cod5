@@ -761,3 +761,56 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AA:E9:29&stream=1790291&exte
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",EDDY MURPHY
 http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=617160&extension=ts
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Marvel 1
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=705073&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Marvel 2
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=705076&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Marvel 3
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=705075&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Marvel 4
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=705074&extension=ts
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Western 1
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=705055&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Western 2
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=705054&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Western 3
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=705053&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Western 4
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=705052&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Western 5
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=705051&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Western 6
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=705050&extension=ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
