@@ -564,6 +564,44 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=552050&extension=ts
 
 
 
+#EXTINF:-1 tvg-id="Sky.Action.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaaction.png",Sky Action
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577372&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Comedy.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemacomedy.png",Sky Comedy
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577371&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Witness.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skywitness.png",Sky Witness
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577370&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Drama.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemadrama.png",Sky Drama
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577369&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Family.HD.uk" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Family.png",Sky Family
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577368&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Greats.HD.uk" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Greats.png",Sky Greats
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577367&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Cinema.Hits.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemahits.png",Sky Cinema Hits
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577366&extension=ts
+
+#EXTINF:-1 tvg-id="SkyPremiereHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemapremiere.png",Sky Premiere
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577365&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.ScFi/HorHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemasci.png",Sky Cinema ScFi
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577364&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Thriller.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemathriller.png",Sky Thriller
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577363&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Comedy.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemacomedy.png",Sky Comedy
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577362&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Crime.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemacrime-thriller.png",Sky Crime
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577375&extension=ts
+
+
+
 
 #EXTINF:-1 tvg-id="National.Geographic.Channel.HDTV.(NGCHD).us" tvg-logo="https://docdog.top/Logotv/countries//natgeo.png",National Geographic
 http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=469407&extension=ts
@@ -625,23 +663,34 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577262&extension=ts
 #EXTINF:-1 tvg-id="ITV4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv4.png",ITV 4
 http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577260&extension=ts
 
-#EXTINF:-1 tvg-id="ITVBe.uk",ITV BE
+#EXTINF:-1 tvg-id="ITVBe.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itvbe.png",ITVBe
 http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577258&extension=ts
 
-#EXTINF:-1 tvg-id="Channel.4.HD.uk",CHANNEL 4
+#EXTINF:-1 tvg-id="Channel.4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/channel4.png",Channel 4
 http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577257&extension=ts
 
-#EXTINF:-1 tvg-id="Channel.5.HD.uk",CHANNEL 5
-http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577256&extension=ts
-
-#EXTINF:-1 tvg-id="E4.HD.uk",E4
+#EXTINF:-1 tvg-id="E4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/e4.png",E4
 http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577255&extension=ts
 
-#EXTINF:-1 tvg-id="4seven.uk",4SEVEN
+#EXTINF:-1 tvg-id="4seven.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/4seven.png",4 Seven
 http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577253&extension=ts
 
+#EXTINF:-1 tvg-id="More4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/more4.png",More 4
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577518&extension=ts
 
+#EXTINF:-1 tvg-id="Film4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/film4.png",Film 4
 
+#EXTINF:-1 tvg-id="Channel.5.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/channel5.png",Channel 5
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577256&extension=ts
+
+#EXTINF:-1 tvg-id="5SELECT.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/5select.png",5 Select
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577501&extension=ts
+
+#EXTINF:-1 tvg-id="5STAR.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/5star.png",5 Star
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577500&extension=ts
+
+#EXTINF:-1 tvg-id="5.USA.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/usa.png",5USA
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577498&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/87_144.png",Action Movies
 http://mohdtv.com:8880/live/smarttv585cde006546/58672845/60207.ts
