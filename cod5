@@ -73,18 +73,6 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5e54187aae660e00093561d6" tvg-name="" tvg-logo="https://images.pluto.tv/channels/5e54187aae660e00093561d6/colorLogoPNG.png" group-title="",Game Show Central
 https://gsn-gameshowchannnel-1-us.vizio.wurl.tv/playlist.m3u8
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=683110&extension=ts
-
-
-
-
-
-#EXTINF:-1 tvg-id="Channel.5.HD.sg" tvg-name="Channel 5" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428076_ico.png" group-title="",Channel 5
-#EXTINF:-1 tvg-id="Channel.8.HD.sg" tvg-name="Channel 8" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428078_ico.png" group-title="",Channel 8
-#EXTINF:-1 tvg-id="Channel.U.HD.sg" tvg-name="Channel U" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428075_ico.png" group-title="",Channel U
-#EXTINF:-1 tvg-id="Suria.HD.sg" tvg-name="Suria" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428073_ico.png" group-title="",Suria
-
-
 
 
 
