@@ -407,6 +407,55 @@ http://89.45.13.153:25461/play/live.php?mac=00:1A:79:1c:5d:9e&stream=1497553&ext
 
 
 
+#EXTINF:-1 tvg-id="National.Geographic.Channel.HDTV.(NGCHD).us" tvg-logo="https://docdog.top/Logotv/countries//natgeo.png",National Geographic
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=469407&extension=m3u8
+
+#EXTINF:-1 tvg-id="NatGeo.WILD.HDTV.(NGWILD).us" tvg-logo="https://docdog.top/Logotv/countries//natgeowild.png",NatGeo WILD
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=469409&extension=m3u8
+
+#EXTINF:-1 tvg-id="Animal.Planet.HDTV.(East).(APHD).us" tvg-logo="https://docdog.top/Logotv/countries//animalplanet.png",Animal Planet
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=998385&extension=m3u8
+
+#EXTINF:-1 tvg-id="The.Discovery.Channel.HDTV.(East).(DSCHD).us" tvg-logo="https://docdog.top/Logotv/countries//discoverychannel.png",Discovery Channel
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=692993&extension=m3u8
+
+#EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HDTV.(CI.HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/crime-and-investigation-us.png",Crime&Investigation
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=469364&extension=m3u8
+
+#EXTINF:-1 tvg-id="Investigation.Discovery.HDTV.(IDHD).us" tvg-logo="https://docdog.top/Logotv/countries//investigationdiscovery.png",Investigation Discovery
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=469369&extension=m3u8
+
+#EXTINF:-1 tvg-id="Discovery.Life.Channel.(DLIF).us" tvg-logo="https://docdog.top/Logotv/countries//discoverylife.png",Discovery Life
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=469373&extension=m3u8
+
+#EXTINF:-1 tvg-id="Science.HDTV.(SCIHD).us" tvg-logo="",Discovery Science
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=469374&extension=m3u8
+
+#EXTINF:-1 tvg-id="The.Cooking.Channel.HDTV.(COOKHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cooking-channel-us.png",Cooking Channel
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=469363&extension=m3u8
+
+#EXTINF:-1 tvg-id="Food.Network.HDTV.(East).(FOODHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/food-network-us.png",Food Network
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=469386&extension=m3u8
+
+#EXTINF:-1 tvg-id="TASTE.Tastemade.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/tastemade-us.png",Tastemade
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=551789&extension=m3u8
+
+#EXTINF:-1 tvg-id="Magnolia.Network.HDTV.(MAGNOLIA).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/galavision-us.png",Magnolia Network
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=469379&extension=m3u8
+
+#EXTINF:-1 tvg-id="Home.and.Garden.Television.HDTV.(East).(HGTVD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/hgtv-us.png",HGTV
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=469392&extension=m3u8
+
+#EXTINF:-1 tvg-id="History.HDTV.(East).(HISHD).us" tvg-logo="https://docdog.top/Logotv/countries//history.png",History
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=469394&extension=m3u8
+
+#EXTINF:-1 tvg-id="History2.Canada.(H2).ca" tvg-logo="https://docdog.top/Logotv/countries/uk/history2.png",History 2
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=469395&extension=m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/abc-us.png",ABC 7
 http://cord-cutter.net:8080/live/95549031/69361122/120865.ts
@@ -729,7 +778,7 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577498&extension=t
 
 
 #EXTINF:-1 tvg-id="Nat.Geo.HD.uk" tvg-logo="https://docdog.top/Logotv/countries//natgeo.png",National Geographic
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577909&extension=m3u8
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577909&extension=ts
 
 #EXTINF:-1 tvg-id="Crime+Inv.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/united-states/crime-and-investigation-us.png",Crime&Investigation
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577905&extension=ts
