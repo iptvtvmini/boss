@@ -302,16 +302,14 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=708835&extension=t
 #EXTINF:-1 tvg-id="Sportsnet.360.HDTV.(360HD).ca" tvg-logo="https://docdog.top/Logotv/countries//sportsnet360.png",SPORTSNET 360
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487802&extension=ts
 
-
+#EXTINF:-1 tvg-id="WWE.Network.us" tvg-name="WWE Network" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png" group-title="",Sportnet WWE
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=708830&extension=ts
 
 #EXTINF:-1 tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" tvg-name="Tennis Channel HDTV (TNNSHD)" tvg-logo="https://docdog.top/Logotv/countries//tennischannel.png" group-title="",Tennis
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487689&extension=ts
 
 #EXTINF:-1 tvg-id="WWE.Network.us" tvg-name="WWE Network" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png" group-title="",WWE
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487679&extension=ts
-
-#EXTINF:-1 tvg-id="WWE.Network.us" tvg-name="WWE Network" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png" group-title="",Sportnet WWE
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=708830&extension=ts
 
 #EXTINF:-1 tvg-id="World.Fishing.Network.(US).(WFN).us" tvg-logo="https://docdog.top/Logotv/countries//worldfishingnetwork.png",World Fishing Network
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487658&extension=ts
