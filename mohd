@@ -139,18 +139,6 @@ http://mohdtv.com:8880/live/voby4681/59596648/1713.ts
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/eurosport1.png",EuroSport 1
 http://mohdtv.com:8880/live/voby4681/59596648/2917.ts
 
@@ -167,9 +155,6 @@ http://mohdtv.com:8880/live/voby4681/59596648/3080.ts
 
 #EXTINF:-1 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/nesn-us.png",NESN
 http://mohdtv.com:8880/live/voby4681/59596648/3081.ts
-
-
-
 
 #EXTINF:-1 tvg-id="ESPN.HDTV.(Dish).(ESPNHD).us" tvg-logo="https://docdog.top/Logotv/countries//espn1.png",ESPN
 http://mohdtv.com:8880/live/voby4681/59596648/3136.ts
@@ -223,11 +208,6 @@ http://mohdtv.com:8880/live/voby4681/59596648/3001.ts
 http://mohdtv.com:8880/live/voby4681/59596648/3000.ts
 
 
-
-
-
-
-
 #EXTINF:-1 tvg-id="BT.Sport.1.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png",BT Sport 1
 http://mohdtv.com:8880/live/voby4681/59596648/2943.ts
 
@@ -240,10 +220,8 @@ http://mohdtv.com:8880/live/voby4681/59596648/2941.ts
 #EXTINF:-1 tvg-id="BT.Sport.4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",BT Sport 4
 http://mohdtv.com:8880/live/voby4681/59596648/2940.ts
 
-
-
-
-
+#EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",BT Sport 5
+http://mohdtv.com:8880/live/voby4681/59596648/28941.ts
 
 
 #EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsmix.png",Sky Sport Mix
@@ -275,11 +253,6 @@ http://mohdtv.com:8880/live/voby4681/59596648/2870.ts
 
 #EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsracing.png",Sky Sport Racing
 http://mohdtv.com:8880/live/voby4681/59596648/28741.ts
-
-
-
-
-
 
 
 
@@ -364,23 +337,11 @@ http://mohdtv.com:8880/live/voby4681/59596648/64356.ts
 #EXTINF:-1 tvg-id="ActionMAX.HDTV.(East).(AMXHD).us" tvg-logo="https://docdog.top/Logotv/countries//actionmax.png",ActionMAX
 http://mohdtv.com:8880/live/voby4681/59596648/64351.ts
 
-#EXTINF:-1,CineMax Action
-http://mohdtv.com:8880/live/voby4681/59596648/64348.ts
-
-#EXTINF:-1,Cinemax Action Max
-http://mohdtv.com:8880/live/voby4681/59596648/64352.ts
-
 #EXTINF:-1 tvg-id="MOVIEMAX.HDTV.(MMXHD).us" tvg-logo="https://docdog.top/Logotv/countries/turkey/movie-smart-fest-tr.png",MovieMAX
 http://mohdtv.com:8880/live/voby4681/59596648/64349.ts
 
 #EXTINF:-1 tvg-id="ThrillerMAX.HDTV.(East).(TMXHD).us" tvg-logo="https://docdog.top/Logotv/countries//thrillermax.png",ThrillerMAX
 http://mohdtv.com:8880/live/voby4681/59596648/64353.ts
-
-
-
-
-#EXTINF:-1 tvg-id="ActionMAX.HDTV.(East).(AMXHD).us" tvg-logo="https://docdog.top/Logotv/countries//actionmax.png",ActionMAX
-http://mohdtv.com:8880/live/voby4681/59596648/3163.ts
 
 #EXTINF:-1 tvg-id="OuterMax.east.us" tvg-logo="https://docdog.top/Logotv/countries//outermax.png",OuterMAX
 http://mohdtv.com:8880/live/voby4681/59596648/64346.ts
@@ -588,13 +549,6 @@ http://mohdtv.com:8880/live/voby4681/59596648/3109.ts
 
 #EXTINF:-1 tvg-id="NatGeo.WILD.HDTV.(NGWILD).us" tvg-logo="https://docdog.top/Logotv/countries//natgeowild.png",NatGeo WILD
 http://mohdtv.com:8880/live/voby4681/59596648/30060.ts
-
-
-
-
-
-
-
 
 
 
