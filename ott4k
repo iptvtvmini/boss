@@ -219,22 +219,19 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577984&extension=t
 
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png",BT Sport 1
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=578001&extension=ts
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577967&extension=ts
 
 #EXTINF:-1 tvg-id="TNT.Sports.2.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsports2vip.png",BT Sport 2
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=578000&extension=ts
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577966&extension=ts
 
 #EXTINF:-1 tvg-id="TNT.Sports.3.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport3.png",BT Sport 3
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577999&extension=ts
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577965&extension=ts
 
 #EXTINF:-1 tvg-id="TNT.Sports.4.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",BT Sport ESPN
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=782732&extension=ts
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577964&extension=ts
 
 #EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",BT Sport 5
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=774607&extension=ts
-
-
-
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=774606&extension=ts
 
 
 #EXTINF:-1 tvg-id="Fox.Sports.1.HDTV.(FS1HD).us" tvg-name="Fox Sports 1 HDTV (FS1HD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-sports-1-us.png" group-title="",FOX SPORTS 1
