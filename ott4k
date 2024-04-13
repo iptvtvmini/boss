@@ -547,7 +547,7 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=678233&extension=m
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626995&extension=m3u8
 
 #EXTINF:-1 tvg-id="Citytv.Calgary.HDTV.(CTYCH).ca",CITY TV
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=1003473&extension=ts
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=1003473&extension=m3u8
 
 #EXTINF:-1 tvg-id="Much.HDTV.(MUCH).ca",MUCH
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626957&extension=m3u8
