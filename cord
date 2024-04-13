@@ -27,13 +27,14 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/index.m3u8?id=3
 #EXTINF:-1 tvg-id="TVS.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png",TVS
 https://stream.smg.my/live/tvs_1080p2628kbs/index.m3u8
 
-#EXTINF:-1 tvg-id="Awesome.TV.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png",Awesome TV
-http://mohdtv.com:8880/live/voby3037/69246643/71149.ts
+#EXTINF:-1 tvg-id="Awesome.TV.my" tvg-name="Awesome TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png",Awesome TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"f84fbe826d15755ef91ebcab67c57d10": "6a136b65d2d45699cb1e98506dfa1bee"}
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/211/default.mpd
 
 
-
-
- 
 #EXTINF:-1 tvg-id="RTMK07" tvg-name="Dewan Rakyat" tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="",Parlimen Dewan Rakyat
 https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/auto.m3u8?id=7
  
