@@ -555,8 +555,9 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626957&extension=m
 #EXTINF:-1 tvg-id="MTV.HDTV.(East).(MTVHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/mtv-us.png",MTV
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626921&extension=m3u8
 
-#EXTINF:-1 tvg-id="MTV2.(MTV2).ca" tvg-logo="https://docdog.top/Logotv/countries/uk/mtv.png",MTV 2
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626920&extension=m3u8
+#EXTINF:-1 tvg-id="MTV2.HDTV.(East).(MTV2HD).us" tvg-logo="https://docdog.top/Logotv/countries/uk/mtv.png",MTV 2
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=469541&extension=m3u8
+
 
 
 
