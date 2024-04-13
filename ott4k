@@ -503,13 +503,17 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=469395&extension=m
 
 
 
-
+#EXTINF:-1 tvg-id="",ABC
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=627030&extension=m3u8
 
 #EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/abc-us.png",ABC 7
 http://cord-cutter.net:8080/live/95549031/69361122/120865.ts
 
 #EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cbs-logo-white-us.png",CBS 2
 http://cord-cutter.net:8080/live/95549031/69361122/120749.ts
+
+#EXTINF:-1 tvg-id="",CNBC
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=627003&extension=m3u8
 
 #EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png",FOX 5
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=549764&extension=m3u8
@@ -520,6 +524,12 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=550187&extension=m
 #EXTINF:-1 tvg-id="CW.(WUPV).Richmond,.VA.us" tvg-logo="https://docdog.top/Logotv/countries//cw.png",CW 11
 http://cord-cutter.net:8080/live/95549031/69361122/120897.ts
 
+
+
+
+
+#EXTINF:-1 tvg-id="ABC.Spark.HDTV.(HABCS).ca",ABC Spark
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=627029&extension=m3u8
 
 #EXTINF:-1 tvg-id="CTV.Calgary.HDTV.(CTVHC).ca" tvg-logo="https://docdog.top/Logotv/countries//ctvcalgary.png",CTV
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626987&extension=m3u8
@@ -535,6 +545,18 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=678233&extension=m
 
 #EXTINF:-1 tvg-id="CTV.DRAMA.Channel.HDTV.(DRMHD).ca" tvg-logo="",CTV Drama
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626995&extension=m3u8
+
+#EXTINF:-1 tvg-id="Citytv.Calgary.HDTV.(CTYCH).ca",CITY TV
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=1003473&extension=ts
+
+#EXTINF:-1 tvg-id="Much.HDTV.(MUCH).ca",MUCH
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626957&extension=m3u8
+
+#EXTINF:-1 tvg-id="MTV.HDTV.(East).(MTVHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/mtv-us.png",MTV
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626921&extension=m3u8
+
+#EXTINF:-1 tvg-id="MTV2.(MTV2).ca" tvg-logo="https://docdog.top/Logotv/countries/uk/mtv.png",MTV 2
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626920&extension=m3u8
 
 
 
@@ -556,6 +578,9 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577898&extension=m
 
 #EXTINF:-1 tvg-id="BBC.America.HDTV.(East).(BBC).us" tvg-name="BBC America HDTV (East) (BBC)" tvg-logo="https://docdog.top/Logotv/countries/bbcamerica.png" group-title="",BBC America
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=469295&extension=ts
+
+#EXTINF:-1 tvg-id="Bravo.HDTV.(East).(BRAVOD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/bravo-us.png",Bravo
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=627020&extension=m3u8
 
 #EXTINF:-1 tvg-id="E!.Entertainment.Television.Canada.HDTV.(E!).ca" tvg-logo="https://docdog.top/Logotv/countries/united-states/e-entertainment-us.png",E! (CA)
 http://cord-cutter.net:8080/live/95549031/69361122/57422.ts
@@ -882,6 +907,35 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577877&extension=t
 
 #EXTINF:-1 tvg-id="Food.Network.uk" tvg-logo="https://docdog.top/Logotv/countries/united-states/food-network-us.png",Food Network
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577876&extension=ts
+
+
+
+#EXTINF:-1 tvg-id="Crave.1.HDTV.(East).(CRV1H).ca",Crave 1
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626859&extension=m3u8
+
+#EXTINF:-1 tvg-id="Crave.2.HDTV.(East).(CRV2H).ca",Crave 2
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626858&extension=m3u8
+
+#EXTINF:-1 tvg-id="Crave.3.HDTV.(East).(CRV3H).ca",Crave 3
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626857&extension=m3u8
+
+#EXTINF:-1 tvg-id="Crave.4.(East).(CRVM4).ca",Crave 4
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626856&extension=m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="",Movie Network 1
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626881&extension=m3u8
+
+#EXTINF:-1 tvg-id="",Movie Network 2
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626880&extension=m3u8
+
+#EXTINF:-1 tvg-id="",Movie Network 3
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626879&extension=m3u8
+
+#EXTINF:-1 tvg-id="",Movie Network 4
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626878&extension=m3u8
 
 
 
