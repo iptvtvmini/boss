@@ -537,7 +537,7 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=469431&extension=m
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577898&extension=ts
 
 #EXTINF:-1 tvg-id="BBC.America.HDTV.(East).(BBC).us" tvg-name="BBC America HDTV (East) (BBC)" tvg-logo="https://docdog.top/Logotv/countries/bbcamerica.png" group-title="",BBC America
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=469295&extension=m3u8
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=469295&extension=ts
 
 #EXTINF:-1 tvg-id="E!.Entertainment.Television.Canada.HDTV.(E!).ca" tvg-logo="https://docdog.top/Logotv/countries/united-states/e-entertainment-us.png",E! (CA)
 http://cord-cutter.net:8080/live/95549031/69361122/57422.ts
