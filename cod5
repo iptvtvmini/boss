@@ -154,17 +154,53 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=756601&extension=ts
 #EXTINF:-1 tvg-id="ESPNU.HDTV.(ESPNUHD).us" tvg-logo="https://docdog.top/Logotv/countries//espnu.png" group-title="",ESPN U
 http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=487778&extension=ts
 
+#EXTINF:-1 tvg-id="Altitude.Sports.and.Entertainment.(Colorado).HDTV.24/7.(ALTHD).us" tvg-logo="",Altitude Sports
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=826907&extension=ts
+
+#EXTINF:-1 tvg-id="Bally.Sports.Midwest.(St..Louis).(BSMW).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/nbc-logo-flat-us.png",Bally Sport
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=620781&extension=ts
+
+#EXTINF:-1 tvg-id="Big.Ten.Network.HDTV.(National).(BTNHD).us" tvg-logo="https://docdog.top/Logotv/countries//bigtennetwork.png",Big Ten Network
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=487676&extension=ts
+
+#EXTINF:-1 tvg-id="CBS.Sports.Network.HDTV.(CBSSD).us" tvg-logo="https://docdog.top/Logotv/countries//cbssports.png",CBS Sports Network
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=487785&extension=ts
+
+#EXTINF:-1 tvg-id="The.Longhorn.Network.HDTV.(LONG).us" tvg-logo="https://docdog.top/Logotv/countries//longhornnetwork.png",Longhorn Network
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=487672&extension=ts
+
+#EXTINF:-1 tvg-id="MLB.Network.HDTV.(DISH).(MLBHD).us" tvg-logo="https://docdog.top/Logotv/countries//mlbnetwork.png",MLB Network
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=487766&extension=ts
+
+#EXTINF:-1 tvg-id="MSG/MSG.Plus.Alternate.HDTV.DirecTV.(MSGHDA).us" tvg-logo="https://docdog.top/Logotv/countries//msg.png",MSG
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=487656&extension=ts
+
+#EXTINF:-1 tvg-id="MSG2HD.us" tvg-logo="https://docdog.top/Logotv/countries//msg.png",MSG2
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=487654&extension=ts
+
 #EXTINF:-1 tvg-id="NBA.TV.HDTV.(NBA.HD).us" tvg-logo="https://docdog.top/Logotv/countries//nba.png",NBA TV
 http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=487762&extension=ts
 
 #EXTINF:-1 tvg-id="NBCSNWH.NBC.Sports.Northwest.HD.us" tvg-logo="https://docdog.top/Logotv/countries//nbcnewyork.png",NBC SPORTS
 http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=487784&extension=ts
 
-#EXTINF:-1 tvg-id="CBS.Sports.Network.HDTV.(CBSSD).us" tvg-logo="https://docdog.top/Logotv/countries//cbssports.png",CBS Sports Network
-http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=487785&extension=ts
+#EXTINF:-1 tvg-id="The.NFL.Network.HDTV.(NFLHD).us" tvg-logo="https://docdog.top/Logotv/countries//nflnetwork.png",NFL Network
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=487758&extension=ts
 
-#EXTINF:-1 tvg-id="Big.Ten.Network.HDTV.(National).(BTNHD).us" tvg-logo="https://docdog.top/Logotv/countries//bigtennetwork.png",Big Ten Network
-http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=487676&extension=ts
+#EXTINF:-1 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/nesn-us.png",NESN
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=487668&extension=ts
+
+#EXTINF:-1 tvg-id="NHL.Network.US.HDTV.(NHLHD).us" tvg-logo="https://docdog.top/Logotv/countries//nbaatlantahawks.png",NHL NETWORK
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=487724&extension=ts
+
+#EXTINF:-1 tvg-id="Pac-12.Network.HDTV.(PAC12).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/pac-12-los-angeles-us.png",PAC-12 NETWORK
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=487652&extension=ts
+
+#EXTINF:-1 tvg-id="SEC.Network.HDTV.(SECN).us" tvg-logo="https://docdog.top/Logotv/countries//secnetwork.png",SEC NETWORK
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=487664&extension=ts
+
+#EXTINF:-1 tvg-id="Spectrum.SportsNet.LA.(SNLA).us" tvg-logo="https://docdog.top/Logotv/countries/cz/novasport1.png",SPECTRUM SPORTSNET
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=487660&extension=ts
 
 #EXTINF:-1 tvg-id="SportsNet.New.York.HDTV.(SNYHD).us" tvg-logo="https://docdog.top/Logotv/countries//fubosportsnetwork.png",SportsNet NY
 http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=487661&extension=ts
@@ -175,6 +211,10 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=487802&extension=ts
 #EXTINF:-1 tvg-id="Sportsnet.One.HDTV.(SN1HD).ca" tvg-logo="https://docdog.top/Logotv/countries//sportsnetone.png",Sportsnet One
 http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=487799&extension=ts
 
+#EXTINF:-1 tvg-id="The.Sportsman.Channel.HDTV.(SPTMANHD).us" tvg-logo="https://docdog.top/Logotv/countries//sportsmanchannel.png",Sportman Channel
+
+#EXTINF:-1 tvg-id="Root.Sports.Northwest.(ROOT).us" tvg-logo="",Root Sports
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=714209&extension=ts
 
 #EXTINF:-1 tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" tvg-name="Tennis Channel HDTV (TNNSHD)" tvg-logo="https://docdog.top/Logotv/countries//tennischannel.png" group-title="",Tennis
 http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=487689&extension=ts
@@ -182,6 +222,8 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=487689&extension=ts
 #EXTINF:-1 tvg-id="WWE.Network.us" tvg-name="WWE Network" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png" group-title="",WWE
 http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=487679&extension=ts
 
+#EXTINF:-1 tvg-id="World.Fishing.Network.(US).(WFN).us" tvg-logo="https://docdog.top/Logotv/countries//worldfishingnetwork.png",World Fishing Network
+http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=487658&extension=ts
 
 
 
