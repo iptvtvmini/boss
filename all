@@ -38,7 +38,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/211/default.mpd
 http://mohdtv.com:8880/live/voby4681/59596648/71024.ts
 
 #EXTINF:-1 tvg-id="Astro.Oasis.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",Astro Oasis
-http://mohdtv.com:8880/live/voby4681/59596648/1701.ts
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=571238&extension=ts
 
 #EXTINF:-1 tvg-id="Astro.Ria.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",Astro Ria
 http://mohdtv.com:8880/live/voby4681/59596648/1705.ts
@@ -82,7 +82,6 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2305/default_primary.m
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=683163&extension=ts
 
 #EXTINF:-1 tvg-id="HITS.HD.my" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png" group-title="",Hits
-http://mohdtv.com:8880/live/voby4681/59596648/71056.ts
 
 #EXTINF:-1 tvg-id="HITS.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png" group-title="",Hits (ID)
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=683145&extension=ts
