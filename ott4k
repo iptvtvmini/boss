@@ -293,6 +293,9 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487652&extension=t
 #EXTINF:-1 tvg-id="SEC.Network.HDTV.(SECN).us" tvg-logo="https://docdog.top/Logotv/countries//secnetwork.png",SEC NETWORK
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487664&extension=ts
 
+#EXTINF:-1 tvg-id="SportsNet.New.York.HDTV.(SNYHD).us",SPORTSNET
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487801&extension=ts
+
 #EXTINF:-1 tvg-id="Spectrum.SportsNet.LA.(SNLA).us" tvg-logo="https://docdog.top/Logotv/countries/cz/novasport1.png",Sportsnet SPECTRUM
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487660&extension=ts
 
