@@ -163,6 +163,9 @@ http://supersonictv.live:8080/live/Derrick/Hitman50$/40495.ts
 http://supersonictv.live:8080/live/Derrick/Hitman50$/40507.ts
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="",TF
+https://hls-uranus.sb-cd.com/hls/1/4/14407656-,1080p,.mp4.urlset/master.m3u8?secure=H0dNwUy6AQoHfpFv8bF2_w,1713109908&m=47&d=1&_tid=14407656
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="CINEVAULT: 70s" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/15/USAJ30000148W_20210525T051435.png" group-title="",Cinevault 70s
