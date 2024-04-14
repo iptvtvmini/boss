@@ -343,10 +343,19 @@ http://zeestb1.online/smart4k.php?id=8901
 
 
 #EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/abc-us.png",ABC 7
+http://zeestb1.online/tata.php?id=29490
+
 #EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cbs-logo-white-us.png",CBS 2
+http://zeestb1.online/tata.php?id=29485
+
 #EXTINF:-1 tvg-id="CW.(WUPV).Richmond,.VA.us" tvg-logo="https://docdog.top/Logotv/countries//cw.png",CW 11
+http://zeestb1.online/tata.php?id=30020
+
 #EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png",FOX 5
+http://zeestb1.online/tata.php?id=29510
+
 #EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries//nbcnewyork.png",NBC 4
+http://zeestb1.online/tata.php?id=29500
 
 
 #EXTINF:-1 tvg-id="CTV.Calgary.HDTV.(CTVHC).ca" tvg-logo="https://docdog.top/Logotv/countries//ctvcalgary.png",CTV
@@ -599,7 +608,14 @@ https://zeestb1.online/push4k.php?id=14474
 
 
 
+#EXTINF:-1 tvg-id="And.Flix.HD.in" tvg-logo="https://watchindia.net/images/channels/hindi/And_Flix_HD.png",& Flix
+http://zeestb1.online/tata.php?id=718
 
+#EXTINF:-1 tvg-id="And.Prive.HD.in" tvg-logo="https://watchindia.net/images/channels/english/And_Prive_HD.png",& Prive
+http://zeestb1.online/tata.php?id=11618
+
+#EXTINF:-1 tvg-id="Movies.Now.HD.in" tvg-logo="https://watchindia.net/images/channels/english/Movies_Now_HD.png",Movies Now
+http://zeestb1.online/tata.php?id=1028
 
 
 #EXTINF:-1 tvg-id="Sky.Cinema.Hits.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemahits.png",Sky Cinema Hits
@@ -665,6 +681,365 @@ http://zeestb1.online/smart4k.php?id=8888
 
 #EXTINF:-1 tvg-id="",SKY CHALLENGE 
 http://zeestb1.online/smart4k.php?id=24238
+
+
+#EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbcone.png",BBC 1
+http://zeestb1.online/tata.php?id=8816
+
+#EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbc2.png",BBC 2
+http://zeestb1.online/tata.php?id=206093
+
+#EXTINF:-1 tvg-id="BBC.Three.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbc3.png",BBC 3
+
+#EXTINF:-1 tvg-id="BBC.Four.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbc4.png",BBC 4
+http://zeestb1.online/tata.php?id=8814
+
+#EXTINF:-1 tvg-id="Channel.4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/channel4.png",Channel 4
+http://zeestb1.online/tata.php?id=8827
+
+#EXTINF:-1 tvg-id="4seven.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/4seven.png",4 Seven
+#EXTINF:-1 tvg-id="More4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/more4.png",More 4
+http://zeestb1.online/tata.php?id=8855
+
+#EXTINF:-1 tvg-id="E4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/e4.png",E4
+http://zeestb1.online/tata.php?id=8834
+
+#EXTINF:-1 tvg-id="Film4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/film4.png",Film 4
+http://zeestb1.online/tata.php?id=8838
+
+#EXTINF:-1 tvg-id="Channel.5.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/channel5.png",Channel 5
+http://zeestb1.online/tata.php?id=8828
+
+#EXTINF:-1 tvg-id="5SELECT.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/5select.png",5 Select
+#EXTINF:-1 tvg-id="5STAR.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/5star.png",5 Star
+#EXTINF:-1 tvg-id="5.USA.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/usa.png",5USA
+
+#EXTINF:-1 tvg-id="Challenge.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/challenge.png",Challenge
+
+
+
+
+#EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv1.png",ITV1
+http://zeestb1.online/tata.php?id=8847
+
+#EXTINF:-1 tvg-id="ITV2.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv2.png",ITV2
+http://zeestb1.online/tata.php?id=8844
+
+#EXTINF:-1 tvg-id="ITV3.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv3.png",ITV3
+http://zeestb1.online/tata.php?id=8845
+
+#EXTINF:-1 tvg-id="ITV4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv4.png",ITV4
+http://zeestb1.online/tata.php?id=8846
+
+#EXTINF:-1 tvg-id="ITVBe.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itvbe.png",ITVBe
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",KNIGHT RIDER 
+http://zeestb1.online/tata.php?id=9357
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",SIX MILLION DOLLAR MAN 
+http://zeestb1.online/tata.php?id=9367
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",JUST FOR LAUGHS 
+http://zeestb1.online/tata.php?id=9381
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",FANTASY ISLAND 
+http://zeestb1.online/tata.php?id=10459
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",BORDER SECURITY 
+http://zeestb1.online/tata.php?id=41624
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",THE ALFRED HITCHCOCK
+http://zeestb1.online/tata.php?id=41974
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",DIE HARD 
+http://zeestb1.online/tata.php?id=41778
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",JACKIE CHAN MOVIES 
+http://zeestb1.online/tata.php?id=41582
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",ROBIN WILLIAMS 
+http://zeestb1.online/tata.php?id=41939
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",ARNOLD SCHWARZENEGGER
+http://zeestb1.online/tata.php?id=59206
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",JOHNNY DEPP
+http://zeestb1.online/tata.php?id=59161
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",MORGAN FREEMAN
+http://zeestb1.online/tata.php?id=59197
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",SAMUEL L JACKSON
+http://zeestb1.online/tata.php?id=59236
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",SYLVESTER STALLONE
+http://zeestb1.online/tata.php?id=59117
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",LIAM NEESON
+http://zeestb1.online/tata.php?id=59147
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",JACKIE CHAN
+http://zeestb1.online/tata.php?id=59199
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",DWAYNE JOHNSON
+http://zeestb1.online/tata.php?id=59225
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",CLINT EASTWOOD
+http://zeestb1.online/tata.php?id=59234
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",BRUCE WILLIS
+http://zeestb1.online/tata.php?id=59263
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",HOLLYWOOD 1
+http://zeestb1.online/tata.php?id=59693
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",HOLLYWOOD 2
+http://zeestb1.online/tata.php?id=60125
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",HOLLYWOOD 3
+http://zeestb1.online/tata.php?id=60126
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",HOLLYWOOD 4
+http://zeestb1.online/tata.php?id=60127
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",HOLLYWOOD 5
+http://zeestb1.online/tata.php?id=60128
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",HOLLYWOOD 6
+http://zeestb1.online/tata.php?id=59166
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",HOLLYWOOD 7
+http://zeestb1.online/tata.php?id=59176
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",HOLLYWOOD 8
+http://zeestb1.online/tata.php?id=59179
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",HOLLYWOOD 9
+http://zeestb1.online/tata.php?id=59184
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",HOLLYWOOD 10
+http://zeestb1.online/tata.php?id=59190
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",HOLLYWOOD 11
+http://zeestb1.online/tata.php?id=59196
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",HOLLYWOOD 12
+http://zeestb1.online/tata.php?id=59201
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",HOLLYWOOD 13
+http://zeestb1.online/tata.php?id=59211
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",HOLLYWOOD 14
+http://zeestb1.online/tata.php?id=59220
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",HOLLYWOOD 15
+http://zeestb1.online/tata.php?id=59233
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",HOLLYWOOD 16
+http://zeestb1.online/tata.php?id=59251
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",HOLLYWOOD 17
+http://zeestb1.online/tata.php?id=59257
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",HOLLYWOOD 18
+http://zeestb1.online/tata.php?id=59109
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",HOLLYWOOD 19
+http://zeestb1.online/tata.php?id=59120
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",HOLLYWOOD 20
+http://zeestb1.online/tata.php?id=59116
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",HOLLYWOOD 21
+http://zeestb1.online/tata.php?id=59129
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",HOLLYWOOD 22
+http://zeestb1.online/tata.php?id=59139
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",HOLLYWOOD 23
+http://zeestb1.online/tata.php?id=59144
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",HOLLYWOOD 24
+http://zeestb1.online/tata.php?id=59148
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",HOLLYWOOD 25
+http://zeestb1.online/tata.php?id=59155
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",HOLLYWOOD 26
+http://zeestb1.online/tata.php?id=59162
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",HOLLYWOOD 27
+http://zeestb1.online/tata.php?id=59172
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",HOLLYWOOD 28
+http://zeestb1.online/tata.php?id=59178
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",HOLLYWOOD 29
+http://zeestb1.online/tata.php?id=59185
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",HOLLYWOOD 30
+http://zeestb1.online/tata.php?id=59194
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",HOLLYWOOD 31
+http://zeestb1.online/tata.php?id=59202
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",HOLLYWOOD 32
+http://zeestb1.online/tata.php?id=59203
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",HOLLYWOOD 33
+http://zeestb1.online/tata.php?id=59207
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",HOLLYWOOD 34
+http://zeestb1.online/tata.php?id=59215
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",HOLLYWOOD 35
+http://zeestb1.online/tata.php?id=59219
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",HOLLYWOOD 36
+http://zeestb1.online/tata.php?id=59229
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",HOLLYWOOD 37
+http://zeestb1.online/tata.php?id=59238
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",HOLLYWOOD 38
+http://zeestb1.online/tata.php?id=59239
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",HOLLYWOOD 39
+http://zeestb1.online/tata.php?id=59243
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",HOLLYWOOD 40
+http://zeestb1.online/tata.php?id=59262
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",ACTION 1
+http://zeestb1.online/tata.php?id=59268
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",ACTION 2
+http://zeestb1.online/tata.php?id=59108
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",ACTION 3
+http://zeestb1.online/tata.php?id=59113
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",ACTION 4
+http://zeestb1.online/tata.php?id=59121
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",ACTION 5
+http://zeestb1.online/tata.php?id=59124
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",ACTION 6
+http://zeestb1.online/tata.php?id=59130
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",ACTION 7
+http://zeestb1.online/tata.php?id=59142
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",ACTION 8
+http://zeestb1.online/tata.php?id=59145
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",ACTION 9
+http://zeestb1.online/tata.php?id=59150
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",ACTION 10
+http://zeestb1.online/tata.php?id=59164
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",ACTION 11
+http://zeestb1.online/tata.php?id=59169
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",ACTION 12
+http://zeestb1.online/tata.php?id=59168
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",ADVENTURE 1
+http://zeestb1.online/tata.php?id=59174
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",ADVENTURE 2
+http://zeestb1.online/tata.php?id=59191
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",ADVENTURE 3
+http://zeestb1.online/tata.php?id=59189
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",ADVENTURE 4
+http://zeestb1.online/tata.php?id=59200
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",ADVENTURE 5
+http://zeestb1.online/tata.php?id=59226
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Western 1
+http://zeestb1.online/tata.php?id=59232
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Western 2
+http://zeestb1.online/tata.php?id=59247
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Western 3
+http://zeestb1.online/tata.php?id=59237
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Western 4
+http://zeestb1.online/tata.php?id=59253
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Western 5
+http://zeestb1.online/tata.php?id=59258
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Western 6
+http://zeestb1.online/tata.php?id=59255
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Western 7
+http://zeestb1.online/tata.php?id=59266
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Western 8
+http://zeestb1.online/tata.php?id=59110
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",COMEDY 1
+http://zeestb1.online/tata.php?id=59134
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",COMEDY 2
+http://zeestb1.online/tata.php?id=59126
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",COMEDY 3
+http://zeestb1.online/tata.php?id=59128
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",COMEDY 4
+http://zeestb1.online/tata.php?id=59138
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",COMEDY 5
+http://zeestb1.online/tata.php?id=59143
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",COMEDY 6
+http://zeestb1.online/tata.php?id=59154
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",COMEDY 7
+http://zeestb1.online/tata.php?id=59152
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",COMEDY 8
+http://zeestb1.online/tata.php?id=59158
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",COMEDY 9
+http://zeestb1.online/tata.php?id=59170
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",CRIME 1
+http://zeestb1.online/tata.php?id=59186
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",CRIME 2
+http://zeestb1.online/tata.php?id=59193
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",CRIME 3
+http://zeestb1.online/tata.php?id=59192
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",CRIME 4
+http://zeestb1.online/tata.php?id=59217
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",CRIME 5
+http://zeestb1.online/tata.php?id=59230
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",MYSTERY 1
+http://zeestb1.online/tata.php?id=59209
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",MYSTERY 2
+http://zeestb1.online/tata.php?id=59245
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",MYSTERY 3
+http://zeestb1.online/tata.php?id=59246
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",MYSTERY 4
+http://zeestb1.online/tata.php?id=59250
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",SCIFI 1
+http://zeestb1.online/tata.php?id=59260
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",SCIFI 2
+http://zeestb1.online/tata.php?id=59267
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",SCIFI 3
+http://zeestb1.online/tata.php?id=59271
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",SCIFI 4
+http://zeestb1.online/tata.php?id=59269
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",SCIFI 5
+http://zeestb1.online/tata.php?id=59280
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",SCIFI 6
+http://zeestb1.online/tata.php?id=59272
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",SCIFI 7
+http://zeestb1.online/tata.php?id=59270
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",SCIFI 8
+http://zeestb1.online/tata.php?id=59273
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",DRAMA 1
+http://zeestb1.online/tata.php?id=59242
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",DRAMA 2
+http://zeestb1.online/tata.php?id=59248
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",DRAMA 3
+http://zeestb1.online/tata.php?id=59261
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",DRAMA 4
+http://zeestb1.online/tata.php?id=59115
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",DRAMA 5
+http://zeestb1.online/tata.php?id=59127
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",DRAMA 6
+http://zeestb1.online/tata.php?id=59136
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",DRAMA 7
+http://zeestb1.online/tata.php?id=59159
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",DRAMA 8
+http://zeestb1.online/tata.php?id=59146
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",DRAMA 9
+http://zeestb1.online/tata.php?id=59153
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",DRAMA  10
+http://zeestb1.online/tata.php?id=59163
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",DRAMA 11
+http://zeestb1.online/tata.php?id=59177
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",DRAMA 12
+http://zeestb1.online/tata.php?id=59173
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",DRAMA 13
+http://zeestb1.online/tata.php?id=59182
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",DRAMA 14
+http://zeestb1.online/tata.php?id=59188
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",DRAMA 15
+http://zeestb1.online/tata.php?id=59195
+
+
+
+
+
+
 
 
 
