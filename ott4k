@@ -64,10 +64,10 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=571307&ex
 #EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="",CNN INA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
 
-#EXTINF:-1 tvg-id="",CNN
+#EXTINF:-1 tvg-id="Cable.News.Network.International.(CNNI).us" tvg-logo="https://docdog.top/Logotv/countries//cnninternational.png",CNN
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=551998&extension=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="",AlJazeera
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/aljazeera.png",AlJazeera
 https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
 
 
