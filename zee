@@ -228,8 +228,14 @@ https://zeestb1.online/push4k.php?id=426
 https://zeestb1.online/push4k.php?id=427
 
 #EXTINF:-1 tvg-id="ACC.Network.HDTV.(ACCN).us" tvg-logo="https://docdog.top/Logotv/countries//accnetwork.png",ACC Network
+http://zeestb1.online/smart4k.php?id=1852
+
 #EXTINF:-1 tvg-id="Altitude.Sports.and.Entertainment.(Colorado).HDTV.24/7.(ALTHD).us" tvg-logo="",Altitude Sports
-#EXTINF:-1 tvg-id="ATT.SportsNet.Pittsburgh.HDTV.(Pittsburgh.DMA).(ATTHD).us" tvg-logo="",ATT SportNet
+http://zeestb1.online/smart4k.php?id=2133
+
+#EXTINF:-1 tvg-id="ATT.SportsNet.Pittsburgh.HDTV.(Pittsburgh.DMA).(ATTHD).us" tvg-logo="",AT&T SportNet
+http://zeestb1.online/smart4k.php?id=2028
+
 #EXTINF:-1 tvg-id="beIN.Sports.HDTV.(English).(beIn).us" tvg-logo="https://docdog.top/Logotv/countries//beinsports.png",beIN Sports
 #EXTINF:-1 tvg-id="beIN.SPORTS.CONNECT.LaLiga.(BEIN3-I).us" tvg-logo="https://docdog.top/Logotv/countries//beinsports.png",beIN SPORTS CONNECT La Liga
 
