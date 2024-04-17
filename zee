@@ -748,6 +748,9 @@ http://zeestb1.online/tata.php?id=11618
 #EXTINF:-1 tvg-id="Movies.Now.HD.in" tvg-logo="https://watchindia.net/images/channels/english/Movies_Now_HD.png",Movies Now
 http://zeestb1.online/tata.php?id=1028
 
+#EXTINF:-1 tvg-id="SONY.PIX.HD.in",SONY PIX
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:ae:4b:81&stream=156004&extension=ts
+
 
 #EXTINF:-1 tvg-id="Sky.Cinema.Hits.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemahits.png",Sky Cinema Hits
 http://zeestb1.online/smart4k.php?id=8879
