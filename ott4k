@@ -564,14 +564,7 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626995&extension=m
 #EXTINF:-1 tvg-id="Citytv.Calgary.HDTV.(CTYCH).ca",CITY TV
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=1003473&extension=m3u8
 
-#EXTINF:-1 tvg-id="Much.HDTV.(MUCH).ca",MUCH
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626957&extension=m3u8
 
-#EXTINF:-1 tvg-id="MTV.HDTV.(East).(MTVHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/mtv-us.png",MTV
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626921&extension=m3u8
-
-#EXTINF:-1 tvg-id="MTV2.HDTV.(East).(MTV2HD).us" tvg-logo="https://docdog.top/Logotv/countries/uk/mtv.png",MTV 2
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=469541&extension=m3u8
 
 
 
@@ -624,6 +617,15 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=469530&extension=m
 
 #EXTINF:-1 tvg-id="HDNet.Movies.(HDNTM).us" tvg-logo="https://docdog.top/Logotv/countries//hdnetmovies.png",HDNet Movies
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=552040&extension=m3u8
+
+#EXTINF:-1 tvg-id="Much.HDTV.(MUCH).ca",MUCH
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626957&extension=m3u8
+
+#EXTINF:-1 tvg-id="MTV.HDTV.(East).(MTVHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/mtv-us.png",MTV
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626921&extension=m3u8
+
+#EXTINF:-1 tvg-id="MTV2.HDTV.(East).(MTV2HD).us" tvg-logo="https://docdog.top/Logotv/countries/uk/mtv.png",MTV 2
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=469541&extension=m3u8
 
 #EXTINF:-1 tvg-id="Sony.Movie.Channel.HD.(SONY).us" tvg-logo="https://docdog.top/Logotv/countries/uk/sonymoviechannel.png",Sony Movie
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=552037&extension=m3u8
