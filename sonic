@@ -233,7 +233,7 @@ http://supersonictv.live:8080/live/Derrick/Hitman50$/40442.ts
 #EXTINF:-1 tvg-id="TNT.Sports.3.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport3.png",BT Sport 3
 http://supersonictv.live:8080/live/Derrick/Hitman50$/40443.ts
 
-#EXTINF:-1 tvg-id="TNT.Sports.4.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",BT Sport ESPN
+#EXTINF:-1 tvg-id="TNT.Sports.4.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",BT Sport 4
 http://supersonictv.live:8080/live/Derrick/Hitman50$/40440.ts
 
 #EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",BT Sport 5
@@ -341,24 +341,37 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/abc-us.png",ABC 7
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61430&extension=ts
+http://supersonictv.live:8080/live/Derrick/Hitman50$/71676.ts
 
 #EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cbs-logo-white-us.png",CBS 2
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61465&extension=ts
+http://supersonictv.live:8080/live/Derrick/Hitman50$/71677.ts
 
 #EXTINF:-1 tvg-id="CW.(WUPV).Richmond,.VA.us" tvg-logo="https://docdog.top/Logotv/countries//cw.png",CW 11
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61416&extension=ts
+http://supersonictv.live:8080/live/Derrick/Hitman50$/71682.ts
 
 #EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png",FOX 5
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61403&extension=ts
+http://supersonictv.live:8080/live/Derrick/Hitman50$/71678.ts
 
 #EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries//nbcnewyork.png",NBC 4
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61387&extension=ts
+http://supersonictv.live:8080/live/Derrick/Hitman50$/71679.ts
+
+
+
+
+#EXTINF:-1 tvg-id="CTV.Calgary.HDTV.(CTVHC).ca" tvg-logo="https://docdog.top/Logotv/countries//ctvcalgary.png",CTV
+http://supersonictv.live:8080/live/Derrick/Hitman50$/21896.ts
+
+#EXTINF:-1 tvg-id="CTV.Two.Ottawa/CHRO.(CTV2O).ca" tvg-logo="https://docdog.top/Logotv/countries//ctv2ottawa.png",CTV2
+http://supersonictv.live:8080/live/Derrick/Hitman50$/21901.ts
+
+#EXTINF:-1 tvg-id="CTV.SCI-FI.Channel.HDTV.(SCIFIHD).ca" tvg-logo="https://docdog.top/Logotv/countries/canada/ctv-sci-fi-channel-ca.png",CTV SCI-FI
+http://supersonictv.live:8080/live/Derrick/Hitman50$/21897.ts
+
 
 
 
 #EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-name="A and E Network HDTV (A and EHD)" tvg-logo="" group-title="",A&E
-http://ott4k.me/play/live.php?mac=00:1A:79:2F:13:FC&stream=469345&extension=ts
+http://supersonictv.live:8080/live/Derrick/Hitman50$/22040.ts
 
 #EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-name="AMC HDTV (East) (AMCHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/amc-us.png" group-title="",AMC
 http://supersonictv.live:8080/live/Derrick/Hitman50$/22042.ts
@@ -369,14 +382,17 @@ http://supersonictv.live:8080/live/Derrick/Hitman50$/22946.ts
 #EXTINF:-1 tvg-id="BBC.America.HDTV.(East).(BBC).us" tvg-name="BBC America HDTV (East) (BBC)" tvg-logo="https://docdog.top/Logotv/countries/bbcamerica.png" group-title="",BBC America
 http://supersonictv.live:8080/live/Derrick/Hitman50$/22051.ts
 
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.HDTV.(East).(E!.HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/e-entertainment-us.png",E!
+http://supersonictv.live:8080/live/Derrick/Hitman50$/22081.ts
+
 #EXTINF:-1 tvg-id="E!.Entertainment.Television.Canada.HDTV.(E!).ca" tvg-logo="https://docdog.top/Logotv/countries/united-states/e-entertainment-us.png",E! (CA)
-http://cord-cutter.net:8080/live/95549031/69361122/57422.ts
+http://supersonictv.live:8080/live/Derrick/Hitman50$/21914.ts
 
 #EXTINF:-1 tvg-id="GameTV.(GTV).ca" tvg-name="GameTV (GTV)" tvg-logo="http://5.44.253.151:80/images/86a43a112f1c64b381ae76c3a1040da8.png" group-title="",Game TV
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626942&extension=m3u8
+http://supersonictv.live:8080/live/Derrick/Hitman50$/21924.ts
 
 #EXTINF:-1 tvg-id="GAME+.us" tvg-logo="https://docdog.top/Logotv/countries//gsn.png",GAME+
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=752916&extension=m3u8
+http://supersonictv.live:8080/live/Derrick/Hitman50$/21925.ts
 
 #EXTINF:-1 tvg-id="Freeform.HDTV.(East).(FRFHD).us" tvg-name="Freeform HDTV (East) (FRFHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/freeform-us.png" group-title="",FREEFORM
 http://supersonictv.live:8080/live/Derrick/Hitman50$/21804.ts
@@ -482,10 +498,10 @@ http://supersonictv.live:8080/live/Derrick/Hitman50$/77471.ts
 
 
 #EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbcone.png",BBC 1
-http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97029&extension=ts
+http://supersonictv.live:8080/live/Derrick/Hitman50$/12181.ts
 
 #EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbc2.png",BBC 2
-http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97030&extension=ts
+http://supersonictv.live:8080/live/Derrick/Hitman50$/12182.ts
 
 #EXTINF:-1 tvg-id="BBC.Three.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbc3.png",BBC 3
 http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97031&extension=ts
@@ -500,13 +516,13 @@ http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97032&extension=t
 http://cord-cutter.net:8080/live/95549031/69361122/53651.ts
 
 #EXTINF:-1 tvg-id="ITV2.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv2.png",ITV 2
-http://cord-cutter.net:8080/live/95549031/69361122/53671.ts
+http://supersonictv.live:8080/live/Derrick/Hitman50$/12254.ts
 
 #EXTINF:-1 tvg-id="ITV3.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv3.png",ITV 3
-http://cord-cutter.net:8080/live/95549031/69361122/53665.ts
+http://supersonictv.live:8080/live/Derrick/Hitman50$/12255.ts
 
 #EXTINF:-1 tvg-id="ITV4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv4.png",ITV 4
-http://cord-cutter.net:8080/live/95549031/69361122/53666.ts
+http://supersonictv.live:8080/live/Derrick/Hitman50$/12256.ts
 
 #EXTINF:-1 tvg-id="4seven.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/4seven.png",4 Seven
 http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97035&extension=ts
@@ -515,7 +531,10 @@ http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97035&extension=t
 http://cord-cutter.net:8080/live/95549031/69361122/99138.ts
 
 #EXTINF:-1 tvg-id="Channel.5.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/channel5.png",Channel 5
-http://cord-cutter.net:8080/live/95549031/69361122/53653.ts
+http://supersonictv.live:8080/live/Derrick/Hitman50$/12211.ts
+
+#EXTINF:-1 tvg-id="Challenge.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/challenge.png",Challenge
+http://supersonictv.live:8080/live/Derrick/Hitman50$/12209.ts
 
 
 
