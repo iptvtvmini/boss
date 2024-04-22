@@ -533,6 +533,9 @@ http://cord-cutter.net:8080/live/95549031/69361122/99138.ts
 #EXTINF:-1 tvg-id="Channel.5.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/channel5.png",Channel 5
 http://supersonictv.live:8080/live/Derrick/Hitman50$/12211.ts
 
+#EXTINF:-1 tvg-id="",5 Star
+http://supersonictv.live:8080/live/Derrick/Hitman50$/12168.ts
+
 #EXTINF:-1 tvg-id="Challenge.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/challenge.png",Challenge
 http://supersonictv.live:8080/live/Derrick/Hitman50$/12209.ts
 
