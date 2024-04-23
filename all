@@ -116,7 +116,7 @@ https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8
 #EXTINF:-1 tvg-id="SHOWCASE.MOVIES.my" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png" group-title="",Showcase Movies
 
 #EXTINF:-1 tvg-id="CINEMAX.HD.my" tvg-name="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png" group-title="",Cinemax
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=683161&extension=ts
+
 
 #EXTINF:-1 tvg-id="HITS.Movies.HD.my" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png" group-title="",HITS Movies
 #KODIPROP:inputstreamaddon=inputstream.adaptive
