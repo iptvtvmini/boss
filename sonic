@@ -134,10 +134,10 @@ http://mohdtv.com:8880/live/voby4681/59596648/1713.ts
 
 
 
-#EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-name="Eurosport 1 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="",EuroSport 1 (UK)
+#EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-name="Eurosport 1 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="",EuroSport 1
 http://supersonictv.live:8080/live/Derrick/Hitman50$/40451.ts
 
-#EXTINF:-1 tvg-id="Eurosport.2.HD.uk" tvg-name="Eurosport 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="",Eurosport 2 (UK)
+#EXTINF:-1 tvg-id="Eurosport.2.HD.uk" tvg-name="Eurosport 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="",Eurosport 2
 http://supersonictv.live:8080/live/Derrick/Hitman50$/40452.ts
 
 
@@ -227,7 +227,10 @@ http://supersonictv.live:8080/live/Derrick/Hitman50$/40475.ts
 
 #EXTINF:-1 tvg-id="The.Sportsman.Channel.HDTV.(SPTMANHD).us" tvg-logo="https://docdog.top/Logotv/countries//sportsmanchannel.png",Sportman Channel
 #EXTINF:-1 tvg-id="Willow.Cricket.HDTV.(WILLHD).us" tvg-logo="https://docdog.top/Logotv/countries//willowcricket.png",Willow Cricket
+http://supersonictv.live:8080/live/Derrick/Hitman50$/40436.ts
 
+#EXTINF:-1 tvg-id="",YES Network
+http://supersonictv.live:8080/live/Derrick/Hitman50$/40438.ts
 
 
 
