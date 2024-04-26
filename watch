@@ -326,25 +326,25 @@ http://watchindia.net:8880/live/98697/23119/2060.ts
 
 
 #EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-logo="https://docdog.top/Logotv/countries//A&E.jpg",A&E
-http://watchindia.net:8880/live/98697/23119/2044.ts
+http://watchindia.net:8880/live/98697/23119/2044.m3u8
 
 #EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/amc-us.png",AMC
-http://watchindia.net:8880/live/98697/23119/2043.ts
+http://watchindia.net:8880/live/98697/23119/2043.m3u8
 
 #EXTINF:-1 tvg-id="BBC.America.HDTV.(East).(BBC).us" tvg-logo="https://docdog.top/Logotv/countries/bbcamerica.png",BBC America
-http://watchindia.net:8880/live/98697/23119/2055.ts
+http://watchindia.net:8880/live/98697/23119/2055.m3u8
 
 #EXTINF:-1 tvg-id="Black.Entertainment.Television.HDTV.(East).(BET-HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/bet-us.png",BET
-http://watchindia.net:8880/live/98697/23119/2063.ts
+http://watchindia.net:8880/live/98697/23119/2063.m3u8
 
 #EXTINF:-1 tvg-id="Bravo.HDTV.(East).(BRAVOD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/bravo-us.png",Bravo
-http://watchindia.net:8880/live/98697/23119/2305.ts
+http://watchindia.net:8880/live/98697/23119/2305.m3u8
 
 #EXTINF:-1 tvg-id="Comedy.Central.HDTV.(East).(CMDHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/comedy-central-us.png",Comedy Central
-http://watchindia.net:8880/live/98697/23119/2056.ts
+http://watchindia.net:8880/live/98697/23119/2056.m3u8
 
 #EXTINF:-1 tvg-id="E!.Entertainment.Television.Canada.HDTV.(E!).ca" tvg-logo="https://docdog.top/Logotv/countries/united-states/e-entertainment-us.png",E! (CA)
-http://cord-cutter.net:8080/live/95549031/69361122/57422.ts
+http://cord-cutter.net:8080/live/95549031/69361122/57422.m3u8
 
 #EXTINF:-1 tvg-id="GameTV.(GTV).ca" tvg-name="GameTV (GTV)" tvg-logo="http://5.44.253.151:80/images/86a43a112f1c64b381ae76c3a1040da8.png" group-title="",Game TV
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626942&extension=m3u8
@@ -353,35 +353,35 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626942&extension=m
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=752916&extension=m3u8
 
 #EXTINF:-1 tvg-id="freeform.us" tvg-name="Freeform" tvg-logo="https://watchindia.net/images/channels/usa/Freeform.png" group-title="USA Network",Freeform
-http://watchindia.net:8880/live/98697/23119/2137.ts
+http://watchindia.net:8880/live/98697/23119/2137.m3u8
 
 #EXTINF:-1 tvg-id="FX.HDTV.(East).(FX.HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fx-us.png",FX
-http://watchindia.net:8880/live/98697/23119/2136.ts
+http://watchindia.net:8880/live/98697/23119/2136.m3u8
 
 #EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/syfy-us.png",Syfy
-http://watchindia.net:8880/live/98697/23119/2127.ts
+http://watchindia.net:8880/live/98697/23119/2127.m3u8
 
 #EXTINF:-1 tvg-id="TBS.Superstation.HDTV.(East).(TBSHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/tbs-us.png",TBS
-http://watchindia.net:8880/live/98697/23119/2050.ts
+http://watchindia.net:8880/live/98697/23119/2050.m3u8
 
 #EXTINF:-1 tvg-id="Turner.Network.Television.HDTV.(East).(TNTHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/tnt-us.png",TNT
-http://watchindia.net:8880/live/98697/23119/2051.ts
+http://watchindia.net:8880/live/98697/23119/2051.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://watchindia.net/images/channels/usa/VH1.png",VH1
-http://watchindia.net:8880/live/98697/23119/2185.ts
+http://watchindia.net:8880/live/98697/23119/2185.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://watchindia.net/images/channels/usa/Disney_Channel.png",Disney Channel
-http://watchindia.net:8880/live/98697/23119/2046.ts
+http://watchindia.net:8880/live/98697/23119/2046.m3u8
 
 
 
 #EXTINF:-1 tvg-id="Cinemax.HDTV.(East).(MAXHD).us" tvg-logo="https://docdog.top/Logotv/countries//cinemax.png",CineMAX
-http://watchindia.net:8880/live/98697/23119/2065.ts
+http://watchindia.net:8880/live/98697/23119/2065.m3u8
 
 
 #EXTINF:-1 tvg-id="Showtime.HDTV.(East).(SHOHD).us" tvg-logo="https://docdog.top/Logotv/countries//showtime.png",Showtime
-http://watchindia.net:8880/live/98697/23119/2054.ts
+http://watchindia.net:8880/live/98697/23119/2054.m3u8
 
 
 
