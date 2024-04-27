@@ -343,43 +343,43 @@ http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=213662&extension=
 #EXTINF:-1 tvg-id="Magnolia.Network.HDTV.(MAGNOLIA).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/galavision-us.png",Magnolia Network
 
 #EXTINF:-1 tvg-id="Home.and.Garden.Television.HDTV.(East).(HGTVD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/hgtv-us.png",HGTV
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61394&extension=ts
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61394&extension=m3u8
 
 #EXTINF:-1 tvg-id="FYI.HDTV.(FYIHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fyi-us.png",FYI
 #EXTINF:-1 tvg-id="The.Learning.Channel.HDTV.(East).(TLCHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/tlc-us.png",TLC
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61371&extension=ts
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61371&extension=m3u8
 
 #EXTINF:-1 tvg-id="Food.Network.HDTV.(East).(FOODHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/food-network-us.png",Food Network
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=159228&extension=ts
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=159228&extension=m3u8
 
 #EXTINF:-1 tvg-id="The.Cooking.Channel.HDTV.(COOKHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cooking-channel-us.png",Cooking Channel
 #EXTINF:-1 tvg-id="TASTE.Tastemade.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/tastemade-us.png",Tastemade
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=159239&extension=ts
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=159239&extension=m3u8
 
 
 
 
 
 #EXTINF:-1 tvg-id="Animal.Planet.HDTV.(East).(APHD).us" tvg-logo="https://docdog.top/Logotv/countries//animalplanet.png",Animal Planet
-http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61468&extension=ts
+http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61468&extension=m3u8
 
 #EXTINF:-1 tvg-id="Investigation.Discovery.HDTV.(IDHD).us" tvg-logo="https://docdog.top/Logotv/countries//investigationdiscovery.png",Investigation Discovery
-http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61417&extension=ts
+http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61417&extension=m3u8
 
 #EXTINF:-1 tvg-id="The.Discovery.Channel.HDTV.(East).(DSCHD).us" tvg-logo="https://docdog.top/Logotv/countries//discoverychannel.png",Discovery Channel
-http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61415&extension=ts
+http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61415&extension=m3u8
 
 #EXTINF:-1 tvg-id="DMAX.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/dmax.png",DMAX
 http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97060&extension=ts
 
 #EXTINF:-1 tvg-id="National.Geographic.Channel.HDTV.(NGCHD).us" tvg-logo="https://docdog.top/Logotv/countries//natgeo.png",National Geographic
-http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61388&extension=ts
+http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61388&extension=m3u8
 
 #EXTINF:-1 tvg-id="NatGeo.WILD.HDTV.(NGWILD).us" tvg-logo="https://docdog.top/Logotv/countries//natgeowild.png",NatGeo WILD
-http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61445&extension=ts
+http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61445&extension=m3u8
 
 #EXTINF:-1 tvg-id="History.HDTV.(East).(HISHD).us" tvg-logo="https://docdog.top/Logotv/countries//history.png",History
-http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61448&extension=ts
+http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61448&extension=m3u8
 
 
 
@@ -388,24 +388,24 @@ http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61448&extension=t
 
 
 #EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="" tvg-logo="http://stmgroup.xyz/logo/abcnewyork.png",ABC 7
-http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61430&extension=ts
+http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61430&extension=m3u8
 
 #EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-name="" tvg-logo="https://watchindia.net/images/channels/usa/CBS.png",CBS 2
-http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61465&extension=ts
+http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61465&extension=m3u8
 
 #EXTINF:-1 tvg-id="CW.(WUPV).Richmond,.VA.us" tvg-logo="https://docdog.top/Logotv/countries//cw.png",CW 11
-http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61416&extension=ts
+http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61416&extension=m3u8
 
 #EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-name="" tvg-logo="https://watchindia.net/images/channels/usa/Fox_NY.png",FOX 5
-http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61403&extension=ts
+http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61403&extension=m3u8
 
 #EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-name="" tvg-logo="https://watchindia.net/images/channels/usa/NBC.png",NBC 4
-http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61387&extension=ts
+http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61387&extension=m3u8
 
 
 
 #EXTINF:-1 tvg-id="CTV.Calgary.HDTV.(CTVHC).ca" tvg-logo="https://docdog.top/Logotv/countries//ctvcalgary.png",CTV
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=191792&extension=ts
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=191792&extension=m3u8
 
 #EXTINF:-1 tvg-id="CTV.Two.Ottawa/CHRO.(CTV2O).ca" tvg-logo="https://docdog.top/Logotv/countries//ctv2ottawa.png",CTV2
 http://cord-cutter.net:8080/live/95549031/69361122/136612.ts
