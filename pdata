@@ -143,40 +143,40 @@ http://mohdtv.com:8880/live/voby3037/69246643/60482.ts
 
 
 #EXTINF:-1 tvg-id="",SUPERSPORT VARIETY 1
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=457062&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:92:66&stream=457062&extension=ts
 
 #EXTINF:-1 tvg-id="",SUPERSPORT VARIETY 2
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=457063&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:92:66&stream=457063&extension=ts
 
 #EXTINF:-1 tvg-id="",SUPERSPORT VARIETY 3
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=457064&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:92:66&stream=457064&extension=ts
 
 #EXTINF:-1 tvg-id="",SUPERSPORT VARIETY 4
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=457065&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:92:66&stream=457065&extension=ts
 
 #EXTINF:-1 tvg-id="",SUPERSPORT ACTION
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=457066&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:92:66&stream=457066&extension=ts
 
 #EXTINF:-1 tvg-id="",SUPERSPORT CRICKET
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=457068&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:92:66&stream=457068&extension=ts
 
 #EXTINF:-1 tvg-id="",SUPERSPORT RUGBY
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=457067&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:92:66&stream=457067&extension=ts
 
 #EXTINF:-1 tvg-id="",SUPERSPORT LA LIGA
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=457060&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:92:66&stream=457060&extension=ts
 
 #EXTINF:-1 tvg-id="",SUPERSPORT PREMIER LEAGUE
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=457059&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:92:66&stream=457059&extension=ts
 
 #EXTINF:-1 tvg-id="",SUPERSPORT PSL
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=457058&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:92:66&stream=457058&extension=ts
 
 #EXTINF:-1 tvg-id="",SUPERSPORT GRANDSTAND
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=457057&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:92:66&stream=457057&extension=ts
 
 #EXTINF:-1 tvg-id="",SUPERSPORT BLITZ
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=457069&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:92:66&stream=457069&extension=ts
 
 
 
@@ -192,17 +192,17 @@ http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=97121&exten
 
 #EXTINF:-1 tvg-id="Bally.Sports.Midwest.(St..Louis).(BSMW).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/nbc-logo-flat-us.png",Bally Sport
 #EXTINF:-1 tvg-id="Big.Ten.Network.HDTV.(National).(BTNHD).us" tvg-logo="https://docdog.top/Logotv/countries//bigtennetwork.png",Big Ten Network
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=61386&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:92:66&stream=61386&extension=ts
 
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HDTV.(CBSSD).us" tvg-logo="https://docdog.top/Logotv/countries//cbssports.png",CBS Sports Network
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=61352&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:92:66&stream=61352&extension=ts
 
 #EXTINF:-1 tvg-id="MLB.Network.HDTV.(DISH).(MLBHD).us" tvg-logo="https://docdog.top/Logotv/countries//mlbnetwork.png",MLB Network
 #EXTINF:-1 tvg-id="NBA.TV.HDTV.(NBA.HD).us" tvg-logo="https://docdog.top/Logotv/countries//nba.png",NBA TV
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=187070&extension=ts
 
 #EXTINF:-1 tvg-id="NBCSNWH.NBC.Sports.Northwest.HD.us" tvg-logo="https://docdog.top/Logotv/countries//nbcnewyork.png",NBC Sport
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=61444&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:92:66&stream=61444&extension=ts
 
 #EXTINF:-1 tvg-id="The.NFL.Network.HDTV.(NFLHD).us" tvg-logo="https://docdog.top/Logotv/countries//nflnetwork.png",NFL Network
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=61348&extension=ts
@@ -214,7 +214,7 @@ http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=61348&exten
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=187035&extension=ts
 
 #EXTINF:-1 tvg-id="SEC.Network.HDTV.(SECN).us" tvg-logo="https://docdog.top/Logotv/countries//secnetwork.png",SEC NETWORK
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=61354&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:92:66&stream=61354&extension=ts
 
 #EXTINF:-1 tvg-id="Spectrum.SportsNet.LA.(SNLA).us" tvg-logo="https://docdog.top/Logotv/countries/cz/novasport1.png",SPECTRUM SPORTSNET
 
@@ -263,7 +263,7 @@ http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=287479&exte
 
 
 #EXTINF:-1 tvg-id="Sportsnet.360.HDTV.(360HD).ca" tvg-logo="https://docdog.top/Logotv/countries//sportsnet360.png",SPORTSNET 360
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=61385&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:92:66&stream=61385&extension=ts
 
 #EXTINF:-1 tvg-id="Sportsnet.One.HDTV.(SN1HD).ca" tvg-logo="https://docdog.top/Logotv/countries//sportsnetone.png",Sportsnet One
 
@@ -439,13 +439,13 @@ http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=61449&exten
 #EXTINF:-1 tvg-id="5StarMAX.HD.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cinemax-5-starmax-us.png",5StarMAX
 
 #EXTINF:-1 tvg-id="Cinemax.HDTV.(East).(MAXHD).us" tvg-logo="https://docdog.top/Logotv/countries//cinemax.png",CineMAX
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=61464&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:92:66&stream=61464&extension=ts
 
 #EXTINF:-1 tvg-id="ActionMAX.HDTV.(East).(AMXHD).us" tvg-logo="https://docdog.top/Logotv/countries//actionmax.png",ActionMAX
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=61469&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:92:66&stream=61469&extension=ts
 
 #EXTINF:-1 tvg-id="More.Max.(East).(MOMAX).us" tvg-logo="https://docdog.top/Logotv/countries//cinemaxmoremax.png",MoreMAX
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=61390&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:92:66&stream=61390&extension=ts
 
 #EXTINF:-1 tvg-id="MOVIEMAX.HDTV.(MMXHD).us" tvg-logo="https://docdog.top/Logotv/countries/turkey/movie-smart-fest-tr.png",MovieMAX
 
