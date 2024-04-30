@@ -466,9 +466,17 @@ http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=61400&exten
 #EXTINF:-1 tvg-id="PixL.HDTV.(PixLHD).us" tvg-logo="",PixL
 #EXTINF:-1 tvg-id="ReelzChannel.HDTV.(REELZH).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/reelz-us.png",Reelz
 #EXTINF:-1 tvg-id="SundanceTV.HDTV.(East).(SUNHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/sundance-tv-us.png",SundanceTV
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:92:66&stream=61460&extension=ts
+
 #EXTINF:-1 tvg-id="TBS.Superstation.HDTV.(East).(TBSHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/tbs-us.png",TBS
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:92:66&stream=61372&extension=ts
+
 #EXTINF:-1 tvg-id="Turner.Network.Television.HDTV.(East).(TNTHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/tnt-us.png",TNT
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:92:66&stream=61370&extension=ts
+
 #EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/usa-us.png",USA Network
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:92:66&stream=61368&extension=ts
+
 #EXTINF:-1 tvg-id="USTV.(USTV).us" tvg-logo="",USTV
 
 
