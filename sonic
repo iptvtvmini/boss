@@ -286,7 +286,7 @@ http://supersonictv.live:8080/live/Derrick/Hitman50$/40471.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety1.png",SuperSports VARIETY 1
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577922&extension=ts
+http://supersonictv.live:8080/live/242306/210404/86865.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety2.png",SuperSports VARIETY 2
 http://supersonictv.live:8080/live/Derrick/Hitman50$/86866.ts
@@ -301,31 +301,34 @@ http://supersonictv.live:8080/live/Derrick/Hitman50$/86868.ts
 http://supersonictv.live:8080/live/Derrick/Hitman50$/86870.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportcricket.png",SuperSports CRICKET
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577916&extension=ts
+http://supersonictv.live:8080/live/242306/210404/86872.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportfootball.png",SuperSports FOOTBALL
 http://supersonictv.live:8080/live/Derrick/Hitman50$/86869.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportlaliga.png",SuperSports LA LIGA
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577929&extension=ts
+http://supersonictv.live:8080/live/242306/210404/86861.ts
 
 #EXTINF:-1 tvg-id="",SuperSports Priemier League
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577930&extension=ts
+http://supersonictv.live:8080/live/242306/210404/86863.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//supersporttennis.png",SuperSports TENNIS
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577928&extension=ts
+http://supersonictv.live:8080/live/242306/210404/86876.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportpsl.png",SuperSports PSL
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577926&extension=ts
+http://supersonictv.live:8080/live/242306/210404/86862.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportgolf.png",SuperSports GOLF
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577925&extension=ts
+http://supersonictv.live:8080/live/242306/210404/86875.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportgrandstand.png",SuperSports GRANDSTAND
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577924&extension=ts
+http://supersonictv.live:8080/live/242306/210404/86864.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportrugby.png",SuperSports RUGBY
 http://supersonictv.live:8080/live/Derrick/Hitman50$/86871.ts
+
+#EXTINF:-1 tvg-id="",SuperSports WWE
+http://supersonictv.live:8080/live/242306/210404/86878.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportmotorsport.png",SuperSports MOTORSPORT
 http://supersonictv.live:8080/live/Derrick/Hitman50$/86879.ts
@@ -335,13 +338,14 @@ http://supersonictv.live:8080/live/Derrick/Hitman50$/86874.ts
 
 
 #EXTINF:-1 tvg-id="",SuperSports PLAY 1
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577932&extension=ts
+http://supersonictv.live:8080/live/242306/210404/86877.ts
 
 #EXTINF:-1 tvg-id="",SuperSports PLAY 2
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577931&extension=ts
 
 #EXTINF:-1 tvg-id="",SuperSports BLITZ
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577927&extension=ts
+http://supersonictv.live:8080/live/242306/210404/86873.ts
+
 
 
 
