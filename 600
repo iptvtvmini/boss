@@ -530,25 +530,26 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="",ABC
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=627030&extension=m3u8
+http://600600.org:80/play/live.php?mac=00:1a:79:56:28:99&stream=61430&extension=ts
 
 #EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/abc-us.png",ABC 7
 http://cord-cutter.net:8080/live/95549031/69361122/120865.ts
 
 #EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cbs-logo-white-us.png",CBS 2
-http://cord-cutter.net:8080/live/95549031/69361122/120749.ts
+http://600600.org:80/play/live.php?mac=00:1a:79:56:28:99&stream=61422&extension=ts
 
 #EXTINF:-1 tvg-id="",CNBC
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=627003&extension=m3u8
+http://600600.org:80/play/live.php?mac=00:1a:79:56:28:99&stream=61420&extension=ts
 
 #EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png",FOX 5
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=549764&extension=m3u8
 
 #EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries//nbcnewyork.png",NBC 4
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=550187&extension=m3u8
+http://600600.org:80/play/live.php?mac=00:1a:79:56:28:99&stream=61387&extension=ts
 
 #EXTINF:-1 tvg-id="CW.(WUPV).Richmond,.VA.us" tvg-logo="https://docdog.top/Logotv/countries//cw.png",CW 11
-http://cord-cutter.net:8080/live/95549031/69361122/120897.ts
+http://600600.org:80/play/live.php?mac=00:1a:79:56:28:99&stream=61416&extension=ts
+
 
 
 
@@ -872,6 +873,9 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=469379&extension=m
 
 #EXTINF:-1 tvg-id="Home.and.Garden.Television.HDTV.(East).(HGTVD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/hgtv-us.png",HGTV
 http://600600.org:80/play/live.php?mac=00:1a:79:56:28:99&stream=61394&extension=ts
+
+#EXTINF:-1 tvg-id="",TLC
+http://600600.org:80/play/live.php?mac=00:1a:79:56:28:99&stream=61438&extension=ts
 
 #EXTINF:-1 tvg-id="History.HDTV.(East).(HISHD).us" tvg-logo="https://docdog.top/Logotv/countries//history.png",History
 http://600600.org:80/play/live.php?mac=00:1a:79:56:28:99&stream=61448&extension=ts
