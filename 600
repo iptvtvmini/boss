@@ -589,10 +589,10 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=1003473&extension=
 http://ott4k.me/play/live.php?mac=00:1A:79:2F:13:FC&stream=469345&extension=m3u8
 
 #EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-name="AMC HDTV (East) (AMCHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/amc-us.png" group-title="",AMC
-http://600600.org:80/play/live.php?mac=00:1a:79:56:28:99&stream=61428&extension=ts
+http://600600.org:80/play/live.php?mac=00:1a:79:56:28:99&stream=61428&extension=m3u8
 
 #EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-name="Syfy HDTV (SYFYHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/syfy-us.png" group-title="",Syfy
-http://600600.org:80/play/live.php?mac=00:1a:79:56:28:99&stream=61373&extension=ts
+http://600600.org:80/play/live.php?mac=00:1a:79:56:28:99&stream=61373&extension=m3u8
 
 #EXTINF:-1 tvg-id="SYFY.HD.uk",SYFY (UK)
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577898&extension=m3u8
