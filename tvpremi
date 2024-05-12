@@ -496,10 +496,13 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45439&ext
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45619&extension=ts
 
 #EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/amc-us.png",AMC
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45445&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45445&extension=m3u8
 
 #EXTINF:-1 tvg-id="AMC+.us" tvg-logo="",AMC+
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=534381&extension=ts
+
+#EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/syfy-us.png",Syfy
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45476&extension=m3u8
 
 #EXTINF:-1 tvg-id="American.Heroes.Channel.(AHC).us" tvg-logo="https://docdog.top/Logotv/countries//americanheroeschannel.png",American Heroes
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45613&extension=ts
@@ -528,7 +531,7 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=91768&ext
 #EXTINF:-1 tvg-id="",BLAZE TV
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1150047&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US| BOUNCE TV HD" group-title="US| ENTERTAINMENT",US| BOUNCE TV HD
+#EXTINF:-1 tvg-id=""BOUNCE TV
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=91771&extension=ts
 
 #EXTINF:-1 tvg-id="Bounce.TV.(Bounce).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/bounce-us.png",Bounce TV
@@ -593,9 +596,6 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45508&ext
 
 #EXTINF:-1 tvg-id="SundanceTV.HDTV.(East).(SUNHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/sundance-tv-us.png",SundanceTV
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45477&extension=ts
-
-#EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/syfy-us.png",Syfy
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45476&extension=ts
 
 #EXTINF:-1 tvg-id="TBS.Superstation.HDTV.(East).(TBSHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/tbs-us.png",TBS
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45475&extension=ts
