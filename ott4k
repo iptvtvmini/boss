@@ -115,39 +115,19 @@ http://mohdtv.com:8880/live/voby4681/59596648/1707.ts
 
 #EXTINF:-1 tvg-id="Cinemax.HD.id" tvg-name="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png" group-title="",CINEMAX
 
-#EXTINF:-1 tvg-id="HITS.MOVIES.HD.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png" group-title="",HITS Movies (ID)
-#http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=683163&extension=ts
-
+#EXTINF:-1 tvg-id="HITS.MOVIES.HD.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png" group-title="",HITS Movies
 #EXTINF:-1 tvg-id="HITS.Movies.HD.my" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png" group-title="",HITS Movies
 http://mohdtv.com:8880/live/voby4681/59596648/71056.ts
 
-#EXTINF:-1 tvg-id="HITS.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png" group-title="",Hits (ID)
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=683145&extension=ts
+#EXTINF:-1 tvg-id="HITS.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png" group-title="",Hits
 
-
-#EXTINF:-1 tvg-id="tvN.Movies.HD.id" tvg-name="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png" group-title="",tvN Movies (ID)
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=683149&extension=ts
-
+#EXTINF:-1 tvg-id="tvN.Movies.HD.id" tvg-name="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png" group-title="",tvN Movies
 #EXTINF:-1 tvg-id="tvN.Movies.HD.my" tvg-name="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png" group-title="",tvN Movies
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"8e269c8aa32ad77eb83068312343d610": "d12ccebafbba2a535d88a3087f884252"}
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2406/default.mpd
 
-#EXTINF:-1 tvg-id="Celestial.Movies.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png" group-title="",Celestial Movies (ID)
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=683142&extension=ts
-
+#EXTINF:-1 tvg-id="Celestial.Movies.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png" group-title="",Celestial Movies
 #EXTINF:-1 tvg-id="Celestial.Movies.HD.my" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png" group-title="",Celestial Movies
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"c5c1ba26907291afec11a9a78d513410": "361197805d0149c29801946cf2dde67c"}
-https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_primary.mpd
 
-#EXTINF:-1 tvg-id="CCM.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="",CCM (ID)
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=683110&extension=ts
-
+#EXTINF:-1 tvg-id="CCM.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="",CCM
 #EXTINF:-1 tvg-id="Celestial.Classic.Movies.my" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="",CCM
 http://mohdtv.com:8880/live/voby4681/59596648/71046.ts
 
@@ -161,11 +141,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/index.m3u8?id=4
 http://mohdtv.com:8880/live/voby4681/59596648/1703.ts
 
 #EXTINF:-1 tvg-id="Astro.Arena.2.HD.my" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="",Astro Arena 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"ead0335d60401225727a6d531e9c2710": "1ee3b252227c5c2ec9378c833d2e14ff"}
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5057/default.mpd
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-title="",Arena Bola 1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-title="",Arena Bola 2
