@@ -371,35 +371,6 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577934&extension=t
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//arenasport1.png",Arena Sport 1
-http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=213666&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//arenasport2.png",Arena Sport 2
-http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=213665&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//arenasport3.png",Arena Sport 3
-http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=213664&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//arenasport4.png",Arena Sport 4
-http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=213663&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//arenasport5.png",Arena Sport 5
-http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=213662&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//arenasport6.png",Arena Sport 6
-
-
-
-#EXTINF:-1 tvg-id="",Now Sports 1
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:6a:cf:91&stream=1497551&extension=ts
-
-#EXTINF:-1 tvg-id="",Now Sports 2
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:6a:cf:91&stream=1497552&extension=ts
-
-#EXTINF:-1 tvg-id="",Now Sports 3
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:6a:cf:91&stream=1497553&extension=ts
-
-
 
 
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsmainevent.png",Sky Sport Main Event
@@ -969,21 +940,6 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626857&extension=m
 
 #EXTINF:-1 tvg-id="Crave.4.(East).(CRVM4).ca",Crave 4
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626856&extension=m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="",Movie Network 1
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626881&extension=m3u8
-
-#EXTINF:-1 tvg-id="",Movie Network 2
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626880&extension=m3u8
-
-#EXTINF:-1 tvg-id="",Movie Network 3
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626879&extension=m3u8
-
-#EXTINF:-1 tvg-id="",Movie Network 4
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626878&extension=m3u8
 
 
 
