@@ -458,6 +458,9 @@ http://supersonictv.live:8080/live/Derrick/Hitman50$/22042.ts
 #EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-name="Syfy HDTV (SYFYHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/syfy-us.png" group-title="",Syfy
 http://supersonictv.live:8080/live/Derrick/Hitman50$/22946.ts
 
+#EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-name="Syfy HDTV (SYFYHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/syfy-us.png" group-title="",Syfy
+http://abcnew.site:8880/live/29ca10313n11/asdf23r23/3096.ts
+
 #EXTINF:-1 tvg-id="AXSTV.HD.(AXSTV).us" tvg-logo="",AXS TV
 http://supersonictv.live:8080/live/Derrick/Hitman50$/22050.ts
 
