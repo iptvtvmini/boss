@@ -556,8 +556,17 @@ https://gsn-cinevault-80s-1-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="USAK3508709A" tvg-name="CINEVAULT: Westerns" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/09/USAK3508709A_20210224T013304.png" group-title="Movies",Cinevault Westerns
 https://gsn-cinevault-westerns-1-us.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Comet.TV.(COMET).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/comet-us.png",Comet
+http://supersonictv.live:8080/live/Derrick/Hitman50$/22066.ts
+
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.HDTV.(East).(E!.HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/e-entertainment-us.png",E!
+http://supersonictv.live:8080/live/Derrick/Hitman50$/22081.ts
+
 #EXTINF:-1 tvg-id="E!.Entertainment.Television.Canada.HDTV.(E!).ca" tvg-logo="https://docdog.top/Logotv/countries/united-states/e-entertainment-us.png",E! (CA)
 http://cord-cutter.net:8080/live/95549031/69361122/57422.ts
+
+#EXTINF:-1 tvg-id="",GSN
+http://supersonictv.live:8080/live/Derrick/Hitman50$/47733.ts
 
 #EXTINF:-1 tvg-id="GameTV.(GTV).ca" tvg-name="GameTV (GTV)" tvg-logo="http://5.44.253.151:80/images/86a43a112f1c64b381ae76c3a1040da8.png" group-title="",Game TV
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626942&extension=m3u8
@@ -577,6 +586,9 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=656132&extension=m
 #EXTINF:-1 tvg-id="FXX.HDTV.(East).(FXXHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fxx-us.png",FXX
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=687889&extension=m3u8
 
+#EXTINF:-1 tvg-id="ReelzChannel.HDTV.(REELZH).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/reelz-us.png",Reelz
+http://supersonictv.live:8080/live/Derrick/Hitman50$/22142.ts
+
 #EXTINF:-1 tvg-id="SundanceTV.HDTV.(East).(SUNHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/sundance-tv-us.png",SundanceTV
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=469530&extension=m3u8
 
@@ -592,8 +604,22 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626921&extension=m
 #EXTINF:-1 tvg-id="MTV2.HDTV.(East).(MTV2HD).us" tvg-logo="https://docdog.top/Logotv/countries/uk/mtv.png",MTV 2
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=469541&extension=m3u8
 
+#EXTINF:-1 tvg-id="PixL.HDTV.(PixLHD).us",PIXL
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=469419&extension=m3u8
+
 #EXTINF:-1 tvg-id="Sony.Movie.Channel.HD.(SONY).us" tvg-logo="https://docdog.top/Logotv/countries/uk/sonymoviechannel.png",Sony Movie
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=552037&extension=m3u8
+
+#EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/usa-us.png",USA Network
+http://supersonictv.live:8080/live/Derrick/Hitman50$/22129.ts
+
+#EXTINF:-1 tvg-id="TBS.Superstation.HDTV.(East).(TBSHD).us" tvg-name="TBS Superstation HDTV (East) (TBSHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/tbs-us.png" group-title="",TBS
+http://supersonictv.live:8080/live/Derrick/Hitman50$/22154.ts
+
+#EXTINF:-1 tvg-id="Turner.Network.Television.HDTV.(East).(TNTHD).us" tvg-name="Turner Network Television HDTV (East) (TNTHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/tnt-us.png" group-title="",TNT
+http://supersonictv.live:8080/live/Derrick/Hitman50$/22159.ts
+
+
 
 
 #EXTINF:-1 tvg-id="SCRNPIX.ScreenPix.us" tvg-logo="https://docdog.top/Logotv/countries//dumisa.png",ScreenPix
@@ -605,8 +631,7 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=552035&extension=m
 #EXTINF:-1 tvg-id="SCRNWST.ScreenPix.Westerns.us" tvg-logo="https://docdog.top/Logotv/countries//dumisa.png",ScreenPix Westerns
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=552034&extension=m3u8
 
-#EXTINF:-1 tvg-id="PixL.HDTV.(PixLHD).us",PIXL
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=469419&extension=m3u8
+
 
 
 
