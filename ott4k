@@ -620,7 +620,20 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=469433&extension=t
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=681775&extension=ts
 
 
+#EXTINF:-1 tvg-id="USAJ30000148W" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/15/USAJ30000148W_20210525T051435.png",Cinevault 80s
+https://gsn-cinevault-80s-1-us.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="USAK3508709A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/09/USAK3508709A_20210224T013304.png",Cinevault Westerns
+https://gsn-cinevault-westerns-1-us.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="dtv_EPGCineLife" tvg-logo="https://a.jsrdn.com/hls/22933/cinelife/logo_20210224_040008_68.png",CineLife
+https://dai.google.com/linear/hls/event/UTF4M044RUKTjJ4DQv5jUQ/master.m3u8
+
+#EXTINF:-1,Action Hollywood Movies
+https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,Watch4Movies
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-watch4movies-xiaomi/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="SCRNPIX.ScreenPix.us" tvg-logo="https://docdog.top/Logotv/countries//dumisa.png",ScreenPix
