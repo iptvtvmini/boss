@@ -469,12 +469,6 @@ http://supersonictv.live:8080/live/Derrick/Hitman50$/22058.ts
 #EXTINF:-1 tvg-id="Bravo.HDTV.(East).(BRAVOD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/bravo-us.png",Bravo
 http://supersonictv.live:8080/live/Derrick/Hitman50$/22059.ts
 
-#EXTINF:-1 tvg-id="USAJ30000148W" tvg-name="CINEVAULT: 80s" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/15/USAJ30000148W_20210525T051435.png" group-title="Movies",Cinevault 80s
-https://gsn-cinevault-80s-1-us.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="USAK3508709A" tvg-name="CINEVAULT: Westerns" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/09/USAK3508709A_20210224T013304.png" group-title="Movies",Cinevault Westerns
-https://gsn-cinevault-westerns-1-us.samsung.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="CMT.HDTV.(East).(CMTHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cmt-us.png",CMT
 http://supersonictv.live:8080/live/Derrick/Hitman50$/22063.ts
 
@@ -544,6 +538,21 @@ http://supersonictv.live:8080/live/Derrick/Hitman50$/22154.ts
 #EXTINF:-1 tvg-id="Turner.Network.Television.HDTV.(East).(TNTHD).us" tvg-name="Turner Network Television HDTV (East) (TNTHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/tnt-us.png" group-title="",TNT
 http://supersonictv.live:8080/live/Derrick/Hitman50$/22159.ts
 
+
+#EXTINF:-1 tvg-id="USAJ30000148W" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/15/USAJ30000148W_20210525T051435.png",Cinevault 80s
+https://gsn-cinevault-80s-1-us.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="USAK3508709A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/09/USAK3508709A_20210224T013304.png",Cinevault Westerns
+https://gsn-cinevault-westerns-1-us.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="dtv_EPGCineLife" tvg-logo="https://a.jsrdn.com/hls/22933/cinelife/logo_20210224_040008_68.png",CineLife
+https://dai.google.com/linear/hls/event/UTF4M044RUKTjJ4DQv5jUQ/master.m3u8
+
+#EXTINF:-1,Action Hollywood Movies
+https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,Watch4Movies
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-watch4movies-xiaomi/playlist.m3u8
 
 
 
