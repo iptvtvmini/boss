@@ -197,10 +197,10 @@ http://mohdtv.com:8880/live/voby3037/69246643/60482.ts
 
 
 #EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/eurosport1.png",EuroSport 1
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=97120&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=97120&extension=ts
 
 #EXTINF:-1 tvg-id="Eurosport.2.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/eurosport2.png",Eurosport 2
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=97121&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=97121&extension=ts
 
 
 
@@ -258,19 +258,19 @@ http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:92:66&stream=61352&exten
 
 #EXTINF:-1 tvg-id="MLB.Network.HDTV.(DISH).(MLBHD).us" tvg-logo="https://docdog.top/Logotv/countries//mlbnetwork.png",MLB Network
 #EXTINF:-1 tvg-id="NBA.TV.HDTV.(NBA.HD).us" tvg-logo="https://docdog.top/Logotv/countries//nba.png",NBA TV
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=187070&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=187070&extension=ts
 
 #EXTINF:-1 tvg-id="NBCSNWH.NBC.Sports.Northwest.HD.us" tvg-logo="https://docdog.top/Logotv/countries//nbcnewyork.png",NBC Sport
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:92:66&stream=61444&extension=ts
 
 #EXTINF:-1 tvg-id="The.NFL.Network.HDTV.(NFLHD).us" tvg-logo="https://docdog.top/Logotv/countries//nflnetwork.png",NFL Network
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=61348&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=61348&extension=ts
 
 #EXTINF:-1 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/nesn-us.png",NESN
 #EXTINF:-1 tvg-id="SportsNet.New.York.HDTV.(SNYHD).us" tvg-logo="https://docdog.top/Logotv/countries//fubosportsnetwork.png",SportsNet NY
 #EXTINF:-1 tvg-id="Pac-12.Network.HDTV.(PAC12).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/pac-12-los-angeles-us.png",PAC-12 NETWORK
 #EXTINF:-1 tvg-id="NHL.Network.US.HDTV.(NHLHD).us" tvg-logo="https://docdog.top/Logotv/countries//nbaatlantahawks.png",NHL NETWORK
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=187035&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=187035&extension=ts
 
 #EXTINF:-1 tvg-id="SEC.Network.HDTV.(SECN).us" tvg-logo="https://docdog.top/Logotv/countries//secnetwork.png",SEC NETWORK
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:92:66&stream=61354&extension=ts
@@ -280,31 +280,31 @@ http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:92:66&stream=61354&exten
 
 
 #EXTINF:-1 tvg-id="ESPN.HDTV.(Dish).(ESPNHD).us" tvg-logo="https://docdog.top/Logotv/countries//espn1.png",ESPN
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=61341&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=61341&extension=ts
 
 #EXTINF:-1 tvg-id="ESPN2.HDTV.(Dish).(ESPN2HD).us" tvg-logo="https://docdog.top/Logotv/countries//espn2.png",ESPN 2
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=61342&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=61342&extension=ts
 
 #EXTINF:-1 tvg-id="ESPNU.HDTV.(ESPNUHD).us" tvg-logo="https://docdog.top/Logotv/countries//espnu.png",ESPN U
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=61344&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=61344&extension=ts
 
 #EXTINF:-1 tvg-id="Fox.Sports.1.HDTV.(FS1HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-sports-1-us.png",Fox Sports 1
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=61345&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=61345&extension=ts
 
 #EXTINF:-1 tvg-id="Fox.Sports.2.HDTV.(FS2HD).us" tvg-logo="https://docdog.top/Logotv/countries//foxsport2.png",Fox Sports 2
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=61346&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=61346&extension=ts
 
 #EXTINF:-1 tvg-id="Fox.Soccer.Plus.(FSPLUS).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png",Fox Soccer Plus
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=61380&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=61380&extension=ts
 
 #EXTINF:-1 tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" tvg-logo="https://docdog.top/Logotv/countries//tennischannel.png",Tennis
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=61439&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=61439&extension=ts
 
 #EXTINF:-1 tvg-id="The.Golf.Channel.HDTV.(GLFHD).us" tvg-logo="https://docdog.top/Logotv/countries//nbcgolfchannel.png",Golf Channel
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=61399&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=61399&extension=ts
 
 #EXTINF:-1 tvg-id="WWE.Network.us" tvg-logo="https://docdog.top/Logotv/countries//wwenetwork.png",WWE
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=287479&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=287479&extension=ts
 
 #EXTINF:-1 tvg-id="World.Fishing.Network.(US).(WFN).us" tvg-logo="https://docdog.top/Logotv/countries//worldfishingnetwork.png",World Fishing Network
 
@@ -329,19 +329,19 @@ http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:92:66&stream=61385&exten
 
 
 #EXTINF:-1 tvg-id="The.Sports.Network.HDTV.(TSNHD).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn1",TSN 1
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=61412&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=61412&extension=ts
 
 #EXTINF:-1 tvg-id="The.Sports.Network.2.HDTV.(TSN2D).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn2.png",TSN 2
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=61409&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=61409&extension=ts
 
 #EXTINF:-1 tvg-id="The.Sports.Network.3.HDTV.(TSN3HD).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn3.png",TSN 3
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=61408&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=61408&extension=ts
 
 #EXTINF:-1 tvg-id="The.Sports.Network.4.HDTV.(TSN4H).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn4.png",TSN 4
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=61407&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=61407&extension=ts
 
 #EXTINF:-1 tvg-id="The.Sports.Network.5.HDTV.(TSN5HD).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn5.png",TSN 5
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=61406&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=61406&extension=ts
 
 
 
@@ -350,16 +350,16 @@ http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=61406&exten
 
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png",BT Sport 1
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=97146&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=97146&extension=ts
 
 #EXTINF:-1 tvg-id="TNT.Sports.2.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsports2vip.png",BT Sport 2
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=97148&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=97148&extension=ts
 
 #EXTINF:-1 tvg-id="TNT.Sports.3.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport3.png",BT Sport 3
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=97150&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=97150&extension=ts
 
 #EXTINF:-1 tvg-id="TNT.Sports.4.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",BT Sport ESPN
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=97145&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=97145&extension=ts
 
 
 
@@ -367,56 +367,56 @@ http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=97145&exten
 
 
 #EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsaction.png",Sky Sport Action
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=97126&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=97126&extension=ts
 
 #EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsmix.png",Sky Sport Mix
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=97128&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=97128&extension=ts
 
 #EXTINF:-1 tvg-id="SkySp.ArenaHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsarena.png",Sky Sport Arena
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=97130&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=97130&extension=ts
 
 #EXTINF:-1 tvg-id="SkySpCricket.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-sports-cricket-uk.png",Sky Sport Cricket
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=97133&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=97133&extension=ts
 
 #EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsgolf.png",Sky Sport Golf
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=97134&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=97134&extension=ts
 
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsmainevent.png",Sky Sport Main Event
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=97135&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=97135&extension=ts
 
 #EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-sports-premier-league-uk.png",Sky Sport Primere League
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=97137&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=97137&extension=ts
 
 #EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsfootball.png",Sky Sport Football
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=97139&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=97139&extension=ts
 
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsf1.png",Sky Sport F1
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=97141&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=97141&extension=ts
 
 #EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsgolf.png",Sky Sport Golf
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=97143&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=97143&extension=ts
 
 
 
 
 #EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/abc-us.png",ABC 7
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=61430&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=61430&extension=ts
 
 #EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cbs-logo-white-us.png",CBS 2
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=61465&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=61465&extension=ts
 
 #EXTINF:-1 tvg-id="CW.(WUPV).Richmond,.VA.us" tvg-logo="https://docdog.top/Logotv/countries//cw.png",CW 11
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=61416&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=61416&extension=ts
 
 #EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png",FOX 5
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=61403&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=61403&extension=ts
 
 #EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries//nbcnewyork.png",NBC 4
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=61387&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=61387&extension=ts
 
 
 #EXTINF:-1 tvg-id="CTV.Calgary.HDTV.(CTVHC).ca" tvg-logo="https://docdog.top/Logotv/countries//ctvcalgary.png",CTV
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=191792&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=191792&extension=ts
 
 #EXTINF:-1 tvg-id="CTV.Two.Ottawa/CHRO.(CTV2O).ca" tvg-logo="https://docdog.top/Logotv/countries//ctv2ottawa.png",CTV2
 #EXTINF:-1 tvg-id="CTV.SCI-FI.Channel.HDTV.(SCIFIHD).ca" tvg-logo="https://docdog.top/Logotv/countries/canada/ctv-sci-fi-channel-ca.png",CTV SCI-FI
@@ -425,13 +425,13 @@ http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=191792&exte
 
 
 #EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-logo="https://docdog.top/Logotv/countries//A&E.jpg",A&E
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=191868&extension=m3u8
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=191868&extension=m3u8
 
 #EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/amc-us.png",AMC
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=61428&extension=m3u8
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=61428&extension=m3u8
 
 #EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/syfy-us.png",Syfy
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=61373&extension=m3u8
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=61373&extension=m3u8
 
 #EXTINF:-1 tvg-id="SYFY.HD.uk" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US072SYFY.png",SYFY (UK)
 #EXTINF:-1 tvg-id="BBC.America.HDTV.(East).(BBC).us" tvg-logo="https://docdog.top/Logotv/countries/bbcamerica.png",BBC America
@@ -453,11 +453,11 @@ http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:92:66&stream=61466&exten
 
 #EXTINF:-1 tvg-id="Freeform.HDTV.(East).(FRFHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/freeform-us.png",Freeform
 #EXTINF:-1 tvg-id="FX.HDTV.(East).(FX.HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fx-us.png",FX
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=61401&extension=m3u8
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=61401&extension=m3u8
 
 #EXTINF:-1 tvg-id="FX.Movie.Channel.HDTV.(FXMHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fxm-movie-channel-us.png",FXM
 #EXTINF:-1 tvg-id="FXX.HDTV.(East).(FXXHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fxx-us.png",FXX
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=61400&extension=m3u8
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=61400&extension=m3u8
 
 #EXTINF:-1 tvg-id="IFC.HDTV.(East).(IFCHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/ifc-us.png",IFC
 
@@ -491,20 +491,20 @@ http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:92:66&stream=61368&exten
 
 
 #EXTINF:-1 tvg-id="HBO.HDTV.(East).(HBOHD).us" tvg-logo="https://docdog.top/Logotv/countries//hbo.png",HBO
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=61395&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=61395&extension=ts
 
 #EXTINF:-1 tvg-id="HBO.2.HDTV.(East).(HBO2HD).us" tvg-logo="https://docdog.top/Logotv/countries//hbo.png",HBO 2
 #EXTINF:-1 tvg-id="HBO.Comedy.HDTV.(East).(HBOCHD).us" tvg-logo="https://docdog.top/Logotv/countries//hbocomedy.png",HBO Comedy
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=61398&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=61398&extension=ts
 
 #EXTINF:-1 tvg-id="HBO.Family.HDTV.(East).(HBOFHD).us" tvg-logo="https://docdog.top/Logotv/countries//hbofamily.png",HBO Family
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=61452&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=61452&extension=ts
 
 #EXTINF:-1 tvg-id="HBO.Signature.HDTV.(East).(HBOSHD).us" tvg-logo="https://docdog.top/Logotv/countries//hbosignature.png",HBO Signature
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=61450&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=61450&extension=ts
 
 #EXTINF:-1 tvg-id="HBO.Zone.HDTV.(East).(HBOZHD).us" tvg-logo="https://docdog.top/Logotv/countries//hbozone.png",HBO Zone
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=61449&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=61449&extension=ts
 
 
 
@@ -534,44 +534,44 @@ http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:92:66&stream=61390&exten
 
 
 #EXTINF:-1 tvg-id="Sky.Drama.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemadrama.png",Sky Drama
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=97050&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=97050&extension=ts
 
 #EXTINF:-1 tvg-id="Sky.Family.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-cinema-family-uk.png",Sky Family
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=97051&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=97051&extension=ts
 
 #EXTINF:-1 tvg-id="SkyPremiereHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemapremiere.png",Sky Premiere
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=97054&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=97054&extension=ts
 
 #EXTINF:-1 tvg-id="Sky.Cinema.Select.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaselect.png",Sky Cinema Select
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=97055&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=97055&extension=ts
 
 #EXTINF:-1 tvg-id="Sky.Atlantic.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skyatlantic.png",Sky Atlantic
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=97066&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=97066&extension=ts
 
 #EXTINF:-1 tvg-id="Sky.Sci-Fi.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemasci.png",Sky Sci-Fi
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=97076&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=97076&extension=ts
 
 
 
 
 
 #EXTINF:-1 tvg-id="DMAX.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/dmax.png",DMAX
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=97060&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=97060&extension=ts
 
 
 
 
 #EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbcone.png",BBC 1
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=97029&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=97029&extension=ts
 
 #EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbc2.png",BBC 2
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=97030&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=97030&extension=ts
 
 #EXTINF:-1 tvg-id="BBC.Three.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbc3.png",BBC 3
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=97031&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=97031&extension=ts
 
 #EXTINF:-1 tvg-id="BBC.Four.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbc4.png",BBC 4
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=97032&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=97032&extension=ts
 
 
 
@@ -579,33 +579,33 @@ http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=97032&exten
 
 
 #EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv1.png",ITV1
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=97037&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=97037&extension=ts
 
 #EXTINF:-1 tvg-id="ITV2.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv2.png",ITV2
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=97038&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=97038&extension=ts
 
 #EXTINF:-1 tvg-id="ITV3.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv3.png",ITV3
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=97039&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=97039&extension=ts
 
 #EXTINF:-1 tvg-id="ITV4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv4.png",ITV4
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=97040&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=97040&extension=ts
 
 
 
 #EXTINF:-1 tvg-id="Channel.4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/channel4.png",Channel 4
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=97044&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=97044&extension=ts
 
 #EXTINF:-1 tvg-id="4seven.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/4seven.png",4 Seven
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=97035&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=97035&extension=ts
 
 #EXTINF:-1 tvg-id="Channel.5.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/channel5.png",Channel 5
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=97045&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=97045&extension=ts
 
 #EXTINF:-1 tvg-id="5STAR.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/5star.png",5 Star
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=97046&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=97046&extension=ts
 
 #EXTINF:-1 tvg-id="5.USA.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/usa.png",5USA
-http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:00:02:03&stream=97047&extension=ts
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=97047&extension=ts
 
 
 
