@@ -227,6 +227,8 @@ http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=61348&exten
 
 #EXTINF:-1 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/nesn-us.png",NESN
 #EXTINF:-1 tvg-id="SportsNet.New.York.HDTV.(SNYHD).us" tvg-logo="https://docdog.top/Logotv/countries//fubosportsnetwork.png",SportsNet NY
+http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=61377&extension=ts
+
 #EXTINF:-1 tvg-id="Pac-12.Network.HDTV.(PAC12).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/pac-12-los-angeles-us.png",PAC-12 NETWORK
 #EXTINF:-1 tvg-id="NHL.Network.US.HDTV.(NHLHD).us" tvg-logo="https://docdog.top/Logotv/countries//nbaatlantahawks.png",NHL NETWORK
 http://pdata.ddns.me:8080/play/live.php?mac=00:1A:79:FA:08:17&stream=187035&extension=ts
