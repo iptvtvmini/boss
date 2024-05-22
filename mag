@@ -60,6 +60,16 @@ https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
 
+#EXTINF:-1 tvg-id="Game.Show.Network.HDTV.(EAST).(GMSHWHD).us" tvg-name="Game Show Network HDTV (EAST) (GMSHWHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/game-show-network-us.png" group-title="",Game Show Network
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5e54187aae660e00093561d6" tvg-name="" tvg-logo="https://images.pluto.tv/channels/5e54187aae660e00093561d6/colorLogoPNG.png" group-title="",Game Show Central
+https://gsn-gameshowchannnel-1-us.vizio.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MBC.Wanasah.(MBCW).us" tvg-name="" tvg-logo="https://i.imgur.com/AuYEozR.png" group-title="",Wanasah
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+
+
 #EXTINF:-1 tvg-id="Astro.Ria.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",Astro Ria
 #EXTINF:-1 tvg-id="Astro.Ceria.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png",Astro Ceria
 #EXTINF:-1 tvg-id="Astro.Prima.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",Astro Prima
@@ -83,16 +93,7 @@ https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Game.Show.Network.HDTV.(EAST).(GMSHWHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/game-show-network-us.png",Game Show Network
-http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:C5:2F:34&stream=73312&extension=ts
 
-#EXTINF:-1 tvg-id="GAME+.us" tvg-logo="https://docdog.top/Logotv/countries//gsn.png",GAME+
-http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:C5:2F:34&stream=161379&extension=ts
-
-#EXTINF:-1 tvg-id="GAME+.us" tvg-logo="https://docdog.top/Logotv/countries//gameone.png",Game Plus
-#EXTINF:-1 tvg-id="GSN.(East).(GSN).us" tvg-logo="https://docdog.top/Logotv/countries//gsn.png",GSN
-#EXTINF:-1 tvg-id="GameTV.(GTV).ca" tvg-logo="https://docdog.top/Logotv/countries//gameone.png",Game TV
-http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:C5:2F:34&stream=73254&extension=ts
 
 
 
@@ -396,6 +397,23 @@ http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:C5:2F:34&stream=73295&extens
 http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:C5:2F:34&stream=73294&extension=ts
 
 #EXTINF:-1 tvg-id="Fuse.HDTV.(East).(FUSED).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fuse-us.png",Fuse
+
+
+
+#EXTINF:-1 tvg-id="Game.Show.Network.HDTV.(EAST).(GMSHWHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/game-show-network-us.png",Game Show Network
+http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:C5:2F:34&stream=73312&extension=ts
+
+#EXTINF:-1 tvg-id="GAME+.us" tvg-logo="https://docdog.top/Logotv/countries//gsn.png",GAME+
+http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:C5:2F:34&stream=161379&extension=ts
+
+#EXTINF:-1 tvg-id="GAME+.us" tvg-logo="https://docdog.top/Logotv/countries//gameone.png",Game Plus
+#EXTINF:-1 tvg-id="GSN.(East).(GSN).us" tvg-logo="https://docdog.top/Logotv/countries//gsn.png",GSN
+#EXTINF:-1 tvg-id="GameTV.(GTV).ca" tvg-logo="https://docdog.top/Logotv/countries//gameone.png",Game TV
+http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:C5:2F:34&stream=73254&extension=ts
+
+
+
+
 #EXTINF:-1 tvg-id="IFC.HDTV.(East).(IFCHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/ifc-us.png",IFC
 http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:C5:2F:34&stream=73299&extension=ts
 
