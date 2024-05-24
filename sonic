@@ -544,15 +544,24 @@ http://supersonictv.live:8080/live/Derrick/Hitman50$/22154.ts
 http://supersonictv.live:8080/live/Derrick/Hitman50$/22159.ts
 
 
+
+#EXTINF:-1,Action Hollywood Movies
+https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="USAJ30000148W" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/15/USAJ30000148W_20210525T051435.png",Cinevault 80s
 https://gsn-cinevault-80s-1-us.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USAK3508709A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/09/USAK3508709A_20210224T013304.png",Cinevault Westerns
 https://gsn-cinevault-westerns-1-us.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1,Action Hollywood Movies
-https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="",Redbox 1 Spotlight
+https://spotlight-redbox.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="",Redbox 2 Comedy
+https://comedy-redbox.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Redbox 3 Rush
+https://rush-redbox.amagi.tv/playlist.m3u8
 
 
 
