@@ -564,7 +564,14 @@ https://comedy-redbox.amagi.tv/playlist.m3u8
 https://rush-redbox.amagi.tv/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="SCRNPIX.ScreenPix.us" tvg-logo="https://docdog.top/Logotv/countries//dumisa.png",ScreenPix
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=552033&extension=m3u8
 
+#EXTINF:-1 tvg-id="SCRNACT.ScreenPix.Action.us" tvg-logo="https://docdog.top/Logotv/countries//dumisa.png",ScreenPix Action
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=552035&extension=m3u8
+
+#EXTINF:-1 tvg-id="SCRNWST.ScreenPix.Westerns.us" tvg-logo="https://docdog.top/Logotv/countries//dumisa.png",ScreenPix Westerns
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=552034&extension=m3u8
 
 
 #EXTINF:-1 tvg-id="MGM+.HDTV.(East).(MGM+HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-us.png",Epix
