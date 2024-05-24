@@ -638,6 +638,10 @@ https://comedy-redbox.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="",Redbox 3 Rush
 https://rush-redbox.amagi.tv/playlist.m3u8
 
+#EXTINF:-1,Twisted Mirror Comedy
+https://twistedmirror-twistedmirrorcomedy-2-us.xiaomi.wurl.tv/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-id="SCRNPIX.ScreenPix.us" tvg-logo="https://docdog.top/Logotv/countries//dumisa.png",ScreenPix
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=552033&extension=m3u8
@@ -849,6 +853,19 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=692993&extension=m
 
 #EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HDTV.(CI.HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/crime-and-investigation-us.png",Crime&Investigation
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=469364&extension=m3u8
+
+#EXTINF:-1,Crime and Punishment
+https://rightsboosterltd-crime-and-punishment-1-us.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,Conflict
+https://rightsboosterltd-conflict-1-us.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,Law and Crime
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00260-lawnewzincdbala-lawandcrime-xiaomi/playlist.m3u8
+
+#EXTINF:-1,Emergency
+https://rightsboosterltd-emergency-1-us.xiaomi.wurl.tv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="Investigation.Discovery.HDTV.(IDHD).us" tvg-logo="https://docdog.top/Logotv/countries//investigationdiscovery.png",Investigation Discovery
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=469369&extension=m3u8
