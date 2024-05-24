@@ -156,7 +156,7 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=833285&ex
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=833286&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportaction.png",SuperSports ACTION
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577933&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1173913&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportcricket.png",SuperSports CRICKET
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=833273&extension=ts
@@ -191,13 +191,13 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=833280&ex
 
 
 #EXTINF:-1 tvg-id="",SuperSports PLAY 1
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577932&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=554968&extension=ts
 
 #EXTINF:-1 tvg-id="",SuperSports PLAY 2
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577931&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=554969&extension=ts
 
 #EXTINF:-1 tvg-id="",SuperSports BLITZ
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577927&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=554982&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//supersportmaximo1.png",SuperSports MAXIMO
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=833279&extension=ts
