@@ -563,6 +563,9 @@ https://comedy-redbox.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="",Redbox 3 Rush
 https://rush-redbox.amagi.tv/playlist.m3u8
 
+#EXTINF:-1,Twisted Mirror Comedy
+https://twistedmirror-twistedmirrorcomedy-2-us.xiaomi.wurl.tv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="SCRNPIX.ScreenPix.us" tvg-logo="https://docdog.top/Logotv/countries//dumisa.png",ScreenPix
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=552033&extension=m3u8
@@ -758,6 +761,18 @@ http://supersonictv.live:8080/live/Derrick/Hitman50$/77471.ts
 
 #EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HDTV.(CI.HD).us",Crime Investigation
 http://supersonictv.live:8080/live/Derrick/Hitman50$/22071.ts
+
+#EXTINF:-1,Crime and Punishment
+https://rightsboosterltd-crime-and-punishment-1-us.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,Conflict
+https://rightsboosterltd-conflict-1-us.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,Law and Crime
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00260-lawnewzincdbala-lawandcrime-xiaomi/playlist.m3u8
+
+#EXTINF:-1,Emergency
+https://rightsboosterltd-emergency-1-us.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Investigation.Discovery.HDTV.(IDHD).us" tvg-name="http://myserveriptv.com:2082/images/e00a346a1e80c3d33bbb82d4fd74b31e.png" tvg-logo="" group-title="",Investigation Discovery
 http://supersonictv.live:8080/live/Derrick/Hitman50$/22110.ts
