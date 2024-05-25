@@ -384,10 +384,10 @@ http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=213662&extension=
 
 
 #EXTINF:-1 tvg-id="SONY.TEN.1.HD.in" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="",TEN 1
-https://dai.google.com/ssai/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+http://supersonictv.live:8080/live/Derrick/Hitman50$/85647.ts
 
 #EXTINF:-1 tvg-id="SONY.TEN.2.HD.in" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="",TEN 2
-https://dai.google.com/ssai/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+http://supersonictv.live:8080/live/Derrick/Hitman50$/85648.ts
 
 #EXTINF:-1 tvg-id="SONY.TEN.3.HD.in" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="",TEN 3
 https://dai.google.com/ssai/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
