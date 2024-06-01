@@ -374,28 +374,6 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577934&extension=t
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//arenasport1.png",Arena Sport 1
-http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=213666&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//arenasport2.png",Arena Sport 2
-http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=213665&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//arenasport3.png",Arena Sport 3
-http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=213664&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//arenasport4.png",Arena Sport 4
-http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=213663&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//arenasport5.png",Arena Sport 5
-http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=213662&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//arenasport6.png",Arena Sport 6
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsmainevent.png",Sky Sport Main Event
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577997&extension=ts
