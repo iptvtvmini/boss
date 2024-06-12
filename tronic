@@ -176,6 +176,8 @@ http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=70717&
 #EXTINF:-1 tvg-id="beIN.SPORTS.CONNECT.LaLiga.(BEIN3-I).us" tvg-logo="https://docdog.top/Logotv/countries//beinsports.png",beIN SPORTS CONNECT La Liga
 
 #EXTINF:-1 tvg-id="Bally.Sports.Midwest.(St..Louis).(BSMW).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/nbc-logo-flat-us.png",Bally Sport
+http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=69661&extension=ts
+
 #EXTINF:-1 tvg-id="Big.Ten.Network.HDTV.(National).(BTNHD).us" tvg-logo="https://docdog.top/Logotv/countries//bigtennetwork.png",Big Ten Network
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HDTV.(CBSSD).us" tvg-logo="https://docdog.top/Logotv/countries//cbssports.png",CBS Sports Network
 #EXTINF:-1 tvg-id="The.Cowboy.Channel.(COWBOY).us" tvg-logo="",Cowboy Channel
@@ -296,52 +298,6 @@ http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=156294
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US001A&E-HD.png",A&E
 http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=597035&extension=m3u8
 
@@ -350,62 +306,62 @@ http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1529&e
 
 #EXTINF:-1 tvg-id="AMC+.us" tvg-logo="",AMC+
 #EXTINF:-1 tvg-id="American.Heroes.Channel.(AHC).us" tvg-logo="https://docdog.top/Logotv/countries//americanheroeschannel.png",American Heroes
-http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1313&extension=ts
+http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1313&extension=m3u8
 
 #EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/syfy-us.png",Syfy
-http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1428&extension=ts
+http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1428&extension=m3u8
 
 #EXTINF:-1 tvg-id="SYFY.HD.uk" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US072SYFY.png",SYFY (UK)
 
 #EXTINF:-1 tvg-id="AXSTV.HD.(AXSTV).us" tvg-logo="",AXS TV
-http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1576&extension=ts
+http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1576&extension=m3u8
 
 #EXTINF:-1 tvg-id="BBC.America.HDTV.(East).(BBC).us" tvg-logo="https://docdog.top/Logotv/countries/bbcamerica.png",BBC America
-http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1484&extension=ts
+http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1484&extension=m3u8
 
 #EXTINF:-1 tvg-id="Black.Entertainment.Television.HDTV.(East).(BET-HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/bet-us.png",BET
-http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1508&extension=ts
+http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1508&extension=m3u8
 
 #EXTINF:-1 tvg-id="BET.Her.HDTV.(BHERHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/bet-her-us.png",BET HER
-http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=41537&extension=ts
+http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=41537&extension=m3u8
 
 #EXTINF:-1 tvg-id="Bounce.TV.(Bounce).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/bounce-us.png",Bounce TV
-http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=41538&extension=ts
+http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=41538&extension=m3u8
 
 #EXTINF:-1 tvg-id="Bravo.HDTV.(East).(BRAVOD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/bravo-us.png",Bravo
-http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1387&extension=ts
+http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1387&extension=m3u8
 
 #EXTINF:-1 tvg-id="CMT.HDTV.(East).(CMTHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cmt-us.png",CMT
-http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1510&extension=ts
+http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1510&extension=m3u8
 
 #EXTINF:-1 tvg-id="Cine.Sony.Television.(CSONY).us" tvg-logo="https://docdog.top/Logotv/countries//cinesony.png",Cine Sony
 
 #EXTINF:-1 tvg-id="Comedy.Central.HDTV.(East).(CMDHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/comedy-central-us.png",Comedy Central
-http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1350&extension=ts
+http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1350&extension=m3u8
 
 #EXTINF:-1 tvg-id="Comet.TV.(COMET).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/comet-us.png",Comet
 
 #EXTINF:-1 tvg-id="E!.Entertainment.Television.HDTV.(East).(E!.HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/e-entertainment-us.png",E!
-http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1329&extension=ts
+http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1329&extension=m3u8
 
 #EXTINF:-1 tvg-id="E!.Entertainment.Television.Canada.HDTV.(E!).ca" tvg-logo="https://docdog.top/Logotv/countries/united-states/e-entertainment-us.png",E! (CA)
 
 #EXTINF:-1 tvg-id="Freeform.HDTV.(East).(FRFHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/freeform-us.png",Freeform
-http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1356&extension=ts
+http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1356&extension=m3u8
 
 #EXTINF:-1 tvg-id="FX.HDTV.(East).(FX.HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fx-us.png",FX
-http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1357&extension=ts
+http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1357&extension=m3u8
 
 #EXTINF:-1 tvg-id="FX.Movie.Channel.HDTV.(FXMHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fxm-movie-channel-us.png",FXM
 
 #EXTINF:-1 tvg-id="FXX.HDTV.(East).(FXXHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fxx-us.png",FXX
-http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1405&extension=ts
+http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1405&extension=m3u8
 
 #EXTINF:-1 tvg-id="Fuse.HDTV.(East).(FUSED).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fuse-us.png",Fuse
-http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=28838&extension=ts
+http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=28838&extension=m3u8
 
 #EXTINF:-1 tvg-id="IFC.HDTV.(East).(IFCHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/ifc-us.png",IFC
-http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=74901&extension=ts
+http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=74901&extension=m3u8
 
 #EXTINF:-1 tvg-id="ION.East.Cable/Dish.(ION).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/countrypic.png",ION
 
@@ -414,27 +370,27 @@ http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=74901&
 #EXTINF:-1 tvg-id="Lifetime.Television.HDTV.(East).(LIFEH).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/lifetime-us.png",Lifetime Television
 
 #EXTINF:-1 tvg-id="MTV.HDTV.(East).(MTVHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/mtv-us.png",MTV
-http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1520&extension=ts
+http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1520&extension=m3u8
 
 #EXTINF:-1 tvg-id="MTV2.HDTV.(East).(MTV2HD).us" tvg-logo="https://docdog.top/Logotv/countries/uk/mtv.png",MTV2
-http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=28839&extension=ts
+http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=28839&extension=m3u8
 
 #EXTINF:-1 tvg-id="PixL.HDTV.(PixLHD).us" tvg-logo="",PixL
 
 #EXTINF:-1 tvg-id="ReelzChannel.HDTV.(REELZH).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/reelz-us.png",Reelz
-http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=41544&extension=ts
+http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=41544&extension=m3u8
 
 #EXTINF:-1 tvg-id="SundanceTV.HDTV.(East).(SUNHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/sundance-tv-us.png",SundanceTV
-http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1524&extension=ts
+http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1524&extension=m3u8
 
 #EXTINF:-1 tvg-id="TBS.Superstation.HDTV.(East).(TBSHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/tbs-us.png",TBS
-http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1319&extension=ts
+http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1319&extension=m3u8
 
 #EXTINF:-1 tvg-id="Turner.Network.Television.HDTV.(East).(TNTHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/tnt-us.png",TNT
-http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1318&extension=ts
+http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1318&extension=m3u8
 
 #EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/usa-us.png",USA Network
-http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1316&extension=ts
+http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1316&extension=m3u8
 
 #EXTINF:-1 tvg-id="USTV.(USTV).us" tvg-logo="",USTV
 #EXTINF:-1 tvg-id="truTV.HDTV.(East).(TruTVD).us" tvg-logo="",truTV
