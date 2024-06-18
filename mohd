@@ -386,13 +386,13 @@ http://mohdtv.com:8880/live/voby4681/59596648/3106.ts
 
 
 #EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-logo="https://docdog.top/Logotv/countries//A&E.jpg",A&E
-http://mohdtv.com:8880/live/voby4681/59596648/3167.m3u8
+http://mohdtv.com:8880/live/voby4681/59596648/3167.ts
 
 #EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/amc-us.png",AMC
-http://mohdtv.com:8880/live/voby4681/59596648/3162.m3u8
+http://mohdtv.com:8880/live/voby4681/59596648/3162.ts
 
 #EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/syfy-us.png",Syfy
-http://mohdtv.com:8880/live/voby4681/59596648/3096.m3u8
+http://mohdtv.com:8880/live/voby4681/59596648/3096.ts
 
 #EXTINF:-1 tvg-id="BBC.America.HDTV.(East).(BBC).us" tvg-logo="https://docdog.top/Logotv/countries/bbcamerica.png",BBC America
 http://mohdtv.com:8880/live/voby4681/59596648/3160.ts
@@ -413,19 +413,19 @@ http://cord-cutter.net:8080/live/95549031/69361122/57422.ts
 http://mohdtv.com:8880/live/voby4681/59596648/3128.ts
 
 #EXTINF:-1 tvg-id="FX.HDTV.(East).(FX.HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fx-us.png",FX
-http://mohdtv.com:8880/live/voby4681/59596648/3127.m3u8
+http://mohdtv.com:8880/live/voby4681/59596648/3127.ts
 
 #EXTINF:-1 tvg-id="FXX.HDTV.(East).(FXXHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fxx-us.png",FXX
-http://mohdtv.com:8880/live/voby4681/59596648/3126.m3u8
+http://mohdtv.com:8880/live/voby4681/59596648/3126.ts
 
 #EXTINF:-1 tvg-id="TBS.Superstation.HDTV.(East).(TBSHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/tbs-us.png",TBS
 http://mohdtv.com:8880/live/voby4681/59596648/3095.ts
 
 #EXTINF:-1 tvg-id="Turner.Network.Television.HDTV.(East).(TNTHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/tnt-us.png",TNT
-http://mohdtv.com:8880/live/voby4681/59596648/3092.m3u8
+http://mohdtv.com:8880/live/voby4681/59596648/3092.ts
 
 #EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/usa-us.png",USA Network
-http://mohdtv.com:8880/live/voby4681/59596648/3089.m3u8
+http://mohdtv.com:8880/live/voby4681/59596648/3089.ts
 
 #EXTINF:-1,VH1 HD
 http://mohdtv.com:8880/live/voby4681/59596648/3087.ts
@@ -436,25 +436,25 @@ http://mohdtv.com:8880/live/voby4681/59596648/3087.ts
 
 
 #EXTINF:-1 tvg-id="5StarMAX.HD.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cinemax-5-starmax-us.png",5StarMAX
-http://mohdtv.com:8880/live/voby4681/59596648/64347.m3u8
+http://mohdtv.com:8880/live/voby4681/59596648/64347.ts
 
 #EXTINF:-1 tvg-id="Cinemax.HDTV.(East).(MAXHD).us" tvg-logo="https://docdog.top/Logotv/countries//cinemax.png",CineMAX
-http://mohdtv.com:8880/live/voby4681/59596648/64356.m3u8
+http://mohdtv.com:8880/live/voby4681/59596648/64356.ts
 
 #EXTINF:-1 tvg-id="ActionMAX.HDTV.(East).(AMXHD).us" tvg-logo="https://docdog.top/Logotv/countries//actionmax.png",ActionMAX
-http://mohdtv.com:8880/live/voby4681/59596648/64351.m3u8
+http://mohdtv.com:8880/live/voby4681/59596648/64351.ts
 
 #EXTINF:-1 tvg-id="MOVIEMAX.HDTV.(MMXHD).us" tvg-logo="https://docdog.top/Logotv/countries/turkey/movie-smart-fest-tr.png",MovieMAX
-http://mohdtv.com:8880/live/voby4681/59596648/64349.m3u8
+http://mohdtv.com:8880/live/voby4681/59596648/64349.ts
 
 #EXTINF:-1 tvg-id="ThrillerMAX.HDTV.(East).(TMXHD).us" tvg-logo="https://docdog.top/Logotv/countries//thrillermax.png",ThrillerMAX
-http://mohdtv.com:8880/live/voby4681/59596648/64353.m3u8
+http://mohdtv.com:8880/live/voby4681/59596648/64353.ts
 
 #EXTINF:-1 tvg-id="OuterMax.east.us" tvg-logo="https://docdog.top/Logotv/countries//outermax.png",OuterMAX
-http://mohdtv.com:8880/live/voby4681/59596648/64346.m3u8
+http://mohdtv.com:8880/live/voby4681/59596648/64346.ts
 
 #EXTINF:-1 tvg-id="More.Max.(East).(MOMAX).us" tvg-logo="https://docdog.top/Logotv/countries//cinemaxmoremax.png",MoreMAX
-http://mohdtv.com:8880/live/voby4681/59596648/64357.m3u8
+http://mohdtv.com:8880/live/voby4681/59596648/64357.ts
 
 
 
