@@ -723,6 +723,16 @@ http://supersonictv.live:8080/live/Derrick/Hitman50$/77471.ts
 
 
 
+#EXTINF:-1 tvg-id="",SONY PIX
+http://filex.tv:8080/2TVtkhVJ7ajs/baevzdFA5xu8/75
+
+#EXTINF:-1 tvg-id="",MOVIE NOW
+http://filex.tv:8080/2TVtkhVJ7ajs/baevzdFA5xu8/113
+
+#EXTINF:-1 tvg-id="",PRIVE
+http://filex.tv:8080/2TVtkhVJ7ajs/baevzdFA5xu8/53043
+
+
 
 
 #EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HDTV.(CI.HD).us",Crime Investigation
