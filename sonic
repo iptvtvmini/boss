@@ -366,15 +366,6 @@ http://supersonictv.live:8080/live/242306/210404/86873.ts
 
 
 
-#EXTINF:-1 tvg-id="",Now Sports 1
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:1c:5d:9e&stream=1497551&extension=ts
-
-#EXTINF:-1 tvg-id="",Now Sports 2
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:1c:5d:9e&stream=1497552&extension=ts
-
-#EXTINF:-1 tvg-id="",Now Sports 3
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:1c:5d:9e&stream=1497553&extension=ts
-
 
 
 #EXTINF:-1 tvg-id="SONY.TEN.1.HD.in" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="",TEN 1
