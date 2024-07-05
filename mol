@@ -434,13 +434,16 @@ http://cord-cutter.net:8080/live/95549031/69361122/57253.ts
 
 
 #EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-name="A and E Network HDTV (A and EHD)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US001A&E-HD.png",A&E
-http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45619&extension=ts
+http://supersonictv.live:8080/live/Derrick/Hitman50$/22040.ts
 
 #EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-name="AMC HDTV (East) (AMCHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/amc-us.png",AMC
 http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61428&extension=ts
 
+#EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-name="Syfy HDTV (SYFYHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/syfy-us.png",Syfy
+http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61373&extension=ts
+
 #EXTINF:-1 tvg-id="BBC.America.HDTV.(East).(BBC).us" tvg-name="BBC America HDTV (East) (BBC)" tvg-logo="https://docdog.top/Logotv/countries/bbcamerica.png",BBC America
-http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45612&extension=ts
+http://supersonictv.live:8080/live/Derrick/Hitman50$/22051.ts
 
 #EXTINF:-1 tvg-id="Bravo.HDTV.(East).(BRAVOD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/bravo-us.png",Bravo
 http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61466&extension=ts
@@ -462,9 +465,6 @@ http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61456&extension=t
 #EXTINF:-1 tvg-id="SundanceTV.HDTV.(East).(SUNHD).us" tvg-name="SundanceTV HDTV (East) (SUNHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/sundance-tv-us.png",Sundance
 http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61460&extension=ts
 
-#EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-name="Syfy HDTV (SYFYHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/syfy-us.png",Syfy
-http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61373&extension=ts
-
 #EXTINF:-1 tvg-id="TBS.Superstation.HDTV.(East).(TBSHD).us" tvg-name="TBS Superstation HDTV (East) (TBSHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/tbs-us.png",TBS
 http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61372&extension=ts
 
@@ -477,14 +477,22 @@ http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61368&extension=t
 
 
 #EXTINF:-1 tvg-id="MGM+.HDTV.(East).(MGM+HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-us.png",Epix
+http://supersonictv.live:8080/live/Derrick/Hitman50$/22886.ts
+
 #EXTINF:-1 tvg-id="MGM+.Marquee.HDTV.(East).(MGM+MRQ).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-2-us.png",Epix 2
+http://supersonictv.live:8080/live/Derrick/Hitman50$/22889.ts
+
 #EXTINF:-1 tvg-id="MGM+.Drive-In.(MGM+DI).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-drive-in-us.png",Epix Drive-In
+http://supersonictv.live:8080/live/Derrick/Hitman50$/22888.ts
+
 #EXTINF:-1 tvg-id="MGM+.Hits.HDTV.(East).(MGM+HTHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-us.png",Epix Hits
+http://supersonictv.live:8080/live/Derrick/Hitman50$/22887.ts
 
 
 
 
 #EXTINF:-1 tvg-id="5StarMAX.HD.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cinemax-5-starmax-us.png",5StarMAX
+http://supersonictv.live:8080/live/Derrick/Hitman50$/22878.ts
 
 #EXTINF:-1 tvg-id="Cinemax.HDTV.(East).(MAXHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cinemax-us.png",CINEMAX
 http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61464&extension=ts
@@ -495,12 +503,23 @@ http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61469&extension=t
 #EXTINF:-1 tvg-id="More.Max.(East).(MOMAX).us" tvg-logo="https://docdog.top/Logotv/countries//moremax.png",MOREMAX
 http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61390&extension=ts
 
+EXTINF:-1 tvg-id="MOVIEMAX.HDTV.(MMXHD).us" tvg-logo="https://docdog.top/Logotv/countries//actionmax.png",MOVIEMAX
+http://supersonictv.live:8080/live/Derrick/Hitman50$/22883.ts
 
+#EXTINF:-1 tvg-id="OuterMax.east.us" tvg-logo="https://docdog.top/Logotv/countries//outermax.png",OUTERMAX
+http://supersonictv.live:8080/live/Derrick/Hitman50$/22884.ts
 
+#EXTINF:-1 tvg-id="ThrillerMAX.HDTV.(East).(TMXHD).us" tvg-logo="https://docdog.top/Logotv/countries//thrillermax.png",THRILLERMAX
+http://supersonictv.live:8080/live/Derrick/Hitman50$/22885.ts
 
+#EXTINF:-1 tvg-id="IndiePlex.HDTV.(INDIEHD).us" tvg-logo="https://docdog.top/Logotv/countries//indieplex.png",INDIEPLEX
+http://supersonictv.live:8080/live/Derrick/Hitman50$/22903.ts
 
+#EXTINF:-1 tvg-id="MoviePlex.East.(MPLEX).us" tvg-logo="https://docdog.top/Logotv/countries//movieplex.png",MOVIEPLEX
+http://supersonictv.live:8080/live/Derrick/Hitman50$/22905.ts
 
-
+#EXTINF:-1 tvg-id="RetroPlex.HDTV.(RETROHD).us" tvg-logo="https://docdog.top/Logotv/countries//retroplex.png",RETROPLEX
+http://supersonictv.live:8080/live/Derrick/Hitman50$/47746.ts
 
 
 
