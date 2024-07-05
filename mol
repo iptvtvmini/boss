@@ -245,13 +245,79 @@ http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61458&extension=t
 #EXTINF:-1 tvg-id="ESPN2.HDTV.(Dish).(ESPN2HD).us" tvg-name="ESPN2 HDTV (Dish) (ESPN2HD)" tvg-logo="https://docdog.top/Logotv/countries//espn2.png",ESPN 2
 http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61459&extension=ts
 
+#EXTINF:-1 tvg-id="ESPNU.HDTV.(ESPNUHD).us" tvg-name="ESPNU HDTV (ESPNUHD)" tvg-logo="https://docdog.top/Logotv/countries//espnu.png" group-title="",ESPN U
+http://supersonictv.live:8080/live/Derrick/Hitman50$/22202.ts
+
 #EXTINF:-1 tvg-id="The.Longhorn.Network.HDTV.(LONG).us" tvg-logo="https://docdog.top/Logotv/countries//longhornnetwork.png",Longhorn Network
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497389&extension=ts
 
 #EXTINF:-1 tvg-id="NBA.TV.HDTV.(NBA.HD).us" tvg-logo="https://docdog.top/Logotv/countries//nba.png",NBA TV
 http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=187070&extension=ts
 
-#EXTINF:-1 tvg-id="The.Golf.Channel.HDTV.(GLFHD).us" tvg-name="The Golf Channel HDTV (GLFHD)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png",GOLF
+
+#EXTINF:-1 tvg-id="ACC.Network.HDTV.(ACCN).us" tvg-logo="https://docdog.top/Logotv/countries//accnetwork.png",ACC Network
+http://supersonictv.live:8080/live/Derrick/Hitman50$/40389.ts
+
+#EXTINF:-1 tvg-id="Altitude.Sports.and.Entertainment.(Colorado).HDTV.24/7.(ALTHD).us" tvg-logo="",Altitude Sports
+http://supersonictv.live:8080/live/Derrick/Hitman50$/77575.ts
+
+#EXTINF:-1 tvg-id="ATT.SportsNet.Pittsburgh.HDTV.(Pittsburgh.DMA).(ATTHD).us" tvg-logo="",ATT SportNet
+http://supersonictv.live:8080/live/Derrick/Hitman50$/75302.ts
+
+#EXTINF:-1 tvg-id="Bally.Sports.Midwest.(St..Louis).(BSMW).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/nbc-logo-flat-us.png",Bally Sport
+http://supersonictv.live:8080/live/Derrick/Hitman50$/78946.ts
+
+#EXTINF:-1 tvg-id="The.Cowboy.Channel.(COWBOY).us" tvg-logo="",Cowboy Channel
+http://supersonictv.live:8080/live/Derrick/Hitman50$/22069.ts
+
+#EXTINF:-1 tvg-id="",Eleven Sports Network
+http://supersonictv.live:8080/live/Derrick/Hitman50$/40396.ts
+
+#EXTINF:-1 tvg-id="MLB.Network.HDTV.(DISH).(MLBHD).us" tvg-logo="https://docdog.top/Logotv/countries//mlbnetwork.png",MLB Network
+http://supersonictv.live:8080/live/Derrick/Hitman50$/40402.ts
+
+#EXTINF:-1 tvg-id="NBCSNWH.NBC.Sports.Northwest.HD.us" tvg-logo="https://docdog.top/Logotv/countries//nbcnewyork.png",NBC Sport
+
+#EXTINF:-1 tvg-id="The.NFL.Network.HDTV.(NFLHD).us" tvg-logo="https://docdog.top/Logotv/countries//nflnetwork.png",NFL Network
+http://supersonictv.live:8080/live/Derrick/Hitman50$/40412.ts
+
+#EXTINF:-1 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/nesn-us.png",NESN
+http://supersonictv.live:8080/live/Derrick/Hitman50$/40410.ts
+
+#EXTINF:-1 tvg-id="NHL.Network.US.HDTV.(NHLHD).us" tvg-logo="https://docdog.top/Logotv/countries//nbaatlantahawks.png",NHL NETWORK
+http://supersonictv.live:8080/live/Derrick/Hitman50$/40413.ts
+
+#EXTINF:-1 tvg-id="Pac-12.Network.HDTV.(PAC12).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/pac-12-los-angeles-us.png",PAC-12 NETWORK
+http://supersonictv.live:8080/live/Derrick/Hitman50$/40419.ts
+
+#EXTINF:-1 tvg-id="Root.Sports.Northwest.(ROOT).us" tvg-logo="",Root Sports
+http://supersonictv.live:8080/live/Derrick/Hitman50$/77576.ts
+
+#EXTINF:-1 tvg-id="SEC.Network.HDTV.(SECN).us" tvg-logo="https://docdog.top/Logotv/countries//secnetwork.png",SEC NETWORK
+http://supersonictv.live:8080/live/Derrick/Hitman50$/22208.ts
+
+#EXTINF:-1 tvg-id="Spectrum.SportsNet.LA.(SNLA).us" tvg-logo="https://docdog.top/Logotv/countries/cz/novasport1.png",SPECTRUM SPORTSNET
+http://supersonictv.live:8080/live/Derrick/Hitman50$/40423.ts
+
+#EXTINF:-1 tvg-id="SportsNet.New.York.HDTV.(SNYHD).us" tvg-logo="https://docdog.top/Logotv/countries//fubosportsnetwork.png",SportsNet NY
+http://supersonictv.live:8080/live/Derrick/Hitman50$/40473.ts
+
+#EXTINF:-1 tvg-id="Sportsnet.360.HDTV.(360HD).ca" tvg-logo="https://docdog.top/Logotv/countries//sportsnet360.png",SportsNet 360
+http://supersonictv.live:8080/live/Derrick/Hitman50$/40472.ts
+
+#EXTINF:-1 tvg-id="Sportsnet.One.HDTV.(SN1HD).ca" tvg-logo="https://docdog.top/Logotv/countries//sportsnetone.png",Sportsnet One
+http://supersonictv.live:8080/live/Derrick/Hitman50$/40475.ts
+
+#EXTINF:-1 tvg-id="The.Sportsman.Channel.HDTV.(SPTMANHD).us" tvg-logo="https://docdog.top/Logotv/countries//sportsmanchannel.png",Sportman Channel
+
+#EXTINF:-1 tvg-id="Willow.Cricket.HDTV.(WILLHD).us" tvg-logo="https://docdog.top/Logotv/countries//willowcricket.png",Willow Cricket
+http://supersonictv.live:8080/live/Derrick/Hitman50$/40436.ts
+
+#EXTINF:-1 tvg-id="",YES Network
+http://supersonictv.live:8080/live/Derrick/Hitman50$/40438.ts
+
+
+#EXTINF:-1 tvg-id="The.Golf.Channel.HDTV.(GLFHD).us" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png",GOLF
 http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61455&extension=ts
 
 #EXTINF:-1 tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" tvg-name="Tennis Channel HDTV (TNNSHD)" tvg-logo="https://docdog.top/Logotv/countries//tennischannel.png",Tennis
@@ -259,13 +325,6 @@ http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61439&extension=t
 
 #EXTINF:-1 tvg-id="WWE.Network.us" tvg-name="WWE Network" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png",WWE
 http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=287479&extension=ts
-
-
-
-
-
-
-
 
 
 #EXTINF:-1 tvg-id="The.Sports.Network.HDTV.(TSNHD).ca" tvg-name="The Sports Network HDTV (TSNHD)" tvg-logo="https://docdog.top/Logotv/countries//tsn1.png",TSN 1
