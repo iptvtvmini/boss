@@ -320,6 +320,85 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97143&extension
 
 
 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV + HD" group-title="PT| Desporto",PT| SPORT TV + HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=461168&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PT| BTV" group-title="PT| Desporto",PT| BTV
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=461169&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PT| BTV HD" group-title="PT| Desporto",PT| BTV HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=461170&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORTING TV" group-title="PT| Desporto",PT| SPORTING TV
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=461171&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORTING TV HD" group-title="PT| Desporto",PT| SPORTING TV HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=461172&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 1" group-title="PT| Desporto",PT| SPORT TV 1
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=461173&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 1 HD" group-title="PT| Desporto",PT| SPORT TV 1 HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=461174&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 2" group-title="PT| Desporto",PT| SPORT TV 2
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=461175&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 2 HD" group-title="PT| Desporto",PT| SPORT TV 2 HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=461176&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 3" group-title="PT| Desporto",PT| SPORT TV 3
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=461177&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 3 HD" group-title="PT| Desporto",PT| SPORT TV 3 HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=461178&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 4" group-title="PT| Desporto",PT| SPORT TV 4
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=461179&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 4 HD" group-title="PT| Desporto",PT| SPORT TV 4 HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=461180&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 5" group-title="PT| Desporto",PT| SPORT TV 5
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=461181&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 5 HD" group-title="PT| Desporto",PT| SPORT TV 5 HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=461182&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 6 HD" group-title="PT| Desporto",PT| SPORT TV 6 HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=461183&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV NBA HD" group-title="PT| Desporto",PT| SPORT TV NBA HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=461184&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PT| ELEVEN SPORTS 1 HD" group-title="PT| Desporto",PT| ELEVEN SPORTS 1 HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=461186&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PT| ELEVEN SPORTS 1" group-title="PT| Desporto",PT| ELEVEN SPORTS 1
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=461185&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PT| ELEVEN SPORTS 2" group-title="PT| Desporto",PT| ELEVEN SPORTS 2
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=461187&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PT| ELEVEN SPORTS 2 HD" group-title="PT| Desporto",PT| ELEVEN SPORTS 2 HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=461188&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PT| ELEVEN SPORTS 3" group-title="PT| Desporto",PT| ELEVEN SPORTS 3
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=461189&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PT| ELEVEN SPORTS 3 HD" group-title="PT| Desporto",PT| ELEVEN SPORTS 3 HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=461190&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PT| ELEVEN SPORTS 4" group-title="PT| Desporto",PT| ELEVEN SPORTS 4
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=461191&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PT| ELEVEN SPORTS 4 HD" group-title="PT| Desporto",PT| ELEVEN SPORTS 4 HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=461192&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PT| ELEVEN SPORTS 5" group-title="PT| Desporto",PT| ELEVEN SPORTS 5
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=461193&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PT| ELEVEN SPORTS 5 HD" group-title="PT| Desporto",PT| ELEVEN SPORTS 5 HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=461194&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PT| ELEVEN SPORTS 6" group-title="PT| Desporto",PT| ELEVEN SPORTS 6
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=461195&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PT| ELEVEN SPORTS 6 HD" group-title="PT| Desporto",PT| ELEVEN SPORTS 6 HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=461196&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PT| EUROSPORT 1" group-title="PT| Desporto",PT| EUROSPORT 1
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=461197&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PT| EUROSPORT 1 HD" group-title="PT| Desporto",PT| EUROSPORT 1 HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=461198&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PT| EUROSPORT 2" group-title="PT| Desporto",PT| EUROSPORT 2
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=461199&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PT| EUROSPORT 2 HD" group-title="PT| Desporto",PT| EUROSPORT 2 HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=461200&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PT| RTP ARENA" group-title="PT| Desporto",PT| RTP ARENA
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=461204&extension=ts
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//arenasport1.png",Arena Sport 1
 http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=213666&extension=ts
 
@@ -336,6 +415,12 @@ http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=213663&extension=
 http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=213662&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//arenasport6.png",Arena Sport 6
+
+
+
+
+
+
 
 
 
