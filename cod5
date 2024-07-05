@@ -286,7 +286,7 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=487803&extension=ts
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety1.png",SuperSports VARIETY 111
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety1.png",SuperSports VARIETY 1
 http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=577922&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety2.png",SuperSports VARIETY 2
@@ -383,17 +383,9 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=549764&extension=ts
 http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=550258&extension=ts
 
 
-
-
 #EXTINF:-1 tvg-id="CTV.Calgary.HDTV.(CTVHC).ca" tvg-logo="https://docdog.top/Logotv/countries//ctvcalgary.png",CTV
-http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=626991&extension=ts
-
 #EXTINF:-1 tvg-id="CTV.Two.Ottawa/CHRO.(CTV2O).ca" tvg-logo="https://docdog.top/Logotv/countries//ctv2ottawa.png",CTV2
-http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=626966&extension=ts
-
 #EXTINF:-1 tvg-id="CTV.SCI-FI.Channel.HDTV.(SCIFIHD).ca" tvg-logo="https://docdog.top/Logotv/countries/canada/ctv-sci-fi-channel-ca.png",CTV SCI-FI
-http://cod5.me:80/play/live.php?mac=00:1A:79:C2:3F:A7&stream=626898&extension=ts
-
 
 
 #EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-name="A and E Network HDTV (A and EHD)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US001A&E-HD.png" group-title="",A&E
