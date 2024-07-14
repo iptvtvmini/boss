@@ -118,7 +118,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/index.m3u8?id=4
 http://vo01.mohdtv.com:8880/live/voby4681/59596648/1703.ts
 
 #EXTINF:-1 tvg-id="Astro.Arena.2.HD.my" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="",Astro Arena 2
-http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/150.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-title="",Arena Bola 1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-title="",Arena Bola 2
@@ -128,13 +127,13 @@ http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/150.ts
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=766852&extension=ts
 
 #EXTINF:-1 tvg-id="Astro.SuperSport.2.HD.my" tvg-name="Astro SuperSport 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="",Astro SuperSport 2
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=766853&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=571248&extension=ts
 
 #EXTINF:-1 tvg-id="Astro.SuperSport.3.HD.my" tvg-name="Astro SuperSport 3 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="",Astro SuperSport 3
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=766854&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=571247&extension=ts
 
 #EXTINF:-1 tvg-id="Astro.SuperSport.4.HD.my" tvg-name="Astro SuperSport 4 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="",Astro SuperSport 4
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=766855&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=571246&extension=ts
 
 #EXTINF:-1 tvg-id="Astro.Supersport.5.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="",W Sport
 http://mohdtv.com:8880/live/voby4681/59596648/1713.ts
