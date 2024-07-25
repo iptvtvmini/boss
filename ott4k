@@ -428,25 +428,25 @@ http://cord-cutter.net:8080/live/95549031/69361122/120897.ts
 
 
 #EXTINF:-1 tvg-id="ABC.Spark.HDTV.(HABCS).ca",ABC Spark
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=627029&extension=m3u8
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=627029&extension=ts
 
 #EXTINF:-1 tvg-id="CTV.Calgary.HDTV.(CTVHC).ca" tvg-logo="https://docdog.top/Logotv/countries//ctvcalgary.png",CTV
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626987&extension=m3u8
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626987&extension=ts
 
 #EXTINF:-1 tvg-id="CTV.Two.Ottawa/CHRO.(CTV2O).ca" tvg-logo="https://docdog.top/Logotv/countries//ctv2ottawa.png",CTV2
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626966&extension=m3u8
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626966&extension=ts
 
 #EXTINF:-1 tvg-id="CTV.SCI-FI.Channel.HDTV.(SCIFIHD).ca" tvg-logo="https://docdog.top/Logotv/countries/canada/ctv-sci-fi-channel-ca.png",CTV SCI-FI
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626898&extension=m3u8
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626898&extension=ts
 
 #EXTINF:-1 tvg-id="CTV.COMEDY.(East).Channel.HDTV.(CMDYHD).ca" tvg-logo="",CTV Comedy
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=678233&extension=m3u8
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=678233&extension=ts
 
 #EXTINF:-1 tvg-id="CTV.DRAMA.Channel.HDTV.(DRMHD).ca" tvg-logo="",CTV Drama
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626995&extension=m3u8
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626995&extension=ts
 
 #EXTINF:-1 tvg-id="Citytv.Calgary.HDTV.(CTYCH).ca",CITY TV
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=1003473&extension=m3u8
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=1003473&extension=ts
 
 
 
