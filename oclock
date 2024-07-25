@@ -28,22 +28,11 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/index.m3u8?id=3
 https://stream.smg.my/live/tvs_1080p2628kbs/index.m3u8
 
 #EXTINF:-1 tvg-id="Al-Hijrah.my" tvg-name="Al-Hijrah" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png" group-title="",TV Alhijrah
-http://vo01.mohdtv.com:8880/live/voby3037/69246643/71024.m3u8
-
 #EXTINF:-1 tvg-id="Awesome.TV.my" tvg-name="Awesome TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png" group-title="",Awesome TV
-http://vo01.mohdtv.com:8880/live/voby3037/69246643/71021.m3u8
-
 #EXTINF:-1 tvg-id="Astro.Oasis.HD.my" tvg-name="Astro Oasis HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="",Astro Oasis
-http://vo01.mohdtv.com:8880/live/voby3037/69246643/1701.m3u8
-
 #EXTINF:-1 tvg-id="Astro.Ceria.HD.my" tvg-name="Astro Ceria HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png" group-title="",Astro Ceria
-
 #EXTINF:-1 tvg-id="Astro.Prima.HD.my" tvg-name="Astro Prima HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="",Astro Prima
-http://abcnew.site:8880/live/48msk050022/92297813/1702.ts
-
 #EXTINF:-1 tvg-id="Astro.Warna.HD.my" tvg-name="Astro Warna HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="",Astro Warna
-http://abcnew.site:8880/live/48msk050022/92297813/1706.ts
-
 
 #EXTINF:-1 tvg-id="RTMK05" tvg-name="Bertia RTM" tvg-logo="https://i.imgur.com/9fAlB8K.png" group-title="",Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/index.m3u8?id=5
@@ -58,7 +47,22 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/index.m3u8?id=8
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
  
 #EXTINF:-1 tvg-id="BERNAMA.my" tvg-name="BERNAMA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/160_144.png" group-title="",Bernama
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=571307&extension=ts
+
+#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="",CNN (ID)
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="Cable.News.Network.International.(CNNI).us" tvg-logo="https://docdog.top/Logotv/countries//cnninternational.png",CNN
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=551998&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/aljazeera.png",AlJazeera
+https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/rtenews.png",RT News
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="",Wion
+https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8
+
 
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="",Trans7
@@ -70,54 +74,45 @@ https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 #EXTINF:-1 tvg-id="Game.Show.Network.HDTV.(EAST).(GMSHWHD).us" tvg-name="Game Show Network HDTV (EAST) (GMSHWHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/game-show-network-us.png" group-title="",Game Show Network
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
 
+#EXTINF:-1 tvg-id="5e54187aae660e00093561d6" tvg-name="" tvg-logo="https://images.pluto.tv/channels/5e54187aae660e00093561d6/colorLogoPNG.png" group-title="",Game Show Central
+https://gsn-gameshowchannnel-1-us.vizio.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MBC.Wanasah.(MBCW).us" tvg-name="" tvg-logo="https://i.imgur.com/AuYEozR.png" group-title="",Wanasah
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="SHOWCASE.MOVIES.my" tvg-name="SHOWCASE MOVIES" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png" group-title="",SHOWCASE MOVIES
 #EXTINF:-1 tvg-id="Cinemax.HD.id" tvg-name="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png" group-title="",CINEMAX
-
-
 #EXTINF:-1 tvg-id="HITS.MOVIES.HD.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png" group-title="",HITS Movies
 #EXTINF:-1 tvg-id="HITS.Movies.HD.my" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png" group-title="",HITS Movies
-http://vo01.mohdtv.com:8880/live/voby3037/69246643/71056.ts
-
 #EXTINF:-1 tvg-id="HITS.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png" group-title="",Hits
-http://vo01.mohdtv.com:8880/live/voby3037/69246643/60455.ts
-
 #EXTINF:-1 tvg-id="tvN.Movies.HD.id" tvg-name="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png" group-title="",tvN Movies
 #EXTINF:-1 tvg-id="Celestial.Movies.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png" group-title="",Celestial Movies
-
 #EXTINF:-1 tvg-id="Celestial.Classic.Movies.my" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="",Celestial Classic Movies (CCM)
-http://vo01.mohdtv.com:8880/live/voby3037/69246643/71046.ts
-
 #EXTINF:-1 tvg-id="CCM.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="",CCM (ID)
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=683110&extension=ts
-
-
-
-
 
 
 
 
 #EXTINF:-1 tvg-id="Astro.Arena.HD.my" tvg-name="Astro Arena HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png" group-title="",Astro Arena
-http://vo01.mohdtv.com:8880/live/voby3037/69246643/1703.ts
 
 #EXTINF:-1 tvg-id="Astro.Arena.2.HD.my" tvg-name="Astro Arena 2 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="",Astro Arena 2
 
 #EXTINF:-1 tvg-id="Astro.SuperSport.HD.my" tvg-name="Astro SuperSport HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="",Astro SuperSport 1
-http://vo01.mohdtv.com:8880/live/voby3037/69246643/1722.ts
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=766852&extension=ts
 
 #EXTINF:-1 tvg-id="Astro.SuperSport.2.HD.my" tvg-name="Astro SuperSport 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="",Astro SuperSport 2
-http://vo01.mohdtv.com:8880/live/voby3037/69246643/1721.ts
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=766853&extension=ts
 
 #EXTINF:-1 tvg-id="Astro.SuperSport.3.HD.my" tvg-name="Astro SuperSport 3 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="",Astro SuperSport 3
-http://vo01.mohdtv.com:8880/live/voby3037/69246643/1720.ts
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=766854&extension=ts
 
 #EXTINF:-1 tvg-id="Astro.SuperSport.4.HD.my" tvg-name="Astro SuperSport 4 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="",Astro SuperSport 4
-http://abcnew.site:8880/live/48msk050022/92297813/1719.ts
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=766855&extension=ts
 
 #EXTINF:-1 tvg-id="Astro.Supersport.5.HD.my" tvg-name="Astro Supersport 5 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="",Astro SuperSport 5
-http://abcnew.site:8880/live/48msk050022/92297813/1713.ts
 
 
 
@@ -144,7 +139,7 @@ https://6oclock.xyz:8443/live/Tyrone43147/My3boys/24304.ts
 
 
 #EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/eurosport1.png",EuroSport 1
-http://abcnew.site:8880/live/48msk050022/92297813/2917.ts
+http://supersonictv.live:8080/live/Derrick/Hitman50$/40451.ts
 
 #EXTINF:-1 tvg-id="Eurosport.2.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/eurosport2.png",Eurosport 2
 http://supersonictv.live:8080/live/Derrick/Hitman50$/40452.ts
@@ -535,43 +530,95 @@ https://6oclock.xyz:8443/live/Pumpkin1/Pumpkin1/24301.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Action Movies
-http://mohdtv.com:8880/live/voby3037/69246643/60207.ts
+http://supersonictv.live:8080/live/Derrick/Hitman50$/40480.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Comedy Movies
-http://mohdtv.com:8880/live/voby3037/69246643/60049.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",DISNEY Movies
-http://mohdtv.com:8880/live/voby3037/69246643/60928.ts
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617147&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",HORROR Movies
-http://mohdtv.com:8880/live/voby3037/69246643/60857.ts
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617145&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",FAMILY Movies
-http://mohdtv.com:8880/live/voby3037/69246643/60862.ts
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617148&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",CRIME Movies
-http://mohdtv.com:8880/live/voby3037/69246643/60864.ts
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617146&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",SCIFI Movies
-http://mohdtv.com:8880/live/voby3037/69246643/60836.ts
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617117&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",THRILLER Movies
-http://mohdtv.com:8880/live/voby3037/69246643/60253.ts
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617149&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",SUPERHERO Movies
-http://mohdtv.com:8880/live/voby3037/69246643/60257.ts
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617112&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",WAR Movies
-http://mohdtv.com:8880/live/voby3037/69246643/60247.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",ROMANCE Movies
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617119&extension=ts
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",DIE HARD
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617111&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",RUSH HOUR
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617118&extension=ts
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",CHiPs
 http://supersonictv.live:8080/live/Derrick/Hitman50$/77109.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="CINEMANIA" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",CHIPS
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1430386&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Bionic Woman
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617097&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Six Million Dollar Man
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617093&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CINEMANIA" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",SIX MILLION DOLLAR MAN
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1430189&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CINEMANIA" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",KNIGHT RIDER
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1430274&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CINEMANIA" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",INCREDIBLE HULK
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=741427&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CINEMANIA" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",THE TWILIGHT ZONE
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1430183&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CINEMANIA" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",BORDER SECURITY
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1430406&extension=ts
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",EDDY MURPHY
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617160&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Arnold Schwarzenegger
-http://mohdtv.com:8880/live/voby3037/69246643/60871.ts
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617151&extension=ts
 
 
 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://scripps.com/wp-content/uploads/2019/01/local_media_23_abc.png",23ABC
+https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//abcnews.png",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kDqyJcP.jpg",CBS News
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/foxnews.png",FOX News Now
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/90/USBA300028QU_20210622T090622.png",Newsmax
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images2.imgbox.com/1f/8c/vA9CqYr4_o.jpeg",One America News
+https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/usatoday_logo_dark_v2.png",USA TODAY
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
