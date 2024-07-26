@@ -448,6 +448,18 @@ http://cord-cutter.net:8080/live/95549031/69361122/57256.ts
 #EXTINF:-1 tvg-id="Investigation.Discovery.HDTV.(IDHD).us" tvg-logo="https://docdog.top/Logotv/countries//investigationdiscovery.png",Investigation Discovery
 https://6oclock.xyz:8443/live/Pumpkin1/Pumpkin1/12734.ts
 
+#EXTINF:-1,Crime and Punishment
+https://rightsboosterltd-crime-and-punishment-1-us.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,Conflict
+https://rightsboosterltd-conflict-1-us.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,Law and Crime
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00260-lawnewzincdbala-lawandcrime-xiaomi/playlist.m3u8
+
+#EXTINF:-1,Emergency
+https://rightsboosterltd-emergency-1-us.xiaomi.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="The.Discovery.Channel.HDTV.(East).(DSCHD).us" tvg-logo="https://docdog.top/Logotv/countries//discoverychannel.png",Discovery Channel
 https://6oclock.xyz:8443/live/Pumpkin1/Pumpkin1/12767.ts
 
