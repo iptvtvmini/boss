@@ -77,6 +77,9 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="5e54187aae660e00093561d6" tvg-name="" tvg-logo="https://images.pluto.tv/channels/5e54187aae660e00093561d6/colorLogoPNG.png" group-title="",Game Show Central
 https://gsn-gameshowchannnel-1-us.vizio.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="GameTV.(GTV).ca" tvg-name="GameTV (GTV)" tvg-logo="http://5.44.253.151:80/images/86a43a112f1c64b381ae76c3a1040da8.png" group-title="",Game TV
+https://6oclock.xyz:8443/live/Tyrone43147/My3boys/27492.ts
+
 #EXTINF:-1 tvg-id="MBC.Wanasah.(MBCW).us" tvg-name="" tvg-logo="https://i.imgur.com/AuYEozR.png" group-title="",Wanasah
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
 
@@ -116,19 +119,19 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=766855&extension=t
 
 
 
-#EXTINF:-1 tvg-id="TNT.Sports.1.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png",BT Sport 1
+#EXTINF:-1 tvg-id="TNT.Sports.1.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png",TNT Sport 1
 https://6oclock.xyz:8443/live/Tyrone43147/My3boys/20821.ts
 
-#EXTINF:-1 tvg-id="TNT.Sports.2.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsports2vip.png",BT Sport 2
+#EXTINF:-1 tvg-id="TNT.Sports.2.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsports2vip.png",TNT Sport 2
 https://6oclock.xyz:8443/live/Tyrone43147/My3boys/20820.ts
 
-#EXTINF:-1 tvg-id="TNT.Sports.3.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport3.png",BT Sport 3
+#EXTINF:-1 tvg-id="TNT.Sports.3.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport3.png",TNT Sport 3
 https://6oclock.xyz:8443/live/Tyrone43147/My3boys/20819.ts
 
-#EXTINF:-1 tvg-id="TNT.Sports.4.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",BT Sport ESPN
+#EXTINF:-1 tvg-id="TNT.Sports.4.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",TNT Sport ESPN
 http://abcnew.site:8880/live/48msk050022/92297813/2940.ts
 
-#EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",BT Sport 5
+#EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",TNT Sport 5
 https://6oclock.xyz:8443/live/Tyrone43147/My3boys/24304.ts
 
 
@@ -202,13 +205,6 @@ https://6oclock.xyz:8443/live/Tyrone43147/My3boys/15877.ts
 
 
 
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="The.Sports.Network.HDTV.(TSNHD).ca" tvg-name="The Sports Network HDTV (TSNHD)" tvg-logo="https://docdog.top/Logotv/countries//tsn1.png" group-title="",TSN 1
 https://6oclock.xyz:8443/live/Tyrone43147/My3boys/21006.ts
 
@@ -233,22 +229,66 @@ https://6oclock.xyz:8443/live/gZpw5weynu/C6gJj6DfxV/20995.ts
 
 
 
+#EXTINF:-1 tvg-id="ago#226" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety1.png",SuperSports VARIETY 1
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577922&extension=ts
+
+#EXTINF:-1 tvg-id="ago#227" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety2.png",SuperSports VARIETY 2
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577923&extension=ts
+
+#EXTINF:-1 tvg-id="ago#228" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety3.png",SuperSports VARIETY 3
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577918&extension=ts
+
+#EXTINF:-1 tvg-id="ago#229" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety4.png",SuperSports VARIETY 4
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577919&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportaction.png",SuperSports ACTION
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577933&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportcricket.png",SuperSports CRICKET
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577916&extension=ts
+
+#EXTINF:-1 tvg-id="ago#225" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportfootball.png",SuperSports FOOTBALL
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577920&extension=ts
+
+#EXTINF:-1 tvg-id="ago#224" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportlaliga.png",SuperSports LA LIGA
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577929&extension=ts
+
+#EXTINF:-1 tvg-id="",SuperSports Priemier League
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577930&extension=ts
+
+#EXTINF:-1 tvg-id="ago#234" tvg-logo="https://docdog.top/Logotv/countries//supersporttennis.png",SuperSports TENNIS
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577928&extension=ts
+
+#EXTINF:-1 tvg-id="ago#223" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportpsl.png",SuperSports PSL
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577926&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportgolf.png",SuperSports GOLF
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577925&extension=ts
+
+#EXTINF:-1 tvg-id="ago#221" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportgrandstand.png",SuperSports GRANDSTAND
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577924&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportrugby.png",SuperSports RUGBY
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577917&extension=ts
+
+#EXTINF:-1 tvg-id="ago#235" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportmotorsport.png",SuperSports MOTORSPORT
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577921&extension=ts
 
 
-#EXTINF:-1 tvg-id="SONY.TEN.1.HD.in" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="",TEN 1
-https://dai.google.com/ssai/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
 
-#EXTINF:-1 tvg-id="SONY.TEN.2.HD.in" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="",TEN 2
-https://dai.google.com/ssai/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+#EXTINF:-1 tvg-id="",SuperSports PLAY 1
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577932&extension=ts
 
-#EXTINF:-1 tvg-id="SONY.TEN.3.HD.in" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="",TEN 3
-https://dai.google.com/ssai/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
+#EXTINF:-1 tvg-id="",SuperSports PLAY 2
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577931&extension=ts
 
-#EXTINF:-1 tvg-id="Sony.Ten.4.in" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="",TEN 4
-https://dai.google.com/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
+#EXTINF:-1 tvg-id="ago#220",SuperSports BLITZ
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577927&extension=ts
 
-#EXTINF:-1 tvg-id="Sony.Ten.5.in" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="",TEN 5
-https://dai.google.com/ssai/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
+#EXTINF:-1 tvg-id="ago#241" tvg-logo="https://docdog.top/Logotv/countries//supersportmaximo1.png",SuperSports MAXIMO
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577934&extension=ts
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://docdog.top/Logotv/countries//dubaisport1.png" group-title="",Dubai Sports 1
@@ -270,8 +310,7 @@ https://edge.taghtia.com/sa/10.m3u8
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="GameTV.(GTV).ca" tvg-name="GameTV (GTV)" tvg-logo="http://5.44.253.151:80/images/86a43a112f1c64b381ae76c3a1040da8.png" group-title="",Game TV
-https://6oclock.xyz:8443/live/Tyrone43147/My3boys/27492.ts
+
 
 
 #EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/abc-us.png",ABC 7
