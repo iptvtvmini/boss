@@ -25,7 +25,6 @@ https://tonton-live-ssai.akamaized.net/live/2020783a-0303-401a-9c92-b7c3c9108c0b
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/index.m3u8?id=3
 
 #EXTINF:-1 tvg-id="Awesome.TV.my" tvg-name="Awesome TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png" group-title="",Awesome TV
-http://mohdtv.com:8880/live/voby4681/59596648/71021.ts
 
 #EXTINF:-1 tvg-id="TVS.my" tvg-name="TVS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png" group-title="",TVS
 https://stream.smg.my/live/tvs_1080p2628kbs/index.m3u8
@@ -34,10 +33,8 @@ https://stream.smg.my/live/tvs_1080p2628kbs/index.m3u8
 http://mohdtv.com:8880/live/voby4681/59596648/71024.ts
 
 #EXTINF:-1 tvg-id="Astro.Prima.HD.my" tvg-name="Astro Prima HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="",Astro Prima
-http://mohdtv.com:8880/live/voby4681/59596648/1702.ts
 
 #EXTINF:-1 tvg-id="Astro.Warna.HD.my" tvg-name="Astro Warna HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="",Astro Warna
-http://mohdtv.com:8880/live/voby4681/59596648/1706.ts
 
 #EXTINF:-1 tvg-id="RTMK05" tvg-name="Bertia RTM" tvg-logo="https://i.imgur.com/9fAlB8K.png" group-title="",Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/index.m3u8?id=5
@@ -87,13 +84,11 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=683161&ex
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=683163&extension=ts
 
 #EXTINF:-1 tvg-id="HITS.Movies.HD.my" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png" group-title="",HITS Movies
-http://mohdtv.com:8880/live/voby3037/69246643/71056.ts
 
 #EXTINF:-1 tvg-id="HITS.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png" group-title="",Hits
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=683145&extension=ts
 
 #EXTINF:-1 tvg-id="HITS.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png" group-title="",Hits
-http://mohdtv.com:8880/live/voby3037/69246643/60455.ts
 
 #EXTINF:-1 tvg-id="tvN.Movies.HD.id" tvg-name="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png" group-title="",tvN Movies
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=683149&extension=ts
@@ -102,7 +97,6 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=683149&ex
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=683142&extension=ts
 
 #EXTINF:-1 tvg-id="Celestial.Classic.Movies.my" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="",Celestial Classic Movies (CCM)
-http://mohdtv.com:8880/live/voby3037/69246643/71046.ts
 
 #EXTINF:-1 tvg-id="CCM.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="",CCM (ID)
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=683110&extension=ts
@@ -115,7 +109,6 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=683110&ex
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/index.m3u8?id=4
 
 #EXTINF:-1 tvg-id="Astro.Arena.HD.my" tvg-name="Astro Arena HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png" group-title="",Astro Arena
-http://vo01.mohdtv.com:8880/live/voby4681/59596648/1703.ts
 
 #EXTINF:-1 tvg-id="Astro.Arena.2.HD.my" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="",Astro Arena 2
 
@@ -136,7 +129,6 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=571247&ex
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=571246&extension=ts
 
 #EXTINF:-1 tvg-id="Astro.Supersport.5.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="",W Sport
-http://mohdtv.com:8880/live/voby4681/59596648/1713.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety1.png",SuperSports VARIETY 1
@@ -198,17 +190,6 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=554982&ex
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//supersportmaximo1.png",SuperSports MAXIMO
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=833279&extension=ts
-
-
-
-#EXTINF:-1 tvg-id="",Now Sports 1
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:1c:5d:9e&stream=1497551&extension=ts
-
-#EXTINF:-1 tvg-id="",Now Sports 2
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:1c:5d:9e&stream=1497552&extension=ts
-
-#EXTINF:-1 tvg-id="",Now Sports 3
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:1c:5d:9e&stream=1497553&extension=ts
 
 
 
