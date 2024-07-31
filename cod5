@@ -114,6 +114,7 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=828096&extension=ts
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=828095&extension=ts
 
 #EXTINF:-1 tvg-id="Astro.Supersport.5.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="",W Sport
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=828094&extension=ts
 
 
 #EXTINF:-1 tvg-id="SPOTV.HD.id" tvg-name="SPOTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/456_144.png" group-title="",SPOTV
@@ -218,6 +219,9 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487689&extension=ts
 
 #EXTINF:-1 tvg-id="WWE.Network.us" tvg-name="WWE Network" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png" group-title="",WWE
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487679&extension=ts
+
+#EXTINF:-1 tvg-id="",WWE LIVE
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577949&extension=ts
 
 #EXTINF:-1 tvg-id="World.Fishing.Network.(US).(WFN).us" tvg-logo="https://docdog.top/Logotv/countries//worldfishingnetwork.png",World Fishing Network
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487658&extension=ts
@@ -331,6 +335,10 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626942&extension=ts
 #EXTINF:-1 tvg-id="GAME+.us" tvg-logo="https://docdog.top/Logotv/countries//gameone.png",Game Plus
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=752916&extension=ts
 
+#EXTINF:-1 tvg-id="",MUCH
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626957&extension=ts
+
+
 #EXTINF:-1 tvg-id="MBC.Wanasah.(MBCW).us" tvg-logo="https://i.imgur.com/AuYEozR.png" group-title="",Wanasah
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
 
@@ -353,8 +361,19 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=550258&extension=ts
 
 
 #EXTINF:-1 tvg-id="CTV.Calgary.HDTV.(CTVHC).ca" tvg-logo="https://docdog.top/Logotv/countries//ctvcalgary.png",CTV
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626987&extension=ts
+
 #EXTINF:-1 tvg-id="CTV.Two.Ottawa/CHRO.(CTV2O).ca" tvg-logo="https://docdog.top/Logotv/countries//ctv2ottawa.png",CTV2
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626966&extension=ts
+
 #EXTINF:-1 tvg-id="CTV.SCI-FI.Channel.HDTV.(SCIFIHD).ca" tvg-logo="https://docdog.top/Logotv/countries/canada/ctv-sci-fi-channel-ca.png",CTV SCI-FI
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626898&extension=ts
+
+#EXTINF:-1 tvg-id="",CTV COMEDY
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=678233&extension=ts
+
+#EXTINF:-1 tvg-id="" ,CTV DRAMA
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626995&extension=ts
 
 
 #EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-name="A and E Network HDTV (A and EHD)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US001A&E-HD.png" group-title="",A&E
@@ -393,6 +412,12 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=687889&extension=m3
 #EXTINF:-1 tvg-id="IFC.HDTV.(East).(IFCHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/ifc-us.png",IFC
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469399&extension=m3u8
 
+#EXTINF:-1 tvg-id="",MTV
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626921&extension=ts
+
+#EXTINF:-1 tvg-id="",MTV 2
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626920&extension=ts
+
 #EXTINF:-1 tvg-id="ReelzChannel.HDTV.(REELZH).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/reelz-us.png",Reelz
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469425&extension=m3u8
 
@@ -425,11 +450,17 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=552033&extension=ts
 #EXTINF:-1 tvg-id="PixL.HDTV.(PixLHD).us" tvg-logo="https://docdog.top/Logotv/countries//dumisa.png",PIXL
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469419&extension=ts
 
+#EXTINF:-1 tvg-id="",TMN 1
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626881&extension=ts
 
+#EXTINF:-1 tvg-id="",TMN 2
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626880&extension=ts
 
+#EXTINF:-1 tvg-id="",TMN 3
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626879&extension=ts
 
-
-
+#EXTINF:-1 tvg-id="",TMN 4
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626878&extension=ts
 
 #EXTINF:-1 tvg-id="MGM+.HDTV.(East).(MGM+HD).us" tvg-name="MGM+ HDTV (East) (MGM+HD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-us.png" group-title="",EPIX
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=552048&extension=m3u8
@@ -690,6 +721,7 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577253&extension=ts
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577518&extension=ts
 
 #EXTINF:-1 tvg-id="Film4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/film4.png",Film 4
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577359&extension=ts
 
 #EXTINF:-1 tvg-id="Channel.5.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/channel5.png",Channel 5
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577256&extension=ts
