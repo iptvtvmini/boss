@@ -427,11 +427,15 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=687889&extension=m3
 #EXTINF:-1 tvg-id="IFC.HDTV.(East).(IFCHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/ifc-us.png",IFC
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469399&extension=m3u8
 
-#EXTINF:-1 tvg-id="",MTV
+#EXTINF:-1 tvg-id="MTV.HDTV.(East).(MTVHD).us",MTV
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626921&extension=ts
 
-#EXTINF:-1 tvg-id="",MTV 2
+#EXTINF:-1 tvg-id="MTV2.HDTV.(East).(MTV2HD).us",MTV 2
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626920&extension=ts
+
+#EXTINF:-1 tvg-id="MTV.Live.HDTV.(MTVL).us",MTV LIVE
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469542&extension=ts
+
 
 #EXTINF:-1 tvg-id="ReelzChannel.HDTV.(REELZH).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/reelz-us.png",Reelz
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469425&extension=m3u8
