@@ -176,6 +176,27 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487775&extension=t
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487641&extension=ts
 
 
+#EXTINF:-1 tvg-id="",FOX SPORTS 501
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=259842&extension=ts
+
+#EXTINF:-1 tvg-id="",FOX SPORTS 502
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=259843&extension=ts
+
+#EXTINF:-1 tvg-id="",FOX SPORTS 503
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=259844&extension=ts
+
+#EXTINF:-1 tvg-id="",FOX SPORTS 504
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=259845&extension=ts
+
+#EXTINF:-1 tvg-id="",FOX SPORTS 505
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617191&extension=ts
+
+#EXTINF:-1 tvg-id="",FOX SPORTS 506
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617192&extension=ts
+
+#EXTINF:-1 tvg-id="",FOX SPORTS 507
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=259846&extension=ts
+
 
 #EXTINF:-1 tvg-id="ESPN.HDTV.(Dish).(ESPNHD).us" tvg-name="ESPN HDTV (Dish) (ESPNHD)" tvg-logo="https://docdog.top/Logotv/countries//espn1.png" group-title="",ESPN 1
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487782&extension=ts
@@ -376,6 +397,42 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577988&extension=t
 
 #EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsgolf.png",Sky Sport Golf
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577987&extension=ts
+
+
+
+
+#EXTINF:-1 tvg-id="",SKY SPORT 1 HD
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=630587&extension=ts
+
+#EXTINF:-1 tvg-id="",SKY SPORT 2 HD
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=630588&extension=ts
+
+#EXTINF:-1 tvg-id="",SKY SPORT 3 HD
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=630589&extension=ts
+
+#EXTINF:-1 tvg-id="",SKY SPORT 4 HD
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=630590&extension=ts
+
+#EXTINF:-1 tvg-id="",SKY SPORT 5 HD
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=630591&extension=ts
+
+#EXTINF:-1 tvg-id="",SKY SPORT 6 HD
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=630592&extension=ts
+
+#EXTINF:-1 tvg-id="",SKY SPORT 7 HD
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=630593&extension=ts
+
+#EXTINF:-1 tvg-id="",SKY SPORT 8 HD
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=630594&extension=ts
+
+#EXTINF:-1 tvg-id="",SKY SPORT 9 HD
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=630595&extension=ts
+
+#EXTINF:-1 tvg-id="",SKY SPORT 10 SELECT
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=630596&extension=ts
+
+
+
 
 
 
