@@ -128,6 +128,31 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577985&extension=ts
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577984&extension=ts
 
 
+#EXTINF:-1 tvg-id="",EUROSPORT 360 1
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=670995&extension=ts
+
+#EXTINF:-1 tvg-id="",EUROSPORT 360 2
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=670996&extension=ts
+
+#EXTINF:-1 tvg-id="",EUROSPORT 360 3
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=670997&extension=ts
+
+#EXTINF:-1 tvg-id="",EUROSPORT 360 4
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=670998&extension=ts
+
+#EXTINF:-1 tvg-id="",EUROSPORT 360 5
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=670999&extension=ts
+
+#EXTINF:-1 tvg-id="",EUROSPORT 360 6
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=671000&extension=ts
+
+#EXTINF:-1 tvg-id="",EUROSPORT 360 7
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=671001&extension=ts
+
+#EXTINF:-1 tvg-id="",EUROSPORT 360 8
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=671002&extension=ts
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety1.png",SuperSports VARIETY 1
