@@ -128,33 +128,6 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577985&extension=ts
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577984&extension=ts
 
 
-#EXTINF:-1 tvg-id="",EUROSPORT 360 1
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=670995&extension=ts
-
-#EXTINF:-1 tvg-id="",EUROSPORT 360 2
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=670996&extension=ts
-
-#EXTINF:-1 tvg-id="",EUROSPORT 360 3
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=670997&extension=ts
-
-#EXTINF:-1 tvg-id="",EUROSPORT 360 4
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=670998&extension=ts
-
-#EXTINF:-1 tvg-id="",EUROSPORT 360 5
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=670999&extension=ts
-
-#EXTINF:-1 tvg-id="",EUROSPORT 360 6
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=671000&extension=ts
-
-#EXTINF:-1 tvg-id="",EUROSPORT 360 7
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=671001&extension=ts
-
-#EXTINF:-1 tvg-id="",EUROSPORT 360 8
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=671002&extension=ts
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety1.png",SuperSports VARIETY 1
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=828105&extension=ts
 
@@ -494,16 +467,16 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=552033&extension=ts
 #EXTINF:-1 tvg-id="PixL.HDTV.(PixLHD).us" tvg-logo="https://docdog.top/Logotv/countries//dumisa.png",PIXL
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469419&extension=ts
 
-#EXTINF:-1 tvg-id="",TMN 1
+#EXTINF:-1 tvg-id="",Movie Network 1
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626881&extension=ts
 
-#EXTINF:-1 tvg-id="",TMN 2
+#EXTINF:-1 tvg-id="",Movie Network 2
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626880&extension=ts
 
-#EXTINF:-1 tvg-id="",TMN 3
+#EXTINF:-1 tvg-id="",Movie Network 3
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626879&extension=ts
 
-#EXTINF:-1 tvg-id="",TMN 4
+#EXTINF:-1 tvg-id="",Movie Network 4
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626878&extension=ts
 
 #EXTINF:-1 tvg-id="MGM+.HDTV.(East).(MGM+HD).us" tvg-name="MGM+ HDTV (East) (MGM+HD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-us.png" group-title="",EPIX
