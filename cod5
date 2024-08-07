@@ -128,6 +128,16 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577985&extension=ts
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577984&extension=ts
 
 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportlaliga.png",SuperSports Priemier League
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577930&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportlaliga.png",SuperSports LA LIGA
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577929&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportfootball.png",SuperSports FOOTBALL
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577920&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety1.png",SuperSports VARIETY 1
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=828105&extension=ts
 
@@ -144,20 +154,11 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=828102&extension=ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportaction.png",SuperSports ACTION
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=828119&extension=ts
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportaction.png",SuperSports BLITZ
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=828113&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportcricket.png",SuperSports CRICKET
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=828106&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportlaliga.png",SuperSports LA LIGA
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577929&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//supersporttennis.png",SuperSports TENNIS
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577928&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportpsl.png",SuperSports PSL
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577926&extension=ts
-
-#EXTINF:-1 tvg-id="",SuperSports Priemier League
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577930&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportgolf.png",SuperSports GOLF
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577925&extension=ts
@@ -165,27 +166,31 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577925&extension=ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportgrandstand.png",SuperSports GRANDSTAND
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577924&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportrugby.png",SuperSports RUGBY
-http://supersonictv.live:8080/live/Derrick/Hitman50$/86871.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//supersportmaximo1.png",SuperSports MAXIMO
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577934&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportmotorsport.png",SuperSports MOTORSPORT
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577921&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportfootball.png",SuperSports FOOTBALL
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577920&extension=ts
-
-
-#EXTINF:-1 tvg-id="",SuperSports BLITZ
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=828113&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//supersportmaximo1.png",SuperSports MAXIMO
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577934&extension=ts
-
-#EXTINF:-1 tvg-id="",SuperSports PLAY 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportaction.png",SuperSports PLAY 1
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577932&extension=ts
 
-#EXTINF:-1 tvg-id="",SuperSports PLAY 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportaction.png",SuperSports PLAY 2
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577931&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportpsl.png",SuperSports PSL
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577926&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportrugby.png",SuperSports RUGBY
+http://supersonictv.live:8080/live/Derrick/Hitman50$/86871.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//supersporttennis.png",SuperSports TENNIS
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577928&extension=ts
+
+
+
+
+
 
 
 
