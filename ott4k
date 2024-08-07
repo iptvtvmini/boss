@@ -93,7 +93,6 @@ https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6
 
 
 #EXTINF:-1 tvg-id="HBO.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png",HBO
-
 #EXTINF:-1 tvg-id="HBO.Hits.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/449_144.png",HBO HITS
 #EXTINF:-1 tvg-id="HBO.Family.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png",HBO FAMILY
 #EXTINF:-1 tvg-id="SHOWCASE.MOVIES.my" tvg-name="SHOWCASE MOVIES" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png" group-title="",SHOWCASE MOVIES
@@ -130,14 +129,11 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=766854&extension=t
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=766855&extension=ts
 
 #EXTINF:-1 tvg-id="Astro.Supersport.5.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="",W Sport
-
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=828094&extension=ts
 
 
 #EXTINF:-1 tvg-id="SPOTV.HD.id" tvg-name="SPOTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/456_144.png" group-title="",SPOTV
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=941564&extension=ts
-
 #EXTINF:-1 tvg-id="SPOTV.2.HD.id" tvg-name="SPOTV 2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/474_144.png" group-title="",SPOTV2
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=941563&extension=ts
 
 
 #EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png",EuroSport 1
@@ -145,6 +141,65 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577985&extension=t
 
 #EXTINF:-1 tvg-id="Eurosport.2.HD.uk" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png",Eurosport 2
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577984&extension=ts
+
+
+
+EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportaction.png",SuperSports Priemier League
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577930&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportlaliga.png",SuperSports LA LIGA
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577929&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportfootball.png",SuperSports FOOTBALL
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577920&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety1.png",SuperSports VARIETY 1
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577922&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety2.png",SuperSports VARIETY 2
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577923&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety3.png",SuperSports VARIETY 3
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577918&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety4.png",SuperSports VARIETY 4
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577919&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportaction.png",SuperSports ACTION
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577933&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportcricket.png",SuperSports CRICKET
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577916&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//supersporttennis.png",SuperSports TENNIS
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577928&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportpsl.png",SuperSports PSL
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577926&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportgolf.png",SuperSports GOLF
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577925&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportgrandstand.png",SuperSports GRANDSTAND
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577924&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportrugby.png",SuperSports RUGBY
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577917&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportmotorsport.png",SuperSports MOTORSPORT
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577921&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportaction.png",SuperSports BLITZ
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577927&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//supersportmaximo1.png",SuperSports MAXIMO
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577934&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportaction.png",SuperSports PLAY 1
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577932&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportaction.png",SuperSports PLAY 2
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577931&extension=ts
 
 
 
@@ -296,72 +351,6 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626271&extension=t
 
 #EXTINF:-1 tvg-id="TVA.Sports.2.HD.(TSP2H).ca" tvg-logo="https://docdog.top/Logotv/countries//tvasports.png",TVA SPORTS 2
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626270&extension=ts
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="ago#226" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety1.png",SuperSports VARIETY 1
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577922&extension=ts
-
-#EXTINF:-1 tvg-id="ago#227" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety2.png",SuperSports VARIETY 2
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577923&extension=ts
-
-#EXTINF:-1 tvg-id="ago#228" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety3.png",SuperSports VARIETY 3
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577918&extension=ts
-
-#EXTINF:-1 tvg-id="ago#229" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety4.png",SuperSports VARIETY 4
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577919&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportaction.png",SuperSports ACTION
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577933&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportcricket.png",SuperSports CRICKET
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577916&extension=ts
-
-#EXTINF:-1 tvg-id="ago#225" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportfootball.png",SuperSports FOOTBALL
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577920&extension=ts
-
-#EXTINF:-1 tvg-id="ago#224" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportlaliga.png",SuperSports LA LIGA
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577929&extension=ts
-
-#EXTINF:-1 tvg-id="",SuperSports Priemier League
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577930&extension=ts
-
-#EXTINF:-1 tvg-id="ago#234" tvg-logo="https://docdog.top/Logotv/countries//supersporttennis.png",SuperSports TENNIS
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577928&extension=ts
-
-#EXTINF:-1 tvg-id="ago#223" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportpsl.png",SuperSports PSL
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577926&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportgolf.png",SuperSports GOLF
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577925&extension=ts
-
-#EXTINF:-1 tvg-id="ago#221" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportgrandstand.png",SuperSports GRANDSTAND
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577924&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportrugby.png",SuperSports RUGBY
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577917&extension=ts
-
-#EXTINF:-1 tvg-id="ago#235" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportmotorsport.png",SuperSports MOTORSPORT
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577921&extension=ts
-
-
-
-#EXTINF:-1 tvg-id="",SuperSports PLAY 1
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577932&extension=ts
-
-#EXTINF:-1 tvg-id="",SuperSports PLAY 2
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577931&extension=ts
-
-#EXTINF:-1 tvg-id="ago#220",SuperSports BLITZ
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577927&extension=ts
-
-#EXTINF:-1 tvg-id="ago#241" tvg-logo="https://docdog.top/Logotv/countries//supersportmaximo1.png",SuperSports MAXIMO
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577934&extension=ts
-
 
 
 
