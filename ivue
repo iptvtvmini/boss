@@ -422,9 +422,14 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497316&exte
 #EXTINF:-1 tvg-id="E!.Entertainment.Television.Canada.HDTV.(E!).ca" tvg-logo="https://docdog.top/Logotv/countries/united-states/e-entertainment-us.png",E! (CA)
 http://cord-cutter.net:8080/live/95549031/69361122/57422.ts
 
-#EXTINF:-1 tvg-id="GameTV.(GTV).ca" tvg-name="GameTV (GTV)" tvg-logo="http://5.44.253.151:80/images/86a43a112f1c64b381ae76c3a1040da8.png" group-title="",Game TV
+#EXTINF:-1 tvg-id="5e54187aae660e00093561d6" tvg-logo="https://images.pluto.tv/channels/5e54187aae660e00093561d6/colorLogoPNG.png",Game Show Central
+https://gsn-gameshowchannnel-1-us.vizio.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="GAME+.us" tvg-logo="https://docdog.top/Logotv/countries//gsn.png",GAME+
+#EXTINF:-1 tvg-id="GameTV.(GTV).ca" tvg-logo="https://docdog.top/Logotv/countries//gameone.png",Game TV
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626942&extension=ts
+
+#EXTINF:-1 tvg-id="GAME+.us" tvg-logo="https://docdog.top/Logotv/countries//gameone.png",Game Plus
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=752916&extension=ts
 
 #EXTINF:-1 tvg-id="Bravo.HDTV.(East).(BRAVOD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/bravo-us.png",Bravo
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497271&extension=ts
@@ -432,6 +437,11 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497271&exte
 #EXTINF:-1 tvg-id="Bounce.TV.(Bounce).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/bounce-us.png",Bounce TV
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497270&extension=ts
 
+#EXTINF:-1 tvg-id="USAJ30000148W" tvg-name="CINEVAULT: 80s" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/15/USAJ30000148W_20210525T051435.png" group-title="Movies",Cinevault 80s
+https://gsn-cinevault-80s-1-us.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="USAK3508709A" tvg-name="CINEVAULT: Westerns" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/09/USAK3508709A_20210224T013304.png" group-title="Movies",Cinevault Westerns
+https://gsn-cinevault-westerns-1-us.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Freeform.HDTV.(East).(FRFHD).us" tvg-name="Freeform HDTV (East) (FRFHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/freeform-us.png" group-title="",FREEFORM
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497345&extension=ts
@@ -701,12 +711,6 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=2701&extensi
 
 
 
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Bionic Women
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Six Million Dollar Man
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Knight Rider
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1790001&extension=ts
 
@@ -722,28 +726,17 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1790003&exte
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Die Hard
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1790000&extension=ts
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Spider-Man
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1790144&extension=ts
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Lethal Weapon
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1790143&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Action Movie
-http://supersonictv.live:8080/live/Derrick/Hitman50$/40480.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Mr. Bean
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1789989&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Comedy Movie
-http://supersonictv.live:8080/live/Derrick/Hitman50$/40484.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Crime Movie
-http://supersonictv.live:8080/live/Derrick/Hitman50$/40486.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Horror Movie
-http://supersonictv.live:8080/live/Derrick/Hitman50$/40492.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Horror Movie 2
-http://supersonictv.live:8080/live/Derrick/Hitman50$/40493.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Kungfu
-http://supersonictv.live:8080/live/Derrick/Hitman50$/40495.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Western Movie
-http://supersonictv.live:8080/live/Derrick/Hitman50$/40507.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Twilight
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1789972&extension=ts
 
 
 
@@ -777,6 +770,12 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1790096&exte
 
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Paw Patrol" group-title="24/7",24/7  Paw Patrol
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1790011&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Tom and Jerry" group-title="24/7",24/7 Tom and Jerry
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1790008&extension=ts
 
 
 
