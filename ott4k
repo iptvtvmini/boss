@@ -60,6 +60,26 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Wion
 https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://scripps.com/wp-content/uploads/2019/01/local_media_23_abc.png",23ABC
+https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//abcnews.png",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kDqyJcP.jpg",CBS News
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/foxnews.png",FOX News Now
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/90/USBA300028QU_20210622T090622.png",Newsmax
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images2.imgbox.com/1f/8c/vA9CqYr4_o.jpeg",One America News
+https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/usatoday_logo_dark_v2.png",USA TODAY
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="RTMK07" tvg-name="Dewan Rakyat" tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="",Parlimen Dewan Rakyat
@@ -1003,20 +1023,17 @@ http://supersonictv.live:8080/live/Derrick/Hitman50$/40480.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Comedy Movies
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617147&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",HORROR Movies
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617145&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",CRIME Movies
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617146&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",FAMILY Movies
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617148&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",CRIME Movies
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617146&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",HORROR Movies
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617145&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",SCIFI Movies
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617117&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",THRILLER Movies
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617149&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",SUPERHERO Movies
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617112&extension=ts
@@ -1024,6 +1041,8 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617112&extension=t
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",ROMANCE Movies
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617119&extension=ts
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",THRILLER Movies
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617149&extension=ts
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",DIE HARD
@@ -1032,12 +1051,10 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617111&extension=t
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",RUSH HOUR
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617118&extension=ts
 
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",CHiPs
 http://supersonictv.live:8080/live/Derrick/Hitman50$/77109.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="CINEMANIA" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",CHIPS
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1430386&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Bionic Woman
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617097&extension=ts
@@ -1046,20 +1063,16 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617097&extension=t
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617093&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-name="CINEMANIA" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",SIX MILLION DOLLAR MAN
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1430189&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-name="CINEMANIA" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",KNIGHT RIDER
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1430274&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-name="CINEMANIA" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",INCREDIBLE HULK
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=741427&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-name="CINEMANIA" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",THE TWILIGHT ZONE
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1430183&extension=ts
+
 
 #EXTINF:-1 tvg-id="" tvg-name="CINEMANIA" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",BORDER SECURITY
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1430406&extension=ts
-
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",EDDY MURPHY
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617160&extension=ts
@@ -1069,27 +1082,99 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617151&extension=t
 
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",DISNEY MOVIES
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=947773&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://scripps.com/wp-content/uploads/2019/01/local_media_23_abc.png",23ABC
-https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",DREAMWORKS
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=947757&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//abcnews.png",ABC News
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",LOONEY TUNES
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=947762&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kDqyJcP.jpg",CBS News
-https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",PAW PATROL
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=947746&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/foxnews.png",FOX News Now
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",POPEYE
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=947752&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/90/USBA300028QU_20210622T090622.png",Newsmax
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",TOY STORY
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=947731&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images2.imgbox.com/1f/8c/vA9CqYr4_o.jpeg",One America News
-https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",TOM AND JERRY
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=947730&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/usatoday_logo_dark_v2.png",USA TODAY
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",KIDS 1
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=947723&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",KIDS 2
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=947722&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",KIDS 3
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=947721&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",KIDS 4
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=947720&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",KIDS 5
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=947719&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",KIDS 6
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=947718&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",KIDS 7
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=947717&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",KIDS 8
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=947716&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",KIDS 9
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=947715&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",KIDS 10
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=947714&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",KIDS 11
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=947713&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",KIDS 12
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=947712&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",CHU CHU TV 1
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=947711&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",CHU CHU TV 2
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=947710&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",CHU CHU TV 3
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=947709&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",CHU CHU TV 4
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=947708&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",CHU CHU TV 5
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=947707&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",CHU CHU TV 6
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=947706&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",CHU CHU TV 7
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=947705&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",CHU CHU TV 8
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=947704&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",CHU CHU TV 9
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=947703&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",CHU CHU TV 10
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=947702&extension=ts
+
+
+
+
+
+
 
 
 
