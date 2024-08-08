@@ -144,7 +144,7 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577984&extension=t
 
 
 
-EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportaction.png",SuperSports Priemier League
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportaction.png",SuperSports Priemier League
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577930&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportlaliga.png",SuperSports LA LIGA
