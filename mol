@@ -119,23 +119,39 @@ http://mohdtv.com:8880/live/voby4681/59596648/1696.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png",Arena Bola 1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png",Arena Bola 2
 
-#EXTINF:-1 tvg-id="Astro.SuperSport.HD.my" tvg-name="Astro SuperSport HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="",Astro SuperSport
-http://mohdtv.com:8880/live/voby4629/76547763/1722.ts
+#EXTINF:-1 tvg-id="Astro.SuperSport.HD.my" tvg-name="Astro SuperSport HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="",Astro SuperSport 1
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=766852&extension=ts
 
 #EXTINF:-1 tvg-id="Astro.SuperSport.2.HD.my" tvg-name="Astro SuperSport 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="",Astro SuperSport 2
-http://mohdtv.com:8880/live/voby4629/76547763/1721.ts
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=766853&extension=ts
 
 #EXTINF:-1 tvg-id="Astro.SuperSport.3.HD.my" tvg-name="Astro SuperSport 3 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="",Astro SuperSport 3
-http://mohdtv.com:8880/live/voby4629/76547763/1720.ts
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=766854&extension=ts
 
 #EXTINF:-1 tvg-id="Astro.SuperSport.4.HD.my" tvg-name="Astro SuperSport 4 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="",Astro SuperSport 4
-http://mohdtv.com:8880/live/voby4629/76547763/1719.ts
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=766855&extension=ts
 
-#EXTINF:-1 tvg-id="Astro.Supersport.5.HD.my" tvg-name="Astro Supersport 5 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="",Astro SuperSport 5
+#EXTINF:-1 tvg-id="Astro.Supersport.5.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="",W Sport
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=828094&extension=ts
 
-#EXTINF:-1 tvg-id="",W Sport
-http://mohdtv.com:8880/live/voby4629/76547763/1713.ts
 
+
+#EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-name="Eurosport 1 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png",EuroSport 1
+http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97120&extension=ts
+
+#EXTINF:-1 tvg-id="Eurosport.2.HD.uk" tvg-name="Eurosport 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png",Eurosport 2
+http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97121&extension=ts
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportfootball.png",SuperSports Priemier League
+http://supersonictv.live:8080/live/242306/210404/86863.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportlaliga.png",SuperSports LA LIGA
+http://supersonictv.live:8080/live/242306/210404/86861.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportfootball.png",SuperSports FOOTBALL
+http://supersonictv.live:8080/live/Derrick/Hitman50$/86869.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety1.png",SuperSports VARIETY 1
 http://supersonictv.live:8080/live/242306/210404/86865.ts
@@ -154,15 +170,6 @@ http://supersonictv.live:8080/live/Derrick/Hitman50$/86870.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportcricket.png",SuperSports CRICKET
 http://supersonictv.live:8080/live/242306/210404/86872.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportfootball.png",SuperSports FOOTBALL
-http://supersonictv.live:8080/live/Derrick/Hitman50$/86869.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportlaliga.png",SuperSports LA LIGA
-http://supersonictv.live:8080/live/242306/210404/86861.ts
-
-#EXTINF:-1 tvg-id="",SuperSports Priemier League
-http://supersonictv.live:8080/live/242306/210404/86863.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//supersporttennis.png",SuperSports TENNIS
 http://supersonictv.live:8080/live/242306/210404/86876.ts
@@ -188,15 +195,14 @@ http://supersonictv.live:8080/live/Derrick/Hitman50$/86879.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//supersportmaximo1.png",SuperSports MAXIMO
 http://supersonictv.live:8080/live/Derrick/Hitman50$/86874.ts
 
+#EXTINF:-1 tvg-id="",SuperSports BLITZ
+http://supersonictv.live:8080/live/242306/210404/86873.ts
 
 #EXTINF:-1 tvg-id="",SuperSports PLAY 1
 http://supersonictv.live:8080/live/242306/210404/86877.ts
 
 #EXTINF:-1 tvg-id="",SuperSports PLAY 2
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577931&extension=ts
-
-#EXTINF:-1 tvg-id="",SuperSports BLITZ
-http://supersonictv.live:8080/live/242306/210404/86873.ts
 
 
 
@@ -215,12 +221,6 @@ http://supersonictv.live:8080/live/Derrick/Hitman50$/40440.ts
 
 
 
-
-#EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-name="Eurosport 1 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png",EuroSport 1
-http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97120&extension=ts
-
-#EXTINF:-1 tvg-id="Eurosport.2.HD.uk" tvg-name="Eurosport 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png",Eurosport 2
-http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97121&extension=ts
 
 
 
