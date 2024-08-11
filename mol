@@ -263,17 +263,16 @@ http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61458&extension=t
 http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61459&extension=ts
 
 #EXTINF:-1 tvg-id="ESPNU.HDTV.(ESPNUHD).us" tvg-name="ESPNU HDTV (ESPNUHD)" tvg-logo="https://docdog.top/Logotv/countries//espnu.png" group-title="",ESPN U
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22202.ts
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61344&extension=ts
 
 #EXTINF:-1 tvg-id="The.Longhorn.Network.HDTV.(LONG).us" tvg-logo="https://docdog.top/Logotv/countries//longhornnetwork.png",Longhorn Network
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497389&extension=ts
 
 #EXTINF:-1 tvg-id="NBA.TV.HDTV.(NBA.HD).us" tvg-logo="https://docdog.top/Logotv/countries//nba.png",NBA TV
 http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=187070&extension=ts
 
 
 #EXTINF:-1 tvg-id="ACC.Network.HDTV.(ACCN).us" tvg-logo="https://docdog.top/Logotv/countries//accnetwork.png",ACC Network
-http://supersonictv.live:8080/live/Derrick/Hitman50$/40389.ts
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61384&extension=ts
 
 #EXTINF:-1 tvg-id="Altitude.Sports.and.Entertainment.(Colorado).HDTV.24/7.(ALTHD).us" tvg-logo="",Altitude Sports
 http://supersonictv.live:8080/live/Derrick/Hitman50$/77575.ts
@@ -302,7 +301,7 @@ http://supersonictv.live:8080/live/Derrick/Hitman50$/40412.ts
 http://supersonictv.live:8080/live/Derrick/Hitman50$/40410.ts
 
 #EXTINF:-1 tvg-id="NHL.Network.US.HDTV.(NHLHD).us" tvg-logo="https://docdog.top/Logotv/countries//nbaatlantahawks.png",NHL NETWORK
-http://supersonictv.live:8080/live/Derrick/Hitman50$/40413.ts
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61349&extension=ts
 
 #EXTINF:-1 tvg-id="Pac-12.Network.HDTV.(PAC12).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/pac-12-los-angeles-us.png",PAC-12 NETWORK
 http://supersonictv.live:8080/live/Derrick/Hitman50$/40419.ts
@@ -311,13 +310,13 @@ http://supersonictv.live:8080/live/Derrick/Hitman50$/40419.ts
 http://supersonictv.live:8080/live/Derrick/Hitman50$/77576.ts
 
 #EXTINF:-1 tvg-id="SEC.Network.HDTV.(SECN).us" tvg-logo="https://docdog.top/Logotv/countries//secnetwork.png",SEC NETWORK
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22208.ts
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61354&extension=ts
 
 #EXTINF:-1 tvg-id="Spectrum.SportsNet.LA.(SNLA).us" tvg-logo="https://docdog.top/Logotv/countries/cz/novasport1.png",SPECTRUM SPORTSNET
 http://supersonictv.live:8080/live/Derrick/Hitman50$/40423.ts
 
 #EXTINF:-1 tvg-id="SportsNet.New.York.HDTV.(SNYHD).us" tvg-logo="https://docdog.top/Logotv/countries//fubosportsnetwork.png",SportsNet NY
-http://supersonictv.live:8080/live/Derrick/Hitman50$/40473.ts
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61377&extension=ts
 
 #EXTINF:-1 tvg-id="Sportsnet.360.HDTV.(360HD).ca" tvg-logo="https://docdog.top/Logotv/countries//sportsnet360.png",SportsNet 360
 http://supersonictv.live:8080/live/Derrick/Hitman50$/40472.ts
@@ -328,10 +327,11 @@ http://supersonictv.live:8080/live/Derrick/Hitman50$/40475.ts
 #EXTINF:-1 tvg-id="The.Sportsman.Channel.HDTV.(SPTMANHD).us" tvg-logo="https://docdog.top/Logotv/countries//sportsmanchannel.png",Sportman Channel
 
 #EXTINF:-1 tvg-id="Willow.Cricket.HDTV.(WILLHD).us" tvg-logo="https://docdog.top/Logotv/countries//willowcricket.png",Willow Cricket
-http://supersonictv.live:8080/live/Derrick/Hitman50$/40436.ts
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61364&extension=ts
 
 #EXTINF:-1 tvg-id="",YES Network
-http://supersonictv.live:8080/live/Derrick/Hitman50$/40438.ts
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61356&extension=ts
+
 
 
 #EXTINF:-1 tvg-id="The.Golf.Channel.HDTV.(GLFHD).us" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png",GOLF
