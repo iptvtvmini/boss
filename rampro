@@ -151,6 +151,7 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=828094&extension=ts
 
 
 #EXTINF:-1 tvg-id="SPOTV.HD.id" tvg-name="SPOTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/456_144.png" group-title="",SPOTV
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=941564&extension=ts
 
 #EXTINF:-1 tvg-id="SPOTV.2.HD.id" tvg-name="SPOTV 2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/474_144.png" group-title="",SPOTV2
 
@@ -464,13 +465,16 @@ https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325802&extension=ts
 
 #EXTINF:-1 tvg-id="GAME+.us" tvg-logo="https://docdog.top/Logotv/countries//gsn.png",GAME+
-
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=752916&extension=m3u8
 
 #EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-logo="https://docdog.top/Logotv/countries//A&E.jpg",A&E
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325830&extension=ts
 
 #EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/amc-us.png",AMC
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325778&extension=ts
+
+#EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/syfy-us.png",Syfy
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325804&extension=ts
 
 #EXTINF:-1 tvg-id="BBC.America.HDTV.(East).(BBC).us" tvg-logo="https://docdog.top/Logotv/countries/bbcamerica.png",BBC America
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325827&extension=ts
@@ -502,12 +506,6 @@ http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325822&extension
 #EXTINF:-1 tvg-id="E!.Entertainment.Television.Canada.HDTV.(E!).ca" tvg-logo="https://docdog.top/Logotv/countries/united-states/e-entertainment-us.png",E! (CA)
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=414093&extension=ts
 
-#EXTINF:-1 tvg-id="GameTV.(GTV).ca" tvg-name="GameTV (GTV)" tvg-logo="http://5.44.253.151:80/images/86a43a112f1c64b381ae76c3a1040da8.png" group-title="",Game TV
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626942&extension=m3u8
-
-#EXTINF:-1 tvg-id="GAME+.us" tvg-logo="https://docdog.top/Logotv/countries//gsn.png",GAME+
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=752916&extension=m3u8
-
 #EXTINF:-1 tvg-id="Freeform.HDTV.(East).(FRFHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/freeform-us.png",Freeform
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325858&extension=ts
 
@@ -531,9 +529,6 @@ http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325809&extension
 
 #EXTINF:-1 tvg-id="SundanceTV.HDTV.(East).(SUNHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/sundance-tv-us.png",SundanceTV
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325805&extension=ts
-
-#EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/syfy-us.png",Syfy
-http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325804&extension=ts
 
 #EXTINF:-1 tvg-id="TBS.Superstation.HDTV.(East).(TBSHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/tbs-us.png",TBS
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325803&extension=ts
@@ -587,10 +582,7 @@ http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325791&extension
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325864&extension=ts
 
 #EXTINF:-1 tvg-id="The.Learning.Channel.HDTV.(East).(TLCHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/tlc-us.png",TLC
-
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325801&extension=ts
-
-
 
 #EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HDTV.(CI.HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/crime-and-investigation-us.png",Crime&Investigation
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325832&extension=ts
@@ -609,10 +601,6 @@ http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=326358&extension
 
 #EXTINF:-1 tvg-id="",DISCOVERY SCIENCE
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325774&extension=ts
-
-
-
-
 
 #EXTINF:-1 tvg-id="History.HDTV.(East).(HISHD).us" tvg-logo="https://docdog.top/Logotv/countries//history.png",History
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325777&extension=ts
@@ -639,13 +627,6 @@ http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325972&extension
 
 #EXTINF:-1 tvg-id="HBO.Zone.HDTV.(East).(HBOZHD).us" tvg-logo="https://docdog.top/Logotv/countries//hbozone.png",HBO Zone
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325971&extension=ts
-
-
-
-
-
-
-
 
 
 
