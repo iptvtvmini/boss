@@ -410,16 +410,31 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577927&extension=t
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577934&extension=ts
 
 
-#EXTINF:-1 tvg-id="",Now Sports 1
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:1c:5d:9e&stream=1497551&extension=ts
-
-#EXTINF:-1 tvg-id="",Now Sports 2
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:1c:5d:9e&stream=1497552&extension=ts
-
-#EXTINF:-1 tvg-id="",Now Sports 3
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:1c:5d:9e&stream=1497553&extension=ts
 
 
+#EXTINF:-1 tvg-id="",SKY SPORTS 1
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=670263&extension=ts
+
+#EXTINF:-1 tvg-id="",SKY SPORTS 2
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=670262&extension=ts
+
+#EXTINF:-1 tvg-id="",SKY SPORTS 3
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=670261&extension=ts
+
+#EXTINF:-1 tvg-id="",SKY SPORTS 4
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=670260&extension=ts
+
+#EXTINF:-1 tvg-id="",SKY SPORTS 5
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=670259&extension=ts
+
+#EXTINF:-1 tvg-id="",SKY SPORTS 6
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=670258&extension=ts
+
+#EXTINF:-1 tvg-id="",SKY SPORTS 7
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=670257&extension=ts
+
+#EXTINF:-1 tvg-id="",SKY SPORTS 9
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=670256&extension=ts
 
 
 
