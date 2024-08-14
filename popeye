@@ -1,1 +1,1052 @@
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz"
+
+#EXTINF:-1 tvg-id="TV1.HD.my" tvg-name="TV1 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" group-title="",TV1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/index.m3u8?id=1
+
+#EXTINF:-1 tvg-id="TV2.HD.my" tvg-name="TV2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="",TV2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/index.m3u8?id=2
+
+#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="",TV3
+https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
+
+#EXTINF:-1 tvg-id="TV6.my" tvg-name="TV6" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/302_144.png" group-title="",TV6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/index.m3u8?id=6
+
+#EXTINF:-1 tvg-id="NTV7.my" tvg-name="NTV7" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" group-title="",NTV7
+https://tonton-live-ssai.akamaized.net/live/0e27ef78-4cc9-4c62-bec9-5c946c9e7354/cmaf.isml/.m3u8
+
+#EXTINF:-1 tvg-id="8TV.my" tvg-name="8TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" group-title="",8TV
+https://tonton-live-ssai.akamaized.net/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/.m3u8
+
+#EXTINF:-1 tvg-id="TV9.my" tvg-name="TV9" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" group-title="",TV9
+https://tonton-live-ssai.akamaized.net/live/2020783a-0303-401a-9c92-b7c3c9108c0b/cmaf.isml/.m3u8
+
+#EXTINF:-1 tvg-id="TV.Okey.HD.my" tvg-name="TV Okey HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png" group-title="",TV Okey
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/index.m3u8?id=3
+
+#EXTINF:-1 tvg-id="TVS.my" tvg-name="TVS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png" group-title="",TVS
+https://stream2.smg.my/live/tvs_1080p2628kbs/index.m3u8
+
+#EXTINF:-1 tvg-id="Awesome.TV.my" tvg-name="Awesome TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png",Awesome TV
+#EXTINF:-1 tvg-id="Al-Hijrah.my" tvg-name="Al-Hijrah" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png" group-title="",TV Alhijrah
+#EXTINF:-1 tvg-id="Astro.Ceria.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png",Astro Ceria
+#EXTINF:-1 tvg-id="Astro.Prima.HD.my" tvg-name="Astro Prima HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="",Astro Prima
+#EXTINF:-1 tvg-id="Astro.Warna.HD.my" tvg-name="Astro Warna HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="",Astro Warna
+
+
+
+
+#EXTINF:-1 tvg-id="RTMK05" tvg-name="Bertia RTM" tvg-logo="https://i.imgur.com/9fAlB8K.png" group-title="",Berita RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/index.m3u8?id=5
+
+#EXTINF:-1 tvg-id="Astro.Awani.HD.my" tvg-name="Astro Awani HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png" group-title="",Astro Awani
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+
+#EXTINF:-1 tvg-id="BERNAMA.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/160_144.png" group-title="",Bernama
+https://ythls-v3.onrender.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
+
+#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="",CNN (ID)
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="Cable.News.Network.International.(CNNI).us" tvg-logo="https://docdog.top/Logotv/countries//cnninternational.png",CNN
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174595&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/aljazeera.png",AlJazeera
+https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/rtenews.png",RT News
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="",Wion
+https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://scripps.com/wp-content/uploads/2019/01/local_media_23_abc.png",23ABC
+https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//abcnews.png",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kDqyJcP.jpg",CBS News
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/foxnews.png",FOX News Now
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/90/USBA300028QU_20210622T090622.png",Newsmax
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images2.imgbox.com/1f/8c/vA9CqYr4_o.jpeg",One America News
+https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/usatoday_logo_dark_v2.png",USA TODAY
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="RTMK07" tvg-name="Dewan Rakyat" tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="",Parlimen Dewan Rakyat
+https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/auto.m3u8?id=7
+ 
+#EXTINF:-1 tvg-id="RTMK08" tvg-name="Dewan Negara" tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="",Parlimen Dewan Negara
+https://d25tgymtnqzu8s.cloudfront.net/smil:negara/index.m3u8?id=8
+ 
+
+
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="",Trans7
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+ 
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png" group-title="",Trans TV
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+
+
+#EXTINF:-1 tvg-id="HBO.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png",HBO
+#EXTINF:-1 tvg-id="HBO.Hits.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/449_144.png",HBO HITS
+#EXTINF:-1 tvg-id="HBO.Family.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png",HBO FAMILY
+#EXTINF:-1 tvg-id="SHOWCASE.MOVIES.my" tvg-name="SHOWCASE MOVIES" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png" group-title="",SHOWCASE MOVIES
+#EXTINF:-1 tvg-id="Cinemax.HD.id" tvg-name="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png" group-title="",CINEMAX
+#EXTINF:-1 tvg-id="HITS.MOVIES.HD.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png" group-title="",HITS Movies
+
+#EXTINF:-1 tvg-id="HITS.Movies.HD.my" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png" group-title="",HITS Movies
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=571200&extension=ts
+
+#EXTINF:-1 tvg-id="HITS.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png" group-title="",Hits
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=571252&extension=ts
+
+#EXTINF:-1 tvg-id="tvN.Movies.HD.id" tvg-name="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png" group-title="",tvN Movies
+#EXTINF:-1 tvg-id="tvN.Movies.HD.my" tvg-name="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png" group-title="",tvN Movies
+#EXTINF:-1 tvg-id="Celestial.Movies.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png" group-title="",Celestial Movies
+#EXTINF:-1 tvg-id="Celestial.Movies.HD.my" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png" group-title="",Celestial Movies
+#EXTINF:-1 tvg-id="CCM.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="",CCM
+#EXTINF:-1 tvg-id="Celestial.Classic.Movies.my" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="",CCM
+
+
+#EXTINF:-1 tvg-id="TVSUKAN" tvg-name="Sukan RTM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/58_144.png" group-title="",Sukan RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/index.m3u8?id=4
+
+#EXTINF:-1 tvg-id="Astro.Arena.HD.my" tvg-name="Astro Arena HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png" group-title="",Astro Arena
+#EXTINF:-1 tvg-id="Astro.Arena.2.HD.my" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="",Astro Arena 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-title="",Arena Bola 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-title="",Arena Bola 2
+
+#EXTINF:-1 tvg-id="Astro.SuperSport.HD.my" tvg-name="Astro SuperSport HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="",Astro SuperSport 1
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=918986&extension=ts
+
+#EXTINF:-1 tvg-id="Astro.SuperSport.2.HD.my" tvg-name="Astro SuperSport 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="",Astro SuperSport 2
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=918985&extension=ts
+
+#EXTINF:-1 tvg-id="Astro.SuperSport.3.HD.my" tvg-name="Astro SuperSport 3 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="",Astro SuperSport 3
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=918984&extension=ts
+
+#EXTINF:-1 tvg-id="Astro.SuperSport.4.HD.my" tvg-name="Astro SuperSport 4 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="",Astro SuperSport 4
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=918983&extension=ts
+
+#EXTINF:-1 tvg-id="Astro.Supersport.5.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="",W Sport
+
+
+#EXTINF:-1 tvg-id="SPOTV.HD.id" tvg-name="SPOTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/456_144.png" group-title="",SPOTV
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=941564&extension=ts
+
+#EXTINF:-1 tvg-id="SPOTV.2.HD.id" tvg-name="SPOTV 2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/474_144.png" group-title="",SPOTV2
+
+
+
+#EXTINF:-1 tvg-id="Premier.Sports.1.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/premiersports.png",Premier Sports
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458647&extension=ts
+
+#EXTINF:-1 tvg-id="Premier.Sports.2.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/premiersports.png",Premier Sports 2
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=621619&extension=ts
+
+
+#EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/eurosport1.png",EuroSport 1
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458649&extension=ts
+
+#EXTINF:-1 tvg-id="Eurosport.2.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/eurosport2.png",Eurosport 2
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458648&extension=ts
+
+
+#EXTINF:-1 tvg-id="",SuperSports Priemier League
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=239078&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportlaliga.png",SuperSports LA LIGA
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=239076&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportfootball.png",SuperSports FOOTBALL
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=239083&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety1.png",SuperSports VARIETY 1
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=239081&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety2.png",SuperSports VARIETY 2
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=239080&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety3.png",SuperSports VARIETY 3
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=239085&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety4.png",SuperSports VARIETY 4
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=239084&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportaction.png",SuperSports ACTION
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=425668&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportcricket.png",SuperSports CRICKET
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=239087&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//supersporttennis.png",SuperSports TENNIS
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=425314&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportpsl.png",SuperSports PSL
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=239077&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportgolf.png",SuperSports GOLF
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=425667&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportgrandstand.png",SuperSports GRANDSTAND
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=239079&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportrugby.png",SuperSports RUGBY
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=239086&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportmotorsport.png",SuperSports MOTORSPORT
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=239082&extension=ts
+
+#EXTINF:-1 tvg-id="",SuperSports PLAY 1
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=425313&extension=ts
+
+#EXTINF:-1 tvg-id="",SuperSports PLAY 2
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=425311&extension=ts
+
+#EXTINF:-1 tvg-id="",SuperSports BLITZ
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=425310&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//supersportmaximo1.png",SuperSports MAXIMO
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=425666&extension=ts
+
+
+
+
+#EXTINF:-1 tvg-id="Fox.Sports.1.HDTV.(FS1HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-sports-1-us.png",Fox Sports 1
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174669&extension=ts
+
+#EXTINF:-1 tvg-id="Fox.Sports.2.HDTV.(FS2HD).us" tvg-logo="https://docdog.top/Logotv/countries//foxsport2.png",Fox Sports 2
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174670&extension=ts
+
+#EXTINF:-1 tvg-id="Fox.Soccer.Plus.(FSPLUS).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png",Fox Soccer Plus
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174668&extension=ts
+
+#EXTINF:-1 tvg-id="",FOX SPORTS 501
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=646971&extension=ts
+
+#EXTINF:-1 tvg-id="",FOX SPORTS 502
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=646970&extension=ts
+
+#EXTINF:-1 tvg-id="",FOX SPORTS 503
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=646969&extension=ts
+
+#EXTINF:-1 tvg-id="",FOX SPORTS 504
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=646968&extension=ts
+
+#EXTINF:-1 tvg-id="",FOX SPORTS 505
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=646967&extension=ts
+
+#EXTINF:-1 tvg-id="",FOX SPORTS 506
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=646966&extension=ts
+
+#EXTINF:-1 tvg-id="",FOX SPORTS 507
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=646965&extension=ts
+
+
+#EXTINF:-1 tvg-id="",AT&T SPORTSNET
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174547&extension=ts
+
+#EXTINF:-1 tvg-id="ESPN.HDTV.(Dish).(ESPNHD).us" tvg-logo="https://docdog.top/Logotv/countries//espn1.png",ESPN
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174655&extension=ts
+
+#EXTINF:-1 tvg-id="ESPN2.HDTV.(Dish).(ESPN2HD).us" tvg-logo="https://docdog.top/Logotv/countries//espn2.png",ESPN 2
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174644&extension=ts
+
+#EXTINF:-1 tvg-id="",ESPN SEC NETWORK
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174654&extension=ts
+
+#EXTINF:-1 tvg-id="ESPNU.HDTV.(ESPNUHD).us" tvg-logo="https://docdog.top/Logotv/countries//espnu.png",ESPN U
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174657&extension=ts
+
+
+
+#EXTINF:-1 tvg-id="Big.Ten.Network.HDTV.(National).(BTNHD).us" tvg-logo="https://docdog.top/Logotv/countries//bigtennetwork.png",Big Ten Network
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174567&extension=ts
+
+#EXTINF:-1 tvg-id="CBS.Sports.Network.HDTV.(CBSSD).us" tvg-logo="https://docdog.top/Logotv/countries//cbssports.png",CBS Sports Network
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174582&extension=ts
+
+#EXTINF:-1 tvg-id="",HSN
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=436113&extension=ts
+
+#EXTINF:-1 tvg-id="The.Longhorn.Network.HDTV.(LONG).us" tvg-logo="https://docdog.top/Logotv/countries//longhornnetwork.png",Longhorn Network
+
+#EXTINF:-1 tvg-id="MLB.Network.HDTV.(DISH).(MLBHD).us" tvg-logo="https://docdog.top/Logotv/countries//mlbnetwork.png",MLB Network
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174747&extension=ts
+
+#EXTINF:-1 tvg-id="The.NFL.Network.HDTV.(NFLHD).us" tvg-logo="https://docdog.top/Logotv/countries//nflnetwork.png",NFL Network
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174809&extension=ts
+
+#EXTINF:-1 tvg-id="NBCSNWH.NBC.Sports.Northwest.HD.us" tvg-logo="https://docdog.top/Logotv/countries//nbcnewyork.png",NBC Sport
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325067&extension=ts
+
+#EXTINF:-1 tvg-id="",NBC SPORTS WASHINGTON
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325062&extension=ts
+
+#EXTINF:-1 tvg-id="Pac-12.Network.HDTV.(PAC12).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/pac-12-los-angeles-us.png",PAC-12 NETWORK
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174907&extension=ts
+
+#EXTINF:-1 tvg-id="SportsNet.New.York.HDTV.(SNYHD).us" tvg-logo="https://docdog.top/Logotv/countries//fubosportsnetwork.png",SportsNet NY
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174945&extension=ts
+
+#EXTINF:-1 tvg-id="",SPORTSNET
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=20503&extension=ts
+
+#EXTINF:-1 tvg-id="Sportsnet.360.HDTV.(360HD).ca" tvg-logo="https://docdog.top/Logotv/countries//sportsnet360.png",SPORTSNET 360
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=20504&extension=ts
+
+#EXTINF:-1 tvg-id="",SPORTSNET ONE
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=20502&extension=ts
+
+#EXTINF:-1 tvg-id="SEC.Network.HDTV.(SECN).us" tvg-logo="https://docdog.top/Logotv/countries//secnetwork.png",SEC NETWORK
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174927&extension=ts
+
+#EXTINF:-1 tvg-id="",YES NETWORK
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=175007&extension=ts
+
+
+
+#EXTINF:-1 tvg-id="",COWBOY CHANNEL
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174601&extension=ts
+
+#EXTINF:-1 tvg-id="World.Fishing.Network.(US).(WFN).us" tvg-logo="https://docdog.top/Logotv/countries//worldfishingnetwork.png",World Fishing Network
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=175005&extension=ts
+
+#EXTINF:-1 tvg-id="The.Golf.Channel.HDTV.(GLFHD).us" tvg-logo="https://docdog.top/Logotv/countries//nbcgolfchannel.png",Golf Channel
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174706&extension=ts
+
+#EXTINF:-1 tvg-id="",NBC GOLF
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174798&extension=ts
+
+#EXTINF:-1 tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" tvg-logo="https://docdog.top/Logotv/countries//tennischannel.png",Tennis
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174979&extension=ts
+
+#EXTINF:-1 tvg-id="WWE.Network.us" tvg-logo="https://docdog.top/Logotv/countries//wwenetwork.png",WWE
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=175006&extension=ts
+
+
+
+
+#EXTINF:-1 tvg-id="The.Sports.Network.HDTV.(TSNHD).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn1",TSN 1
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=20476&extension=ts
+
+#EXTINF:-1 tvg-id="The.Sports.Network.2.HDTV.(TSN2D).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn2.png",TSN 2
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=20475&extension=ts
+
+#EXTINF:-1 tvg-id="The.Sports.Network.3.HDTV.(TSN3HD).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn3.png",TSN 3
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=20474&extension=ts
+
+#EXTINF:-1 tvg-id="The.Sports.Network.4.HDTV.(TSN4H).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn4.png",TSN 4
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=20473&extension=ts
+
+#EXTINF:-1 tvg-id="The.Sports.Network.5.HDTV.(TSN5HD).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn5.png",TSN 5
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=20472&extension=ts
+
+#EXTINF:-1 tvg-id="TVA.Sports.HDTV.(TVASHD).ca" tvg-logo="https://docdog.top/Logotv/countries//tvasports.png",TVA SPORTS
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=20467&extension=ts
+
+
+
+#EXTINF:-1 tvg-id="TNT.Sports.1.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png",TNT Sport 1
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458667&extension=ts
+
+#EXTINF:-1 tvg-id="TNT.Sports.2.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsports2vip.png",TNT Sport 2
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458666&extension=ts
+
+#EXTINF:-1 tvg-id="TNT.Sports.3.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport3.png",TNT Sport 3
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458665&extension=ts
+
+#EXTINF:-1 tvg-id="TNT.Sports.4.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",TNT Sport 4
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458815&extension=ts
+
+
+
+
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-sports-premier-league-uk.png",Sky Sport Primere League
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458669&extension=ts
+
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsmainevent.png",Sky Sport Main Event
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=83450&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsfootball.png",Sky Sport Football
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458674&extension=ts
+
+#EXTINF:-1 tvg-id="SkySp.ArenaHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsarena.png",Sky Sport Arena
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458676&extension=ts
+
+#EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsaction.png",Sky Sport Action
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458677&extension=ts
+
+#EXTINF:-1 tvg-id="SkySpCricket.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-sports-cricket-uk.png",Sky Sport Cricket
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458675&extension=ts
+
+#EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsracing.png",Sky Sport Racing
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458668&extension=ts
+
+#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsgolf.png",Sky Sport Golf
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458673&extension=ts
+
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsf1.png",Sky Sport F1
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458661&extension=ts
+
+#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsmix.png",Sky Sport Mix
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458671&extension=ts
+
+#EXTINF:-1 tvg-id="",SKY SPORTS TENNIS
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458813&extension=ts
+
+
+
+
+#EXTINF:-1 tvg-id="",SKY SPORT 1
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=636918&extension=ts
+
+#EXTINF:-1 tvg-id="",SKY SPORT 2
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=636919&extension=ts
+
+#EXTINF:-1 tvg-id="",SKY SPORT 3
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=636920&extension=ts
+
+#EXTINF:-1 tvg-id="",SKY SPORT 4
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=636921&extension=ts
+
+#EXTINF:-1 tvg-id="",SKY SPORT 5
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=636922&extension=ts
+
+#EXTINF:-1 tvg-id="",SKY SPORT 6
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=636923&extension=ts
+
+#EXTINF:-1 tvg-id="",SKY SPORT 7
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=636924&extension=ts
+
+#EXTINF:-1 tvg-id="",SKY SPORT 8
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=636925&extension=ts
+
+#EXTINF:-1 tvg-id="",SKY SPORT 9
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=636926&extension=ts
+
+#EXTINF:-1 tvg-id="",SKY SPORT 10
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=636927&extension=ts
+
+
+
+#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/abc-us.png",ABC 7
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325773&extension=ts
+
+#EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cbs-logo-white-us.png",CBS 2
+#EXTINF:-1 tvg-id="CW.(WUPV).Richmond,.VA.us" tvg-logo="https://docdog.top/Logotv/countries//cw.png",CW 11
+
+#EXTINF:-1 tvg-id="",CBN
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325928&extension=ts
+
+#EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png",FOX 5
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=417449&extension=ts
+
+#EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries//nbcnewyork.png",NBC 4
+
+
+
+
+#EXTINF:-1 tvg-id="CTV.Calgary.HDTV.(CTVHC).ca" tvg-logo="https://docdog.top/Logotv/countries//ctvcalgary.png",CTV
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=414185&extension=ts
+
+#EXTINF:-1 tvg-id="CTV.Two.Ottawa/CHRO.(CTV2O).ca" tvg-logo="https://docdog.top/Logotv/countries//ctv2ottawa.png",CTV2
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=414115&extension=ts
+
+#EXTINF:-1 tvg-id="CTV.SCI-FI.Channel.HDTV.(SCIFIHD).ca" tvg-logo="https://docdog.top/Logotv/countries/canada/ctv-sci-fi-channel-ca.png",CTV SCI-FI
+
+
+#EXTINF:-1 tvg-id="Game.Show.Network.HDTV.(EAST).(GMSHWHD).us" tvg-name="Game Show Network HDTV (EAST) (GMSHWHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/game-show-network-us.png" group-title="",Game Show Network
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5e54187aae660e00093561d6" tvg-name="" tvg-logo="https://images.pluto.tv/channels/5e54187aae660e00093561d6/colorLogoPNG.png" group-title="",Game Show Central
+https://gsn-gameshowchannnel-1-us.vizio.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MBC.Wanasah.(MBCW).us" tvg-name="" tvg-logo="https://i.imgur.com/AuYEozR.png" group-title="",Wanasah
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+
+#EXTINF:-1 tvg-id="GameTV.(GTV).ca" tvg-logo="https://docdog.top/Logotv/countries//gameone.png",Game TV
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=20574&extension=ts
+
+#EXTINF:-1 tvg-id="GAME+.us" tvg-logo="https://docdog.top/Logotv/countries//gsn.png",GAME+
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=752916&extension=m3u8
+
+#EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-logo="https://docdog.top/Logotv/countries//A&E.jpg",A&E
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174533&extension=ts
+
+#EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/amc-us.png",AMC
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174541&extension=ts
+
+#EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/syfy-us.png",Syfy
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174972&extension=ts
+
+#EXTINF:-1 tvg-id="BBC.America.HDTV.(East).(BBC).us" tvg-logo="https://docdog.top/Logotv/countries/bbcamerica.png",BBC America
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174553&extension=ts
+
+#EXTINF:-1 tvg-id="Black.Entertainment.Television.HDTV.(East).(BET-HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/bet-us.png",BET
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174563&extension=ts
+
+#EXTINF:-1 tvg-id="BET.Her.HDTV.(BHERHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/bet-her-us.png",BET HER
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174564&extension=ts
+
+#EXTINF:-1 tvg-id="Bounce.TV.(Bounce).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/bounce-us.png",Bounce TV
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174570&extension=ts
+
+#EXTINF:-1 tvg-id="",BOUNCE XL
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325938&extension=ts
+
+#EXTINF:-1 tvg-id="Bravo.HDTV.(East).(BRAVOD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/bravo-us.png",Bravo
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174571&extension=ts
+
+#EXTINF:-1 tvg-id="Comedy.Central.HDTV.(East).(CMDHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/comedy-central-us.png",Comedy Central
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174596&extension=ts
+
+#EXTINF:-1 tvg-id="",COMEDY TV
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174597&extension=ts
+
+#EXTINF:-1 tvg-id="",COMET
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174598&extension=ts
+
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.HDTV.(East).(E!.HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/e-entertainment-us.png",E!
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174636&extension=ts
+
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.Canada.HDTV.(E!).ca" tvg-logo="https://docdog.top/Logotv/countries/united-states/e-entertainment-us.png",E! (CA)
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=414093&extension=ts
+
+#EXTINF:-1 tvg-id="Freeform.HDTV.(East).(FRFHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/freeform-us.png",Freeform
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174692&extension=ts
+
+#EXTINF:-1 tvg-id="FX.HDTV.(East).(FX.HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fx-us.png",FX
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174697&extension=ts
+
+#EXTINF:-1 tvg-id="FX.Movie.Channel.HDTV.(FXMHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fxm-movie-channel-us.png",FXM
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174698&extension=ts
+
+#EXTINF:-1 tvg-id="FXX.HDTV.(East).(FXXHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fxx-us.png",FXX
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174700&extension=ts
+
+#EXTINF:-1 tvg-id="IFC.HDTV.(East).(IFCHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/ifc-us.png",IFC
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174730&extension=ts
+
+#EXTINF:-1 tvg-id="",MTV
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174759&extension=ts
+
+#EXTINF:-1 tvg-id="",MTV 2
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174758&extension=ts
+
+#EXTINF:-1 tvg-id="",MTV LIVE
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174760&extension=ts
+
+#EXTINF:-1 tvg-id="",MTV U
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174761&extension=ts
+
+#EXTINF:-1 tvg-id="PixL.HDTV.(PixLHD).us" tvg-logo="",PixL
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174914&extension=ts
+
+#EXTINF:-1 tvg-id="ReelzChannel.HDTV.(REELZH).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/reelz-us.png",Reelz
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174920&extension=ts
+
+#EXTINF:-1 tvg-id="SundanceTV.HDTV.(East).(SUNHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/sundance-tv-us.png",SundanceTV
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174971&extension=ts
+
+#EXTINF:-1 tvg-id="TBS.Superstation.HDTV.(East).(TBSHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/tbs-us.png",TBS
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174975&extension=ts
+
+#EXTINF:-1 tvg-id="Turner.Network.Television.HDTV.(East).(TNTHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/tnt-us.png",TNT
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174985&extension=ts
+
+#EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/usa-us.png",USA Network
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174998&extension=ts
+
+#EXTINF:-1 tvg-id="",The Movie Network 1
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=20482&extension=ts
+
+#EXTINF:-1 tvg-id="",The Movie Network 2
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=20481&extension=ts
+
+#EXTINF:-1 tvg-id="",The Movie Network 3
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=20480&extension=ts
+
+#EXTINF:-1 tvg-id="",The Movie Network 4
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=20479&extension=ts
+
+
+
+
+#EXTINF:-1 tvg-id="Animal.Planet.HDTV.(East).(APHD).us" tvg-logo="https://docdog.top/Logotv/countries//animalplanet.png",Animal Planet
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174543&extension=ts
+
+#EXTINF:-1 tvg-id="National.Geographic.Channel.HDTV.(NGCHD).us" tvg-logo="https://docdog.top/Logotv/countries//natgeo.png",National Geographic
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458749&extension=ts
+
+#EXTINF:-1 tvg-id="NatGeo.WILD.HDTV.(NGWILD).us" tvg-logo="https://docdog.top/Logotv/countries//natgeowild.png",NatGeo WILD
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=155733&extension=ts
+
+
+#EXTINF:-1 tvg-id="The.Cooking.Channel.HDTV.(COOKHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cooking-channel-us.png",Cooking Channel
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174599&extension=ts
+
+#EXTINF:-1 tvg-id="Food.Network.HDTV.(East).(FOODHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/food-network-us.png",Food Network
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174659&extension=ts
+
+#EXTINF:-1 tvg-id="TASTE.Tastemade.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/tastemade-us.png",Tastemade
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174974&extension=ts
+
+
+
+#EXTINF:-1 tvg-id="Magnolia.Network.HDTV.(MAGNOLIA).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/galavision-us.png",Magnolia Network
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325823&extension=ts
+
+#EXTINF:-1 tvg-id="FYI.HDTV.(FYIHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fyi-us.png",FYI
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174702&extension=ts
+
+#EXTINF:-1 tvg-id="Home.and.Garden.Television.HDTV.(East).(HGTVD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/hgtv-us.png",HGTV
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174723&extension=ts
+
+#EXTINF:-1 tvg-id="HLN.HDTV.(HLNHD).us" tvg-logo="https://docdog.top/Logotv/countries//hln.png",HLN
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174726&extension=ts
+
+#EXTINF:-1 tvg-id="The.Learning.Channel.HDTV.(East).(TLCHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/tlc-us.png",TLC
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174982&extension=ts
+
+#EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HDTV.(CI.HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/crime-and-investigation-us.png",Crime & Investigation
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174603&extension=ts
+
+#EXTINF:-1 tvg-id="Investigation.Discovery.HDTV.(IDHD).us" tvg-logo="https://docdog.top/Logotv/countries//investigationdiscovery.png",Investigation Discovery
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=45270&extension=ts
+
+#EXTINF:-1 tvg-id="Discovery.Family.Channel.HDTV.(DFCHD).us" tvg-logo="https://docdog.top/Logotv/countries//discoveryfamilychannel.png",Discovery Family
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174623&extension=ts
+
+#EXTINF:-1 tvg-id="The.Discovery.Channel.HDTV.(East).(DSCHD).us" tvg-logo="https://docdog.top/Logotv/countries//discoverychannel.png",Discovery Channel
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174624&extension=ts
+
+#EXTINF:-1 tvg-id="Discovery.Life.Channel.(DLIF).us" tvg-logo="https://docdog.top/Logotv/countries//discoverylife.png",Discovery Life
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174625&extension=ts
+
+#EXTINF:-1 tvg-id="",DISCOVERY SCIENCE
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174626&extension=ts
+
+#EXTINF:-1 tvg-id="History.HDTV.(East).(HISHD).us" tvg-logo="https://docdog.top/Logotv/countries//history.png",History
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174725&extension=ts
+
+
+#EXTINF:-1 tvg-id="HBO.HDTV.(East).(HBOHD).us" tvg-logo="https://docdog.top/Logotv/countries//hbo.png",HBO
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174717&extension=ts
+
+#EXTINF:-1 tvg-id="HBO.2.HDTV.(East).(HBO2HD).us" tvg-logo="https://docdog.top/Logotv/countries//hbo.png",HBO 2
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174714&extension=ts
+
+#EXTINF:-1 tvg-id="HBO.Comedy.HDTV.(East).(HBOCHD).us" tvg-logo="https://docdog.top/Logotv/countries//hbocomedy.png",HBO Comedy
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174715&extension=ts
+
+#EXTINF:-1 tvg-id="HBO.Family.HDTV.(East).(HBOFHD).us" tvg-logo="https://docdog.top/Logotv/countries//hbofamily.png",HBO Family
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174716&extension=ts
+
+#EXTINF:-1 tvg-id="HBO.Signature.HDTV.(East).(HBOSHD).us" tvg-logo="https://docdog.top/Logotv/countries//hbosignature.png",HBO Signature
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174718&extension=ts
+
+#EXTINF:-1 tvg-id="HBO.Zone.HDTV.(East).(HBOZHD).us" tvg-logo="https://docdog.top/Logotv/countries//hbozone.png",HBO Zone
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174720&extension=ts
+
+#EXTINF:-1 tvg-id="HDNet.Movies.(HDNTM).us" tvg-logo="https://docdog.top/Logotv/countries//hdnetmovies.png",HDNet Movies
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174721&extension=ts
+
+
+#EXTINF:-1 tvg-id="MGM+.HDTV.(East).(MGM+HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-us.png",Epix
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174642&extension=ts
+
+#EXTINF:-1 tvg-id="MGM+.Marquee.HDTV.(East).(MGM+MRQ).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-2-us.png",Epix 2
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174640&extension=ts
+
+#EXTINF:-1 tvg-id="MGM+.Hits.HDTV.(East).(MGM+HTHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-us.png",Epix Hits
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174643&extension=ts
+
+#EXTINF:-1 tvg-id="MGM+.Drive-In.(MGM+DI).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-drive-in-us.png",Epix Drive-In
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174641&extension=ts
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="SCRNPIX.ScreenPix.us" tvg-logo="https://docdog.top/Logotv/countries//dumisa.png",ScreenPix
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=326002&extension=ts
+
+#EXTINF:-1 tvg-id="SCRNWST.ScreenPix.Westerns.us" tvg-logo="https://docdog.top/Logotv/countries//dumisa.png",ScreenPix Westerns
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=326001&extension=ts
+
+#EXTINF:-1 tvg-id="SCRNACT.ScreenPix.Action.us" tvg-logo="https://docdog.top/Logotv/countries//dumisa.png",ScreenPix Action
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=326000&extension=ts
+
+#EXTINF:-1 tvg-id="SCRNVOI.ScreenPix.Voices.us" tvg-logo="https://docdog.top/Logotv/countries//dumisa.png",ScreenPix Voices
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325999&extension=ts
+
+
+
+#EXTINF:-1 tvg-id="Cinemax.HDTV.(East).(MAXHD).us" tvg-logo="https://docdog.top/Logotv/countries//cinemax.png",CineMAX
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174586&extension=ts
+
+#EXTINF:-1 tvg-id="",CINEMAX ACTION
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174585&extension=ts
+
+#EXTINF:-1 tvg-id="5StarMAX.HD.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cinemax-5-starmax-us.png",5StarMAX
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=436158&extension=ts
+
+#EXTINF:-1 tvg-id="",CINEMA DINAMITA
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=436159&extension=ts
+
+#EXTINF:-1 tvg-id="ActionMAX.HDTV.(East).(AMXHD).us" tvg-logo="https://docdog.top/Logotv/countries//actionmax.png",ActionMAX
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174538&extension=ts
+
+#EXTINF:-1 tvg-id="More.Max.(East).(MOMAX).us" tvg-logo="https://docdog.top/Logotv/countries//cinemaxmoremax.png",MoreMAX
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174749&extension=ts
+
+#EXTINF:-1 tvg-id="MOVIEMAX.HDTV.(MMXHD).us" tvg-logo="https://docdog.top/Logotv/countries/turkey/movie-smart-fest-tr.png",MovieMAX
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174751&extension=ts
+
+#EXTINF:-1 tvg-id="OuterMax.east.us" tvg-logo="https://docdog.top/Logotv/countries//outermax.png",OuterMAX
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174897&extension=ts
+
+#EXTINF:-1 tvg-id="ThrillerMAX.HDTV.(East).(TMXHD).us" tvg-logo="https://docdog.top/Logotv/countries//thrillermax.png",ThrillerMAX
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174589&extension=ts
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="MoviePlex.East.(MPLEX).us" tvg-logo="https://docdog.top/Logotv/countries//movieplex.png",MoviePlex
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174752&extension=ts
+
+#EXTINF:-1 tvg-id="IndiePlex.HDTV.(INDIEHD).us" tvg-logo="https://docdog.top/Logotv/countries//indieplex.png",IndiePlex
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174731&extension=ts
+
+#EXTINF:-1 tvg-id="RetroPlex.HDTV.(RETROHD).us" tvg-logo="https://docdog.top/Logotv/countries//retroplex.png",RetroPlex
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174921&extension=ts
+
+
+
+
+
+#EXTINF:-1 tvg-id="Showtime.HDTV.(East).(SHOHD).us" tvg-logo="https://docdog.top/Logotv/countries//showtime.png",Showtime
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174933&extension=ts
+
+#EXTINF:-1 tvg-id="Showtime.2.HDTV.(East).(SHO2HD).us" tvg-logo="https://docdog.top/Logotv/countries//showtime.png",Showtime 2
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174928&extension=ts
+
+#EXTINF:-1 tvg-id="Showtime.Next.East.HDTV.(East).(SHOND).us" tvg-logo="https://docdog.top/Logotv/countries//showtimenext.png",Showtime Next
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174934&extension=ts
+
+#EXTINF:-1 tvg-id="Showtime.Women.HDTV.(East).(SHOWD).us" tvg-logo="https://docdog.top/Logotv/countries//showtimewomen.png",Showtime Women
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174937&extension=ts
+
+#EXTINF:-1 tvg-id="Showtime.Extreme.(East).(SHOXe).us" tvg-logo="https://docdog.top/Logotv/countries//showtimeextreme.png",Showtime Extreme
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174931&extension=ts
+
+#EXTINF:-1 tvg-id="Showtime.Showcase.HDTV.(East).(SHOCHD).us" tvg-logo="https://docdog.top/Logotv/countries//showtimeshowcase.png",Showtime Showcase
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174935&extension=ts
+
+#EXTINF:-1 tvg-id="Showtime.FamilyZone.(East).(SHOFe).us" tvg-logo="https://docdog.top/Logotv/countries//showtimefamilyzone.png",Showtime Family Zone
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174932&extension=ts
+
+#EXTINF:-1 tvg-id="",SHOWTIME BET
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325932&extension=ts
+
+#EXTINF:-1 tvg-id="Sony.Movie.Channel.HD.(SONY).us" tvg-logo="https://docdog.top/Logotv/countries/uk/sonymoviechannel.png",Sony Movie
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174940&extension=ts
+
+
+
+
+#EXTINF:-1 tvg-id="STARZ.HD.(East).(STZHD).us" tvg-logo="https://docdog.top/Logotv/countries//starz.png",STARZ
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174955&extension=ts
+
+#EXTINF:-1 tvg-id="STARZ.InBlack.(East).(STZ.B).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/starz-in-black-us.png",STARZ In Black
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174951&extension=ts
+
+#EXTINF:-1 tvg-id="STARZ.Cinema.(East).(STZCI).us" tvg-logo="https://docdog.top/Logotv/countries//starzcinema.png",STARZ Cinema
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174953&extension=ts
+
+#EXTINF:-1 tvg-id="STARZ.Comedy.HD.(East).(SZCHD).us" tvg-logo="https://docdog.top/Logotv/countries//starzcomedy.png",STARZ Comedy
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174954&extension=ts
+
+#EXTINF:-1 tvg-id="STARZ.Edge.HD.(East).(SZEHD).us" tvg-logo="https://docdog.top/Logotv/countries//starzedge.png",STARZ Edge
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174956&extension=ts
+
+#EXTINF:-1 tvg-id="",STARZ FAMILY
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174967&extension=ts
+
+#EXTINF:-1 tvg-id="STARZ.Kids.and.Family.HD.(East).(SZKHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/starz-us.png",STARZ Kids and Family
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174969&extension=ts
+
+#EXTINF:-1 tvg-id="STARZ.ENCORE.HD.(East).(STZEH).us" tvg-logo="https://docdog.top/Logotv/countries//starzencore.png",STARZ ENCORE
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174963&extension=ts
+
+#EXTINF:-1 tvg-id="STARZ.ENCORE.Action.(East).(STZAC).us" tvg-logo="https://docdog.top/Logotv/countries//starzencoreaction.png",STARZ ENCORE Action
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174958&extension=ts
+
+#EXTINF:-1 tvg-id="STARZ.ENCORE.Black.(East).(STZBK).us" tvg-logo="https://docdog.top/Logotv/countries//starzencoreblack.png",STARZ ENCORE Black
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174959&extension=ts
+
+#EXTINF:-1 tvg-id="STARZ.ENCORE.Classic.(East).(STZCL).us" tvg-logo="https://docdog.top/Logotv/countries//starzencoreclassic.png",STARZ ENCORE Classic
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174960&extension=ts
+
+#EXTINF:-1 tvg-id="STARZ.ENCORE.Family.(East).(STZFM).us" tvg-logo="https://docdog.top/Logotv/countries//starzencorefamily.png",STARZ ENCORE Family
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174962&extension=ts
+
+#EXTINF:-1 tvg-id="",STARZ ENCORE SUSPENSE
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174964&extension=ts
+
+#EXTINF:-1 tvg-id="STARZ.ENCORE.Westerns.(East).(STZWS).us" tvg-logo="https://docdog.top/Logotv/countries//starzencorewestern.png",STARZ ENCORE Westerns
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174965&extension=ts
+
+
+
+
+#EXTINF:-1 tvg-id="Sky.Thriller.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemathriller.png",Sky Thriller
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458797&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Cinema.Select.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaselect.png",Sky Cinema Select
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458798&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.ScFi/HorHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemasci.png",Sky Cinema ScFi
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458799&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.ScFi/HorHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemasci.png",Sky ScFi
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458754&extension=ts
+
+#EXTINF:-1 tvg-id="SkyPremiereHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemapremiere.png",Sky Premiere
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458800&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Cinema.Hits.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemahits.png",Sky Cinema Hits
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458801&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Greats.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-cinema-greats-uk.png",Sky Greats
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458802&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Family.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-cinema-family-uk.png",Sky Family
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458803&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Drama.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemadrama.png",Sky Drama
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=639176&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Comedy.Cinema.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemacomedy.png",Sky Cinema Comedy
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458805&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Action.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaaction.png",Sky Action
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458806&extension=ts
+
+#EXTINF:-1 tvg-id="SkyAnimationHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaanimation.png",Sky Animation
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458807&extension=ts
+
+
+#EXTINF:-1 tvg-id="Sky.Kids.HD.uk" tvg-logo="",Sky Kids
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=639172&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Nature.HD.uk" tvg-logo="",Sky Nature
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458747&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Arts.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skyarts.png",Sky Arts
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458775&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Witness.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skywitness.png",Sky Witness
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458778&extension=ts
+
+#EXTINF:-1 tvg-id="SkyShowcaseHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemashowcase.png",Sky Showcase
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458779&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Crime.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemacrime-thriller.png",Sky Crime
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458761&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Comedy.Cinema.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemacomedy.png",Sky Comedy
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458782&extension=ts
+
+#EXTINF:-1 tvg-id="Sky.Atlantic.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skyatlantic.png",Sky Atlantic
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458784&extension=ts
+
+#EXTINF:-1 tvg-id="",SKY HISTORY
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458753&extension=ts
+
+#EXTINF:-1 tvg-id="",SKY HISTORY 2
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458752&extension=ts
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbcone.png",BBC 1
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=30581&extension=ts
+
+#EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbc2.png",BBC 2
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=30580&extension=ts
+
+#EXTINF:-1 tvg-id="BBC.Three.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbc3.png",BBC 3
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=45336&extension=ts
+
+#EXTINF:-1 tvg-id="BBC.Four.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbc4.png",BBC 4
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=45335&extension=ts
+
+#EXTINF:-1 tvg-id="Channel.4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/channel4.png",Channel 4
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=30555&extension=ts
+
+#EXTINF:-1 tvg-id="4seven.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/4seven.png",4 Seven
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=164074&extension=ts
+
+#EXTINF:-1 tvg-id="More4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/more4.png",More 4
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=30528&extension=ts
+
+#EXTINF:-1 tvg-id="E4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/e4.png",E4
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=30545&extension=ts
+
+#EXTINF:-1 tvg-id="Film4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/film4.png",Film 4
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458808&extension=ts
+
+#EXTINF:-1 tvg-id="Channel.5.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/channel5.png",Channel 5
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=30554&extension=ts
+
+#EXTINF:-1 tvg-id="5SELECT.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/5select.png",5 Select
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=164005&extension=ts
+
+#EXTINF:-1 tvg-id="5STAR.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/5star.png",5 Star
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=45320&extension=ts
+
+#EXTINF:-1 tvg-id="5.USA.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/usa.png",5 USA
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=45319&extension=ts
+
+#EXTINF:-1 tvg-id="Challenge.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/challenge.png",Challenge
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=228565&extension=ts
+
+
+
+
+
+#EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv1.png",ITV1
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=30533&extension=ts
+
+#EXTINF:-1 tvg-id="ITV2.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv2.png",ITV2
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=30532&extension=ts
+
+#EXTINF:-1 tvg-id="ITV3.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv3.png",ITV3
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=30531&extension=ts
+
+#EXTINF:-1 tvg-id="ITV4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv4.png",ITV4
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=30530&extension=ts
+
+#EXTINF:-1 tvg-id="ITVBe.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itvbe.png",ITVBe
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=45333&extension=ts
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",CLINT EASTWOOD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=485299&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",EDDY MURPHY
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=485222&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",ARNOLD SCHWARZENEGGER
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=485213&extension=ts
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",THE BEVERLY HILLBILLIES
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=485152&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",THE BIONIC WOMAN
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=485154&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",SIX MILLION DOLLAR MAN
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=485150&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",KNIGHT RIDER
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=485291&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",FAST & FURIOUS
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=485278&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",RUSH HOUR
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=485176&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",DIE HARD
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=485168&extension=ts
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",SUPERHERO MOVIES
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=485169&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",SCIFI MOVIES
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=485174&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",THRILLER MOVIES
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=485209&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",FAMILY MOVIES
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=485208&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",COMEDY MOVIES
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=485207&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",CRIME MOVIES
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=485206&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",HORROR MOVIES
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=485205&extension=ts
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",WESTERN 1
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=485238&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",WESTERN 2
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=485237&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",WESTERN 3
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=485236&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",WESTERN 4
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=485235&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",WESTERN 5
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=485234&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",WESTERN 6
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=485233&extension=ts
+
+
+
+
+
+
+
+
+
+
+
 
