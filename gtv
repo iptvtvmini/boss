@@ -254,23 +254,44 @@ http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219113&extension
 http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=381220&extension=ts
 
 #EXTINF:-1 tvg-id="Pac-12.Network.HDTV.(PAC12).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/pac-12-los-angeles-us.png",PAC-12 NETWORK
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219181&extension=ts
+
 #EXTINF:-1 tvg-id="Root.Sports.Northwest.(ROOT).us" tvg-logo="",Root Sports
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219116&extension=ts
+
 #EXTINF:-1 tvg-id="SEC.Network.HDTV.(SECN).us" tvg-logo="https://docdog.top/Logotv/countries//secnetwork.png",SEC NETWORK
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219097&extension=ts
+
 #EXTINF:-1 tvg-id="Spectrum.SportsNet.LA.(SNLA).us" tvg-logo="https://docdog.top/Logotv/countries/cz/novasport1.png",SPECTRUM SPORTSNET
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219117&extension=ts
 
 #EXTINF:-1 tvg-id="SportsNet.New.York.HDTV.(SNYHD).us" tvg-logo="https://docdog.top/Logotv/countries//fubosportsnetwork.png",SportsNet NY
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219187&extension=ts
+
 #EXTINF:-1 tvg-id="Sportsnet.360.HDTV.(360HD).ca" tvg-logo="https://docdog.top/Logotv/countries//sportsnet360.png",SportsNet 360
 #EXTINF:-1 tvg-id="Sportsnet.One.HDTV.(SN1HD).ca" tvg-logo="https://docdog.top/Logotv/countries//sportsnetone.png",Sportsnet One
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219188&extension=ts
 
 #EXTINF:-1 tvg-id="The.Sportsman.Channel.HDTV.(SPTMANHD).us" tvg-logo="https://docdog.top/Logotv/countries//sportsmanchannel.png",Sportman Channel
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219186&extension=ts
+
 #EXTINF:-1 tvg-id="Willow.Cricket.HDTV.(WILLHD).us" tvg-logo="https://docdog.top/Logotv/countries//willowcricket.png",Willow Cricket
 
 #EXTINF:-1 tvg-id="Yankees.Television.HDTV.(YESHD).us",YES NETWORK
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219160&extension=ts
 
 #EXTINF:-1 tvg-id="ESPN.HDTV.(Dish).(ESPNHD).us" tvg-logo="https://docdog.top/Logotv/countries//espn1.png",ESPN
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219088&extension=ts
+
 #EXTINF:-1 tvg-id="ESPN2.HDTV.(Dish).(ESPN2HD).us" tvg-logo="https://docdog.top/Logotv/countries//espn2.png",ESPN 2
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219089&extension=ts
+
 #EXTINF:-1 tvg-id="ESPNU.HDTV.(ESPNUHD).us" tvg-logo="https://docdog.top/Logotv/countries//espnu.png",ESPN U
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219138&extension=ts
+
 #EXTINF:-1 tvg-id="ESPN.Deportes.HDTV.(EDEPHD).us" tvg-logo="",ESPN Deportes
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219091&extension=ts
+
 #EXTINF:-1 tvg-id="ESPN.Alternate.Programming.(ESPNAP).us" tvg-logo="",ESPN Alternate
 
 #EXTINF:-1 tvg-id="Fox.Sports.1.HDTV.(FS1HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-sports-1-us.png",Fox Sports 1
@@ -286,9 +307,16 @@ http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=787499&extension
 #EXTINF:-1 tvg-id="Premier.Sports.2.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/premiersports.png",Premier Sports 2
 
 #EXTINF:-1 tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" tvg-logo="https://docdog.top/Logotv/countries//tennischannel.png",Tennis
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219190&extension=ts
+
 #EXTINF:-1 tvg-id="The.Golf.Channel.HDTV.(GLFHD).us" tvg-logo="https://docdog.top/Logotv/countries//nbcgolfchannel.png",Golf Channel
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219169&extension=ts
+
 #EXTINF:-1 tvg-id="WWE.Network.us" tvg-logo="https://docdog.top/Logotv/countries//wwenetwork.png",WWE
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=765521&extension=ts
+
 #EXTINF:-1 tvg-id="World.Fishing.Network.(US).(WFN).us" tvg-logo="https://docdog.top/Logotv/countries//worldfishingnetwork.png",World Fishing Network
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219026&extension=ts
 
 
 
