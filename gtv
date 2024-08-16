@@ -127,10 +127,10 @@ http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=716933&extension
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=828094&extension=ts
 
 #EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/eurosport1.png",EuroSport 1
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=795208&extension=ts
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=795209&extension=ts
 
 #EXTINF:-1 tvg-id="Eurosport.2.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/eurosport2.png",Eurosport 2
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=795211&extension=ts
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=795212&extension=ts
 
 
 
@@ -201,6 +201,8 @@ http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219090&extension
 http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219070&extension=ts
 
 #EXTINF:-1 tvg-id="ATT.SportsNet.Pittsburgh.HDTV.(Pittsburgh.DMA).(ATTHD).us" tvg-logo="",ATT SportNet
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219122&extension=ts
+
 #EXTINF:-1 tvg-id="beIN.Sports.HDTV.(English).(beIn).us" tvg-logo="https://docdog.top/Logotv/countries//beinsports.png",beIN Sports
 http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219079&extension=ts
 
@@ -317,6 +319,89 @@ http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=765521&extension
 
 #EXTINF:-1 tvg-id="World.Fishing.Network.(US).(WFN).us" tvg-logo="https://docdog.top/Logotv/countries//worldfishingnetwork.png",World Fishing Network
 http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219026&extension=ts
+
+
+#EXTINF:-1 tvg-id="The.Sports.Network.HDTV.(TSNHD).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn1",TSN 1
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=765561&extension=ts
+
+#EXTINF:-1 tvg-id="The.Sports.Network.2.HDTV.(TSN2D).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn2.png",TSN 2
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=765562&extension=ts
+
+#EXTINF:-1 tvg-id="The.Sports.Network.3.HDTV.(TSN3HD).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn3.png",TSN 3
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=765563&extension=ts
+
+#EXTINF:-1 tvg-id="The.Sports.Network.4.HDTV.(TSN4H).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn4.png",TSN 4
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=765564&extension=ts
+
+#EXTINF:-1 tvg-id="The.Sports.Network.5.HDTV.(TSN5HD).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn5.png",TSN 5
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=765565&extension=ts
+
+
+#EXTINF:-1 tvg-id="TNT.Sports.1.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png",TNT Sport 1
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=795124&extension=ts
+
+#EXTINF:-1 tvg-id="TNT.Sports.2.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsports2vip.png",TNT Sport 2
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=795129&extension=ts
+
+#EXTINF:-1 tvg-id="TNT.Sports.3.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport3.png",TNT Sport 3
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=795134&extension=ts
+
+#EXTINF:-1 tvg-id="TNT.Sports.4.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",TNT Sport 4
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=795139&extension=ts
+
+#EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",TNT Sport 5
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=795141&extension=ts
+
+
+#EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsaction.png",Sky Sport Action
+#EXTINF:-1 tvg-id="SkySp.ArenaHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsarena.png",Sky Sport Arena
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=795121&extension=ts
+
+#EXTINF:-1 tvg-id="SkySpBoxOff.uk" tvg-logo="",SkySport Box Office
+#EXTINF:-1 tvg-id="SkySpCricket.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-sports-cricket-uk.png",Sky Sport Cricket
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=795117&extension=ts
+
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsf1.png",Sky Sport F1
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=795113&extension=ts
+
+#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsfootball.png",Sky Sport Football
+#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsfootball.png",Sky Sport Football
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=795109&extension=ts
+
+#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsgolf.png",Sky Sport Golf
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=795105&extension=ts
+
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsmainevent.png",Sky Sport Main Event
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=795101&extension=ts
+
+#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsmix.png",Sky Sport Mix
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=795097&extension=ts
+
+#EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/germany/sky-sport/sky-sport-news-alt-de.png",Sky Sport News
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=795093&extension=ts
+
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-sports-premier-league-uk.png",Sky Sport Primere League
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=795088&extension=ts
+
+#EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsracing.png",Sky Sport Racing
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=795084&extension=ts
+
+#EXTINF:-1 tvg-id="",Sky Sports Tennis
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=795080&extension=ts
+
+
+
+#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/abc-us.png",ABC 7
+#EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cbs-logo-white-us.png",CBS 2
+#EXTINF:-1 tvg-id="CW.(WUPV).Richmond,.VA.us" tvg-logo="https://docdog.top/Logotv/countries//cw.png",CW 11
+#EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png",FOX 5
+#EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries//nbcnewyork.png",NBC 4
+
+#EXTINF:-1 tvg-id="CTV.Calgary.HDTV.(CTVHC).ca" tvg-logo="https://docdog.top/Logotv/countries//ctvcalgary.png",CTV
+#EXTINF:-1 tvg-id="CTV.Two.Ottawa/CHRO.(CTV2O).ca" tvg-logo="https://docdog.top/Logotv/countries//ctv2ottawa.png",CTV2
+#EXTINF:-1 tvg-id="CTV.SCI-FI.Channel.HDTV.(SCIFIHD).ca" tvg-logo="https://docdog.top/Logotv/countries/canada/ctv-sci-fi-channel-ca.png",CTV SCI-FI
+
+
 
 
 
