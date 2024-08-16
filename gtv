@@ -392,16 +392,71 @@ http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=795080&extension
 
 
 #EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/abc-us.png",ABC 7
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219325&extension=ts
+
 #EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cbs-logo-white-us.png",CBS 2
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219334&extension=ts
+
 #EXTINF:-1 tvg-id="CW.(WUPV).Richmond,.VA.us" tvg-logo="https://docdog.top/Logotv/countries//cw.png",CW 11
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=218928&extension=ts
+
 #EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png",FOX 5
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219395&extension=ts
+
 #EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries//nbcnewyork.png",NBC 4
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219436&extension=ts
 
 #EXTINF:-1 tvg-id="CTV.Calgary.HDTV.(CTVHC).ca" tvg-logo="https://docdog.top/Logotv/countries//ctvcalgary.png",CTV
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=765408&extension=ts
+
 #EXTINF:-1 tvg-id="CTV.Two.Ottawa/CHRO.(CTV2O).ca" tvg-logo="https://docdog.top/Logotv/countries//ctv2ottawa.png",CTV2
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=765409&extension=ts
+
 #EXTINF:-1 tvg-id="CTV.SCI-FI.Channel.HDTV.(SCIFIHD).ca" tvg-logo="https://docdog.top/Logotv/countries/canada/ctv-sci-fi-channel-ca.png",CTV SCI-FI
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=765420&extension=ts
 
 
+#EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US001A&E-HD.png",A&E
+#EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/amc-us.png",AMC
+#EXTINF:-1 tvg-id="AMC+.us" tvg-logo="",AMC+
+#EXTINF:-1 tvg-id="American.Heroes.Channel.(AHC).us" tvg-logo="https://docdog.top/Logotv/countries//americanheroeschannel.png",American Heroes
+#EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/syfy-us.png",Syfy
+#EXTINF:-1 tvg-id="SYFY.HD.uk" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US072SYFY.png",SYFY (UK)
+#EXTINF:-1 tvg-id="AXSTV.HD.(AXSTV).us" tvg-logo="",AXS TV
+#EXTINF:-1 tvg-id="BBC.America.HDTV.(East).(BBC).us" tvg-logo="https://docdog.top/Logotv/countries/bbcamerica.png",BBC America
+#EXTINF:-1 tvg-id="Black.Entertainment.Television.HDTV.(East).(BET-HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/bet-us.png",BET
+#EXTINF:-1 tvg-id="BET.Her.HDTV.(BHERHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/bet-her-us.png",BET HER
+#EXTINF:-1 tvg-id="Bounce.TV.(Bounce).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/bounce-us.png",Bounce TV
+#EXTINF:-1 tvg-id="Bravo.HDTV.(East).(BRAVOD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/bravo-us.png",Bravo
+#EXTINF:-1 tvg-id="CMT.HDTV.(East).(CMTHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cmt-us.png",CMT
+#EXTINF:-1 tvg-id="Cine.Sony.Television.(CSONY).us" tvg-logo="https://docdog.top/Logotv/countries//cinesony.png",Cine Sony
+#EXTINF:-1 tvg-id="Comedy.Central.HDTV.(East).(CMDHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/comedy-central-us.png",Comedy Central
+#EXTINF:-1 tvg-id="Comet.TV.(COMET).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/comet-us.png",Comet
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.HDTV.(East).(E!.HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/e-entertainment-us.png",E!
+
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.Canada.HDTV.(E!).ca" tvg-logo="https://docdog.top/Logotv/countries/united-states/e-entertainment-us.png",E! (CA)
+
+#EXTINF:-1 tvg-id="Freeform.HDTV.(East).(FRFHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/freeform-us.png",Freeform
+#EXTINF:-1 tvg-id="FX.HDTV.(East).(FX.HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fx-us.png",FX
+#EXTINF:-1 tvg-id="FX.Movie.Channel.HDTV.(FXMHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fxm-movie-channel-us.png",FXM
+#EXTINF:-1 tvg-id="FXX.HDTV.(East).(FXXHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fxx-us.png",FXX
+#EXTINF:-1 tvg-id="Fuse.HDTV.(East).(FUSED).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fuse-us.png",Fuse
+#EXTINF:-1 tvg-id="IFC.HDTV.(East).(IFCHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/ifc-us.png",IFC
+#EXTINF:-1 tvg-id="ION.East.Cable/Dish.(ION).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/countrypic.png",ION
+#EXTINF:-1 tvg-id="Lifetime.Movies.HDTV.(East).(LIFEMOV).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/lifetime-us.png",Lifetime Movies
+#EXTINF:-1 tvg-id="Lifetime.Television.HDTV.(East).(LIFEH).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/lifetime-us.png",Lifetime Television
+#EXTINF:-1 tvg-id="MTV.HDTV.(East).(MTVHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/mtv-us.png",MTV
+#EXTINF:-1 tvg-id="MTV2.HDTV.(East).(MTV2HD).us" tvg-logo="https://docdog.top/Logotv/countries/uk/mtv.png",MTV2
+#EXTINF:-1 tvg-id="PixL.HDTV.(PixLHD).us" tvg-logo="",PixL
+#EXTINF:-1 tvg-id="ReelzChannel.HDTV.(REELZH).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/reelz-us.png",Reelz
+#EXTINF:-1 tvg-id="SundanceTV.HDTV.(East).(SUNHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/sundance-tv-us.png",SundanceTV
+#EXTINF:-1 tvg-id="TBS.Superstation.HDTV.(East).(TBSHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/tbs-us.png",TBS
+#EXTINF:-1 tvg-id="Turner.Network.Television.HDTV.(East).(TNTHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/tnt-us.png",TNT
+#EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/usa-us.png",USA Network
+#EXTINF:-1 tvg-id="USTV.(USTV).us" tvg-logo="",USTV
+#EXTINF:-1 tvg-id="truTV.HDTV.(East).(TruTVD).us" tvg-logo="",truTV
+#EXTINF:-1 tvg-id="TV.Land.(East).(TVLAND).us" tvg-logo="",TV Land
+#EXTINF:-1 tvg-id="TV.ONE.HDTV.(TVONEHD).us" tvg-logo="",TV ONE
 
 
 
