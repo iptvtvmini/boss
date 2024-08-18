@@ -306,26 +306,9 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487789&extension=ts
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487788&extension=ts
 
 
+
 #EXTINF:-1 tvg-id="" tvg-name="FR - CANAL+ SPORT FHD",CANAL+ SPORT
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=554013&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="FR - CANAl+ SPORT LDC FHD",CANAl+ SPORT LDC
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=629541&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="FR - CANAL+ LIGUE 1 FHD",CANAL+ LIGUE 1
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=554017&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="FR - CANAL+ TOP FHD",CANAL+ TOP
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=554014&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="FR - CANAL+ PL FHD",CANAL+ PL
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=554015&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="FR - CANAL+ FORMULA1 FHD",CANAL+ FORMULA 1
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=640337&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="FR - CANAL+ MOTOGP FHD",CANAL+ MOTOGP
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=554016&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-name="FR - CANAL+ SPORT 1",CANAL+ SPORT 1
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=901667&extension=ts
