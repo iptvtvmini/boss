@@ -308,10 +308,10 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487788&extension=ts
 
 
 #EXTINF:-1 tvg-id="",ABC
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=627030&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=627030&extension=m3u8
 
 #EXTINF:-1 tvg-id="",ABC SPARK
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=627029&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=627029&extension=m3u8
 
 #EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/abc-us.png",ABC 7
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=548879&extension=ts
@@ -323,26 +323,26 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=549522&extension=ts
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=551454&extension=ts
 
 #EXTINF:-1 tvg-id="",FOX
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626945&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626945&extension=m3u8
 
 #EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png",FOX 5
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=549764&extension=ts
 
 #EXTINF:-1 tvg-id="",NBC
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626915&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626915&extension=m3u8
 
 #EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries//nbcnewyork.png",NBC 4
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=550258&extension=ts
 
 
 #EXTINF:-1 tvg-id="CTV.Calgary.HDTV.(CTVHC).ca" tvg-logo="https://docdog.top/Logotv/countries//ctvcalgary.png",CTV
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626987&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626987&extension=m3u8
 
 #EXTINF:-1 tvg-id="CTV.Two.Ottawa/CHRO.(CTV2O).ca" tvg-logo="https://docdog.top/Logotv/countries//ctv2ottawa.png",CTV2
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626966&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626966&extension=m3u8
 
 #EXTINF:-1 tvg-id="CTV.SCI-FI.Channel.HDTV.(SCIFIHD).ca" tvg-logo="https://docdog.top/Logotv/countries/canada/ctv-sci-fi-channel-ca.png",CTV SCI-FI
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626836&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626836&extension=m3u8
 
 #EXTINF:-1 tvg-id="CTV.COMEDY.(East).Channel.HDTV.(CMDYHD).ca",CTV COMEDY
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=678233&extension=ts
@@ -386,7 +386,7 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469361&extension=ts
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469461&extension=ts
 
 #EXTINF:-1 tvg-id="E!.Entertainment.Television.HDTV.(East).(E!.HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/e-entertainment-us.png",E!
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469381&extension=m3u8
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469381&extension=ts
 
 #EXTINF:-1 tvg-id="E!.Entertainment.Television.Canada.HDTV.(E!).ca" tvg-logo="https://docdog.top/Logotv/countries/united-states/e-entertainment-us.png",E! (CA)
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626951&extension=ts
@@ -469,9 +469,6 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=552034&extension=ts
 
 #EXTINF:-1 tvg-id="SCRNPIX.ScreenPix.us" tvg-logo="https://docdog.top/Logotv/countries//dumisa.png",SCREENPIX
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=552033&extension=ts
-
-#EXTINF:-1 tvg-id="PixL.HDTV.(PixLHD).us" tvg-logo="https://docdog.top/Logotv/countries//dumisa.png",PIXL
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469419&extension=ts
 
 #EXTINF:-1 tvg-id="",Movie Network 1
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626881&extension=ts
