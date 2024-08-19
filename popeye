@@ -365,7 +365,11 @@ http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174979&exten
 #EXTINF:-1 tvg-id="WWE.Network.us" tvg-logo="https://docdog.top/Logotv/countries//wwenetwork.png",WWE
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=175006&extension=ts
 
+#EXTINF:-1 tvg-id="WWE.Network.us" tvg-logo="https://docdog.top/Logotv/countries//wwenetwork.png",WWE Live
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=164032&extension=ts
 
+#EXTINF:-1 tvg-id="",WWE NETFLIX
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1414083&extension=ts
 
 
 #EXTINF:-1 tvg-id="The.Sports.Network.HDTV.(TSNHD).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn1",TSN 1
