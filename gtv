@@ -349,6 +349,9 @@ http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219169&extension
 #EXTINF:-1 tvg-id="WWE.Network.us" tvg-logo="https://docdog.top/Logotv/countries//wwenetwork.png",WWE
 http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=765521&extension=ts
 
+#EXTINF:-1 tvg-id="WWE.Network.us" tvg-logo="https://docdog.top/Logotv/countries//wwenetwork.png",WWE Sportnet
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=765521&extension=ts
+
 #EXTINF:-1 tvg-id="World.Fishing.Network.(US).(WFN).us" tvg-logo="https://docdog.top/Logotv/countries//worldfishingnetwork.png",World Fishing Network
 http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219026&extension=ts
 
