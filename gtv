@@ -108,6 +108,38 @@ http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=765457&extension
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
 
 
+#EXTINF:-1 tvg-id="Boomerang.(BOOM).us" tvg-logo="https://docdog.top/Logotv/countries//boomerang.png",Boomerang
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219055&extension=ts
+
+#EXTINF:-1 tvg-id="Cartoon.Network.HDTV.(East).(TOONHD).us" tvg-logo="https://docdog.top/Logotv/countries/uk/cartoonnetwork.png",Cartoon Network
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219056&extension=ts
+
+#EXTINF:-1 tvg-id="Disney.Junior.HDTV.East.(DISJr).us" tvg-logo="https://docdog.top/Logotv/countries//disneyjuniorpacific.png",Disney Junior
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=263472&extension=ts
+
+#EXTINF:-1 tvg-id="Disney.XD.(East).(DISXD).us" tvg-logo="https://docdog.top/Logotv/countries//disneyxd.png",Disney XD
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=263477&extension=ts
+
+#EXTINF:-1 tvg-id="Nickelodeon.HDTV.(East).(NICHD).us" tvg-logo="https://docdog.top/Logotv/countries//nickelodeon.png",Nickelodeon
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219064&extension=ts
+
+#EXTINF:-1 tvg-id="Nick.Jr..(NicJr).us" tvg-logo="https://docdog.top/Logotv/countries//nickjr.png",Nick Jr
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219063&extension=ts
+
+#EXTINF:-1 tvg-id="Nicktoons.Network.(East).(NICKTOON).us" tvg-logo="https://docdog.top/Logotv/countries//nicktoons.png",Nicktoons
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219065&extension=ts
+
+#EXTINF:-1 tvg-id="TeenNick.(East).(TNCK).us" tvg-logo="https://docdog.top/Logotv/countries//teennick.png",TeenNick
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219067&extension=ts
+
+#EXTINF:-1 tvg-id="The.Disney.Channel.HDTV.(East).(DISHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/disney-channel-us.png",Disney Channel
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=263470&extension=ts
+
+#EXTINF:-1 tvg-id="PBS.(WNET).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries//pbskids.png",PBS
+http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219066&extension=ts
+
+
+
 #EXTINF:-1 tvg-id="TVSUKAN" tvg-name="Sukan RTM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/58_144.png" group-title="",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/index.m3u8?id=4
 
