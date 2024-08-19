@@ -118,6 +118,37 @@ http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=571252&exten
 #EXTINF:-1 tvg-id="Celestial.Classic.Movies.my" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="",CCM
 
 
+#EXTINF:-1 tvg-id="Boomerang.(BOOM).us" tvg-logo="https://docdog.top/Logotv/countries//boomerang.png",Boomerang
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174569&extension=ts
+
+#EXTINF:-1 tvg-id="Cartoon.Network.HDTV.(East).(TOONHD).us" tvg-logo="https://docdog.top/Logotv/countries/uk/cartoonnetwork.png",Cartoon Network
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174576&extension=ts
+
+#EXTINF:-1 tvg-id="Disney.Junior.HDTV.East.(DISJr).us" tvg-logo="https://docdog.top/Logotv/countries//disneyjuniorpacific.png",Disney Junior
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174630&extension=ts
+
+#EXTINF:-1 tvg-id="Disney.XD.(East).(DISXD).us" tvg-logo="https://docdog.top/Logotv/countries//disneyxd.png",Disney XD
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174632&extension=ts
+
+#EXTINF:-1 tvg-id="Nickelodeon.HDTV.(East).(NICHD).us" tvg-logo="https://docdog.top/Logotv/countries//nickelodeon.png",Nickelodeon
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174891&extension=ts
+
+#EXTINF:-1 tvg-id="Nick.Jr..(NicJr).us" tvg-logo="https://docdog.top/Logotv/countries//nickjr.png",Nick Jr
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174893&extension=ts
+
+#EXTINF:-1 tvg-id="Nicktoons.Network.(East).(NICKTOON).us" tvg-logo="https://docdog.top/Logotv/countries//nicktoons.png",Nicktoons
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174894&extension=ts
+
+#EXTINF:-1 tvg-id="TeenNick.(East).(TNCK).us" tvg-logo="https://docdog.top/Logotv/countries//teennick.png",TeenNick
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174978&extension=ts
+
+#EXTINF:-1 tvg-id="The.Disney.Channel.HDTV.(East).(DISHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/disney-channel-us.png",Disney Channel
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174628&extension=ts
+
+#EXTINF:-1 tvg-id="PBS.(WNET).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries//pbskids.png",PBS
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174912&extension=ts
+
+
 #EXTINF:-1 tvg-id="TVSUKAN" tvg-name="Sukan RTM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/58_144.png" group-title="",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/index.m3u8?id=4
 
