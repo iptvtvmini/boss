@@ -287,10 +287,13 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=714209&extension=ts
 #EXTINF:-1 tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" tvg-name="Tennis Channel HDTV (TNNSHD)" tvg-logo="https://docdog.top/Logotv/countries//tennischannel.png" group-title="",Tennis
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487689&extension=ts
 
+#EXTINF:-1 tvg-id="WWE.Network.us" tvg-name="WWE Network" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png" group-title="",WWE SportNet
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=708830&extension=ts
+
 #EXTINF:-1 tvg-id="WWE.Network.us" tvg-name="WWE Network" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png" group-title="",WWE
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487679&extension=ts
 
-#EXTINF:-1 tvg-id="",WWE LIVE
+#EXTINF:-1 tvg-id="WWE.Network.us" tvg-name="WWE Network" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png" group-title="",WWE LIVE
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577949&extension=ts
 
 #EXTINF:-1 tvg-id="World.Fishing.Network.(US).(WFN).us" tvg-logo="https://docdog.top/Logotv/countries//worldfishingnetwork.png",World Fishing Network
