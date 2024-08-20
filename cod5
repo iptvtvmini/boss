@@ -394,27 +394,9 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626915&extension=m3
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=550258&extension=ts
 
 
-#EXTINF:-1 tvg-id="CTV.Calgary.HDTV.(CTVHC).ca" tvg-logo="https://docdog.top/Logotv/countries//ctvcalgary.png",CTV
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626987&extension=m3u8
-
-#EXTINF:-1 tvg-id="CTV.Two.Ottawa/CHRO.(CTV2O).ca" tvg-logo="https://docdog.top/Logotv/countries//ctv2ottawa.png",CTV2
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626966&extension=m3u8
-
-#EXTINF:-1 tvg-id="CTV.SCI-FI.Channel.HDTV.(SCIFIHD).ca" tvg-logo="https://docdog.top/Logotv/countries/canada/ctv-sci-fi-channel-ca.png",CTV SCI-FI
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626836&extension=m3u8
-
-#EXTINF:-1 tvg-id="CTV.COMEDY.(East).Channel.HDTV.(CMDYHD).ca",CTV COMEDY
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=678233&extension=ts
-
-#EXTINF:-1 tvg-id="CTV.DRAMA.Channel.HDTV.(DRMHD).ca" ,CTV DRAMA
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626995&extension=ts
-
 
 #EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-name="A and E Network HDTV (A and EHD)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US001A&E-HD.png" group-title="",A&E
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469345&extension=m3u8
-
-#EXTINF:-1 tvg-id="ABC.Spark.HDTV.(HABCS).ca",ABC SPARK
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=627029&extension=m3u8
 
 #EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-name="AMC HDTV (East) (AMCHD)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US006AMC-HD.png" group-title="",AMC
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469346&extension=m3u8
@@ -522,8 +504,65 @@ http://supersonictv.live:8080/live/Derrick/Hitman50$/22159.m3u8
 #EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/usa-us.png",USA Network
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469444&extension=m3u8
 
+
+
+#EXTINF:-1 tvg-id="ABC.Spark.HDTV.(HABCS).ca",ABC SPARK
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=627029&extension=m3u8
+
+#EXTINF:-1 tvg-id="CHCH.HDTV.(CHCHH).ca",CHCH
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=627008&extension=ts
+
+#EXTINF:-1 tvg-id="CTV.Calgary.HDTV.(CTVHC).ca" tvg-logo="https://docdog.top/Logotv/countries//ctvcalgary.png",CTV
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626987&extension=m3u8
+
+#EXTINF:-1 tvg-id="CTV.Two.Ottawa/CHRO.(CTV2O).ca" tvg-logo="https://docdog.top/Logotv/countries//ctv2ottawa.png",CTV2
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626966&extension=m3u8
+
+#EXTINF:-1 tvg-id="CTV.SCI-FI.Channel.HDTV.(SCIFIHD).ca" tvg-logo="https://docdog.top/Logotv/countries/canada/ctv-sci-fi-channel-ca.png",CTV SCI-FI
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626836&extension=m3u8
+
+#EXTINF:-1 tvg-id="CTV.COMEDY.(East).Channel.HDTV.(CMDYHD).ca",CTV COMEDY
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=678233&extension=ts
+
+#EXTINF:-1 tvg-id="CTV.DRAMA.Channel.HDTV.(DRMHD).ca" ,CTV DRAMA
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626995&extension=ts
+
+#EXTINF:-1 tvg-id="The.Family.Channel.HDTV.(East).(FAMHD).ca",FAMILY
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626949&extension=ts
+
+#EXTINF:-1 tvg-id="Family.Jr..(SD).(FAMJR).ca",FAMILY JR
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626948&extension=ts
+
+#EXTINF:-1 tvg-id="One.TV.(ONE).ca",ONE
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626907&extension=ts
+
+#EXTINF:-1 tvg-id="Out.TV.(OUTtv).ca",OUT TV
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626906&extension=ts
+
+#EXTINF:-1 tvg-id="REV.TV.HDTV.(Canada).(REVHD).ca",REV TV
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=846118&extension=ts
+
+#EXTINF:-1 tvg-id="Silver.Screen.Classics.(SSC.SD).ca",SILVER SCREEN CLASSICS
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626900&extension=ts
+
+#EXTINF:-1 tvg-id="Slice.TV.HDTV.(SLICE).ca",SLICE
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626899&extension=ts
+
+#EXTINF:-1 tvg-id="Vision.TV.Canada.HDTV.(VISNHD).ca",VISION
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626870&extension=ts
+
+#EXTINF:-1 tvg-id="WGN9.Chicago.(WGN9).ca",WGN
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626867&extension=ts
+
+#EXTINF:-1 tvg-id="WILD.Television.Network.(WILDTN).ca",Wild TV
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626866&extension=ts
+
 #EXTINF:-1 tvg-id="W.Network.HDTV.(East).(W.HD).ca",W NETWORK
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626869&extension=m3u8
+
+#EXTINF:-1 tvg-id="YTV.HDTV.(YTVHD).ca",YTV
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626863&extension=ts
+
 
 
 #EXTINF:-1 tvg-id="HDNet.Movies.(HDNTM).us" tvg-logo="https://docdog.top/Logotv/countries//hdnetmovies.png",HDNET MOVIES
