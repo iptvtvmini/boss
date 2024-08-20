@@ -750,6 +750,15 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626996&extension=ts
 #EXTINF:-1 tvg-id="ID.uk" tvg-logo="https://docdog.top/Logotv/countries/united-states/crime-and-investigation-us.png",INVESTIGATION DISCOVERY
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577901&extension=ts
 
+#EXTINF:-1 tvg-id="ID+1.uk",ID +1
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577494&extension=ts
+
+#EXTINF:-1 tvg-id="CBS.Reality.uk",CBS REALITY
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577483&extension=ts
+
+#EXTINF:-1 tvg-id="CBS.Reality+1.uk",CBS REALITY +1
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577482&extension=ts
+
 #EXTINF:-1 tvg-id="History.HDTV.(East).(HISHD).us" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/144_144.png",History
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469394&extension=m3u8
 
@@ -774,7 +783,11 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469436&extension=ts
 #EXTINF:-1 tvg-id="Food.Network.uk" tvg-logo="https://docdog.top/Logotv/countries/united-states/food-network-us.png",FOOD NETWORK
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577206&extension=ts
 
+#EXTINF:-1 tvg-id="DMAX.uk",DMAX
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577479&extension=ts
 
+#EXTINF:-1 tvg-id="DMAX+1.uk",DMAX +1
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577478&extension=ts
 
 
 #EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbcone.png",BBC 1
@@ -807,6 +820,9 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577258&extension=ts
 #EXTINF:-1 tvg-id="Channel.4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/channel4.png",Channel 4
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577257&extension=ts
 
+#EXTINF:-1 tvg-id="Dave.HD.uk",DAVE
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577480&extension=ts
+
 #EXTINF:-1 tvg-id="E4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/e4.png",E4
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577255&extension=ts
 
@@ -822,15 +838,29 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577359&extension=ts
 #EXTINF:-1 tvg-id="Channel.5.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/channel5.png",Channel 5
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577256&extension=ts
 
+#EXTINF:-1 tvg-id="Channel.5+1.uk",CHANNEL 5 +1
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577198&extension=ts
+
 #EXTINF:-1 tvg-id="5SELECT.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/5select.png",5 Select
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577501&extension=ts
 
 #EXTINF:-1 tvg-id="5STAR.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/5star.png",5 Star
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577500&extension=ts
 
+#EXTINF:-1 tvg-id="5STAR+1.uk",5 STAR+1
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577499&extension=ts
+
 #EXTINF:-1 tvg-id="5.USA.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/usa.png",5USA
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577498&extension=ts
 
+#EXTINF:-1 tvg-id="5USA+1.uk",5 USA +1
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577497&extension=ts
+
+#EXTINF:-1 tvg-id="Eden.uk",EDEN
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577475&extension=ts
+
+#EXTINF:-1 tvg-id="Eden+1.uk",EDEN +1
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577474&extension=ts
 
 
 
