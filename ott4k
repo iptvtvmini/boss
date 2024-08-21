@@ -503,26 +503,7 @@ http://cord-cutter.net:8080/live/95549031/69361122/120897.ts
 
 
 
-#EXTINF:-1 tvg-id="ABC.Spark.HDTV.(HABCS).ca",ABC Spark
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=627029&extension=ts
 
-#EXTINF:-1 tvg-id="CTV.Calgary.HDTV.(CTVHC).ca" tvg-logo="https://docdog.top/Logotv/countries//ctvcalgary.png",CTV
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626987&extension=ts
-
-#EXTINF:-1 tvg-id="CTV.Two.Ottawa/CHRO.(CTV2O).ca" tvg-logo="https://docdog.top/Logotv/countries//ctv2ottawa.png",CTV2
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626966&extension=ts
-
-#EXTINF:-1 tvg-id="CTV.SCI-FI.Channel.HDTV.(SCIFIHD).ca" tvg-logo="https://docdog.top/Logotv/countries/canada/ctv-sci-fi-channel-ca.png",CTV SCI-FI
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626898&extension=ts
-
-#EXTINF:-1 tvg-id="CTV.COMEDY.(East).Channel.HDTV.(CMDYHD).ca" tvg-logo="",CTV Comedy
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=678233&extension=ts
-
-#EXTINF:-1 tvg-id="CTV.DRAMA.Channel.HDTV.(DRMHD).ca" tvg-logo="",CTV Drama
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626995&extension=ts
-
-#EXTINF:-1 tvg-id="Citytv.Calgary.HDTV.(CTYCH).ca",CITY TV
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=1003473&extension=ts
 
 
 
@@ -609,6 +590,139 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=469433&extension=t
 
 #EXTINF:-1 tvg-id="Turner.Network.Television.HDTV.(East).(TNTHD).us" tvg-name="Turner Network Television HDTV (East) (TNTHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/tnt-us.png" group-title="",TNT
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=681775&extension=ts
+
+
+
+#EXTINF:-1 tvg-id="ABC.Spark.HDTV.(HABCS).ca",ABC Spark
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=627029&extension=ts
+
+#EXTINF:-1 tvg-id="CTV.Calgary.HDTV.(CTVHC).ca" tvg-logo="https://docdog.top/Logotv/countries//ctvcalgary.png",CTV
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626987&extension=ts
+
+#EXTINF:-1 tvg-id="CTV.Two.Ottawa/CHRO.(CTV2O).ca" tvg-logo="https://docdog.top/Logotv/countries//ctv2ottawa.png",CTV2
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626966&extension=ts
+
+#EXTINF:-1 tvg-id="CTV.SCI-FI.Channel.HDTV.(SCIFIHD).ca" tvg-logo="https://docdog.top/Logotv/countries/canada/ctv-sci-fi-channel-ca.png",CTV SCI-FI
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626898&extension=ts
+
+#EXTINF:-1 tvg-id="CTV.COMEDY.(East).Channel.HDTV.(CMDYHD).ca" tvg-logo="",CTV Comedy
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=678233&extension=ts
+
+#EXTINF:-1 tvg-id="CTV.DRAMA.Channel.HDTV.(DRMHD).ca" tvg-logo="",CTV Drama
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626995&extension=ts
+
+#EXTINF:-1 tvg-id="CTV.LIFE.Channel.HDTV.(LIFEHD).ca",CTV Life
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626974&extension=ts
+
+#EXTINF:-1 tvg-id="Citytv.Calgary.HDTV.(CTYCH).ca",CITY TV
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=1003473&extension=ts
+
+#EXTINF:-1 tvg-id="CHCH.HDTV.(CHCHH).ca",CHCH
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=627008&extension=ts
+
+#EXTINF:-1 tvg-id="Cottage.Life.(COTT).ca",COTTAGE LIFE
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626999&extension=ts
+
+#EXTINF:-1 tvg-id="The.Family.Channel.HDTV.(East).(FAMHD).ca",FAMILY
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626949&extension=ts
+
+#EXTINF:-1 tvg-id="Family.Jr..(SD).(FAMJR).ca",FAMILY JR
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626948&extension=ts
+
+#EXTINF:-1 tvg-id="",FOX
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626945&extension=ts
+
+#EXTINF:-1 tvg-id="Investigation.Discovery.(Canada).HDTV.(ID).ca",ID CANADA
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626927&extension=ts
+
+#EXTINF:-1 tvg-id="Lifetime.Canada.HDTV.(LIFETIME).ca",LIFETIME
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626926&extension=ts
+
+#EXTINF:-1 tvg-id="Makeful.(MAKFL).ca",MAKEFUL
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626925&extension=ts
+
+#EXTINF:-1 tvg-id="MovieTime.HDTV.(MTMHD).ca",MOVIE TIME
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626922&extension=ts
+
+#EXTINF:-1 tvg-id="National.Geographic.Canada.HDTV.(NGCHD).ca",NAT GEO
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626918&extension=ts
+
+#EXTINF:-1 tvg-id="Newfoundland.Television.HDTV.(NTVHD).ca",NTV
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626911&extension=ts
+
+#EXTINF:-1 tvg-id="Outdoor.Life.Canada.HDTV.(OLNHD).ca",OLN
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626910&extension=ts
+
+#EXTINF:-1 tvg-id="Omni.1.HDTV.(OMNI1HD).ca",OMNI 1
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626909&extension=ts
+
+#EXTINF:-1 tvg-id="Omni2.HDTV.(OMNI2HD).ca",OMNI 2
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626908&extension=ts
+
+#EXTINF:-1 tvg-id="One.TV.(ONE).ca",ONE
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626907&extension=ts
+
+#EXTINF:-1 tvg-id="Out.TV.(OUTtv).ca",OUTTV
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626906&extension=ts
+
+#EXTINF:-1 tvg-id="The.Oprah.Winfrey.Network.Canada.HDTV.(OWN).ca",OWN
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626905&extension=ts
+
+#EXTINF:-1 tvg-id="REV.TV.HDTV.(Canada).(REVHD).ca",REV
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=846118&extension=ts
+
+#EXTINF:-1 tvg-id="",PBS
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626904&extension=ts
+
+#EXTINF:-1 tvg-id="Silver.Screen.Classics.(SSC.SD).ca",SILVER SCREEN CLASSICS
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626900&extension=ts
+
+#EXTINF:-1 tvg-id="Slice.TV.HDTV.(SLICE).ca",SLICE
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626899&extension=ts
+
+#EXTINF:-1 tvg-id="Super.Channel.Fuse.(Canada).HDTV.(SCHDF).ca",SUPER CHANNEL FUSE
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626890&extension=ts
+
+#EXTINF:-1 tvg-id="Super.Channel.Heart.and.Home.(Canada).HDTV.(SCHDH).ca",SUPER CHANNEL HEART & HOME
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626889&extension=ts
+
+#EXTINF:-1 tvg-id="Super.Channel.Vault.HDTV.(SCHDV).ca",SUPER CHANNEL VAULT
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626888&extension=ts
+
+
+#EXTINF:-1 tvg-id="Crave.1.HDTV.(East).(CRV1H).ca",CRAVE 1
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626859&extension=ts
+
+#EXTINF:-1 tvg-id="Crave.2.HDTV.(East).(CRV2H).ca",CRAVE 2
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626858&extension=ts
+
+#EXTINF:-1 tvg-id="Crave.3.HDTV.(East).(CRV3H).ca",CRAVE 3
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626857&extension=ts
+
+#EXTINF:-1 tvg-id="Crave.4.(East).(CRVM4).ca",CRAVE 4
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626856&extension=ts
+
+
+#EXTINF:-1 tvg-id="",TREEHOUSE
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626877&extension=ts
+
+#EXTINF:-1 tvg-id="Vision.TV.Canada.HDTV.(VISNHD).ca",VISION
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626870&extension=ts
+
+#EXTINF:-1 tvg-id="W.Network.HDTV.(East).(W.HD).ca",W NETWORK
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626869&extension=ts
+
+#EXTINF:-1 tvg-id="WGN9.Chicago.(WGN9).ca",WGN
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626867&extension=ts
+
+#EXTINF:-1 tvg-id="YES.TV.(YESTV).ca",YES TV
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626864&extension=ts
+
+#EXTINF:-1 tvg-id="YTV.HDTV.(YTVHD).ca",YTV
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626863&extension=ts
+
+
+
 
 
 #EXTINF:-1,Action Hollywood Movies
