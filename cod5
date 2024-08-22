@@ -527,6 +527,9 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=678233&extension=m3
 #EXTINF:-1 tvg-id="CTV.DRAMA.Channel.HDTV.(DRMHD).ca" ,CTV DRAMA
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626995&extension=m3u8
 
+#EXTINF:-1 tvg-id="Citytv.Calgary.HDTV.(CTYCH).ca",CITY TV
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=1003473&extension=m3u8
+
 #EXTINF:-1 tvg-id="The.Family.Channel.HDTV.(East).(FAMHD).ca",FAMILY
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626949&extension=m3u8
 
