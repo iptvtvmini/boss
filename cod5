@@ -63,14 +63,67 @@ https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 #EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="",CNN INA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
 
+#EXTINF:-1 tvg-id="",ABC NEWS LIVE
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=551995&extension=m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/aljazeera.png",AlJazeera
 https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1 tvg-id="",AL JAZEERA ENGLISH
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469293&extension=m3u8
+
+#EXTINF:-1 tvg-id="",BBC WORLD NEWS
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=551984&extension=m3u8
+
+#EXTINF:-1 tvg-id="",CBS NEWS
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=551996&extension=m3u8
+
+#EXTINF:-1 tvg-id="",CNBC
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=551993&extension=m3u8
+
+#EXTINF:-1 tvg-id="",CNBC WORLD
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=551992&extension=m3u8
+
+#EXTINF:-1 tvg-id="",CNN
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=552000&extension=m3u8
+
+#EXTINF:-1 tvg-id="",CNN INTERNATIONAL
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=551998&extension=m3u8
+
+#EXTINF:-1 tvg-id="",DW
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469315&extension=m3u8
+
+#EXTINF:-1 tvg-id="",EURONEWS
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=551987&extension=m3u8
+
+#EXTINF:-1 tvg-id="",FOX NEWS
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=551988&extension=m3u8
+
+#EXTINF:-1 tvg-id="",FRANCE 24
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469321&extension=m3u8
+
+#EXTINF:-1 tvg-id="",MSNBC
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=551986&extension=m3u8
+
+#EXTINF:-1 tvg-id="",NEWS 12 THE BRONX
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=551974&extension=m3u8
+
+#EXTINF:-1 tvg-id="",NEWSMAX TV
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=551775&extension=m3u8
+
+#EXTINF:-1 tvg-id="",ONE AMERICA NEWS
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=551970&extension=m3u8
+
+#EXTINF:-1 tvg-id="",RT AMERICA
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=551985&extension=m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/rtenews.png",RT News
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="",Wion
 https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8
+
+
 
 #EXTINF:-1 tvg-id="Game.Show.Network.HDTV.(EAST).(GMSHWHD).us" tvg-name="Game Show Network HDTV (EAST) (GMSHWHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/game-show-network-us.png" group-title="",Game Show Network
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
