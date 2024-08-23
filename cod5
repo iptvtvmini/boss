@@ -811,7 +811,7 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577371&extension=ts
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577354&extension=ts
 
 #EXTINF:-1 tvg-id="Sky.Family.HD.uk" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Family.png",Sky Family
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577353&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577368&extension=ts
 
 #EXTINF:-1 tvg-id="Sky.Greats.HD.uk" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Greats.png",Sky Greats
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577382&extension=ts
