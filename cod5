@@ -822,6 +822,9 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577366&extension=ts
 #EXTINF:-1 tvg-id="SkyPremiereHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemapremiere.png",Sky Premiere
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577379&extension=ts
 
+#EXTINF:-1 tvg-id="Sky.Cinema.Select.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaselect.png",Sky Cinema Select
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577377&extension=ts
+
 #EXTINF:-1 tvg-id="Sky.ScFi/HorHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemasci.png",Sky Cinema ScFi
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577349&extension=ts
 
