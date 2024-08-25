@@ -539,6 +539,18 @@ http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=765425&extension
 http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=765420&extension=ts
 
 
+#EXTINF:-1 tvg-id="Crave.1.(East).(CRVM1).ca",CRAVE 1
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=191809&extension=ts
+
+#EXTINF:-1 tvg-id="Crave.2.(East).(CRVM2).ca",CRAVE 2
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=191808&extension=ts
+
+#EXTINF:-1 tvg-id="Crave.3.(East).(CRVM3).ca",CRAVE 3
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=191807&extension=ts
+
+#EXTINF:-1 tvg-id="Crave.4.(East).(CRVM4).ca",CRAVE 4
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=191806&extension=ts
+
 
 
 #EXTINF:-1 tvg-id="MGM+.HDTV.(East).(MGM+HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-us.png",Epix
