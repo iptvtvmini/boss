@@ -73,6 +73,7 @@ http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/197055.ts
 
 #EXTINF:-1 tvg-id="HBO.Signature.HD.id" tvg-logo="",HBO Signature
 http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/221948.ts
+
 #EXTINF:-1 tvg-id="",CNBC
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=551993&extension=m3u8
 
@@ -131,36 +132,38 @@ https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6
 
 
 #EXTINF:-1 tvg-id="Boomerang.(BOOM).us" tvg-logo="https://docdog.top/Logotv/countries//boomerang.png",Boomerang
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=479211&extension=m3u8
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/2281.ts
 
 #EXTINF:-1 tvg-id="Cartoon.Network.HDTV.(East).(TOONHD).us" tvg-logo="https://docdog.top/Logotv/countries/uk/cartoonnetwork.png",Cartoon Network
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=479212&extension=m3u8
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/2286.ts
 
 #EXTINF:-1 tvg-id="Disney.Junior.HDTV.East.(DISJr).us" tvg-logo="https://docdog.top/Logotv/countries//disneyjuniorpacific.png",Disney Junior
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=479219&extension=m3u8
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/8608.ts
 
 #EXTINF:-1 tvg-id="Disney.XD.(East).(DISXD).us" tvg-logo="https://docdog.top/Logotv/countries//disneyxd.png",Disney XD
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=479220&extension=m3u8
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/6395.ts
 
 #EXTINF:-1 tvg-id="Nickelodeon.HDTV.(East).(NICHD).us" tvg-logo="https://docdog.top/Logotv/countries//nickelodeon.png",Nickelodeon
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=479229&extension=m3u8
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/764.ts
 
 #EXTINF:-1 tvg-id="Nick.Jr..(NicJr).us" tvg-logo="https://docdog.top/Logotv/countries//nickjr.png",Nick Jr
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=479230&extension=m3u8
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/14835.ts
 
 #EXTINF:-1 tvg-id="Nicktoons.Network.(East).(NICKTOON).us" tvg-logo="https://docdog.top/Logotv/countries//nicktoons.png",Nicktoons
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577391&extension=ts
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/2351.ts
 
 #EXTINF:-1 tvg-id="TeenNick.(East).(TNCK).us" tvg-logo="https://docdog.top/Logotv/countries//teennick.png",TeenNick
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=479234&extension=m3u8
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/15058.ts
 
 #EXTINF:-1 tvg-id="The.Disney.Channel.HDTV.(East).(DISHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/disney-channel-us.png",Disney Channel
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=479217&extension=m3u8
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/2303.ts
 
 #EXTINF:-1 tvg-id="PBS.(WNET).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries//pbskids.png",PBS
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/14837.ts
 
 #EXTINF:-1 tvg-id="Universal.Kids.HDTV.(SPROUTHD).us",UNIVERSAL KIDS
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=479236&extension=m3u8
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/6399.ts
+
 
 
 
@@ -171,16 +174,275 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/index.m3u8?id=4
 http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/157485.ts
 
 #EXTINF:-1 tvg-id="Astro.SuperSport.HD.my" tvg-name="Astro SuperSport HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="",Astro SuperSport 1
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=828098&extension=ts
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/146068.ts
 
 #EXTINF:-1 tvg-id="Astro.SuperSport.2.HD.my" tvg-name="Astro SuperSport 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="",Astro SuperSport 2
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=828097&extension=ts
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/157556.ts
 
 #EXTINF:-1 tvg-id="Astro.SuperSport.3.HD.my" tvg-name="Astro SuperSport 3 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="",Astro SuperSport 3
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=828096&extension=ts
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/157557.ts
 
 #EXTINF:-1 tvg-id="Astro.SuperSport.4.HD.my" tvg-name="Astro SuperSport 4 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="",Astro SuperSport 4
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=828095&extension=ts
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/157558.ts
 
 #EXTINF:-1 tvg-id="Astro.Supersport.5.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="",W Sport
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=828094&extension=ts
+
+
+#EXTINF:-1 tvg-id="SPOTV.HD.id" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/456_144.png",SPOTV
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/165105.ts
+
+#EXTINF:-1 tvg-id="SPOTV.2.HD.id" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/456_144.png",SPOTV 2
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/298506.ts
+
+#EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/eurosport1.png",EuroSport 1
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/692.ts
+
+#EXTINF:-1 tvg-id="Eurosport.2.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/eurosport2.png",Eurosport 2
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/1555.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportlaliga.png",SuperSports Priemier League
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/11642.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportlaliga.png",SuperSports LA LIGA
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/194358.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportfootball.png",SuperSports FOOTBALL
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/38575.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety1.png",SuperSports VARIETY 1
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/11633.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety2.png",SuperSports VARIETY 2
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/11634.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety3.png",SuperSports VARIETY 3
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/11635.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety4.png",SuperSports VARIETY 4
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/11636.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportaction.png",SuperSports ACTION
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/194354.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportaction.png",SuperSports BLITZ
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/281536.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportcricket.png",SuperSports CRICKET
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/11637.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportgolf.png",SuperSports GOLF
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/11641.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportgrandstand.png",SuperSports GRANDSTAND
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/194353.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//supersportmaximo1.png",SuperSports MAXIMO
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/38572.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportmotorsport.png",SuperSports MOTORSPORT
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/11638.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportaction.png",SuperSports PLAY 1
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/201121.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportaction.png",SuperSports PLAY 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportpsl.png",SuperSports PSL
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/11643.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportrugby.png",SuperSports RUGBY
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/11639.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//supersporttennis.png",SuperSports TENNIS
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/15200.ts
+
+
+#EXTINF:-1 tvg-id="ESPN.HDTV.(Dish).(ESPNHD).us" tvg-logo="https://docdog.top/Logotv/countries//espn1.png",ESPN
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/747.ts
+
+#EXTINF:-1 tvg-id="ESPN2.HDTV.(Dish).(ESPN2HD).us" tvg-logo="https://docdog.top/Logotv/countries//espn2.png",ESPN 2
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/41918.ts
+
+#EXTINF:-1 tvg-id="ESPN3.HDTV.(Dish).(ESPN2HD).us" tvg-logo="https://docdog.top/Logotv/countries//espn2.png",ESPN 3
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/14816.ts
+
+#EXTINF:-1 tvg-id="ESPNU.HDTV.(ESPNUHD).us" tvg-logo="https://docdog.top/Logotv/countries//espnu.png",ESPN U
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/2311.ts
+
+
+#EXTINF:-1 tvg-id="Fox.Sports.1.HDTV.(FS1HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-sports-1-us.png",Fox Sports 1
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/300620.ts
+
+#EXTINF:-1 tvg-id="Fox.Sports.2.HDTV.(FS2HD).us" tvg-logo="https://docdog.top/Logotv/countries//foxsport2.png",Fox Sports 2
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/300621.ts
+
+#EXTINF:-1 tvg-id="Fox.Soccer.Plus.(FSPLUS).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png",Fox Soccer Plus
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/2314.ts
+
+#EXTINF:-1 tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" tvg-logo="https://docdog.top/Logotv/countries//tennischannel.png",Tennis
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/2275.ts
+
+#EXTINF:-1 tvg-id="The.Golf.Channel.HDTV.(GLFHD).us" tvg-logo="https://docdog.top/Logotv/countries//nbcgolfchannel.png",Golf Channel
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/5845.ts
+
+#EXTINF:-1 tvg-id="WWE.Network.us" tvg-logo="https://docdog.top/Logotv/countries//wwenetwork.png",WWE
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/2373.ts
+
+#EXTINF:-1 tvg-id="World.Fishing.Network.(US).(WFN).us" tvg-logo="https://docdog.top/Logotv/countries//worldfishingnetwork.png",World Fishing Network
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/12983.ts
+
+
+#EXTINF:-1 tvg-id="TNT.Sports.1.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png",TNT Sport 1
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/270.ts
+
+#EXTINF:-1 tvg-id="TNT.Sports.2.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsports2vip.png",TNT Sport 2
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/273.ts
+
+#EXTINF:-1 tvg-id="TNT.Sports.3.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport3.png",TNT Sport 3
+#EXTINF:-1 tvg-id="TNT.Sports.4.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",TNT Sport 4
+#EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",TNT Sport 5
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/1124.ts
+
+
+#EXTINF:-1 tvg-id="The.Sports.Network.HDTV.(TSNHD).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn1",TSN 1
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/770.ts
+
+#EXTINF:-1 tvg-id="The.Sports.Network.2.HDTV.(TSN2D).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn2.png",TSN 2
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/771.ts
+
+#EXTINF:-1 tvg-id="The.Sports.Network.3.HDTV.(TSN3HD).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn3.png",TSN 3
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/772.ts
+
+#EXTINF:-1 tvg-id="The.Sports.Network.4.HDTV.(TSN4H).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn4.png",TSN 4
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/773.ts
+
+#EXTINF:-1 tvg-id="The.Sports.Network.5.HDTV.(TSN5HD).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn5.png",TSN 5
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/774.ts
+
+
+
+#EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US001A&E-HD.png",A&E
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/2746.ts
+
+#EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/amc-us.png",AMC
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/751.ts
+
+#EXTINF:-1 tvg-id="AMC+.us" tvg-logo="",AMC+
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/200388.ts
+
+#EXTINF:-1 tvg-id="American.Heroes.Channel.(AHC).us" tvg-logo="https://docdog.top/Logotv/countries//americanheroeschannel.png",American Heroes
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/6337.ts
+
+#EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/syfy-us.png",Syfy
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/2359.ts
+
+#EXTINF:-1 tvg-id="SYFY.HD.uk" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US072SYFY.png",SYFY (UK)
+#EXTINF:-1 tvg-id="AXSTV.HD.(AXSTV).us" tvg-logo="",AXS TV
+#EXTINF:-1 tvg-id="BBC.America.HDTV.(East).(BBC).us" tvg-logo="https://docdog.top/Logotv/countries/bbcamerica.png",BBC America
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/2277.ts
+
+#EXTINF:-1 tvg-id="Black.Entertainment.Television.HDTV.(East).(BET-HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/bet-us.png",BET
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/2278.ts
+
+#EXTINF:-1 tvg-id="BET.Her.HDTV.(BHERHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/bet-her-us.png",BET HER
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/15898.ts
+
+#EXTINF:-1 tvg-id="Bounce.TV.(Bounce).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/bounce-us.png",Bounce TV
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/298313.ts
+
+#EXTINF:-1 tvg-id="Bravo.HDTV.(East).(BRAVOD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/bravo-us.png",Bravo
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/2282.ts
+
+#EXTINF:-1 tvg-id="CMT.HDTV.(East).(CMTHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cmt-us.png",CMT
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/2294.ts
+
+#EXTINF:-1 tvg-id="Cine.Sony.Television.(CSONY).us" tvg-logo="https://docdog.top/Logotv/countries//cinesony.png",Cine Sony
+#EXTINF:-1 tvg-id="Comedy.Central.HDTV.(East).(CMDHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/comedy-central-us.png",Comedy Central
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/754.ts
+
+#EXTINF:-1 tvg-id="Comet.TV.(COMET).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/comet-us.png",Comet
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/6497.ts
+
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.HDTV.(East).(E!.HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/e-entertainment-us.png",E!
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/2306.ts
+
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.Canada.HDTV.(E!).ca" tvg-logo="https://docdog.top/Logotv/countries/united-states/e-entertainment-us.png",E! (CA)
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/468.ts
+
+#EXTINF:-1 tvg-id="Freeform.HDTV.(East).(FRFHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/freeform-us.png",Freeform
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/2329.ts
+
+#EXTINF:-1 tvg-id="FX.HDTV.(East).(FX.HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fx-us.png",FX
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/758.ts
+
+#EXTINF:-1 tvg-id="FX.Movie.Channel.HDTV.(FXMHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fxm-movie-channel-us.png",FXM
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/39873.ts
+
+#EXTINF:-1 tvg-id="FXX.HDTV.(East).(FXXHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fxx-us.png",FXX
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/2330.ts
+
+#EXTINF:-1 tvg-id="Fuse.HDTV.(East).(FUSED).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fuse-us.png",Fuse
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/6361.ts
+
+#EXTINF:-1 tvg-id="IFC.HDTV.(East).(IFCHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/ifc-us.png",IFC
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/2339.ts
+
+#EXTINF:-1 tvg-id="ION.East.Cable/Dish.(ION).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/countrypic.png",ION
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/147661.ts
+
+#EXTINF:-1 tvg-id="Lifetime.Movies.HDTV.(East).(LIFEMOV).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/lifetime-us.png",Lifetime Movies
+#EXTINF:-1 tvg-id="Lifetime.Television.HDTV.(East).(LIFEH).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/lifetime-us.png",Lifetime Television
+#EXTINF:-1 tvg-id="MTV.HDTV.(East).(MTVHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/mtv-us.png",MTV
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/2344.ts
+
+#EXTINF:-1 tvg-id="MTV2.HDTV.(East).(MTV2HD).us" tvg-logo="https://docdog.top/Logotv/countries/uk/mtv.png",MTV2
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/459.ts
+
+#EXTINF:-1 tvg-id="PixL.HDTV.(PixLHD).us" tvg-logo="",PixL
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/147583.ts
+
+#EXTINF:-1 tvg-id="ReelzChannel.HDTV.(REELZH).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/reelz-us.png",Reelz
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/2354.ts
+
+#EXTINF:-1 tvg-id="SundanceTV.HDTV.(East).(SUNHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/sundance-tv-us.png",Sundance TV
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/2358.ts
+
+#EXTINF:-1 tvg-id="TBS.Superstation.HDTV.(East).(TBSHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/tbs-us.png",TBS
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/295674.ts
+
+#EXTINF:-1 tvg-id="Turner.Network.Television.HDTV.(East).(TNTHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/tnt-us.png",TNT
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/769.ts
+
+#EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/usa-us.png",USA Network
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/3390.ts
+
+#EXTINF:-1 tvg-id="USTV.(USTV).us" tvg-logo="",US TV
+#EXTINF:-1 tvg-id="truTV.HDTV.(East).(TruTVD).us" tvg-logo="",truTV
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/6376.ts
+
+#EXTINF:-1 tvg-id="TV.Land.(East).(TVLAND).us" tvg-logo="",TV Land
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/2364.ts
+
+#EXTINF:-1 tvg-id="TV.ONE.HDTV.(TVONEHD).us" tvg-logo="",TV ONE
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/13010.ts
+
+
+#EXTINF:-1 tvg-id="5StarMAX.HD.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cinemax-5-starmax-us.png",5StarMAX
+#EXTINF:-1 tvg-id="Five.Star.Max.HDTV.(5MXHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cinemax-5-starmax-us.png",5StarMAX
+#EXTINF:-1 tvg-id="Cinemax.HDTV.(East).(MAXHD).us" tvg-logo="https://docdog.top/Logotv/countries//cinemax.png",CineMAX
+
+#EXTINF:-1 tvg-id="ActionMAX.HDTV.(East).(AMXHD).us" tvg-logo="https://docdog.top/Logotv/countries//actionmax.png",ActionMAX
+#EXTINF:-1 tvg-id="More.Max.(East).(MOMAX).us" tvg-logo="https://docdog.top/Logotv/countries//cinemaxmoremax.png",MoreMAX
+#EXTINF:-1 tvg-id="MOVIEMAX.HDTV.(MMXHD).us" tvg-logo="https://docdog.top/Logotv/countries/turkey/movie-smart-fest-tr.png",MovieMAX
+#EXTINF:-1 tvg-id="OuterMax.east.us" tvg-logo="https://docdog.top/Logotv/countries//outermax.png",OuterMAX
+#EXTINF:-1 tvg-id="ThrillerMAX.HDTV.(East).(TMXHD).us" tvg-logo="https://docdog.top/Logotv/countries//thrillermax.png",ThrillerMAX
+
+#EXTINF:-1 tvg-id="MoviePlex.East.(MPLEX).us" tvg-logo="https://docdog.top/Logotv/countries//movieplex.png",MoviePlex
+#EXTINF:-1 tvg-id="IndiePlex.HDTV.(INDIEHD).us" tvg-logo="https://docdog.top/Logotv/countries//indieplex.png",IndiePlex
+#EXTINF:-1 tvg-id="RetroPlex.HDTV.(RETROHD).us" tvg-logo="https://docdog.top/Logotv/countries//retroplex.png",RetroPlex
+
+
+
+
+
