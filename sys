@@ -443,6 +443,266 @@ http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/13010.ts
 #EXTINF:-1 tvg-id="RetroPlex.HDTV.(RETROHD).us" tvg-logo="https://docdog.top/Logotv/countries//retroplex.png",RetroPlex
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Al Basira TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/1e61b37f9fd9834a66e578d5ab079886.png" group-title="Arabic",Al Basira TV
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/11361.ts
+#EXTINF:-1 tvg-id="" tvg-name="Al Haneen" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-10/f9bb58aa14cf57ee81c5a3498b67f148.jpg" group-title="Arabic",Al Haneen
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/300236.ts
+#EXTINF:-1 tvg-id="" tvg-name="Al Hiwar TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/3b7b0b8c22ca0ccd14fe5023f06df97e.png" group-title="Arabic",Al Hiwar TV
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/33100.ts
+#EXTINF:-1 tvg-id="" tvg-name="Al Horreya TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/6a3eaeadd9d6138edbf732d701755309.png" group-title="Arabic",Al Horreya TV
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/182318.ts
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-08/0d2308974b7f6dd88a39c884850c496d.png" group-title="Arabic",Al Jazeera
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/304546.ts
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera Doc" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-08/cc60d57bc15da4a2576c27805a5a42e7.svg" group-title="Arabic",Al Jazeera Doc
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/304547.ts
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera EN" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-08/2fd5f67e334c695fb5793c5d14ac0a7c.png" group-title="Arabic",Al Jazeera EN
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/121021.ts
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera Mubasher" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-08/ee43c141f33495d6c6e50a1d640c2f33.png" group-title="Arabic",Al Jazeera Mubasher
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/304548.ts
+#EXTINF:-1 tvg-id="" tvg-name="Al Kalema TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/0289caf221f2ae825f32b3e3ccedd3d3.png" group-title="Arabic",Al Kalema TV
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/299360.ts
+#EXTINF:-1 tvg-id="" tvg-name="Al Khalij TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/1a4cbcaee6cdc7ba6a7b170931e8d467.png" group-title="Arabic",Al Khalij TV
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/165992.ts
+#EXTINF:-1 tvg-id="" tvg-name="Al Magharibia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/7dac5cd6dddb989905ba42bef71df8a9.png" group-title="Arabic",Al Magharibia
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/33096.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL Malakoot" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/abd768290845ba5b3228dcd055d3e705.jpg" group-title="Arabic",AL Malakoot
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/300582.ts
+#EXTINF:-1 tvg-id="" tvg-name="Al Qamar TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/88238da0ed72edf202794a81a1e17122.png" group-title="Arabic",Al Qamar TV
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/196082.ts
+#EXTINF:-1 tvg-id="" tvg-name="Al Tarek TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Arabic",Al Tarek TV
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/301842.ts
+#EXTINF:-1 tvg-id="" tvg-name="Alaraby TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/1f0880cf7564b73393a64d6a62aff386.svg" group-title="Arabic",Alaraby TV
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/43767.ts
+#EXTINF:-1 tvg-id="" tvg-name="Alaraby TV 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/ded48f34a3666f32c1f3b2f6501aad4c.svg" group-title="Arabic",Alaraby TV 2
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/296844.ts
+#EXTINF:-1 tvg-id="" tvg-name="Alkarma TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/3d2aa989ba382e4ec0ddb3d388a3dc97.png" group-title="Arabic",Alkarma TV
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/299361.ts
+#EXTINF:-1 tvg-id="" tvg-name="Alkarma TV Discipleship" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/3da862e2ece2fe6bf5561af2b178e84f.png" group-title="Arabic",Alkarma TV Discipleship
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/27364.ts
+#EXTINF:-1 tvg-id="" tvg-name="Alkarma TV Middle East" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/a09fd78718a828850c9721dc69a26bc4.png" group-title="Arabic",Alkarma TV Middle East
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/284241.ts
+#EXTINF:-1 tvg-id="" tvg-name="Alkarma TV North America and Canada" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-10/646f21f23f48c9e6f2146feab61418c8.png" group-title="Arabic",Alkarma TV North America and Canada
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/300643.ts
+#EXTINF:-1 tvg-id="" tvg-name="Alkeraza TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/c70a0deffa2283b607f1c5383f1cdf9f.png" group-title="Arabic",Alkeraza TV
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/299386.ts
+#EXTINF:-1 tvg-id="" tvg-name="Almagd TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/d90b01614db23e76ed5a7e2ffa01142b.png" group-title="Arabic",Almagd TV
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/121049.ts
+#EXTINF:-1 tvg-id="" tvg-name="Almustakillah TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/ab1146075ea38a973d0bbc9fcab1a086.png" group-title="Arabic",Almustakillah TV
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/11207.ts
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Arabic",Amazon Prime
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/279718.ts
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime 2" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Arabic",Amazon Prime 2
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/279719.ts
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime 3" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Arabic",Amazon Prime 3
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/279720.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/3bff988adeb13074c9ba75fd30646984.png" group-title="Arabic",AMC
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/196037.ts
+#EXTINF:-1 tvg-id="" tvg-name="Assyrian Global Network (AGN TV)" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Arabic",Assyrian Global Network (AGN TV)
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/304551.ts
+#EXTINF:-1 tvg-id="" tvg-name="AssyriaSat" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/b9ace1303dfeb0fc991bf0eee60bf89f.png" group-title="Arabic",AssyriaSat
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/166127.ts
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/2941c49a22d1ab27d7ec9d15e8d7eaad.png" group-title="Arabic",Baby TV
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/64399.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBC Arabic" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-09/a29a304335a59f8b45761d67a3387210.png" group-title="Arabic",BBC Arabic
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/2924.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Box Office 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/2e2bd5ae938e87eb279c657811c09466.jpg" group-title="Arabic",beIN Box Office 1
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/300137.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Box Office 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/21e5b736d43ca12c2cda6096e184d43e.png" group-title="Arabic",beIN Box Office 2
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/283290.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Series 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/06254e0237af0b4b0385dbc584f8c30b.png" group-title="Arabic",beIN Series 1
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/300142.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Series 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-10/c62f8bc2ce2ef4a62d2c66e692726a81.png" group-title="Arabic",beIN Series 2
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/300485.ts
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/3a6f00998c394d719e3ac4c8d9e0d2f8.png" group-title="Arabic",Boomerang
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/8915.ts
+#EXTINF:-1 tvg-id="" tvg-name="C Sat" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/6e5f070c42cff78cc54bb82ee50e3b11.png" group-title="Arabic",C Sat
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/165379.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network Arabic" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/107149260ff2561c10e3bc31d0ca121e.png" group-title="Arabic",Cartoon Network Arabic
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/58461.ts
+#EXTINF:-1 tvg-id="" tvg-name="CGTN Arabic" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Arabic",CGTN Arabic
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/304558.ts
+#EXTINF:-1 tvg-id="" tvg-name="Chaco TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Arabic",Chaco TV
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/304859.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cima" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/c555ff02ef519f11a08dff20da4cdd4d.png" group-title="Arabic",Cima
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/4914.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinema One" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/dbd7b6066da0c7359fd637faf8345909.png" group-title="Arabic",Cinema One
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/300128.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNBC Arabiya" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/ce63f46ff62af106afa95959a4264c52.png" group-title="Arabic",CNBC Arabiya
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/73027.ts
+#EXTINF:-1 tvg-id="" tvg-name="Daawah TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/185be6dd1a663190e6028cab07f449da.png" group-title="Arabic",Daawah TV
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/284338.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Family" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/bff54deb990d53323e691c3649b32547.png" group-title="Arabic",Discovery Family
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/298841.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/097b4bac30f2eb60f13cfe548b188067.png" group-title="Arabic",Discovery Science
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/192878.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/ffb7811407ecff8787e5451a7022a4bf.png" group-title="Arabic",Disney Channel
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/64409.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/2b85183c51913c4a1ca0c30410caf9c0.png" group-title="Arabic",Disney Junior
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/64404.ts
+#EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-02/eac78d004c1003e39e83fb1a7c20e7eb.png" group-title="Arabic",DW
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/301851.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eman Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/4d9a408d6275e94085c8562dc43b7df6.png" group-title="Arabic",Eman Channel
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/197123.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fix & Foxi" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/c0847efb36f220296e65d3669c0f0060.png" group-title="Arabic",Fix & Foxi
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/145293.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fozi Mozi" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Arabic",Fozi Mozi
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/300581.ts
+#EXTINF:-1 tvg-id="" tvg-name="France 24" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/8f397a55ee22a105f62fb1ddb0eecd60.png" group-title="Arabic",France 24
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/2929.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hawas TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Arabic",Hawas TV
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/64313.ts
+#EXTINF:-1 tvg-id="" tvg-name="History 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-10/e0d281131ae0c0ae4198f0f01e2f0742.svg" group-title="Arabic",History 2
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/300318.ts
+#EXTINF:-1 tvg-id="" tvg-name="HOME CINEMA 01" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Arabic",HOME CINEMA 01
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/299286.ts
+#EXTINF:-1 tvg-id="" tvg-name="HOME CINEMA 02" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Arabic",HOME CINEMA 02
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/300586.ts
+#EXTINF:-1 tvg-id="" tvg-name="HOME CINEMA 03" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Arabic",HOME CINEMA 03
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/299287.ts
+#EXTINF:-1 tvg-id="" tvg-name="HOME CINEMA 04" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Arabic",HOME CINEMA 04
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/299288.ts
+#EXTINF:-1 tvg-id="" tvg-name="HOME CINEMA 05" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Arabic",HOME CINEMA 05
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/299289.ts
+#EXTINF:-1 tvg-id="" tvg-name="HOME CINEMA 06" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Arabic",HOME CINEMA 06
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/299290.ts
+#EXTINF:-1 tvg-id="" tvg-name="HOME CINEMA 08" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Arabic",HOME CINEMA 08
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/299292.ts
+#EXTINF:-1 tvg-id="" tvg-name="HOME CINEMA 10" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Arabic",HOME CINEMA 10
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/299294.ts
+#EXTINF:-1 tvg-id="" tvg-name="HOME CINEMA 11" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Arabic",HOME CINEMA 11
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/299295.ts
+#EXTINF:-1 tvg-id="" tvg-name="HOME CINEMA 13" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Arabic",HOME CINEMA 13
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/299297.ts
+#EXTINF:-1 tvg-id="" tvg-name="HOME CINEMA 15" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Arabic",HOME CINEMA 15
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/299299.ts
+#EXTINF:-1 tvg-id="" tvg-name="Home Cinema Action 2" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Arabic",Home Cinema Action 2
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/300587.ts
+#EXTINF:-1 tvg-id="" tvg-name="Home Cinema Arabic 1" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Arabic",Home Cinema Arabic 1
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/145263.ts
+#EXTINF:-1 tvg-id="" tvg-name="Home Cinema Hindi" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Arabic",Home Cinema Hindi
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/300588.ts
+#EXTINF:-1 tvg-id="" tvg-name="Home Cinema Horror" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Arabic",Home Cinema Horror
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/300589.ts
+#EXTINF:-1 tvg-id="" tvg-name="Home Cinema Kids 1" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Arabic",Home Cinema Kids 1
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/300590.ts
+#EXTINF:-1 tvg-id="" tvg-name="Home Cinema Kids 2" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Arabic",Home Cinema Kids 2
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/300591.ts
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/6761e70af194b0b741743515c74c8acb.png" group-title="Arabic",Investigation Discovery
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/299758.ts
+#EXTINF:-1 tvg-id="" tvg-name="Keef Quran" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Arabic",Keef Quran
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/304550.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kids Nils" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Arabic",Kids Nils
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/300597.ts
+#EXTINF:-1 tvg-id="" tvg-name="Marah TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/6f2627f3dd789c3dae68e13b7cc44002.jpg" group-title="Arabic",Marah TV
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/283276.ts
+#EXTINF:-1 tvg-id="" tvg-name="Marvel 1" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Arabic",Marvel 1
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/300273.ts
+#EXTINF:-1 tvg-id="" tvg-name="Marvel 2" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Arabic",Marvel 2
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/300274.ts
+#EXTINF:-1 tvg-id="" tvg-name="Marvel 3" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Arabic",Marvel 3
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/300275.ts
+#EXTINF:-1 tvg-id="" tvg-name="Masha & the Bear" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Arabic",Masha & the Bear
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/300595.ts
+#EXTINF:-1 tvg-id="" tvg-name="Miracle Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/4ea018aae9cbb21fe1d4eb099c2fa7f7.png" group-title="Arabic",Miracle Channel
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/299802.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mix Bel Araby" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-04/fa3fc77234d848c888c5e8d288ed0c67.png" group-title="Arabic",Mix Bel Araby
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/302463.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mix Hollywood" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-04/5a606e9edf1e69c5374d08eed0b94507.png" group-title="Arabic",Mix Hollywood
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/2871.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mix One" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-04/103e5b1fc35546a27e0c7d3c02fe5b54.png" group-title="Arabic",Mix One
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/302464.ts
+#EXTINF:-1 tvg-id="" tvg-name="Moonbug Kids" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Arabic",Moonbug Kids
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/299968.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTA 3 Al Arabia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/42ef54fc21a8cac61f49d1290965ce7b.png" group-title="Arabic",MTA 3 Al Arabia
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/266815.ts
+#EXTINF:-1 tvg-id="" tvg-name="Muzik" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Arabic",Muzik
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/300341.ts
+#EXTINF:-1 tvg-id="" tvg-name="My Cinema 10" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/04c80426fc26345cce9bb1059060de92.png" group-title="Arabic",My Cinema 10
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/298842.ts
+#EXTINF:-1 tvg-id="" tvg-name="My Cinema 11" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/e0a934f5d660dd352cd74a29fccba8e9.png" group-title="Arabic",My Cinema 11
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/298843.ts
+#EXTINF:-1 tvg-id="" tvg-name="My Cinema 12" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-06/c65fe089022c7cbd74bef66485b6d217.png" group-title="Arabic",My Cinema 12
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/298844.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/328ef8fd8fe32d22360a1c04b0f79552.jpg" group-title="Arabic",Nat Geo
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/77844.ts
+#EXTINF:-1 tvg-id="" tvg-name="Netflix 4K" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Arabic",Netflix 4K
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/300301.ts
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Action 1" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Arabic",Netflix Action 1
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/225520.ts
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Action 2" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Arabic",Netflix Action 2
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/225521.ts
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Action 3" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Arabic",Netflix Action 3
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/225522.ts
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Action 4" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Arabic",Netflix Action 4
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/225523.ts
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Action 5" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Arabic",Netflix Action 5
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/225524.ts
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Action 6" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Arabic",Netflix Action 6
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/225525.ts
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Adventure" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Arabic",Netflix Adventure
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/300305.ts
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Arabic 1" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Arabic",Netflix Arabic 1
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/158540.ts
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Comedy" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/3bf6f709fb5d0e2c473a16cb4ac5061b.jpg" group-title="Arabic",Netflix Comedy
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/43836.ts
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Comedy 2" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Arabic",Netflix Comedy 2
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/300306.ts
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Crime 1" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Arabic",Netflix Crime 1
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/300307.ts
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Drama" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Arabic",Netflix Drama
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/85555.ts
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Horror" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Arabic",Netflix Horror
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/77713.ts
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Horror 2" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Arabic",Netflix Horror 2
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/225531.ts
+#EXTINF:-1 tvg-id="" tvg-name="Netflix JR 1" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Arabic",Netflix JR 1
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/300309.ts
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Sci-Fi" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Arabic",Netflix Sci-Fi
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/122525.ts
+#EXTINF:-1 tvg-id="" tvg-name="One FM" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Arabic",One FM
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/304864.ts
+#EXTINF:-1 tvg-id="" tvg-name="RT Arabic" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-03/a7157d98f96b3f060739e782adb9f141.svg" group-title="Arabic",RT Arabic
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/11369.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sat 7 Arabic" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/a591cf897304eb0019d9e7ddccd1666c.png" group-title="Arabic",Sat 7 Arabic
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/276135.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sat 7 Kids" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/b80f1baeb2f01cc1f2ea8bba954c9cfb.jfif" group-title="Arabic",Sat 7 Kids
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/285984.ts
+#EXTINF:-1 tvg-id="" tvg-name="Seraj" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/7d6e40c3897a92a2b2aaa7037cb01d2f.png" group-title="Arabic",Seraj
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/299918.ts
+#EXTINF:-1 tvg-id="" tvg-name="Shahid" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-10/bd4fad3c8c03bcd54c09f21112a8e871.png" group-title="Arabic",Shahid
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/300328.ts
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Action 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-10/493dedb4b5d757a1a189dd5081ded2b1.png" group-title="Arabic",Shahid Action 1
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/300327.ts
+#EXTINF:-1 tvg-id="" tvg-name="Shahid Action 2" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Arabic",Shahid Action 2
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/300326.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky News Arabia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/ef799ac28fec946375fee85e58754a4b.png" group-title="Arabic",Sky News Arabia
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/3739.ts
+#EXTINF:-1 tvg-id="" tvg-name="Star Movies HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-02/b3f2c9e33e3b204078526c4011569ed0.png" group-title="Arabic",Star Movies HD
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/195999.ts
+#EXTINF:-1 tvg-id="" tvg-name="StoryChannel TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/f66e110229d92259606a04849af094bb.png" group-title="Arabic",StoryChannel TV
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/299428.ts
+#EXTINF:-1 tvg-id="" tvg-name="The Way TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-11/d2afdb2f0ec5e5498ebcbfb8a0616a6b.png" group-title="Arabic",The Way TV
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/276042.ts
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="Arabic",TLC
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/284213.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRT Arabi" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/db54e3ce61ce26d995031a6a2bcb1d92.png" group-title="Arabic",TRT Arabi
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/281349.tsv
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
