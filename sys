@@ -321,6 +321,136 @@ http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/773.ts
 http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/774.ts
 
 
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Action" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/8c24e752f56cbf20e36f414088013773.png" group-title="UK ➾ Sports",UK: Sky Sports Action
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/268.ts
+#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="UK: Sky Sports Arena" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/989d4bde4ee6d3236460b11510e03e5c.png" group-title="UK ➾ Sports",UK: Sky Sports Arena
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/267.ts
+#EXTINF:-1 tvg-id="skysportsboxoffice.uk" tvg-name="UK: Sky Sports Box Office" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/061452f893b47a4e8e039adecb1cabbe.png" group-title="UK ➾ Sports",UK: Sky Sports Box Office
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/286318.ts
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="UK: Sky Sports Cricket" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/b33dfe81c31eb1ea15ca2705d24af664.png" group-title="UK ➾ Sports",UK: Sky Sports Cricket
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/269.ts
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports F1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/62ec7805e9eb3332ff2a74cd8f99be66.png" group-title="UK ➾ Sports",UK: Sky Sports F1
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/265.ts
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK: Sky Sports Football" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/860b7e2f2ed148c938115c734f31ef62.png" group-title="UK ➾ Football",UK: Sky Sports Football
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/266.ts
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK: Sky Sports Golf" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/5acb0ff26afa4f347663d42261af36bf.png" group-title="UK ➾ Sports",UK: Sky Sports Golf
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/264.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Main Event" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/367ea46b760bdd8955db180204300052.png" group-title="UK ➾ Sports",UK: Sky Sports Main Event
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/283053.ts
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="UK: Sky Sports Mix" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/14216659a007f43c908ea7acb0080325.png" group-title="UK ➾ Sports",UK: Sky Sports Mix
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/261.ts
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK: Sky Sports News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/429d072a80243dcd3db3c4c941b8f5e0.png" group-title="UK ➾ Sports",UK: Sky Sports News
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/260.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Premier League" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/09bb1aded27d31530f3939146dffbc0c.png" group-title="UK ➾ Football",UK: Sky Sports Premier League
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/263.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Racing" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/54cd90adcee875ac0369ac5b061d62d6.png" group-title="UK ➾ Sports",UK: Sky Sports Racing
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/163132.ts
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: Hub Premier 1" tvg-logo="" group-title="UK ➾ Football",UK: Hub Premier 1
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/305270.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Hub Premier 2" tvg-logo="" group-title="UK ➾ Football",UK: Hub Premier 2
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/305271.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Hub Premier 3" tvg-logo="" group-title="UK ➾ Football",UK: Hub Premier 3
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/305272.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Hub Premier 4" tvg-logo="" group-title="UK ➾ Football",UK: Hub Premier 4
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/305273.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Hub Premier 5" tvg-logo="" group-title="UK ➾ Football",UK: Hub Premier 5
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/305274.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Hub Premier 6" tvg-logo="" group-title="UK ➾ Football",UK: Hub Premier 6
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/305275.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Hub Premier 7" tvg-logo="" group-title="UK ➾ Football",UK: Hub Premier 7
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/305276.ts
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="AU: Fox Sports 501" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/a920154df6aa27d0a0988f8415c658dd.jpg" group-title="Australia",AU: Fox Sports 501
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/279034.ts
+#EXTINF:-1 tvg-id="" tvg-name="AU: Fox Sports 502" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/3a660bbb5217b20183e9135bf2aaf562.png" group-title="Australia",AU: Fox Sports 502
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/81784.ts
+#EXTINF:-1 tvg-id="" tvg-name="AU: Fox Sports 503" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/26e07d10c07649ee3f6a4b2623a7d187.jpg" group-title="Australia",AU: Fox Sports 503
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/280192.ts
+#EXTINF:-1 tvg-id="" tvg-name="AU: Fox Sports 504" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/c2b1618bc941a9579f6da4ad1f4fe90e.png" group-title="Australia",AU: Fox Sports 504
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/280193.ts
+#EXTINF:-1 tvg-id="" tvg-name="AU: Fox Sports 505" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/326c83b2d11a63ae35efe2906029d3b0.png" group-title="Australia",AU: Fox Sports 505
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/144772.ts
+#EXTINF:-1 tvg-id="" tvg-name="AU: Fox Sports 506" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0fbe039aa7f3af002897a33f07ca891e.jpg" group-title="Australia",AU: Fox Sports 506
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/279033.ts
+#EXTINF:-1 tvg-id="" tvg-name="AU: Fox Sports 507" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/8967fe172d45a59f3ec20039bcf2ae47.png" group-title="Australia",AU: Fox Sports 507
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/280194.ts
+#EXTINF:-1 tvg-id="" tvg-name="AU: Fox Sports News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/127e99eb92bbeac313c1270133b1334d.png" group-title="Australia",AU: Fox Sports News
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/76006.ts
+
+
+
+#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="FR: beIN Sports 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/d40f4a64bc712ca477fcb4e7412b5ccc.png" group-title="France ➾ Football",FR: beIN Sports 1
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/144.ts
+#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="FR: beIN Sports 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/0546311aed22a274b1e87d23c33dd475.png" group-title="France ➾ Football",FR: beIN Sports 2
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/145.ts
+#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="FR: beIN Sports 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/e36554e2468737a5a1e4a41112d673a5.png" group-title="France ➾ Football",FR: beIN Sports 3
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/146.ts
+#EXTINF:-1 tvg-id="bein4max.fr" tvg-name="FR: beIN Sports Max 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/d1e2a161fa7650f78d827bb7e8cd3c21.png" group-title="France ➾ Sports",FR: beIN Sports Max 4
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/3599.ts
+#EXTINF:-1 tvg-id="bein5max.fr" tvg-name="FR: beIN Sports Max 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/c8cadfdb308ce51abcaac8220528833e.png" group-title="France ➾ Sports",FR: beIN Sports Max 5
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/6083.ts
+#EXTINF:-1 tvg-id="bein6max.fr" tvg-name="FR: beIN Sports Max 6" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/6250ce9aa48d84200378db8e1c293ecb.png" group-title="France ➾ Sports",FR: beIN Sports Max 6
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/4368.ts
+#EXTINF:-1 tvg-id="bein7max.fr" tvg-name="FR: beIN Sports Max 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/b2834f48777b3cd3bd463f5f88a80a2d.png" group-title="France ➾ Sports",FR: beIN Sports Max 7
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/4369.ts
+#EXTINF:-1 tvg-id="bein8max.fr" tvg-name="FR: beIN Sports Max 8" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/7b8e9459b28777e8b6123dd030b7b88d.png" group-title="France ➾ Sports",FR: beIN Sports Max 8
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/4370.ts
+#EXTINF:-1 tvg-id="bein9max.fr" tvg-name="FR: beIN Sports Max 9" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/6373a7564fe06eaffa6429200895b1ab.png" group-title="France ➾ Sports",FR: beIN Sports Max 9
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/4371.ts
+#EXTINF:-1 tvg-id="bein10max.fr" tvg-name="FR: beIN Sports Max 10" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/188bf35c841af13de45c2cf86e7438b5.png" group-title="France ➾ Sports",FR: beIN Sports Max 10
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/6088.ts
+
+
+#EXTINF:-1 tvg-id="espn.nl" tvg-name="NL: ESPN" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/fba7aa6abb3a938d6d2da99a29f57a8c.png" group-title="Netherlands ➾ Sports",NL: ESPN
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/267209.ts
+#EXTINF:-1 tvg-id="espn2.nl" tvg-name="NL: ESPN 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f8d4dbda121c0cfc982516038b068e70.png" group-title="Netherlands ➾ Sports",NL: ESPN 2
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/272119.ts
+#EXTINF:-1 tvg-id="espn3.nl" tvg-name="NL: ESPN 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/60f126e910a86dc97e8c75e0e799fad0.png" group-title="Netherlands ➾ Sports",NL: ESPN 3
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/272120.ts
+#EXTINF:-1 tvg-id="espn4.nl" tvg-name="NL: ESPN 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/25459a2e8dd1ae1419024458ee7d4418.png" group-title="Netherlands ➾ Sports",NL: ESPN 4
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/272121.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-08/9df70541246da4f2f9a65296dc2d5604.png" group-title="Brazil ➾ Sports",BR: ESPN
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/8793.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-08/68e11cc20e6cca405eeafe623b2bfdde.png" group-title="Brazil ➾ Sports",BR: ESPN 2
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/8801.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/d4eadd237437bdfc6f611165eb5891c8.png" group-title="Brazil ➾ Sports",BR: ESPN 3
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/290657.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/7b06a5762fbd3254392827b6c7fd411d.svg" group-title="Brazil ➾ Sports",BR: ESPN 4
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/299345.ts
+#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN Extra" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-08/280bbb819713bcee901695466ef9320a.png" group-title="Brazil ➾ Sports",BR: ESPN Extra
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/8789.ts
+
+#EXTINF:-1 tvg-id="planetsport2.hr" tvg-name="HR: Sport Klub 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/5a85ec354802e6b85738a13c83d8fb3f.png" group-title="Croatia ➾ Sports",HR: Sport Klub 1
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/3473.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/f2162c891092e2ac6253ca3df64b0e10.png" group-title="EX-YU",EX-YU: Sport Klub 2
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/15572.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/1b4e75d0825b018a4be6fc2de7e0b4e6.png" group-title="EX-YU",EX-YU: Sport Klub 3
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/282759.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/45eafebb73a312441eddf47c91aa7784.jpg" group-title="EX-YU",EX-YU: Sport Klub 4
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/281896.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/bb3f900e11e633eda727a7b3a4961380.jpg" group-title="EX-YU",EX-YU: Sport Klub 5
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/3470.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub 7" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="EX-YU",EX-YU: Sport Klub 7
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/146299.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub 8" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="EX-YU",EX-YU: Sport Klub 8
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/54987.ts
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub Golf" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-08/913be3dd5506bb664db6b276ae3131be.png" group-title="EX-YU",EX-YU: Sport Klub Golf
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/299649.ts
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US001A&E-HD.png",A&E
 http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/2746.ts
@@ -441,6 +571,143 @@ http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/13010.ts
 #EXTINF:-1 tvg-id="MoviePlex.East.(MPLEX).us" tvg-logo="https://docdog.top/Logotv/countries//movieplex.png",MoviePlex
 #EXTINF:-1 tvg-id="IndiePlex.HDTV.(INDIEHD).us" tvg-logo="https://docdog.top/Logotv/countries//indieplex.png",IndiePlex
 #EXTINF:-1 tvg-id="RetroPlex.HDTV.(RETROHD).us" tvg-logo="https://docdog.top/Logotv/countries//retroplex.png",RetroPlex
+
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Arts" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e41f551b8f8642a7a3c0c439b8b4e880.png" group-title="UK ➾ Documentary",UK: Sky Arts
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/1094.ts
+#EXTINF:-1 tvg-id="skyatlantic.uk" tvg-name="UK: Sky Atlantic" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ea3a16e80ddd47e86d06303f8ff66020.png" group-title="UK ➾ Movie",UK: Sky Atlantic
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/1093.ts
+#EXTINF:-1 tvg-id="skyatlantic.uk" tvg-name="UK: Sky Cinema Action" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/21877e8c4862b4484909790e64710db8.png" group-title="UK ➾ Movie",UK: Sky Cinema Action
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/1092.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Animation" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/dfd6c4c8fdd948a565e708da11dab221.png" group-title="UK ➾ Kids",UK: Sky Cinema Animation
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/1090.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Comedy" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-04/6d21135f0e527b9a916b5922486bcec6.svg" group-title="UK ➾ Movie",UK: Sky Cinema Comedy
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/300937.ts
+#EXTINF:-1 tvg-id="skydrama.uk" tvg-name="UK: Sky Cinema Drama" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ce99abde68cf1f748161e957ca140e47.png" group-title="UK ➾ Movie",UK: Sky Cinema Drama
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/1089.ts
+#EXTINF:-1 tvg-id="skyfamily.uk" tvg-name="UK: Sky Cinema Family" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/9655820c8d0b584d8ff4178881022860.png" group-title="UK ➾ Movie",UK: Sky Cinema Family
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/727.ts
+#EXTINF:-1 tvg-id="skygreats.uk" tvg-name="UK: Sky Cinema Greats" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/984ca23ee3df2acd84b16320d6e878b0.png" group-title="UK ➾ Movie",UK: Sky Cinema Greats
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/1087.ts
+#EXTINF:-1 tvg-id="skyhits.uk" tvg-name="UK: Sky Cinema Hits" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/d5825492e041478c8cad7c4303964212.png" group-title="UK ➾ Movie",UK: Sky Cinema Hits
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/1086.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Premiere" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f8b886d94093598be2136bc2e0d1fee3.png" group-title="UK ➾ Movie",UK: Sky Cinema Premiere
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/1085.ts
+#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-name="UK: Sky Cinema sci-fi Horror" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/71d59bc373401d25495a3af67e4c7168.png" group-title="UK ➾ Movie",UK: Sky Cinema sci-fi Horror
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/725.ts
+#EXTINF:-1 tvg-id="skyselect.uk" tvg-name="UK: Sky Cinema Select" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4d97ef6c2a49a3c596ca3a87c90751c0.png" group-title="UK ➾ Movie",UK: Sky Cinema Select
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/726.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Thriller" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/38c736e28e49e5ce222190667af6c8b7.png" group-title="UK ➾ Movie",UK: Sky Cinema Thriller
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/1082.ts
+#EXTINF:-1 tvg-id="skycinemacomedy.uk" tvg-name="UK: Sky Comedy" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/f741f51e98e04e37bc78106cae981afc.png" group-title="UK ➾ Movie",UK: Sky Comedy
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/1091.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Crime" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/c454832c7f1a24ea0394a85d880bcc0b.jpg" group-title="UK ➾ Movie",UK: Sky Crime
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/15155.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Documentaries" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="UK ➾ Documentary",UK: Sky Documentaries
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/187346.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky History" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-04/e47f55b99e6408c4120d6bf65445b449.svg" group-title="UK ➾ Documentary",UK: Sky History
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/187342.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky History 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-04/42ec26c999a6f4b209457dfcdbf858b0.svg" group-title="UK ➾ Documentary",UK: Sky History 2
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/302705.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Kids" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/2837a06c0fe466fc9f1cf16fcc8db67d.jpg" group-title="UK ➾ Kids",UK: Sky Kids
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/302301.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Nature" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/c2df57a49a347d44c963911b2dd8df41.png" group-title="UK ➾ Nature",UK: Sky Nature
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/286909.ts
+#EXTINF:-1 tvg-id="skynews.uk" tvg-name="UK: Sky News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/54b242215ebf5c890cfdc03b82aece0c.png" group-title="UK ➾ News",UK: Sky News
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/1081.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky One" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/59d97222b7d71d90758196d27c9dc2ca.jpg" group-title="UK ➾ LifeStyle",UK: Sky One
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/1080.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Showcase" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/f4b5e2265a16d082987dc9d5aada57dc.png" group-title="UK ➾ Movie",UK: Sky Showcase
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/17041.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Witness" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/e6e70a727cd2f9105a1135d68679ce7f.png" group-title="UK ➾ Movie",UK: Sky Witness
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/11738.ts
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: HBO MAX ACTION CRIME CINEMA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",UK: HBO MAX ACTION CRIME CINEMA
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/304901.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: HBO MAX ACTION THRILLER CINEMA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",UK: HBO MAX ACTION THRILLER CINEMA
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/304899.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: HBO MAX ADVENTURE CINEMA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",UK: HBO MAX ADVENTURE CINEMA
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/304902.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: HBO MAX ANIMATION ADVENTURE CINEMA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",UK: HBO MAX ANIMATION ADVENTURE CINEMA
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/304903.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: HBO MAX BIOGRAPHY CINEMA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",UK: HBO MAX BIOGRAPHY CINEMA
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/304904.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: HBO MAX CINEMA 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",UK: HBO MAX CINEMA 1
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/304905.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: HBO MAX CINEMA 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",UK: HBO MAX CINEMA 2
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/304906.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: HBO MAX CLASSIC ACTION ADVENTURE CINEMA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",UK: HBO MAX CLASSIC ACTION ADVENTURE CINEMA
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/304907.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: HBO MAX CLASSIC ACTION CINEMA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",UK: HBO MAX CLASSIC ACTION CINEMA
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/304908.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: HBO MAX CLASSIC ACTION CRIME CINEMA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",UK: HBO MAX CLASSIC ACTION CRIME CINEMA
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/304909.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: HBO MAX CLASSIC ACTION THRILLER CINEMA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",UK: HBO MAX CLASSIC ACTION THRILLER CINEMA
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/304910.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: HBO MAX CLASSIC ADVENTURE CINEMA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",UK: HBO MAX CLASSIC ADVENTURE CINEMA
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/304911.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: HBO MAX CLASSIC ANIMATED ADVENTURE CINEMA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",UK: HBO MAX CLASSIC ANIMATED ADVENTURE CINEMA
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/304912.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: HBO MAX CLASSIC CINEMA 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",UK: HBO MAX CLASSIC CINEMA 1
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/304914.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: HBO MAX CLASSIC CINEMA 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",UK: HBO MAX CLASSIC CINEMA 2
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/304915.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: HBO MAX CLASSIC COMEDY CINEMA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",UK: HBO MAX CLASSIC COMEDY CINEMA
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/304916.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: HBO MAX CLASSIC CRIME CINEMA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",UK: HBO MAX CLASSIC CRIME CINEMA
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/304917.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: HBO MAX CLASSIC DOCUMENTARY CINEMA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",UK: HBO MAX CLASSIC DOCUMENTARY CINEMA
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/304918.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: HBO MAX CLASSIC DRAMA CINEMA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",UK: HBO MAX CLASSIC DRAMA CINEMA
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/304919.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: HBO MAX CLASSIC FAMILY CINEMA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",UK: HBO MAX CLASSIC FAMILY CINEMA
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/304920.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: HBO MAX CLASSIC FANTASY CINEMA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",UK: HBO MAX CLASSIC FANTASY CINEMA
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/304921.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: HBO MAX CLASSIC HISTORY CINEMA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",UK: HBO MAX CLASSIC HISTORY CINEMA
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/304922.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: HBO MAX CLASSIC HORROR CINEMA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",UK: HBO MAX CLASSIC HORROR CINEMA
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/304923.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: HBO MAX CLASSIC MYSTERY CINEMA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",UK: HBO MAX CLASSIC MYSTERY CINEMA
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/304924.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: HBO MAX CLASSIC ROMANCE CINEMA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",UK: HBO MAX CLASSIC ROMANCE CINEMA
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/304925.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: HBO MAX CLASSIC SCIFI CINEMA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",UK: HBO MAX CLASSIC SCIFI CINEMA
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/304926.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: HBO MAX CLASSIC SPORT CINEMA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",UK: HBO MAX CLASSIC SPORT CINEMA
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/304927.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: HBO MAX CLASSIC THRILLER 24/7" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",UK: HBO MAX CLASSIC THRILLER 24/7
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/304928.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: HBO MAX COMEDY CINEMA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",UK: HBO MAX COMEDY CINEMA
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/304929.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: HBO MAX CRIME CINEMA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",UK: HBO MAX CRIME CINEMA
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/304930.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: HBO MAX DOCUMENTARY CINEMA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",UK: HBO MAX DOCUMENTARY CINEMA
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/304931.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: HBO MAX DRAMA CINEMA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",UK: HBO MAX DRAMA CINEMA
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/304932.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: HBO MAX FANTASY CINEMA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",UK: HBO MAX FANTASY CINEMA
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/304934.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: HBO MAX HISTORY CINEMA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",UK: HBO MAX HISTORY CINEMA
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/304935.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: HBO MAX HORROR CINEMA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",UK: HBO MAX HORROR CINEMA
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/304936.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: HBO MAX MYSTERY CINEMA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",UK: HBO MAX MYSTERY CINEMA
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/304937.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: HBO MAX ROMANCE CINEMA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",UK: HBO MAX ROMANCE CINEMA
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/304938.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: HBO MAX SCIFI CINEMA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",UK: HBO MAX SCIFI CINEMA
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/304939.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: HBO MAX SPORTS CINEMA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",UK: HBO MAX SPORTS CINEMA
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/304940.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: HBO MAX THRILLER CINEMA" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK",UK: HBO MAX THRILLER CINEMA
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/304941.ts
+
+
+
 
 
 
