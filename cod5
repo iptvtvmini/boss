@@ -314,6 +314,8 @@ http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/14816.ts
 #EXTINF:-1 tvg-id="ESPNU.HDTV.(ESPNUHD).us" tvg-logo="https://docdog.top/Logotv/countries//espnu.png" group-title="",ESPN U
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487778&extension=ts
 
+#EXTINF:-1 tvg-id="ESPN.Deportes.HDTV.(EDEPHD).us" tvg-logo="",ESPN Deportes
+http://wildversion.com/play/live.php?mac=00:1A:79:F1:B8:05&stream=219091&extension=ts
 
 
 
@@ -329,16 +331,6 @@ http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/281418.ts
 http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/285171.ts
 #EXTINF:-1 tvg-id="" tvg-name="SUR: ESPN Plus" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/de6f7d110fcfa8afba4d305967d885a5.svg" group-title="Suriname",SUR: ESPN Plus
 http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/8687.ts
-
-
-#EXTINF:-1 tvg-id="espn.nl" tvg-name="NL: ESPN" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/fba7aa6abb3a938d6d2da99a29f57a8c.png" group-title="Netherlands ➾ Sports",NL: ESPN
-http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/267209.ts
-#EXTINF:-1 tvg-id="espn2.nl" tvg-name="NL: ESPN 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f8d4dbda121c0cfc982516038b068e70.png" group-title="Netherlands ➾ Sports",NL: ESPN 2
-http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/272119.ts
-#EXTINF:-1 tvg-id="espn3.nl" tvg-name="NL: ESPN 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/60f126e910a86dc97e8c75e0e799fad0.png" group-title="Netherlands ➾ Sports",NL: ESPN 3
-http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/272120.ts
-#EXTINF:-1 tvg-id="espn4.nl" tvg-name="NL: ESPN 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/25459a2e8dd1ae1419024458ee7d4418.png" group-title="Netherlands ➾ Sports",NL: ESPN 4
-http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/272121.ts
 
 
 
