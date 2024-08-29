@@ -43,14 +43,11 @@ http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/197964.ts
 #EXTINF:-1 tvg-id="HITS.Movies.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",HITS Movies
 http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/157477.ts
 
-#EXTINF:-1 tvg-id="HITS.id" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png",Hits
+#EXTINF:-1 tvg-id="HITS.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png",Hits
 http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/165085.ts
 
-#EXTINF:-1 tvg-id="HITS.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png",Hits
+#EXTINF:-1 tvg-id="HITS.id" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png",Hits (ID)
 http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/157545.ts
-
-#EXTINF:-1 tvg-id="tvN.Movies.HD.my" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png",tvN Movies
-http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/297499.ts
 
 #EXTINF:-1 tvg-id="tvN.Movies.HD.id" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png",tvN Movies
 http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/157596.ts
