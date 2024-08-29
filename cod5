@@ -316,20 +316,6 @@ http://wildversion.com/play/live.php?mac=00:1A:79:F1:B8:05&stream=219091&extensi
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="SUR: ESPN" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/8752dadf712d5773213879291fbb232a.png" group-title="Suriname",SUR: ESPN
-http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/8688.ts
-#EXTINF:-1 tvg-id="" tvg-name="SUR: ESPN 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/1417ab74c4ecfb99246665b81c24bb72.png" group-title="Suriname",SUR: ESPN 2
-http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/8689.ts
-#EXTINF:-1 tvg-id="" tvg-name="SUR: ESPN 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/9e3cc2775763d8be4f47475210e55580.png" group-title="Suriname",SUR: ESPN 3
-http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/298157.ts
-#EXTINF:-1 tvg-id="" tvg-name="SUR: ESPN Deportes" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/f79d6b3be2794fc6432b81cc6e123c0c.png" group-title="Suriname",SUR: ESPN Deportes
-http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/281418.ts
-#EXTINF:-1 tvg-id="" tvg-name="SUR: ESPN Extra" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/b605463ae68275ba1d64aa07a4beca9b.png" group-title="Suriname",SUR: ESPN Extra
-http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/285171.ts
-#EXTINF:-1 tvg-id="" tvg-name="SUR: ESPN Plus" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/de6f7d110fcfa8afba4d305967d885a5.svg" group-title="Suriname",SUR: ESPN Plus
-http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/8687.ts
-
-
 
 #EXTINF:-1 tvg-id="Altitude.Sports.and.Entertainment.(Colorado).HDTV.24/7.(ALTHD).us" tvg-logo="",Altitude Sports
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=826907&extension=ts
