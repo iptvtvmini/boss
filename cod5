@@ -226,7 +226,7 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=828095&extension=ts
 #EXTINF:-1 tvg-id="Astro.Supersport.5.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="",W Sport
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=828094&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="PT: W-Sport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/2dddb7bb0a996822ef9e914e36d97dbe.svg" group-title="Portugal ➾ Sports",PT: W-Sport
+#EXTINF:-1 tvg-id="Astro.Supersport.5.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="",W Sport
 http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/303824.ts
 
 
@@ -472,7 +472,26 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=901670&extension=ts
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=901671&extension=ts
 
 
-
+#EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="PT: SPORT TV +" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/22ccb6d1c637d9b6a63d83100af972f3.png" group-title="Portugal ➾ Sports",PT: SPORT TV +
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/1481.ts
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/10be017cdc71bdd0663e43b50d2926b6.png" group-title="Portugal ➾ Sports",PT: SPORT TV 1
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/1483.ts
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: SPORT TV 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/66ccdb4bc6b73efa2357ab9984b31af4.png" group-title="Portugal ➾ Sports",PT: SPORT TV 2
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/1486.ts
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/d77db9165e33a177ada687f34441b6d5.png" group-title="Portugal ➾ Sports",PT: SPORT TV 3
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/1489.ts
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT: SPORT TV 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/3d6b227803c54e2924e81ead82561df7.png" group-title="Portugal ➾ Sports",PT: SPORT TV 4
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/1492.ts
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT: SPORT TV 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/85b1b813eeaec60854f25192a7d9519c.png" group-title="Portugal ➾ Sports",PT: SPORT TV 5
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/1495.ts
+#EXTINF:-1 tvg-id="sporttv6.pt" tvg-name="PT: SPORT TV 6" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/adc5a80016d265446beedb25b16f1610.png" group-title="Portugal ➾ Sports",PT: SPORT TV 6
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/281487.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-08/fb8e8de4a84598487721068559d42f2c.svg" group-title="Portugal ➾ Sports",PT: SPORT TV 7
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/305284.ts
+#EXTINF:-1 tvg-id="sporttvnba.pt" tvg-name="PT: SPORT TV NBA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/45d618d3296d49449610eccddda0f2b3.png" group-title="Portugal ➾ Sports",PT: SPORT TV NBA
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/2051.ts
+#EXTINF:-1 tvg-id="sportingtv.pt" tvg-name="PT: Sporting TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c3a532ff6be1d4a54129e69cbc6ef5b8.png" group-title="Portugal ➾ Sports",PT: Sporting TV
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/1519.ts
 
 
 #EXTINF:-1 tvg-id="",ABC
