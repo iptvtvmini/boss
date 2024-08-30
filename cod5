@@ -754,6 +754,20 @@ http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/304787.ts
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="AE: Abu Dhabi Sports 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1251e175cc39adad228a8ea9a180ae12.png" group-title="UAE ➾ Sports",AE: Abu Dhabi Sports 1
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/1296.ts
+#EXTINF:-1 tvg-id="" tvg-name="AE: Abu Dhabi Sports 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8a35d5aa933df9c7198e9bcaf798352e.png" group-title="UAE ➾ Sports",AE: Abu Dhabi Sports 2
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/1295.ts
+#EXTINF:-1 tvg-id="" tvg-name="AE: Abu Dhabi Sports 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4e6259d49c86aacaab2382ab04b6ad53.png" group-title="UAE ➾ Sports",AE: Abu Dhabi Sports 3
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/11023.ts
+#EXTINF:-1 tvg-id="" tvg-name="AE: Abu Dhabi Sports Asia 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/0f1186a29a5653ebd5d98c898a15d642.png" group-title="UAE ➾ Sports",AE: Abu Dhabi Sports Asia 1
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/295495.ts
+#EXTINF:-1 tvg-id="" tvg-name="AE: Abu Dhabi Sports Asia 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-09/11de46a27a87cc4bc92a6e54fbe9e94e.png" group-title="UAE ➾ Sports",AE: Abu Dhabi Sports Asia 2
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/296837.ts
+#EXTINF:-1 tvg-id="" tvg-name="AE: Abu Dhabi Sports Premium 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-09/fdc98038cef740d81b17b6d939bb9e1f.jpeg" group-title="UAE ➾ Sports",AE: Abu Dhabi Sports Premium 1
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/296836.ts
+#EXTINF:-1 tvg-id="" tvg-name="AE: Abu Dhabi Sports Premium 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-09/0052adee9541d5e80b7a12d30d92e50c.png" group-title="UAE ➾ Sports",AE: Abu Dhabi Sports Premium 2
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/296835.ts
 
 
 
