@@ -558,6 +558,9 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=656132&extension=m
 #EXTINF:-1 tvg-id="FXX.HDTV.(East).(FXXHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fxx-us.png",FXX
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=687889&extension=m3u8
 
+#EXTINF:-1 tvg-id="IFC.HDTV.(East).(IFCHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/ifc-us.png",IFC
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=469399&extension=ts
+
 #EXTINF:-1 tvg-id="ReelzChannel.HDTV.(REELZH).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/reelz-us.png",Reelz
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=469425&extension=ts
 
@@ -565,7 +568,7 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=469425&extension=t
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=469530&extension=m3u8
 
 #EXTINF:-1 tvg-id="HDNet.Movies.(HDNTM).us" tvg-logo="https://docdog.top/Logotv/countries//hdnetmovies.png",HDNet Movies
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=552040&extension=m3u8
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=552040&extension=ts
 
 #EXTINF:-1 tvg-id="Much.HDTV.(MUCH).ca",MUCH
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626957&extension=m3u8
