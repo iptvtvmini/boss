@@ -601,6 +601,8 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=752916&extension=ts
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577481&extension=ts
 
 #EXTINF:-1 tvg-id="IFC.HDTV.(East).(IFCHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/ifc-us.png",IFC
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469399&extension=m3u8
+
 #EXTINF:-1 tvg-id="ION.East.Cable/Dish.(ION).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/countrypic.png",ION
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469400&extension=ts
 
