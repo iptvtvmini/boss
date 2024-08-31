@@ -1022,11 +1022,16 @@ http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/11738.ts
 
 
 #EXTINF:-1 tvg-id="Animal.Planet.HDTV.(East).(APHD).us" tvg-logo="https://docdog.top/Logotv/countries//animalplanet.png",Animal Planet
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/6329.ts
+
 #EXTINF:-1 tvg-id="National.Geographic.Channel.HDTV.(NGCHD).us" tvg-logo="https://docdog.top/Logotv/countries//natgeo.png",National Geographic
 #EXTINF:-1 tvg-id="NatGeo.WILD.HDTV.(NGWILD).us" tvg-logo="https://docdog.top/Logotv/countries//natgeowild.png",NatGeo WILD
 
 #EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HDTV.(CI.HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/crime-and-investigation-us.png",Crime&Investigation
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/14813.ts
+
 #EXTINF:-1 tvg-id="Investigation.Discovery.HDTV.(IDHD).us" tvg-logo="https://docdog.top/Logotv/countries//investigationdiscovery.png",Investigation Discovery
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/8557.ts
 
 #EXTINF:-1 tvg-id="The.Discovery.Channel.HDTV.(East).(DSCHD).us" tvg-logo="https://docdog.top/Logotv/countries//discoverychannel.png",Discovery Channel
 #EXTINF:-1 tvg-id="Discovery.Family.Channel.HDTV.(DFCHD).us" tvg-logo="https://docdog.top/Logotv/countries//discoveryfamilychannel.png",Discovery Family
@@ -1042,7 +1047,10 @@ http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/11738.ts
 #EXTINF:-1 tvg-id="TASTE.Tastemade.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/tastemade-us.png",Tastemade
 
 #EXTINF:-1 tvg-id="History.HDTV.(East).(HISHD).us" tvg-logo="https://docdog.top/Logotv/countries//history.png",History
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/761.ts
+
 #EXTINF:-1 tvg-id="History2.Canada.(H2).ca" tvg-logo="https://docdog.top/Logotv/countries/uk/history2.png",History 2
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/6310.ts
 
 #EXTINF:-1 tvg-id="DMAX.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/dmax.png",DMAX
 
@@ -1060,28 +1068,63 @@ http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/11738.ts
 
 
 #EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbcone.png",BBC 1
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/697.ts
+
 #EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbc2.png",BBC 2
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/283047.ts
+
 #EXTINF:-1 tvg-id="BBC.Three.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbc3.png",BBC 3
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/291212.ts
+
 #EXTINF:-1 tvg-id="BBC.Four.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbc4.png",BBC 4
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/291219.ts
 
 #EXTINF:-1 tvg-id="Channel.4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/channel4.png",Channel 4
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/1120.ts
+
 #EXTINF:-1 tvg-id="4seven.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/4seven.png",4 Seven
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/4625.ts
+
 #EXTINF:-1 tvg-id="More4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/more4.png",More 4
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/280284.ts
+
 #EXTINF:-1 tvg-id="E4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/e4.png",E4
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/1110.ts
+
 #EXTINF:-1 tvg-id="Film4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/film4.png",Film 4
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/1541.ts
 
 #EXTINF:-1 tvg-id="Channel.5.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/channel5.png",Channel 5
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/1119.ts
+
+#EXTINF:-1 tvg-id="",5 Action
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/295070
+
 #EXTINF:-1 tvg-id="5SELECT.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/5select.png",5 Select
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/4631.ts
+
 #EXTINF:-1 tvg-id="5STAR.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/5star.png",5 Star
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/4633.ts
+
 #EXTINF:-1 tvg-id="5.USA.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/usa.png",5USA
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/1579.ts
 
 #EXTINF:-1 tvg-id="Challenge.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/challenge.png",Challenge
 
 #EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv1.png",ITV1
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/296931.ts
+
 #EXTINF:-1 tvg-id="ITV2.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv2.png",ITV2
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/690.ts
+
 #EXTINF:-1 tvg-id="ITV3.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv3.png",ITV3
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/703.ts
+
 #EXTINF:-1 tvg-id="ITV4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv4.png",ITV4
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/691.ts
+
 #EXTINF:-1 tvg-id="ITVBe.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itvbe.png",ITVBe
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/1560.ts
 
 
 
