@@ -779,6 +779,9 @@ http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/2330.ts
 #EXTINF:-1 tvg-id="Fuse.HDTV.(East).(FUSED).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fuse-us.png",Fuse
 http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/6361.ts
 
+#EXTINF:-1 tvg-id="HDNet.Movies.(HDNTM).us" tvg-logo="https://docdog.top/Logotv/countries//hdnetmovies.png",HDNet Movies
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/200162.ts
+
 #EXTINF:-1 tvg-id="IFC.HDTV.(East).(IFCHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/ifc-us.png",IFC
 http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/2339.ts
 
@@ -823,68 +826,280 @@ http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/13010.ts
 
 
 #EXTINF:-1 tvg-id="5StarMAX.HD.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cinemax-5-starmax-us.png",5StarMAX
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/2291.ts
+
 #EXTINF:-1 tvg-id="Five.Star.Max.HDTV.(5MXHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cinemax-5-starmax-us.png",5StarMAX
 #EXTINF:-1 tvg-id="Cinemax.HDTV.(East).(MAXHD).us" tvg-logo="https://docdog.top/Logotv/countries//cinemax.png",CineMAX
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/2261.ts
 
 #EXTINF:-1 tvg-id="ActionMAX.HDTV.(East).(AMXHD).us" tvg-logo="https://docdog.top/Logotv/countries//actionmax.png",ActionMAX
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/2274.ts
+
 #EXTINF:-1 tvg-id="More.Max.(East).(MOMAX).us" tvg-logo="https://docdog.top/Logotv/countries//cinemaxmoremax.png",MoreMAX
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/304264.ts
+
 #EXTINF:-1 tvg-id="MOVIEMAX.HDTV.(MMXHD).us" tvg-logo="https://docdog.top/Logotv/countries/turkey/movie-smart-fest-tr.png",MovieMAX
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/15110.ts
+
 #EXTINF:-1 tvg-id="OuterMax.east.us" tvg-logo="https://docdog.top/Logotv/countries//outermax.png",OuterMAX
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/304265.ts
+
 #EXTINF:-1 tvg-id="ThrillerMAX.HDTV.(East).(TMXHD).us" tvg-logo="https://docdog.top/Logotv/countries//thrillermax.png",ThrillerMAX
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/304266.ts
 
 #EXTINF:-1 tvg-id="MoviePlex.East.(MPLEX).us" tvg-logo="https://docdog.top/Logotv/countries//movieplex.png",MoviePlex
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/38477.ts
+
 #EXTINF:-1 tvg-id="IndiePlex.HDTV.(INDIEHD).us" tvg-logo="https://docdog.top/Logotv/countries//indieplex.png",IndiePlex
 #EXTINF:-1 tvg-id="RetroPlex.HDTV.(RETROHD).us" tvg-logo="https://docdog.top/Logotv/countries//retroplex.png",RetroPlex
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/76356.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Arts" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e41f551b8f8642a7a3c0c439b8b4e880.png" group-title="UK ➾ Documentary",UK: Sky Arts
+#EXTINF:-1 tvg-id="MGM+.HDTV.(East).(MGM+HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-us.png",Epix
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/15096.ts
+
+#EXTINF:-1 tvg-id="MGM+.Marquee.HDTV.(East).(MGM+MRQ).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-2-us.png",Epix 2
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/6372.ts
+
+#EXTINF:-1 tvg-id="MGM+.Drive-In.(MGM+DI).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-drive-in-us.png",Epix Drive-In
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/35054.ts
+
+#EXTINF:-1 tvg-id="MGM+.Hits.HDTV.(East).(MGM+HTHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-us.png",Epix Hits
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/6357.ts
+
+
+
+#EXTINF:-1 tvg-id="HBO.HDTV.(East).(HBOHD).us" tvg-logo="https://docdog.top/Logotv/countries//hbo.png",HBO
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/2336.ts
+
+#EXTINF:-1 tvg-id="HBO.2.HDTV.(East).(HBO2HD).us" tvg-logo="https://docdog.top/Logotv/countries//hbo.png",HBO 2
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/5844.ts
+
+#EXTINF:-1 tvg-id="HBO.Comedy.HDTV.(East).(HBOCHD).us" tvg-logo="https://docdog.top/Logotv/countries//hbocomedy.png",HBO Comedy
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/2335.ts
+
+#EXTINF:-1 tvg-id="HBO.Family.HDTV.(East).(HBOFHD).us" tvg-logo="https://docdog.top/Logotv/countries//hbofamily.png",HBO Family
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/760.ts
+
+#EXTINF:-1 tvg-id="HBO.Signature.HDTV.(East).(HBOSHD).us" tvg-logo="https://docdog.top/Logotv/countries//hbosignature.png",HBO Signature
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/6305.ts
+
+#EXTINF:-1 tvg-id="HBO.Zone.HDTV.(East).(HBOZHD).us" tvg-logo="https://docdog.top/Logotv/countries//hbozone.png",HBO Zone
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/6328.ts
+
+#EXTINF:-1 tvg-id="SCRNPIX.ScreenPix.us" tvg-logo="https://docdog.top/Logotv/countries//dumisa.png",ScreenPix
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/304345.ts
+
+#EXTINF:-1 tvg-id="SCRNACT.ScreenPix.Action.us" tvg-logo="https://docdog.top/Logotv/countries//dumisa.png",ScreenPix Action
+#EXTINF:-1 tvg-id="SCRNVOI.ScreenPix.Voices.us" tvg-logo="https://docdog.top/Logotv/countries//dumisa.png",ScreenPix Voices
+#EXTINF:-1 tvg-id="SCRNWST.ScreenPix.Westerns.us" tvg-logo="https://docdog.top/Logotv/countries//dumisa.png",ScreenPix Westerns
+
+
+#EXTINF:-1 tvg-id="Showtime.HDTV.(East).(SHOHD).us" tvg-logo="https://docdog.top/Logotv/countries//showtime.png",Showtime
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/765.ts
+
+#EXTINF:-1 tvg-id="Showtime.2.HDTV.(East).(SHO2HD).us" tvg-logo="https://docdog.top/Logotv/countries//showtime.png",Showtime 2
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/78161.ts
+
+#EXTINF:-1 tvg-id="Showtime.Extreme.(East).(SHOXe).us" tvg-logo="https://docdog.top/Logotv/countries//showtimeextreme.png",Showtime Extreme
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/12036.ts
+
+#EXTINF:-1 tvg-id="Showtime.FamilyZone.(East).(SHOFe).us" tvg-logo="https://docdog.top/Logotv/countries//showtimefamilyzone.png",Showtime Family Zone
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/16139.ts
+
+#EXTINF:-1 tvg-id="Showtime.Next.East.HDTV.(East).(SHOND).us" tvg-logo="https://docdog.top/Logotv/countries//showtimenext.png",Showtime Next
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/13008.ts
+
+#EXTINF:-1 tvg-id="Showtime.Showcase.HDTV.(East).(SHOCHD).us" tvg-logo="https://docdog.top/Logotv/countries//showtimeshowcase.png",Showtime Showcase
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/6306.ts
+
+#EXTINF:-1 tvg-id="Showtime.Women.HDTV.(East).(SHOWD).us" tvg-logo="https://docdog.top/Logotv/countries//showtimewomen.png",Showtime Women
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/12995.ts
+
+#EXTINF:-1 tvg-id="SHOxBET(East).(SHOBET).us" tvg-logo="https://docdog.top/Logotv/countries//dumisa.png",SHOxBET
+
+
+#EXTINF:-1 tvg-id="And.Flix.HD.in" tvg-logo="https://watchindia.net/images/channels/hindi/And_Flix_HD.png",& Flix
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/45506.ts
+
+#EXTINF:-1 tvg-id="And.Prive.HD.in" tvg-logo="https://watchindia.net/images/channels/english/And_Prive_HD.png",& Prive
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/49557.ts
+
+#EXTINF:-1 tvg-id="Movies.Now.HD.in" tvg-logo="https://watchindia.net/images/channels/english/Movies_Now_HD.png",Movies Now
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/169118.ts
+
+
+#EXTINF:-1 tvg-id="STARZ.HD.(East).(STZHD).us" tvg-logo="https://docdog.top/Logotv/countries//starz.png",STARZ
+#EXTINF:-1 tvg-id="STARZ.Cinema.(East).(STZCI).us" tvg-logo="https://docdog.top/Logotv/countries//starzcinema.png",STARZ Cinema
+#EXTINF:-1 tvg-id="STARZ.Comedy.HD.(East).(SZCHD).us" tvg-logo="https://docdog.top/Logotv/countries//starzcomedy.png",STARZ Comedy
+#EXTINF:-1 tvg-id="STARZ.Edge.HD.(East).(SZEHD).us" tvg-logo="https://docdog.top/Logotv/countries//starzedge.png",STARZ Edge
+#EXTINF:-1 tvg-id="STARZ.InBlack.(East).(STZ.B).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/starz-in-black-us.png",STARZ In Black
+#EXTINF:-1 tvg-id="STARZ.Kids.and.Family.HD.(East).(SZKHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/starz-us.png",STARZ Kids and Family
+#EXTINF:-1 tvg-id="STARZ.ENCORE.HD.(East).(STZEH).us" tvg-logo="https://docdog.top/Logotv/countries//starzencore.png",STARZ ENCORE
+#EXTINF:-1 tvg-id="STARZ.ENCORE.Action.(East).(STZAC).us" tvg-logo="https://docdog.top/Logotv/countries//starzencoreaction.png",STARZ ENCORE Action
+#EXTINF:-1 tvg-id="STARZ.ENCORE.Black.(East).(STZBK).us" tvg-logo="https://docdog.top/Logotv/countries//starzencoreblack.png",STARZ ENCORE Black
+#EXTINF:-1 tvg-id="STARZ.ENCORE.Classic.(East).(STZCL).us" tvg-logo="https://docdog.top/Logotv/countries//starzencoreclassic.png",STARZ ENCORE Classic
+#EXTINF:-1 tvg-id="STARZ.ENCORE.Family.(East).(STZFM).us" tvg-logo="https://docdog.top/Logotv/countries//starzencorefamily.png",STARZ ENCORE Family
+#EXTINF:-1 tvg-id="STARZ.ENCORE.Suspense.(East).(STZSU).us" tvg-logo="https://docdog.top/Logotv/countries//starzencoresuspense.png",STARZ ENCORE Suspense
+#EXTINF:-1 tvg-id="STARZ.ENCORE.Westerns.(East).(STZWS).us" tvg-logo="https://docdog.top/Logotv/countries//starzencorewestern.png",STARZ ENCORE Westerns
+
+
+
+#EXTINF:-1 tvg-id="Sky.Arts.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skyarts.png",Sky Arts
 http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/1094.ts
-#EXTINF:-1 tvg-id="skyatlantic.uk" tvg-name="UK: Sky Atlantic" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ea3a16e80ddd47e86d06303f8ff66020.png" group-title="UK ➾ Movie",UK: Sky Atlantic
+
+#EXTINF:-1 tvg-id="Sky.Atlantic.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skyatlantic.png",Sky Atlantic
 http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/1093.ts
-#EXTINF:-1 tvg-id="skyatlantic.uk" tvg-name="UK: Sky Cinema Action" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/21877e8c4862b4484909790e64710db8.png" group-title="UK ➾ Movie",UK: Sky Cinema Action
+
+#EXTINF:-1 tvg-id="Sky.Action.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaaction.png",Sky Action
 http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/1092.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Animation" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/dfd6c4c8fdd948a565e708da11dab221.png" group-title="UK ➾ Kids",UK: Sky Cinema Animation
+
+#EXTINF:-1 tvg-id="SkyAnimationHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaanimation.png",Sky Animation
 http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/1090.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Comedy" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-04/6d21135f0e527b9a916b5922486bcec6.svg" group-title="UK ➾ Movie",UK: Sky Cinema Comedy
+
+#EXTINF:-1 tvg-id="Sky.Comedy.Cinema.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemacomedy.png",Sky Cinema Comedy
 http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/300937.ts
-#EXTINF:-1 tvg-id="skydrama.uk" tvg-name="UK: Sky Cinema Drama" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/ce99abde68cf1f748161e957ca140e47.png" group-title="UK ➾ Movie",UK: Sky Cinema Drama
+
+#EXTINF:-1 tvg-id="Sky.Drama.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemadrama.png",Sky Drama
 http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/1089.ts
-#EXTINF:-1 tvg-id="skyfamily.uk" tvg-name="UK: Sky Cinema Family" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/9655820c8d0b584d8ff4178881022860.png" group-title="UK ➾ Movie",UK: Sky Cinema Family
+
+#EXTINF:-1 tvg-id="Sky.Family.HD.uk" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Family.png",Sky Family
 http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/727.ts
-#EXTINF:-1 tvg-id="skygreats.uk" tvg-name="UK: Sky Cinema Greats" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/984ca23ee3df2acd84b16320d6e878b0.png" group-title="UK ➾ Movie",UK: Sky Cinema Greats
+
+#EXTINF:-1 tvg-id="Sky.Greats.HD.uk" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Greats.png",Sky Greats
 http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/1087.ts
-#EXTINF:-1 tvg-id="skyhits.uk" tvg-name="UK: Sky Cinema Hits" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/d5825492e041478c8cad7c4303964212.png" group-title="UK ➾ Movie",UK: Sky Cinema Hits
+
+#EXTINF:-1 tvg-id="Sky.Cinema.Hits.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemahits.png",Sky Cinema Hits
 http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/1086.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Premiere" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f8b886d94093598be2136bc2e0d1fee3.png" group-title="UK ➾ Movie",UK: Sky Cinema Premiere
+
+#EXTINF:-1 tvg-id="SkyPremiereHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemapremiere.png",Sky Premiere
 http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/1085.ts
-#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-name="UK: Sky Cinema sci-fi Horror" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/71d59bc373401d25495a3af67e4c7168.png" group-title="UK ➾ Movie",UK: Sky Cinema sci-fi Horror
+
+#EXTINF:-1 tvg-id="Sky.ScFi/HorHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemasci.png",Sky Cinema ScFi
 http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/725.ts
-#EXTINF:-1 tvg-id="skyselect.uk" tvg-name="UK: Sky Cinema Select" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4d97ef6c2a49a3c596ca3a87c90751c0.png" group-title="UK ➾ Movie",UK: Sky Cinema Select
+
+#EXTINF:-1 tvg-id="Sky.Cinema.Select.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaselect.png",Sky Cinema Select
 http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/726.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Cinema Thriller" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/38c736e28e49e5ce222190667af6c8b7.png" group-title="UK ➾ Movie",UK: Sky Cinema Thriller
+
+#EXTINF:-1 tvg-id="Sky.Thriller.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemathriller.png",Sky Thriller
 http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/1082.ts
-#EXTINF:-1 tvg-id="skycinemacomedy.uk" tvg-name="UK: Sky Comedy" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/f741f51e98e04e37bc78106cae981afc.png" group-title="UK ➾ Movie",UK: Sky Comedy
+
+#EXTINF:-1 tvg-id="Sky.Comedy.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemacomedy.png",Sky Comedy
 http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/1091.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Crime" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/c454832c7f1a24ea0394a85d880bcc0b.jpg" group-title="UK ➾ Movie",UK: Sky Crime
+
+#EXTINF:-1 tvg-id="Sky.Crime.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemacrime-thriller.png",Sky Crime
 http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/15155.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Documentaries" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="UK ➾ Documentary",UK: Sky Documentaries
+
+#EXTINF:-1 tvg-id="Sky.Documentaries.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skydocumentaries.png",Sky Documentaries
 http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/187346.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky History" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-04/e47f55b99e6408c4120d6bf65445b449.svg" group-title="UK ➾ Documentary",UK: Sky History
+
+#EXTINF:-1 tvg-id="Sky.HistoryHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/history.png",Sky History
 http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/187342.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky History 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-04/42ec26c999a6f4b209457dfcdbf858b0.svg" group-title="UK ➾ Documentary",UK: Sky History 2
+
+#EXTINF:-1 tvg-id="SkyHistory2HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/history.png",Sky History 2
 http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/302705.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Kids" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/2837a06c0fe466fc9f1cf16fcc8db67d.jpg" group-title="UK ➾ Kids",UK: Sky Kids
+
+#EXTINF:-1 tvg-id="Sky.Kids.HD.uk" tvg-logo="",Sky Kids
 http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/302301.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Nature" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/c2df57a49a347d44c963911b2dd8df41.png" group-title="UK ➾ Nature",UK: Sky Nature
+
+#EXTINF:-1 tvg-id="Sky.Nature.HD.uk" tvg-logo="",Sky Nature
 http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/286909.ts
-#EXTINF:-1 tvg-id="skynews.uk" tvg-name="UK: Sky News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/54b242215ebf5c890cfdc03b82aece0c.png" group-title="UK ➾ News",UK: Sky News
+
+#EXTINF:-1 tvg-id="Sky.News.HD.uk" tvg-logo="",Sky News
 http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/1081.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky One" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/59d97222b7d71d90758196d27c9dc2ca.jpg" group-title="UK ➾ LifeStyle",UK: Sky One
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/59d97222b7d71d90758196d27c9dc2ca.jpg".Sky One
 http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/1080.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Showcase" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/f4b5e2265a16d082987dc9d5aada57dc.png" group-title="UK ➾ Movie",UK: Sky Showcase
+
+#EXTINF:-1 tvg-id="SkyShowcaseHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemashowcase.png",Sky Showcase
 http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/17041.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Witness" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/e6e70a727cd2f9105a1135d68679ce7f.png" group-title="UK ➾ Movie",UK: Sky Witness
+
+#EXTINF:-1 tvg-id="Sky.Witness.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skywitness.png",Sky Witness
 http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/11738.ts
+
+
+
+
+
+#EXTINF:-1 tvg-id="Animal.Planet.HDTV.(East).(APHD).us" tvg-logo="https://docdog.top/Logotv/countries//animalplanet.png",Animal Planet
+#EXTINF:-1 tvg-id="National.Geographic.Channel.HDTV.(NGCHD).us" tvg-logo="https://docdog.top/Logotv/countries//natgeo.png",National Geographic
+#EXTINF:-1 tvg-id="NatGeo.WILD.HDTV.(NGWILD).us" tvg-logo="https://docdog.top/Logotv/countries//natgeowild.png",NatGeo WILD
+
+#EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HDTV.(CI.HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/crime-and-investigation-us.png",Crime&Investigation
+#EXTINF:-1 tvg-id="Investigation.Discovery.HDTV.(IDHD).us" tvg-logo="https://docdog.top/Logotv/countries//investigationdiscovery.png",Investigation Discovery
+
+#EXTINF:-1 tvg-id="The.Discovery.Channel.HDTV.(East).(DSCHD).us" tvg-logo="https://docdog.top/Logotv/countries//discoverychannel.png",Discovery Channel
+#EXTINF:-1 tvg-id="Discovery.Family.Channel.HDTV.(DFCHD).us" tvg-logo="https://docdog.top/Logotv/countries//discoveryfamilychannel.png",Discovery Family
+#EXTINF:-1 tvg-id="Discovery.Life.Channel.(DLIF).us" tvg-logo="https://docdog.top/Logotv/countries//discoverylife.png",Discovery Life
+#EXTINF:-1 tvg-id="Science.HDTV.(SCIHD).us" tvg-logo="",Discovery Science
+#EXTINF:-1 tvg-id="Magnolia.Network.HDTV.(MAGNOLIA).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/galavision-us.png",Magnolia Network
+#EXTINF:-1 tvg-id="Home.and.Garden.Television.HDTV.(East).(HGTVD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/hgtv-us.png",HGTV
+#EXTINF:-1 tvg-id="FYI.HDTV.(FYIHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fyi-us.png",FYI
+#EXTINF:-1 tvg-id="The.Learning.Channel.HDTV.(East).(TLCHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/tlc-us.png",TLC
+
+#EXTINF:-1 tvg-id="Food.Network.HDTV.(East).(FOODHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/food-network-us.png",Food Network
+#EXTINF:-1 tvg-id="The.Cooking.Channel.HDTV.(COOKHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cooking-channel-us.png",Cooking Channel
+#EXTINF:-1 tvg-id="TASTE.Tastemade.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/tastemade-us.png",Tastemade
+
+#EXTINF:-1 tvg-id="History.HDTV.(East).(HISHD).us" tvg-logo="https://docdog.top/Logotv/countries//history.png",History
+#EXTINF:-1 tvg-id="History2.Canada.(H2).ca" tvg-logo="https://docdog.top/Logotv/countries/uk/history2.png",History 2
+
+#EXTINF:-1 tvg-id="DMAX.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/dmax.png",DMAX
+
+#EXTINF:-1 tvg-id="Sky.HistoryHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/history.png",Sky History
+#EXTINF:-1 tvg-id="SkyHistory2HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/history.png",Sky History 2
+
+#EXTINF:-1 tvg-id="HLN.HDTV.(HLNHD).us" tvg-logo="https://docdog.top/Logotv/countries//hln.png",HLN
+
+#EXTINF:-1 tvg-id="Great.American.Country.HDTV.(GACHD).us" tvg-logo="https://docdog.top/Logotv/countries//dumisa.png",GAC
+#EXTINF:-1 tvg-id="Great.American.Family.(GFAM).us" tvg-logo="https://docdog.top/Logotv/countries//dumisa.png",Great American Family
+#EXTINF:-1 tvg-id="Great.American.Living.(GLIV).us" tvg-logo="https://docdog.top/Logotv/countries//dumisa.png",Great American Living
+#EXTINF:-1 tvg-id="ASPiRE.SDTV.(ASPRE).us" tvg-logo="",ASPiRE
+#EXTINF:-1 tvg-id="Destination.America.HDTV.(DESTAMHD).us" tvg-logo="",Destination America
+
+
+
+#EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbcone.png",BBC 1
+#EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbc2.png",BBC 2
+#EXTINF:-1 tvg-id="BBC.Three.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbc3.png",BBC 3
+#EXTINF:-1 tvg-id="BBC.Four.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbc4.png",BBC 4
+
+#EXTINF:-1 tvg-id="Channel.4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/channel4.png",Channel 4
+#EXTINF:-1 tvg-id="4seven.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/4seven.png",4 Seven
+#EXTINF:-1 tvg-id="More4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/more4.png",More 4
+#EXTINF:-1 tvg-id="E4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/e4.png",E4
+#EXTINF:-1 tvg-id="Film4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/film4.png",Film 4
+
+#EXTINF:-1 tvg-id="Channel.5.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/channel5.png",Channel 5
+#EXTINF:-1 tvg-id="5SELECT.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/5select.png",5 Select
+#EXTINF:-1 tvg-id="5STAR.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/5star.png",5 Star
+#EXTINF:-1 tvg-id="5.USA.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/usa.png",5USA
+
+#EXTINF:-1 tvg-id="Challenge.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/challenge.png",Challenge
+
+#EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv1.png",ITV1
+#EXTINF:-1 tvg-id="ITV2.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv2.png",ITV2
+#EXTINF:-1 tvg-id="ITV3.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv3.png",ITV3
+#EXTINF:-1 tvg-id="ITV4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv4.png",ITV4
+#EXTINF:-1 tvg-id="ITVBe.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itvbe.png",ITVBe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
