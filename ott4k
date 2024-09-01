@@ -133,6 +133,8 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=479217&extension=m
 #EXTINF:-1 tvg-id="PBS.(WNET).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries//pbskids.png",PBS
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=479233&extension=m3u8
 
+#EXTINF:-1 tvg-id="Universal.Kids.HDTV.(SPROUTHD).us",UNIVERSAL KIDS
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=479236&extension=m3u8
 
 
 
