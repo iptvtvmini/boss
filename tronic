@@ -559,9 +559,16 @@ http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=11022&
 http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=657&extension=m3u8
 
 #EXTINF:-1 tvg-id="Crave.1.HDTV.(East).(CRV1H).ca" tvg-logo="",Crave 1
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626859&extension=m3u8
+
 #EXTINF:-1 tvg-id="Crave.2.HDTV.(East).(CRV2H).ca" tvg-logo="",Crave 2
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626858&extension=m3u8
+
 #EXTINF:-1 tvg-id="Crave.3.HDTV.(East).(CRV3H).ca" tvg-logo="",Crave 3
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626857&extension=m3u8
+
 #EXTINF:-1 tvg-id="Crave.4.(East).(CRVM4).ca" tvg-logo="",Crave 4
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626856&extension=m3u8
 
 #EXTINF:-1 tvg-id="CTV.Calgary.HDTV.(CTVHC).ca" tvg-logo="https://docdog.top/Logotv/countries//ctvcalgary.png",CTV
 http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=11037&extension=ts
@@ -577,6 +584,14 @@ http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=11027&
 #EXTINF:-1 tvg-id="",W Network
 http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=521535&extension=ts
 
+#EXTINF:-1 tvg-id="And.Flix.HD.in" tvg-logo="https://watchindia.net/images/channels/hindi/And_Flix_HD.png",& Flix
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/45506.ts
+
+#EXTINF:-1 tvg-id="And.Prive.HD.in" tvg-logo="https://watchindia.net/images/channels/english/And_Prive_HD.png",& Prive
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/49557.ts
+
+#EXTINF:-1 tvg-id="Movies.Now.HD.in" tvg-logo="https://watchindia.net/images/channels/english/Movies_Now_HD.png",Movies Now
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/169118.ts
 
 #EXTINF:-1 tvg-id="5StarMAX.HD.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cinemax-5-starmax-us.png",5StarMAX
 http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219194&extension=m3u8
