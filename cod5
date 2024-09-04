@@ -488,35 +488,26 @@ http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/2051.ts
 http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/1519.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="NZ - SKY SPORT 1 HD",SKY SPORT 1
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=630587&extension=ts
-
-#EXTINF:-1 tvg-id="",SKY SPORT 2
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=630588&extension=ts
-
-#EXTINF:-1 tvg-id="",SKY SPORT 3
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=630589&extension=ts
-
-#EXTINF:-1 tvg-id="",SKY SPORT 4
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=630590&extension=ts
-
-#EXTINF:-1 tvg-id="",SKY SPORT 5
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=630591&extension=ts
-
-#EXTINF:-1 tvg-id="",SKY SPORT 6
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=630592&extension=ts
-
-#EXTINF:-1 tvg-id="",SKY SPORT 7
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=630593&extension=ts
-
-#EXTINF:-1 tvg-id="",SKY SPORT 8
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=630594&extension=ts
-
-#EXTINF:-1 tvg-id="",SKY SPORT 9
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=630595&extension=ts
-
-#EXTINF:-1 tvg-id="",SKY SPORT 10
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=630596&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="NZ| SKY SPORT 1 HD",SKY SPORT 1
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=636918&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="NZ| SKY SPORT 2 HD",SKY SPORT 2
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=636919&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="NZ| SKY SPORT 3 HD",SKY SPORT 3
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=636920&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="NZ| SKY SPORT 4 HD",SKY SPORT 4
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=636921&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="NZ| SKY SPORT 5 HD",SKY SPORT 5
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=636922&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="NZ| SKY SPORT 6 HD",SKY SPORT 6
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=636923&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="NZ| SKY SPORT 7 HD",SKY SPORT 7
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=636924&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="NZ| SKY SPORT 8 HD",SKY SPORT 8
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=636925&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="NZ| SKY SPORT 9 HD",SKY SPORT 9
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=636926&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="NZ| SKY SPORT 10 SELECT HD",SKY SPORT 10 SELECT
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=636927&extension=ts
 
 
 
