@@ -491,7 +491,7 @@ http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1350&e
 http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1329&extension=m3u8
 
 #EXTINF:-1 tvg-id="E!.Entertainment.Television.Canada.HDTV.(E!).ca" tvg-logo="https://docdog.top/Logotv/countries/united-states/e-entertainment-us.png",E! (CA)
-http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=11025&extension=ts
+http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=11025&extension=m3u8
 
 #EXTINF:-1 tvg-id="Freeform.HDTV.(East).(FRFHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/freeform-us.png",Freeform
 http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1356&extension=m3u8
@@ -550,13 +550,13 @@ http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1482&e
 
 #EXTINF:-1 tvg-id="Addik.TV.HDTV.(addikd).ca",ADDIK TV
 #EXTINF:-1 tvg-id="AMC.HDTV.(Canada).(AMCHD).ca",AMC
-http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=11022&extension=ts
+http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=11022&extension=m3u8
 
 
 #EXTINF:-1 tvg-id="CBC.Toronto.HDTV.(CBLTHD).ca",CBC TORONTO
 
 #EXTINF:-1 tvg-id="CHCH.HDTV.(CHCHH).ca",CHCH
-http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=657&extension=ts
+http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=657&extension=m3u8
 
 #EXTINF:-1 tvg-id="Crave.1.HDTV.(East).(CRV1H).ca" tvg-logo="",Crave 1
 #EXTINF:-1 tvg-id="Crave.2.HDTV.(East).(CRV2H).ca" tvg-logo="",Crave 2
@@ -643,19 +643,19 @@ http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219207&extension
 
 
 #EXTINF:-1 tvg-id="Showtime.HDTV.(East).(SHOHD).us" tvg-logo="https://docdog.top/Logotv/countries//showtime.png",Showtime
-http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=462779&extension=ts
+http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=462779&extension=m3u8
 
 #EXTINF:-1 tvg-id="Showtime.2.HDTV.(East).(SHO2HD).us" tvg-logo="https://docdog.top/Logotv/countries//showtime.png",Showtime 2
-http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1371&extension=ts
+http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1371&extension=m3u8
 
 #EXTINF:-1 tvg-id="Showtime.Extreme.(East).(SHOXe).us" tvg-logo="https://docdog.top/Logotv/countries//showtimeextreme.png",Showtime Extreme
-http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1540&extension=ts
+http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1540&extension=m3u8
 
 #EXTINF:-1 tvg-id="Showtime.FamilyZone.(East).(SHOFe).us" tvg-logo="https://docdog.top/Logotv/countries//showtimefamilyzone.png",Showtime Family Zone
 http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=134163&extension=m3u8
 
 #EXTINF:-1 tvg-id="Showtime.Showcase.HDTV.(East).(SHOCHD).us",SHOWTIME SHOWCASE
-http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1522&extension=ts
+http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1522&extension=m3u8
 
 #EXTINF:-1 tvg-id="Showtime.Women.HDTV.(East).(SHOWD).us",SHOWTIME WOMEN
 http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=134165&extension=m3u8
@@ -667,37 +667,37 @@ http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=134166&extension=m3
 
 
 #EXTINF:-1 tvg-id="STARZ.HD.(East).(STZHD).us",STARZ
-http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1463&extension=ts
+http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1463&extension=m3u8
 
 #EXTINF:-1 tvg-id="STARZ.InBlack.(East).(STZ.B).us",STARZ IN BLACK
 http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=134170&extension=m3u8
 
 #EXTINF:-1 tvg-id="STARZ.Cinema.(East).(STZCI).us",STARZ CINEMA
-http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1462&extension=ts
+http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1462&extension=m3u8
 
 #EXTINF:-1 tvg-id="STARZ.Comedy.HD.(East).(SZCHD).us",STARZ COMEDY
-http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1373&extension=ts
+http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1373&extension=m3u8
 
 #EXTINF:-1 tvg-id="STARZ.Edge.HD.(East).(SZEHD).us",STARZ EDGE
-http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1461&extension=ts
+http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1461&extension=m3u8
 
 #EXTINF:-1 tvg-id="STARZ.ENCORE.HD.(East).(STZEH).us",STARZ ENCORE
-http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=41421&extension=ts
+http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=41421&extension=m3u8
 
 #EXTINF:-1 tvg-id="STARZ.ENCORE.Family.(East).(STZFM).us",STARZ ENCORE FAMILY
-http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1427&extension=ts
+http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1427&extension=m3u8
 
 #EXTINF:-1 tvg-id="STARZ.ENCORE.Westerns.(East).(STZWS).us",STARZ ENCORE WESTERNS
-http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=41419&extension=ts
+http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=41419&extension=m3u8
 
 #EXTINF:-1 tvg-id="STARZ.Kids.and.Family.HD.(East).(SZKHD).us",STARZ KIDS & FAMILY
-http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1523&extension=ts
+http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1523&extension=m3u8
 
 #EXTINF:-1 tvg-id="",Showtime Extreme
-http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1540&extension=ts
+http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1540&extension=m3u8
 
 #EXTINF:-1 tvg-id="",Starz Encore Classic
-http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=41420&extension=ts
+http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=41420&extension=m3u8
 
 #EXTINF:-1 tvg-id="SCRNPIX.ScreenPix.us" tvg-logo="https://docdog.top/Logotv/countries//dumisa.png",ScreenPix
 #EXTINF:-1 tvg-id="SCRNACT.ScreenPix.Action.us" tvg-logo="https://docdog.top/Logotv/countries//dumisa.png",ScreenPix Action
