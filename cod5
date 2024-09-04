@@ -293,16 +293,19 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577928&extension=ts
 
 
 
-#EXTINF:-1 tvg-id="Fox.Sports.1.HDTV.(FS1HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-sports-1-us.png" group-title="",FOX SPORTS 1
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487776&extension=ts
-
-#EXTINF:-1 tvg-id="Fox.Sports.2.HDTV.(FS2HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-sports-2-us.png" group-title="",FOX SPORT 2
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487775&extension=ts
-
-#EXTINF:-1 tvg-id="Fox.Soccer.Plus.(FSPLUS).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" group-title="",FOX SOCCER PLUS
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487641&extension=ts
 
 
+#EXTINF:-1 tvg-id="Altitude.Sports.and.Entertainment.(Colorado).HDTV.24/7.(ALTHD).us" tvg-logo="",Altitude Sports
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=826907&extension=ts
+
+#EXTINF:-1 tvg-id="Bally.Sports.Midwest.(St..Louis).(BSMW).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/nbc-logo-flat-us.png",Bally Sport
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=620781&extension=ts
+
+#EXTINF:-1 tvg-id="Big.Ten.Network.HDTV.(National).(BTNHD).us" tvg-logo="https://docdog.top/Logotv/countries//bigtennetwork.png",Big Ten Network
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487676&extension=ts
+
+#EXTINF:-1 tvg-id="CBS.Sports.Network.HDTV.(CBSSD).us" tvg-logo="https://docdog.top/Logotv/countries//cbssports.png",CBS Sports Network
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487785&extension=ts
 
 #EXTINF:-1 tvg-id="ESPN.HDTV.(Dish).(ESPNHD).us" tvg-logo="https://docdog.top/Logotv/countries//espn1.png" group-title="",ESPN 1
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487782&extension=ts
@@ -319,20 +322,14 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487778&extension=ts
 #EXTINF:-1 tvg-id="ESPN.Deportes.HDTV.(EDEPHD).us" tvg-logo="",ESPN Deportes
 http://wildversion.com/play/live.php?mac=00:1A:79:F1:B8:05&stream=219091&extension=ts
 
+#EXTINF:-1 tvg-id="Fox.Sports.1.HDTV.(FS1HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-sports-1-us.png" group-title="",FOX SPORTS 1
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487776&extension=ts
 
+#EXTINF:-1 tvg-id="Fox.Sports.2.HDTV.(FS2HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-sports-2-us.png" group-title="",FOX SPORT 2
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487775&extension=ts
 
-
-#EXTINF:-1 tvg-id="Altitude.Sports.and.Entertainment.(Colorado).HDTV.24/7.(ALTHD).us" tvg-logo="",Altitude Sports
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=826907&extension=ts
-
-#EXTINF:-1 tvg-id="Bally.Sports.Midwest.(St..Louis).(BSMW).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/nbc-logo-flat-us.png",Bally Sport
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=620781&extension=ts
-
-#EXTINF:-1 tvg-id="Big.Ten.Network.HDTV.(National).(BTNHD).us" tvg-logo="https://docdog.top/Logotv/countries//bigtennetwork.png",Big Ten Network
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487676&extension=ts
-
-#EXTINF:-1 tvg-id="CBS.Sports.Network.HDTV.(CBSSD).us" tvg-logo="https://docdog.top/Logotv/countries//cbssports.png",CBS Sports Network
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487785&extension=ts
+#EXTINF:-1 tvg-id="Fox.Soccer.Plus.(FSPLUS).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" group-title="",FOX SOCCER PLUS
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487641&extension=ts
 
 #EXTINF:-1 tvg-id="The.Longhorn.Network.HDTV.(LONG).us" tvg-logo="https://docdog.top/Logotv/countries//longhornnetwork.png",Longhorn Network
 
@@ -489,6 +486,38 @@ http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/305284.ts
 http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/2051.ts
 #EXTINF:-1 tvg-id="sportingtv.pt" tvg-name="PT: Sporting TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c3a532ff6be1d4a54129e69cbc6ef5b8.png",Sporting TV
 http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/1519.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="NZ - SKY SPORT 1 HD",SKY SPORT 1
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=630587&extension=ts
+
+#EXTINF:-1 tvg-id="",SKY SPORT 2
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=630588&extension=ts
+
+#EXTINF:-1 tvg-id="",SKY SPORT 3
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=630589&extension=ts
+
+#EXTINF:-1 tvg-id="",SKY SPORT 4
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=630590&extension=ts
+
+#EXTINF:-1 tvg-id="",SKY SPORT 5
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=630591&extension=ts
+
+#EXTINF:-1 tvg-id="",SKY SPORT 6
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=630592&extension=ts
+
+#EXTINF:-1 tvg-id="",SKY SPORT 7
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=630593&extension=ts
+
+#EXTINF:-1 tvg-id="",SKY SPORT 8
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=630594&extension=ts
+
+#EXTINF:-1 tvg-id="",SKY SPORT 9
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=630595&extension=ts
+
+#EXTINF:-1 tvg-id="",SKY SPORT 10
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=630596&extension=ts
+
 
 
 #EXTINF:-1 tvg-id="",ABC
