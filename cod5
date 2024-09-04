@@ -436,6 +436,7 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487804&extension=ts
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487803&extension=ts
 
 
+
 #EXTINF:-1 tvg-id="SONY.TEN.1.HD.in" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="",TEN 1
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487790&extension=ts
 
@@ -444,6 +445,9 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487789&extension=ts
 
 #EXTINF:-1 tvg-id="SONY.TEN.3.HD.in" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="",TEN 3
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487788&extension=ts
+
+
+
 
 
 
@@ -464,6 +468,18 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=901670&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-name="FR - CANAL+ SPORT 5",CANAL+ SPORT 5
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=901671&extension=ts
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="HK| NOW SPORTS 1 HD",NOW SPORTS 1
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=554949&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="HK| NOW SPORTS 2 HD",NOW SPORTS 2
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=554948&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="HK| NOW SPORTS 3 HD",NOW SPORTS 3
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=554947&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="HK| NOW SPORTS 4 HD",NOW SPORTS 4
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=554946&extension=ts
+
 
 
 #EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="PT: SPORT TV +" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/22ccb6d1c637d9b6a63d83100af972f3.png",SPORT TV +
@@ -509,6 +525,20 @@ http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=636926&ext
 #EXTINF:-1 tvg-id="" tvg-name="NZ| SKY SPORT 10 SELECT HD",SKY SPORT 10 SELECT
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=636927&extension=ts
 
+#EXTINF:-1 tvg-id="" tvg-name="AU| FOX SPORTS 501 HD",FOX SPORTS 501
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=646971&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AU| FOX SPORTS 502 HD",FOX SPORTS 502
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=646970&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AU| FOX SPORTS 503 HD",FOX SPORTS 503
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=646969&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AU| FOX SPORTS 504 HD",FOX SPORTS 504
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=646968&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AU| FOX SPORTS 505 HD",FOX SPORTS 505
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=646967&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AU| FOX SPORTS 506 HD",FOX SPORTS 506
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=646966&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="AU| FOX SPORTS 507 HD",FOX SPORTS 507
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=646965&extension=ts
 
 
 #EXTINF:-1 tvg-id="",ABC
