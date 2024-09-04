@@ -212,84 +212,84 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/index.m3u8?id=4
 http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/157485.ts
 
 #EXTINF:-1 tvg-id="Astro.SuperSport.HD.my" tvg-name="Astro SuperSport HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="",Astro SuperSport 1
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=828098&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=1016544&extension=ts
 
 #EXTINF:-1 tvg-id="Astro.SuperSport.2.HD.my" tvg-name="Astro SuperSport 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="",Astro SuperSport 2
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=828097&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=918985&extension=ts
 
 #EXTINF:-1 tvg-id="Astro.SuperSport.3.HD.my" tvg-name="Astro SuperSport 3 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="",Astro SuperSport 3
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=828096&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=918984&extension=ts
 
 #EXTINF:-1 tvg-id="Astro.SuperSport.4.HD.my" tvg-name="Astro SuperSport 4 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="",Astro SuperSport 4
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=828095&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=918983&extension=ts
 
 #EXTINF:-1 tvg-id="Astro.Supersport.5.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="",W Sport
 http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/303824.ts
 
 
 #EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="",EuroSport 1
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577985&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=30541&extension=ts
 
 #EXTINF:-1 tvg-id="Eurosport.2.HD.uk" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="",Eurosport 2
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577984&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=30540&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportlaliga.png",SuperSports Priemier League
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577930&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=144412&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportlaliga.png",SuperSports LA LIGA
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577929&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=144410&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportfootball.png",SuperSports FOOTBALL
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577920&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=144417&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety1.png",SuperSports VARIETY 1
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=828105&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=144415&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety2.png",SuperSports VARIETY 2
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=828104&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=144414&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety3.png",SuperSports VARIETY 3
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=828103&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=144419&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety4.png",SuperSports VARIETY 4
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=828102&extension=ts
-
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=1112857&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportaction.png",SuperSports ACTION
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=828119&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=1173913&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportaction.png",SuperSports BLITZ
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=828113&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=554982&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportcricket.png",SuperSports CRICKET
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=828106&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=144421&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportgolf.png",SuperSports GOLF
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577925&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=1112196&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportgrandstand.png",SuperSports GRANDSTAND
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577924&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=144413&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//supersportmaximo1.png",SuperSports MAXIMO
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577934&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportmotorsport.png",SuperSports MOTORSPORT
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577921&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=144416&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportaction.png",SuperSports PLAY 1
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577932&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=554968&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportaction.png",SuperSports PLAY 2
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577931&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=554969&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportpsl.png",SuperSports PSL
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577926&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=144411&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportrugby.png",SuperSports RUGBY
-http://supersonictv.live:8080/live/Derrick/Hitman50$/86871.ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=144420&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//supersporttennis.png",SuperSports TENNIS
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577928&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=1112195&extension=ts
+
 
 
 
@@ -302,82 +302,83 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=826907&extension=ts
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=620781&extension=ts
 
 #EXTINF:-1 tvg-id="Big.Ten.Network.HDTV.(National).(BTNHD).us" tvg-logo="https://docdog.top/Logotv/countries//bigtennetwork.png",Big Ten Network
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487676&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=174567&extension=ts
 
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HDTV.(CBSSD).us" tvg-logo="https://docdog.top/Logotv/countries//cbssports.png",CBS Sports Network
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487785&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=174582&extension=ts
 
 #EXTINF:-1 tvg-id="ESPN.HDTV.(Dish).(ESPNHD).us" tvg-logo="https://docdog.top/Logotv/countries//espn1.png" group-title="",ESPN 1
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487782&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=174655&extension=ts
 
 #EXTINF:-1 tvg-id="ESPN2.HDTV.(Dish).(ESPN2HD).us" tvg-logo="https://docdog.top/Logotv/countries//espn2.png" group-title="",ESPN 2
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487781&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=174644&extension=ts
 
 #EXTINF:-1 tvg-id="ESPN3.HDTV.(Dish).(ESPN3HD).us" tvg-logo="https://docdog.top/Logotv/countries//espn3.png" group-title="",ESPN 3
 http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/14816.ts
 
 #EXTINF:-1 tvg-id="ESPNU.HDTV.(ESPNUHD).us" tvg-logo="https://docdog.top/Logotv/countries//espnu.png" group-title="",ESPN U
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487778&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=174657&extension=ts
 
 #EXTINF:-1 tvg-id="ESPN.Deportes.HDTV.(EDEPHD).us" tvg-logo="",ESPN Deportes
 http://wildversion.com/play/live.php?mac=00:1A:79:F1:B8:05&stream=219091&extension=ts
 
 #EXTINF:-1 tvg-id="Fox.Sports.1.HDTV.(FS1HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-sports-1-us.png" group-title="",FOX SPORTS 1
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487776&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=174669&extension=ts
 
 #EXTINF:-1 tvg-id="Fox.Sports.2.HDTV.(FS2HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-sports-2-us.png" group-title="",FOX SPORT 2
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487775&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=174670&extension=ts
 
 #EXTINF:-1 tvg-id="Fox.Soccer.Plus.(FSPLUS).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" group-title="",FOX SOCCER PLUS
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487641&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=174668&extension=ts
 
 #EXTINF:-1 tvg-id="The.Longhorn.Network.HDTV.(LONG).us" tvg-logo="https://docdog.top/Logotv/countries//longhornnetwork.png",Longhorn Network
 
 #EXTINF:-1 tvg-id="MLB.Network.HDTV.(DISH).(MLBHD).us" tvg-logo="https://docdog.top/Logotv/countries//mlbnetwork.png",MLB Network
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487766&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=174747&extension=ts
 
 #EXTINF:-1 tvg-id="MSG/MSG.Plus.Alternate.HDTV.DirecTV.(MSGHDA).us" tvg-logo="https://docdog.top/Logotv/countries//msg.png",MSG
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487656&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=174755&extension=ts
 
 #EXTINF:-1 tvg-id="MSG2HD.us" tvg-logo="https://docdog.top/Logotv/countries//msg.png",MSG2
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487654&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=174753&extension=ts
 
 #EXTINF:-1 tvg-id="NBA.TV.HDTV.(NBA.HD).us" tvg-logo="https://docdog.top/Logotv/countries//nba.png",NBA TV
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487762&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=174795&extension=ts
 
 #EXTINF:-1 tvg-id="NBCSNWH.NBC.Sports.Northwest.HD.us" tvg-logo="https://docdog.top/Logotv/countries//nbcnewyork.png",NBC SPORTS
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487784&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=174799&extension=ts
 
 #EXTINF:-1 tvg-id="The.NFL.Network.HDTV.(NFLHD).us" tvg-logo="https://docdog.top/Logotv/countries//nflnetwork.png",NFL Network
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487758&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=174809&extension=ts
 
 #EXTINF:-1 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/nesn-us.png",NESN
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487668&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=174803&extension=ts
 
 #EXTINF:-1 tvg-id="NHL.Network.US.HDTV.(NHLHD).us" tvg-logo="https://docdog.top/Logotv/countries//nbaatlantahawks.png",NHL NETWORK
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487724&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=174876&extension=ts
 
 #EXTINF:-1 tvg-id="Pac-12.Network.HDTV.(PAC12).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/pac-12-los-angeles-us.png",PAC-12 NETWORK
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487652&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=174907&extension=ts
 
 #EXTINF:-1 tvg-id="SEC.Network.HDTV.(SECN).us" tvg-logo="https://docdog.top/Logotv/countries//secnetwork.png",SEC NETWORK
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487664&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=174927&extension=ts
 
 #EXTINF:-1 tvg-id="Yankees.Television.HDTV.(YESHD).us",YES NETWORK
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487657&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=175007&extension=ts
+
 
 
 #EXTINF:-1 tvg-id="Spectrum.SportsNet.LA.(SNLA).us" tvg-logo="https://docdog.top/Logotv/countries/cz/novasport1.png",SPECTRUM SPORTSNET
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487660&extension=ts
 
 #EXTINF:-1 tvg-id="SportsNet.New.York.HDTV.(SNYHD).us" tvg-logo="https://docdog.top/Logotv/countries//fubosportsnetwork.png",SportsNet NY
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487661&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=174945&extension=ts
 
 #EXTINF:-1 tvg-id="Sportsnet.360.HDTV.(360HD).ca" tvg-logo="https://docdog.top/Logotv/countries//sportsnet360.png",SPORTSNET 360
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487802&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=20504&extension=ts
 
 #EXTINF:-1 tvg-id="Sportsnet.One.HDTV.(SN1HD).ca" tvg-logo="https://docdog.top/Logotv/countries//sportsnetone.png",Sportsnet One
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487799&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=20502&extension=ts
 
 #EXTINF:-1 tvg-id="The.Sportsman.Channel.HDTV.(SPTMANHD).us" tvg-logo="https://docdog.top/Logotv/countries//sportsmanchannel.png",Sportman Channel
 
@@ -385,35 +386,30 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487799&extension=ts
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=714209&extension=ts
 
 #EXTINF:-1 tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" tvg-name="Tennis Channel HDTV (TNNSHD)" tvg-logo="https://docdog.top/Logotv/countries//tennischannel.png" group-title="",Tennis
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487689&extension=ts
-
-#EXTINF:-1 tvg-id="WWE.Network.us" tvg-name="WWE Network" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png" group-title="",WWE SportNet
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=708830&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=174979&extension=ts
 
 #EXTINF:-1 tvg-id="WWE.Network.us" tvg-name="WWE Network" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png" group-title="",WWE
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487679&extension=ts
-
-#EXTINF:-1 tvg-id="WWE.Network.us" tvg-name="WWE Network" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png" group-title="",WWE LIVE
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577949&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=175006&extension=ts
 
 #EXTINF:-1 tvg-id="World.Fishing.Network.(US).(WFN).us" tvg-logo="https://docdog.top/Logotv/countries//worldfishingnetwork.png",World Fishing Network
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487658&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=175005&extension=ts
+
 
 
 
 
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png",TNT Sport 1
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=578001&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=1458654&extension=ts
 
 #EXTINF:-1 tvg-id="TNT.Sports.2.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsports2vip.png",TNT Sport 2
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=578000&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=1458653&extension=ts
 
 #EXTINF:-1 tvg-id="TNT.Sports.3.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport3.png",TNT Sport 3
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577999&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=1458652&extension=ts
 
 #EXTINF:-1 tvg-id="TNT.Sports.4.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",TNT Sport 4
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=782732&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=1458651&extension=ts
 
 #EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",TNT Sport 5
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=774608&extension=ts
@@ -421,19 +417,19 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=774608&extension=ts
 
 
 #EXTINF:-1 tvg-id="The.Sports.Network.HDTV.(TSNHD).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn1.png" group-title="",TSN 1
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487807&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=20476&extension=ts
 
 #EXTINF:-1 tvg-id="The.Sports.Network.2.HDTV.(TSN2D).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn2.png" group-title="",TSN 2
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487806&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=20475&extension=ts
 
 #EXTINF:-1 tvg-id="The.Sports.Network.3.HDTV.(TSN3HD).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn3.png" group-title="",TSN 3
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487805&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=20474&extension=ts
 
 #EXTINF:-1 tvg-id="The.Sports.Network.4.HDTV.(TSN4H).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn4.png" group-title="",TSN 4
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487804&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=20473&extension=ts
 
 #EXTINF:-1 tvg-id="The.Sports.Network.5.HDTV.(TSN5HD).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn5.png" group-title="",TSN 5
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487803&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=20472&extension=ts
 
 
 
@@ -568,87 +564,86 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=550258&extension=ts
 
 
 #EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-name="A and E Network HDTV (A and EHD)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US001A&E-HD.png" group-title="",A&E
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469345&extension=m3u8
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=174533&extension=ts
 
 #EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-name="AMC HDTV (East) (AMCHD)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US006AMC-HD.png" group-title="",AMC
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469346&extension=m3u8
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=174541&extension=ts
 
 #EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-name="AMC HDTV (East) (AMCHD)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US006AMC-HD.png" group-title="",AMC (UK)
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577360&extension=m3u8
 
 #EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-name="Syfy HDTV (SYFYHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/syfy-us.png" group-title="",Syfy
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469431&extension=m3u8
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=174972&extension=ts
 
 #EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-name="Syfy HDTV (SYFYHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/syfy-us.png" group-title="",Syfy
 http://whyohyouhd.xyz:8080/play/live.php?mac=00:1A:79:18:05:f4&stream=1147575&extension=m3u8
 
 #EXTINF:-1 tvg-id="BBC.America.HDTV.(East).(BBC).us" tvg-name="BBC America HDTV (East) (BBC)" tvg-logo="https://docdog.top/Logotv/countries/bbcamerica.png" group-title="",BBC America
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469295&extension=m3u8
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=174553&extension=ts
 
 #EXTINF:-1 tvg-id="Black.Entertainment.Television.HDTV.(East).(BET-HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/bet-us.png",BET
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469353&extension=m3u8
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=174563&extension=ts
 
 #EXTINF:-1 tvg-id="BET.Her.HDTV.(BHERHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/bet-her-us.png",BET HER
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469355&extension=m3u8
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=174564&extension=ts
 
 #EXTINF:-1 tvg-id="Bounce.TV.(Bounce).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/bounce-us.png",Bounce TV
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469358&extension=m3u8
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=174570&extension=ts
 
 #EXTINF:-1 tvg-id="Bravo.HDTV.(East).(BRAVOD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/bravo-us.png",Bravo
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=627020&extension=m3u8
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=174571&extension=ts
 
 #EXTINF:-1 tvg-id="CMT.HDTV.(East).(CMTHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cmt-us.png",CMT
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469360&extension=m3u8
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=174592&extension=ts
 
 #EXTINF:-1 tvg-id="Cine.Sony.Television.(CSONY).us" tvg-logo="https://docdog.top/Logotv/countries//cinesony.png",Cine Sony
 #EXTINF:-1 tvg-id="Comedy.Central.HDTV.(East).(CMDHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/comedy-central-us.png",Comedy Central
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469361&extension=m3u8
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=174596&extension=ts
 
 #EXTINF:-1 tvg-id="Comet.TV.(COMET).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/comet-us.png",Comet
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469461&extension=m3u8
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=174598&extension=ts
 
 #EXTINF:-1 tvg-id="E!.Entertainment.Television.HDTV.(East).(E!.HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/e-entertainment-us.png",E!
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469381&extension=m3u8
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=174636&extension=ts
 
 #EXTINF:-1 tvg-id="E!.Entertainment.Television.Canada.HDTV.(E!).ca" tvg-logo="https://docdog.top/Logotv/countries/united-states/e-entertainment-us.png",E! (CA)
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626951&extension=m3u8
-
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=20589&extension=ts
 
 #EXTINF:-1 tvg-id="Freeform.HDTV.(East).(FRFHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/freeform-us.png",FREEFORM
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=656385&extension=m3u8
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=174692&extension=ts
 
 #EXTINF:-1 tvg-id="FX.Movie.Channel.HDTV.(FXMHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fxm-movie-channel-us.png",FXM
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=552045&extension=m3u8
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=174698&extension=ts
 
 #EXTINF:-1 tvg-id="FX.HDTV.(East).(FX.HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fx-us.png",FX
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=656132&extension=m3u8
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=174697&extension=ts
 
 #EXTINF:-1 tvg-id="FXX.HDTV.(East).(FXXHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fxx-us.png",FXX
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=687889&extension=m3u8
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=174700&extension=ts
 
 #EXTINF:-1 tvg-id="Fuse.HDTV.(East).(FUSED).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fuse-us.png",Fuse
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469387&extension=m3u8
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=174694&extension=ts
 
 #EXTINF:-1 tvg-id="Game.Show.Network.HDTV.(EAST).(GMSHWHD).us" tvg-name="Game Show Network HDTV (EAST) (GMSHWHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/game-show-network-us.png" group-title="",Game Show Network
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Game.Show.Network.HDTV.(EAST).(GMSHWHD).us" tvg-name="Game Show Network HDTV (EAST) (GMSHWHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/game-show-network-us.png" group-title="",Game Show Network
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469391&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=174710&extension=ts
 
 #EXTINF:-1 tvg-id="5e54187aae660e00093561d6" tvg-name="" tvg-logo="https://images.pluto.tv/channels/5e54187aae660e00093561d6/colorLogoPNG.png" group-title="",Game Show Central
 https://gsn-gameshowchannnel-1-us.vizio.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GameTV.(GTV).ca" tvg-logo="https://docdog.top/Logotv/countries//gameone.png",Game TV
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626942&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=174703&extension=ts
 
 #EXTINF:-1 tvg-id="GAME+.us" tvg-logo="https://docdog.top/Logotv/countries//gsn.png",GAME+
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=752916&extension=ts
 
 #EXTINF:-1 tvg-id="Challenge.uk" tvg-logo="",Challenge
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577481&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=228565&extension=ts
 
 #EXTINF:-1 tvg-id="IFC.HDTV.(East).(IFCHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/ifc-us.png",IFC
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469399&extension=m3u8
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=174730&extension=ts
 
 #EXTINF:-1 tvg-id="ION.East.Cable/Dish.(ION).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/countrypic.png",ION
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469400&extension=ts
@@ -658,31 +653,32 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469400&extension=ts
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=668934&extension=ts
 
 #EXTINF:-1 tvg-id="MTV.HDTV.(East).(MTVHD).us",MTV
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626921&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=174759&extension=ts
 
 #EXTINF:-1 tvg-id="MTV2.HDTV.(East).(MTV2HD).us",MTV 2
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626920&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=174758&extension=ts
 
 #EXTINF:-1 tvg-id="MTV.Live.HDTV.(MTVL).us",MTV LIVE
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469542&extension=ts
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=174760&extension=ts
 
 #EXTINF:-1 tvg-id="PixL.HDTV.(PixLHD).us" tvg-logo="",PixL
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469419&extension=m3u8
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=174914&extension=ts
 
 #EXTINF:-1 tvg-id="ReelzChannel.HDTV.(REELZH).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/reelz-us.png",Reelz
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469425&extension=m3u8
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=174920&extension=ts
 
 #EXTINF:-1 tvg-id="SundanceTV.HDTV.(East).(SUNHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/sundance-tv-us.png",SUNDANCE
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469530&extension=m3u8
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=174971&extension=ts
 
 #EXTINF:-1 tvg-id="TBS.Superstation.HDTV.(East).(TBSHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/tbs-us.png",TBS
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469433&extension=m3u8
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=174975&extension=ts
 
 #EXTINF:-1 tvg-id="Turner.Network.Television.HDTV.(East).(TNTHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/tnt-us.png",TNT
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22159.m3u8
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=174985&extension=ts
 
 #EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/usa-us.png",USA Network
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469444&extension=m3u8
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:7A:00:AE&stream=174998&extension=ts
+
 
 
 
