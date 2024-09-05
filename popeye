@@ -167,7 +167,7 @@ http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458649&exte
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458648&extension=ts
 
 
-#EXTINF:-1 tvg-id="",SuperSports Priemier League
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportlaliga.png",SuperSports Priemier League
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=239078&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportlaliga.png",SuperSports LA LIGA
@@ -226,40 +226,14 @@ http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=425666&exten
 
 
 
-
-#EXTINF:-1 tvg-id="Fox.Sports.1.HDTV.(FS1HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-sports-1-us.png",Fox Sports 1
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174669&extension=ts
-
-#EXTINF:-1 tvg-id="Fox.Sports.2.HDTV.(FS2HD).us" tvg-logo="https://docdog.top/Logotv/countries//foxsport2.png",Fox Sports 2
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174670&extension=ts
-
-#EXTINF:-1 tvg-id="Fox.Soccer.Plus.(FSPLUS).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png",Fox Soccer Plus
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174668&extension=ts
-
-#EXTINF:-1 tvg-id="",FOX SPORTS 501
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=646971&extension=ts
-
-#EXTINF:-1 tvg-id="",FOX SPORTS 502
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=646970&extension=ts
-
-#EXTINF:-1 tvg-id="",FOX SPORTS 503
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=646969&extension=ts
-
-#EXTINF:-1 tvg-id="",FOX SPORTS 504
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=646968&extension=ts
-
-#EXTINF:-1 tvg-id="",FOX SPORTS 505
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=646967&extension=ts
-
-#EXTINF:-1 tvg-id="",FOX SPORTS 506
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=646966&extension=ts
-
-#EXTINF:-1 tvg-id="",FOX SPORTS 507
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=646965&extension=ts
-
-
 #EXTINF:-1 tvg-id="",AT&T SPORTSNET
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174547&extension=ts
+
+#EXTINF:-1 tvg-id="Big.Ten.Network.HDTV.(National).(BTNHD).us" tvg-logo="https://docdog.top/Logotv/countries//bigtennetwork.png",Big Ten Network
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174567&extension=ts
+
+#EXTINF:-1 tvg-id="CBS.Sports.Network.HDTV.(CBSSD).us" tvg-logo="https://docdog.top/Logotv/countries//cbssports.png",CBS Sports Network
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174582&extension=ts
 
 #EXTINF:-1 tvg-id="ESPN.HDTV.(Dish).(ESPNHD).us" tvg-logo="https://docdog.top/Logotv/countries//espn1.png",ESPN
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174655&extension=ts
@@ -273,13 +247,14 @@ http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174654&exten
 #EXTINF:-1 tvg-id="ESPNU.HDTV.(ESPNUHD).us" tvg-logo="https://docdog.top/Logotv/countries//espnu.png",ESPN U
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174657&extension=ts
 
+#EXTINF:-1 tvg-id="Fox.Sports.1.HDTV.(FS1HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-sports-1-us.png",Fox Sports 1
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174669&extension=ts
 
+#EXTINF:-1 tvg-id="Fox.Sports.2.HDTV.(FS2HD).us" tvg-logo="https://docdog.top/Logotv/countries//foxsport2.png",Fox Sports 2
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174670&extension=ts
 
-#EXTINF:-1 tvg-id="Big.Ten.Network.HDTV.(National).(BTNHD).us" tvg-logo="https://docdog.top/Logotv/countries//bigtennetwork.png",Big Ten Network
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174567&extension=ts
-
-#EXTINF:-1 tvg-id="CBS.Sports.Network.HDTV.(CBSSD).us" tvg-logo="https://docdog.top/Logotv/countries//cbssports.png",CBS Sports Network
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174582&extension=ts
+#EXTINF:-1 tvg-id="Fox.Soccer.Plus.(FSPLUS).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png",Fox Soccer Plus
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174668&extension=ts
 
 #EXTINF:-1 tvg-id="",HSN
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=436113&extension=ts
@@ -447,6 +422,26 @@ http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=636926&exten
 #EXTINF:-1 tvg-id="",SKY SPORT 10
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=636927&extension=ts
 
+#EXTINF:-1 tvg-id="",FOX SPORTS 501
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=646971&extension=ts
+
+#EXTINF:-1 tvg-id="",FOX SPORTS 502
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=646970&extension=ts
+
+#EXTINF:-1 tvg-id="",FOX SPORTS 503
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=646969&extension=ts
+
+#EXTINF:-1 tvg-id="",FOX SPORTS 504
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=646968&extension=ts
+
+#EXTINF:-1 tvg-id="",FOX SPORTS 505
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=646967&extension=ts
+
+#EXTINF:-1 tvg-id="",FOX SPORTS 506
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=646966&extension=ts
+
+#EXTINF:-1 tvg-id="",FOX SPORTS 507
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=646965&extension=ts
 
 
 #EXTINF:-1 tvg-id="",ABC
