@@ -449,19 +449,29 @@ http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=636927&exten
 
 
 
+#EXTINF:-1 tvg-id="",ABC
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=627030&extension=m3u8
+
 #EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/abc-us.png",ABC 7
-http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325773&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=548879&extension=ts
 
 #EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cbs-logo-white-us.png",CBS 2
-#EXTINF:-1 tvg-id="CW.(WUPV).Richmond,.VA.us" tvg-logo="https://docdog.top/Logotv/countries//cw.png",CW 11
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=549522&extension=ts
 
-#EXTINF:-1 tvg-id="",CBN
-http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325928&extension=ts
+#EXTINF:-1 tvg-id="CW.(WUPV).Richmond,.VA.us" tvg-logo="https://docdog.top/Logotv/countries//cw.png",CW 11
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=551454&extension=ts
+
+#EXTINF:-1 tvg-id="",FOX
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626945&extension=m3u8
 
 #EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png",FOX 5
-http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=417449&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=549764&extension=ts
+
+#EXTINF:-1 tvg-id="",NBC
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626915&extension=m3u8
 
 #EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries//nbcnewyork.png",NBC 4
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=550258&extension=ts
 
 
 
@@ -469,17 +479,20 @@ http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=417449&extension
 #EXTINF:-1 tvg-id="Game.Show.Network.HDTV.(EAST).(GMSHWHD).us" tvg-name="Game Show Network HDTV (EAST) (GMSHWHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/game-show-network-us.png" group-title="",Game Show Network
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Game.Show.Network.HDTV.(EAST).(GMSHWHD).us" tvg-name="Game Show Network HDTV (EAST) (GMSHWHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/game-show-network-us.png" group-title="",Game Show Network
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174710&extension=m3u8
+
 #EXTINF:-1 tvg-id="5e54187aae660e00093561d6" tvg-name="" tvg-logo="https://images.pluto.tv/channels/5e54187aae660e00093561d6/colorLogoPNG.png" group-title="",Game Show Central
 https://gsn-gameshowchannnel-1-us.vizio.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MBC.Wanasah.(MBCW).us" tvg-name="" tvg-logo="https://i.imgur.com/AuYEozR.png" group-title="",Wanasah
-https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
 
 #EXTINF:-1 tvg-id="GameTV.(GTV).ca" tvg-logo="https://docdog.top/Logotv/countries//gameone.png",Game TV
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=20574&extension=ts
 
 #EXTINF:-1 tvg-id="GAME+.us" tvg-logo="https://docdog.top/Logotv/countries//gsn.png",GAME+
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=752916&extension=m3u8
+
+#EXTINF:-1 tvg-id="MBC.Wanasah.(MBCW).us" tvg-name="" tvg-logo="https://i.imgur.com/AuYEozR.png" group-title="",Wanasah
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
 
 #EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-logo="https://docdog.top/Logotv/countries//A&E.jpg",A&E
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174533&extension=ts
