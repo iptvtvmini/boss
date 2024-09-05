@@ -948,10 +948,16 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577901&extension=ts
 #EXTINF:-1 tvg-id="ID+1.uk",ID +1
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577494&extension=ts
 
+#EXTINF:-1 tvg-id="The.Discovery.Channel.HDTV.(East).(DSCHD).us" tvg-logo="https://docdog.top/Logotv/countries//discoverychannel.png",Discovery
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=692993&extension=m3u8
+
 #EXTINF:-1 tvg-id="The.Discovery.Channel.HDTV.(East).(DSCHD).us" tvg-logo="https://docdog.top/Logotv/countries//discoverychannel.png",Discovery Channel
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469367&extension=m3u8
 
-#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-logo="https://docdog.top/Logotv/countries//discoverychannel.png",DISCOVERY
+#EXTINF:-1 tvg-id="The.Discovery.Channel.Canada.HDTV.(TDCHD).ca" tvg-logo="https://docdog.top/Logotv/countries//discoverychannel.png",Discovery Channel (CA)
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626962&extension=m3u8
+
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-logo="https://docdog.top/Logotv/countries//discoverychannel.png",DISCOVERY (UK)
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577890&extension=ts
 
 #EXTINF:-1 tvg-id="Discovery.Family.Channel.HDTV.(DFCHD).us" tvg-logo="https://docdog.top/Logotv/countries//discoveryfamilychannel.png",Discovery Family
