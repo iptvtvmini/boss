@@ -486,7 +486,7 @@ http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174710&exten
 https://gsn-gameshowchannnel-1-us.vizio.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GameTV.(GTV).ca" tvg-logo="https://docdog.top/Logotv/countries//gameone.png",Game TV
-http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=20574&extension=ts
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174703&extension=m3u8
 
 #EXTINF:-1 tvg-id="GAME+.us" tvg-logo="https://docdog.top/Logotv/countries//gsn.png",GAME+
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=752916&extension=m3u8
