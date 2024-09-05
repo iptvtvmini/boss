@@ -701,6 +701,17 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626869&extension=m3
 #EXTINF:-1 tvg-id="YTV.HDTV.(YTVHD).ca",YTV
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626863&extension=m3u8
 
+#EXTINF:-1 tvg-id="Crave.1.HDTV.(East).(CRV1H).ca" tvg-logo="",Crave 1
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626859&extension=m3u8
+
+#EXTINF:-1 tvg-id="Crave.2.HDTV.(East).(CRV2H).ca" tvg-logo="",Crave 2
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626858&extension=m3u8
+
+#EXTINF:-1 tvg-id="Crave.3.HDTV.(East).(CRV3H).ca" tvg-logo="",Crave 3
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626857&extension=m3u8
+
+#EXTINF:-1 tvg-id="Crave.4.(East).(CRVM4).ca" tvg-logo="",Crave 4
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626856&extension=m3u8
 
 #EXTINF:-1 tvg-id="And.Flix.HD.in" tvg-logo="https://watchindia.net/images/channels/hindi/And_Flix_HD.png",& Flix
 http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/45506.ts
@@ -795,17 +806,7 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=552116&extension=m3
 #EXTINF:-1 tvg-id="HBO.Zone.HDTV.(East).(HBOZHD).us" tvg-logo="https://docdog.top/Logotv/countries//hbozone.png",HBO Zone
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=552114&extension=m3u8
 
-#EXTINF:-1 tvg-id="Crave.1.HDTV.(East).(CRV1H).ca" tvg-logo="",Crave 1
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626859&extension=m3u8
 
-#EXTINF:-1 tvg-id="Crave.2.HDTV.(East).(CRV2H).ca" tvg-logo="",Crave 2
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626858&extension=m3u8
-
-#EXTINF:-1 tvg-id="Crave.3.HDTV.(East).(CRV3H).ca" tvg-logo="",Crave 3
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626857&extension=m3u8
-
-#EXTINF:-1 tvg-id="Crave.4.(East).(CRVM4).ca" tvg-logo="",Crave 4
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626856&extension=m3u8
 
 
 #EXTINF:-1 tvg-id="Showtime.HDTV.(East).(SHOHD).us" tvg-logo="https://docdog.top/Logotv/countries//showtime.png",Showtime
