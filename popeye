@@ -144,7 +144,7 @@ http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=918984&exten
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=918983&extension=ts
 
 #EXTINF:-1 tvg-id="Astro.Supersport.5.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="",W Sport
-
+http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/303824.ts
 
 #EXTINF:-1 tvg-id="SPOTV.HD.id" tvg-name="SPOTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/456_144.png" group-title="",SPOTV
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=941564&extension=ts
@@ -675,6 +675,9 @@ http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174623&exten
 #EXTINF:-1 tvg-id="The.Discovery.Channel.HDTV.(East).(DSCHD).us" tvg-logo="https://docdog.top/Logotv/countries//discoverychannel.png",Discovery Channel
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174624&extension=m3u8
 
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-logo="https://docdog.top/Logotv/countries//discoverychannel.png",Discovery (UK)
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=1458756&extension=ts
+
 #EXTINF:-1 tvg-id="Discovery.Life.Channel.(DLIF).us" tvg-logo="https://docdog.top/Logotv/countries//discoverylife.png",Discovery Life
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174625&extension=m3u8
 
@@ -684,6 +687,8 @@ http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174626&exten
 #EXTINF:-1 tvg-id="History.HDTV.(East).(HISHD).us" tvg-logo="https://docdog.top/Logotv/countries//history.png",History
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174725&extension=m3u8
 
+#EXTINF:-1 tvg-id="History2.Canada.(H2).ca" tvg-logo="https://docdog.top/Logotv/countries/uk/history2.png",History 2
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=30535&extension=m3u8
 
 #EXTINF:-1 tvg-id="HBO.HDTV.(East).(HBOHD).us" tvg-logo="https://docdog.top/Logotv/countries//hbo.png",HBO
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174717&extension=m3u8
