@@ -605,6 +605,9 @@ http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1512&e
 #EXTINF:-1 tvg-id="Investigation.Discovery.HDTV.(IDHD).us" tvg-logo="https://docdog.top/Logotv/countries//investigationdiscovery.png",Investigation Discovery
 http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1364&extension=ts
 
+#EXTINF:-1 tvg-id="Investigation.Discovery.HDTV.(IDHD).us" tvg-logo="https://docdog.top/Logotv/countries//investigationdiscovery.png",Investigation Discovery (UK)
+http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=894&extension=ts
+
 #EXTINF:-1 tvg-id="The.Discovery.Channel.HDTV.(East).(DSCHD).us" tvg-logo="https://docdog.top/Logotv/countries//discoverychannel.png",Discovery Channel
 http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1534&extension=m3u8
 
