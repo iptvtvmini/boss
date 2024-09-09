@@ -159,16 +159,16 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/index.m3u8?id=4
 http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/157485.ts
 
 #EXTINF:-1 tvg-id="Astro.SuperSport.HD.my" tvg-name="Astro SuperSport HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="",Astro SuperSport 1
-http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/146068.ts
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=766852&extension=ts
 
 #EXTINF:-1 tvg-id="Astro.SuperSport.2.HD.my" tvg-name="Astro SuperSport 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="",Astro SuperSport 2
-http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/157556.ts
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=766853&extension=ts
 
 #EXTINF:-1 tvg-id="Astro.SuperSport.3.HD.my" tvg-name="Astro SuperSport 3 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="",Astro SuperSport 3
-http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/157557.ts
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=766854&extension=ts
 
 #EXTINF:-1 tvg-id="Astro.SuperSport.4.HD.my" tvg-name="Astro SuperSport 4 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="",Astro SuperSport 4
-http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/157558.ts
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=766855&extension=ts
 
 #EXTINF:-1 tvg-id="Astro.Supersport.5.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="",W Sport
 http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/303824.ts
