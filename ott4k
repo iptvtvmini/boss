@@ -143,8 +143,6 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=479236&extension=m
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/index.m3u8?id=4
 
 #EXTINF:-1 tvg-id="Astro.Arena.HD.my" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png" group-title="",Astro Arena
-http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/157485.ts
-
 #EXTINF:-1 tvg-id="Astro.Arena.2.HD.my" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="",Astro Arena 2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-title="",Arena Bola 1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png" group-title="",Arena Bola 2
@@ -162,15 +160,11 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=766854&extension=t
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=766855&extension=ts
 
 #EXTINF:-1 tvg-id="Astro.Supersport.5.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="",W Sport
-http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/303824.ts
+
 
 
 #EXTINF:-1 tvg-id="SPOTV.HD.id" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/456_144.png",SPOTV
-http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/165105.ts
-
 #EXTINF:-1 tvg-id="SPOTV.2.HD.id" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/456_144.png",SPOTV 2
-http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/298506.ts
-
 
 #EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png",EuroSport 1
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577985&extension=ts
