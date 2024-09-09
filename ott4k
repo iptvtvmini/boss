@@ -311,13 +311,6 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487689&extension=t
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487658&extension=ts
 
 
-#EXTINF:-1 tvg-id="TVA.Sports.HDTV.(TVASHD).ca" tvg-logo="https://docdog.top/Logotv/countries//tvasports.png",TVA SPORTS
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626271&extension=ts
-
-#EXTINF:-1 tvg-id="TVA.Sports.2.HD.(TSP2H).ca" tvg-logo="https://docdog.top/Logotv/countries//tvasports.png",TVA SPORTS 2
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626270&extension=ts
-
-
 #EXTINF:-1 tvg-id="TNT.Sports.1.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png",TNT Sport 1
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577967&extension=ts
 
@@ -349,29 +342,6 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=708839&extension=t
 
 #EXTINF:-1 tvg-id="The.Sports.Network.5.HDTV.(TSN5HD).ca" tvg-name="The Sports Network 5 HDTV (TSN5HD)" tvg-logo="https://docdog.top/Logotv/countries//tsn5.png" group-title="",TSN 5
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=708838&extension=ts
-
-
-
-#EXTINF:-1 tvg-id="",FOX SPORTS 501
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=259842&extension=ts
-
-#EXTINF:-1 tvg-id="",FOX SPORTS 502
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=259843&extension=ts
-
-#EXTINF:-1 tvg-id="",FOX SPORTS 503
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=259844&extension=ts
-
-#EXTINF:-1 tvg-id="",FOX SPORTS 504
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=259845&extension=ts
-
-#EXTINF:-1 tvg-id="",FOX SPORTS 505
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617191&extension=ts
-
-#EXTINF:-1 tvg-id="",FOX SPORTS 506
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617192&extension=ts
-
-#EXTINF:-1 tvg-id="",FOX SPORTS 507
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=259846&extension=ts
 
 
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsmainevent.png",Sky Sport Main Event
@@ -441,7 +411,26 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=630595&extension=t
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=630596&extension=ts
 
 
+#EXTINF:-1 tvg-id="",FOX SPORTS 501
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=259842&extension=ts
 
+#EXTINF:-1 tvg-id="",FOX SPORTS 502
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=259843&extension=ts
+
+#EXTINF:-1 tvg-id="",FOX SPORTS 503
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=259844&extension=ts
+
+#EXTINF:-1 tvg-id="",FOX SPORTS 504
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=259845&extension=ts
+
+#EXTINF:-1 tvg-id="",FOX SPORTS 505
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617191&extension=ts
+
+#EXTINF:-1 tvg-id="",FOX SPORTS 506
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617192&extension=ts
+
+#EXTINF:-1 tvg-id="",FOX SPORTS 507
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=259846&extension=ts
 
 
 
