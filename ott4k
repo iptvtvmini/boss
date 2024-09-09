@@ -683,6 +683,17 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626864&extension=m
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626863&extension=m3u8
 
 
+#EXTINF:-1 tvg-id="Crave.1.HDTV.(East).(CRV1H).ca",CRAVE 1
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626859&extension=m3u8
+
+#EXTINF:-1 tvg-id="Crave.2.HDTV.(East).(CRV2H).ca",CRAVE 2
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626858&extension=m3u8
+
+#EXTINF:-1 tvg-id="Crave.3.HDTV.(East).(CRV3H).ca",CRAVE 3
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626857&extension=m3u8
+
+#EXTINF:-1 tvg-id="Crave.4.(East).(CRVM4).ca",CRAVE 4
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626856&extension=m3u8
 
 
 
@@ -733,17 +744,6 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=552116&extension=m
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=552114&extension=m3u8
 
 
-#EXTINF:-1 tvg-id="Crave.1.HDTV.(East).(CRV1H).ca",CRAVE 1
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626859&extension=m3u8
-
-#EXTINF:-1 tvg-id="Crave.2.HDTV.(East).(CRV2H).ca",CRAVE 2
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626858&extension=m3u8
-
-#EXTINF:-1 tvg-id="Crave.3.HDTV.(East).(CRV3H).ca",CRAVE 3
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626857&extension=m3u8
-
-#EXTINF:-1 tvg-id="Crave.4.(East).(CRVM4).ca",CRAVE 4
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626856&extension=m3u8
 
 
 #EXTINF:-1 tvg-id="MGM+.HDTV.(East).(MGM+HD).us" tvg-name="MGM+ HDTV (East) (MGM+HD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-us.png" group-title="",EPIX
@@ -1075,21 +1075,6 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577876&extension=t
 
 
 
-#EXTINF:-1 tvg-id="Crave.1.HDTV.(East).(CRV1H).ca",Crave 1
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626859&extension=m3u8
-
-#EXTINF:-1 tvg-id="Crave.2.HDTV.(East).(CRV2H).ca",Crave 2
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626858&extension=m3u8
-
-#EXTINF:-1 tvg-id="Crave.3.HDTV.(East).(CRV3H).ca",Crave 3
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626857&extension=m3u8
-
-#EXTINF:-1 tvg-id="Crave.4.(East).(CRVM4).ca",Crave 4
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626856&extension=m3u8
-
-
-
-
 #EXTINF:-1 tvg-id="",Movie Network 1
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626881&extension=m3u8
 
@@ -1106,7 +1091,6 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626878&extension=m
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Action Movies
-http://supersonictv.live:8080/live/Derrick/Hitman50$/40480.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Comedy Movies
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617147&extension=ts
@@ -1140,8 +1124,6 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617111&extension=t
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617118&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",CHiPs
-http://supersonictv.live:8080/live/Derrick/Hitman50$/77109.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="CINEMANIA" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",CHIPS
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Bionic Woman
@@ -1158,8 +1140,6 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617093&extension=t
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=741427&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-name="CINEMANIA" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",THE TWILIGHT ZONE
-
-
 #EXTINF:-1 tvg-id="" tvg-name="CINEMANIA" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",BORDER SECURITY
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",EDDY MURPHY
