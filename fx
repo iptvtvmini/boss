@@ -107,7 +107,7 @@ https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=479211&extension=ts
 
 #EXTINF:-1 tvg-id="Cartoon.Network.HDTV.(East).(TOONHD).us" tvg-logo="https://docdog.top/Logotv/countries/uk/cartoonnetwork.png",Cartoon Network
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=479212&extension=m3u8
+http://fx-lv.com:8080/play/live.php?mac=00:1A:79:C8:7A:71&stream=61423&extension=ts
 
 #EXTINF:-1 tvg-id="Disney.Junior.HDTV.East.(DISJr).us" tvg-logo="https://docdog.top/Logotv/countries//disneyjuniorpacific.png",Disney Junior
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=479219&extension=m3u8
