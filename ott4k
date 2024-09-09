@@ -265,7 +265,6 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487775&extension=t
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487641&extension=ts
 
 #EXTINF:-1 tvg-id="The.Longhorn.Network.HDTV.(LONG).us" tvg-logo="https://docdog.top/Logotv/countries//longhornnetwork.png",Longhorn Network
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487672&extension=ts
 
 #EXTINF:-1 tvg-id="MLB.Network.HDTV.(DISH).(MLBHD).us" tvg-logo="https://docdog.top/Logotv/countries//mlbnetwork.png",MLB Network
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487766&extension=ts
@@ -283,7 +282,6 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487784&extension=t
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487724&extension=ts
 
 #EXTINF:-1 tvg-id="Pac-12.Network.HDTV.(PAC12).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/pac-12-los-angeles-us.png",PAC-12 NETWORK
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487652&extension=ts
 
 #EXTINF:-1 tvg-id="SEC.Network.HDTV.(SECN).us" tvg-logo="https://docdog.top/Logotv/countries//secnetwork.png",SEC NETWORK
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=487664&extension=ts
