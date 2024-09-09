@@ -456,16 +456,14 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/abc-us.png",ABC
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=469290&extension=m3u8
 
 #EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/abc-us.png",ABC
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=627030&extension=m3u8
 
-#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/abc-us.png",ABC 7
-http://cord-cutter.net:8080/live/95549031/69361122/120865.ts
-
 #EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cbs-logo-white-us.png",CBS 2
-http://cord-cutter.net:8080/live/95549031/69361122/120749.ts
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=469302&extension=m3u8
 
 #EXTINF:-1 tvg-id="",CNBC
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=627003&extension=m3u8
@@ -477,7 +475,7 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=549764&extension=m
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=550187&extension=m3u8
 
 #EXTINF:-1 tvg-id="CW.(WUPV).Richmond,.VA.us" tvg-logo="https://docdog.top/Logotv/countries//cw.png",CW 11
-http://cord-cutter.net:8080/live/95549031/69361122/120897.ts
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=551454&extension=m3u8
 
 
 
