@@ -471,6 +471,9 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=627003&extension=m
 #EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png",FOX 5
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=549764&extension=m3u8
 
+#EXTINF:-1 tvg-id="",FOX (CA)
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626945&extension=m3u8
+
 #EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries//nbcnewyork.png",NBC 4
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=550187&extension=m3u8
 
@@ -481,6 +484,9 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=551454&extension=m
 
 #EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-name="A and E Network HDTV (A and EHD)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US001A&E-HD.png" group-title="",A&E
 http://ott4k.me/play/live.php?mac=00:1A:79:2F:13:FC&stream=469345&extension=m3u8
+
+#EXTINF:-1 tvg-id="Investigation.Discovery.(Canada).HDTV.(ID).ca",ID CANADA
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626927&extension=m3u8
 
 #EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-name="AMC HDTV (East) (AMCHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/amc-us.png" group-title="",AMC
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=469346&extension=m3u8
@@ -603,12 +609,6 @@ http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626949&extension=m
 
 #EXTINF:-1 tvg-id="Family.Jr..(SD).(FAMJR).ca",FAMILY JR
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626948&extension=m3u8
-
-#EXTINF:-1 tvg-id="",FOX
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626945&extension=m3u8
-
-#EXTINF:-1 tvg-id="Investigation.Discovery.(Canada).HDTV.(ID).ca",ID CANADA
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626927&extension=m3u8
 
 #EXTINF:-1 tvg-id="Lifetime.Canada.HDTV.(LIFETIME).ca",LIFETIME
 http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626926&extension=m3u8
