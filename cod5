@@ -547,6 +547,12 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469346&extension=m3
 #EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-name="AMC HDTV (East) (AMCHD)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US006AMC-HD.png" group-title="",AMC (UK)
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577360&extension=m3u8
 
+#EXTINF:-1 tvg-id="AMC+.us" tvg-logo="",AMC+
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=551795&extension=m3u8
+
+#EXTINF:-1 tvg-id="AXSTV.HD.(AXSTV).us",AXS TV
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469351&extension=m3u8
+
 #EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-name="Syfy HDTV (SYFYHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/syfy-us.png" group-title="",Syfy
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469431&extension=m3u8
 
@@ -568,6 +574,18 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469358&extension=m3
 #EXTINF:-1 tvg-id="Bravo.HDTV.(East).(BRAVOD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/bravo-us.png",Bravo
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=627020&extension=m3u8
 
+#EXTINF:-1 tvg-id="",CATCHY COMEDY
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=740779&extension=m3u8
+
+#EXTINF:-1 tvg-id="",CHARGE!
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=551802&extension=m3u8
+
+#EXTINF:-1 tvg-id="",CIRCLE
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=679880&extension=m3u8
+
+#EXTINF:-1 tvg-id="",CLEO TV
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=551790&extension=m3u8
+
 #EXTINF:-1 tvg-id="CMT.HDTV.(East).(CMTHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cmt-us.png",CMT
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469360&extension=m3u8
 
@@ -578,12 +596,17 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469361&extension=m3
 #EXTINF:-1 tvg-id="Comet.TV.(COMET).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/comet-us.png",Comet
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469461&extension=m3u8
 
+#EXTINF:-1 tvg-id="The.Cowboy.Channel.(COWBOY).us" tvg-logo="",Cowboy Channel
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469331&extension=ts
+
 #EXTINF:-1 tvg-id="E!.Entertainment.Television.HDTV.(East).(E!.HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/e-entertainment-us.png",E!
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469381&extension=m3u8
 
 #EXTINF:-1 tvg-id="E!.Entertainment.Television.Canada.HDTV.(E!).ca" tvg-logo="https://docdog.top/Logotv/countries/united-states/e-entertainment-us.png",E! (CA)
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626951&extension=m3u8
 
+#EXTINF:-1 tvg-id="Fuse.HDTV.(East).(FUSED).us",FUSE
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469387&extension=ts
 
 #EXTINF:-1 tvg-id="Freeform.HDTV.(East).(FRFHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/freeform-us.png",FREEFORM
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=656385&extension=m3u8
