@@ -492,8 +492,12 @@ https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6
 #EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-logo="https://docdog.top/Logotv/countries//A&E.jpg",A&E
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174533&extension=ts
 
+
 #EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/amc-us.png",AMC
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174541&extension=m3u8
+
+#EXTINF:-1 tvg-id="Investigation.Discovery.(Canada).HDTV.(ID).ca",ID CANADA
+http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=20554&extension=ts
 
 #EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/syfy-us.png",Syfy
 http://popeye-ott.net:80/play/live.php?mac=00:1A:79:02:8C:14&stream=174972&extension=m3u8
