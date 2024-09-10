@@ -209,7 +209,6 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=479236&extension=m3
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/index.m3u8?id=4
 
 #EXTINF:-1 tvg-id="Astro.Arena.HD.my" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png" group-title="",Astro Arena
-http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/157485.ts
 
 #EXTINF:-1 tvg-id="Astro.SuperSport.HD.my" tvg-name="Astro SuperSport HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="",Astro SuperSport 1
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=828098&extension=ts
@@ -224,7 +223,7 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=828096&extension=ts
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=828095&extension=ts
 
 #EXTINF:-1 tvg-id="Astro.Supersport.5.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="",W Sport
-http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/303824.ts
+
 
 
 #EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="",EuroSport 1
@@ -286,7 +285,7 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577931&extension=ts
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577926&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportrugby.png",SuperSports RUGBY
-http://supersonictv.live:8080/live/Derrick/Hitman50$/86871.ts
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577917&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//supersporttennis.png",SuperSports TENNIS
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577928&extension=ts
@@ -314,7 +313,6 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487782&extension=ts
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487781&extension=ts
 
 #EXTINF:-1 tvg-id="ESPN3.HDTV.(Dish).(ESPN3HD).us" tvg-logo="https://docdog.top/Logotv/countries//espn3.png" group-title="",ESPN 3
-http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/14816.ts
 
 #EXTINF:-1 tvg-id="ESPNU.HDTV.(ESPNUHD).us" tvg-logo="https://docdog.top/Logotv/countries//espnu.png" group-title="",ESPN U
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487778&extension=ts
@@ -437,6 +435,48 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487803&extension=ts
 
 
 
+
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsmainevent.png",Sky Sport Main Event
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577997&extension=ts
+
+#EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsaction.png",Sky Sport Action
+http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577993&extension=ts
+
+#EXTINF:-1 tvg-id="SkySp.ArenaHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsarena.png",Sky Sport Arena
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577992&extension=ts
+
+#EXTINF:-1 tvg-id="SkySpBoxOff.uk" tvg-logo="",SkySport Box Office
+
+#EXTINF:-1 tvg-id="SkySpCricket.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-sports-cricket-uk.png",Sky Sport Cricket
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577991&extension=ts
+
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsf1.png",Sky Sport F1
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577990&extension=ts
+
+#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsfootball.png",Sky Sport Football
+#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsfootball.png",Sky Sport Football
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577995&extension=ts
+
+#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsgolf.png",Sky Sport Golf
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577987&extension=ts
+
+#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsmix.png",Sky Sport Mix
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577989&extension=ts
+
+#EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/germany/sky-sport/sky-sport-news-alt-de.png",Sky Sport News
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577994&extension=ts
+
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-sports-premier-league-uk.png",Sky Sport Primere League
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577996&extension=ts
+
+#EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsracing.png",Sky Sport Racing
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577988&extension=ts
+
+#EXTINF:-1 tvg-id="",SKY SPORTS NFL
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577993&extension=ts
+
+
+
 #EXTINF:-1 tvg-id="SONY.TEN.1.HD.in" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="",TEN 1
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487790&extension=ts
 
@@ -445,10 +485,6 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487789&extension=ts
 
 #EXTINF:-1 tvg-id="SONY.TEN.3.HD.in" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="",TEN 3
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487788&extension=ts
-
-
-
-
 
 
 #EXTINF:-1 tvg-id="" tvg-name="FR - CANAL+ SPORT FHD",CANAL+ SPORT
@@ -468,29 +504,6 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=901670&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-name="FR - CANAL+ SPORT 5",CANAL+ SPORT 5
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=901671&extension=ts
-
-
-
-#EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="PT: SPORT TV +" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/22ccb6d1c637d9b6a63d83100af972f3.png",SPORT TV +
-http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/1481.ts
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT: SPORT TV 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/10be017cdc71bdd0663e43b50d2926b6.png",SPORT TV 1
-http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/1483.ts
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT: SPORT TV 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/66ccdb4bc6b73efa2357ab9984b31af4.png",SPORT TV 2
-http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/1486.ts
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT: SPORT TV 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/d77db9165e33a177ada687f34441b6d5.png",SPORT TV 3
-http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/1489.ts
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT: SPORT TV 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/3d6b227803c54e2924e81ead82561df7.png",SPORT TV 4
-http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/1492.ts
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT: SPORT TV 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/85b1b813eeaec60854f25192a7d9519c.png",SPORT TV 5
-http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/1495.ts
-#EXTINF:-1 tvg-id="sporttv6.pt" tvg-name="PT: SPORT TV 6" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/adc5a80016d265446beedb25b16f1610.png",SPORT TV 6
-http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/281487.ts
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-08/fb8e8de4a84598487721068559d42f2c.svg",SPORT TV 7
-http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/305284.ts
-#EXTINF:-1 tvg-id="sporttvnba.pt" tvg-name="PT: SPORT TV NBA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/45d618d3296d49449610eccddda0f2b3.png",SPORT TV NBA
-http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/2051.ts
-#EXTINF:-1 tvg-id="sportingtv.pt" tvg-name="PT: Sporting TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c3a532ff6be1d4a54129e69cbc6ef5b8.png",Sporting TV
-http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/1519.ts
 
 
 
@@ -717,14 +730,8 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626857&extension=m3
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626856&extension=m3u8
 
 #EXTINF:-1 tvg-id="And.Flix.HD.in" tvg-logo="https://watchindia.net/images/channels/hindi/And_Flix_HD.png",& Flix
-http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/45506.ts
-
 #EXTINF:-1 tvg-id="And.Prive.HD.in" tvg-logo="https://watchindia.net/images/channels/english/And_Prive_HD.png",& Prive
-http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/49557.ts
-
 #EXTINF:-1 tvg-id="Movies.Now.HD.in" tvg-logo="https://watchindia.net/images/channels/english/Movies_Now_HD.png",Movies Now
-http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/169118.ts
-
 
 #EXTINF:-1 tvg-id="HDNet.Movies.(HDNTM).us" tvg-logo="https://docdog.top/Logotv/countries//hdnetmovies.png",HDNET MOVIES
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=552040&extension=m3u8
