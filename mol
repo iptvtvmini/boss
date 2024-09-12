@@ -512,6 +512,9 @@ http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=765457&extension
 #EXTINF:-1 tvg-id="FX.HDTV.(East).(FX.HD).us" tvg-name="FX HDTV (East) (FX HD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/fx-us.png",FX
 http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61401&extension=ts
 
+#EXTINF:-1 tvg-id="FX.Movie.Channel.HDTV.(FXMHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fxm-movie-channel-us.png",FXM
+http://wildversion.com/play/live.php?mac=00:1A:79:F1:B8:05&stream=218943&extension=m3u8
+
 #EXTINF:-1 tvg-id="FXX.HDTV.(East).(FXXHD).us" tvg-name="FXX HDTV (East) (FXXHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/fxx-us.png",FXX
 http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61456&extension=ts
 
