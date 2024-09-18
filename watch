@@ -29,25 +29,43 @@ https://stream.smg.my/live/tvs_1080p2628kbs/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Awesome.TV.my" tvg-name="Awesome TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png" group-title="",Awesome TV
-http://mohdtv.com:8880/live/voby3037/69246643/71149.ts
 
 #EXTINF:-1 tvg-id="Astro.Ria.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",Astro Ria
-http://mohdtv.com:8880/live/voby3037/69246643/1705.ts
 
 #EXTINF:-1 tvg-id="Astro.Ceria.HD.my" tvg-name="Astro Ceria HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png" group-title="",Astro Ceria
 
 #EXTINF:-1 tvg-id="Astro.Prima.HD.my" tvg-name="Astro Prima HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="",Astro Prima
 
 #EXTINF:-1 tvg-id="Astro.Warna.HD.my" tvg-name="Astro Warna HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="",Astro Warna
-http://mohdtv.com:8880/live/voby3037/69246643/1706.ts
+
 
 #EXTINF:-1 tvg-id="Astro.Oasis.HD.my" tvg-name="Astro Oasis HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="",Astro Oasis
-http://mohdtv.com:8880/live/voby3037/69246643/1701.ts
+
 
 #EXTINF:-1 tvg-id="Al-Hijrah.my" tvg-name="Al-Hijrah" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png" group-title="",TV Alhijrah
-http://mohdtv.com:8880/live/voby3037/69246643/71024.ts
 
+#EXTINF:-1 tvg-id="CCM.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="",CCM (ID)
 
+#EXTINF:-1 tvg-id="",Filem Mantap
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd
+
+#EXTINF:-1 tvg-id="",Drama Hebat
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
+
+#EXTINF:-1 tvg-id="",Drama HotPot
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
+
+#EXTINF:-1 tvg-id="",Lawak Sentral
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_3/dash.mpd
+
+#EXTINF:-1 tvg-id="",Travel & Taste
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd
+
+#EXTINF:-1 tvg-id="",Oh My Ceria
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
+
+#EXTINF:-1 tvg-id="",Jom Ngaji
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_6/dash.mpd
 
 #EXTINF:-1 tvg-id="RTMK05" tvg-name="Bertia RTM" tvg-logo="https://i.imgur.com/9fAlB8K.png" group-title="",Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/index.m3u8?id=5
@@ -78,8 +96,7 @@ https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="CCM.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="",CCM (ID)
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=683110&extension=ts
+
 
 
 
