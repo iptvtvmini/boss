@@ -353,13 +353,13 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497242&exte
 
 
 #EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-name="A and E Network HDTV (A and EHD)" tvg-logo="http://attp.ddns.net:25461/images/9ffd5753a3ca520dfeb483ad0e31c596.png" group-title="",A&E
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497246&extension=ts
-
-#EXTINF:-1 tvg-id="Investigation.Discovery.(Canada).HDTV.(ID).ca",ID CANADA
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=626927&extension=m3u8
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497246&extension=m3u8
 
 #EXTINF:-1 tvg-id="Investigation.Discovery.HDTV.(IDHD).us" tvg-logo="https://docdog.top/Logotv/countries//investigationdiscovery.png",Investigation Discovery
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497381&extension=m3u8
+
+#EXTINF:-1 tvg-id="Investigation.Discovery.(Canada).HDTV.(ID).ca",ID (CA)
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626960&extension=m3u8
 
 #EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-name="AMC HDTV (East) (AMCHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/amc-us.png" group-title="",AMC
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497252&extension=ts
