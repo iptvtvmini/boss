@@ -39,9 +39,26 @@ https://stream2.smg.my/live/tvs_1080p2628kbs/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax.HD.id" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png",CINEMAX
 
+#EXTINF:-1 tvg-id="HITSNOW.HD.my",HITS NOW
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BlwQgpbXjVGoVEzEKhqnaA", "kid":"/ElXO0+WS+C0BTRJjOjWLg" } ], "type":"temporary" }
+https://linear05-playback.sooka.my/CH3/masterCH3.mpd
+
 #EXTINF:-1 tvg-id="HITS.Movies.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",HITS Movies
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"qtosuCCLhbJxrcmyT4MSWg", "kid":"Wa0gWlhRQDmr6UD+G9K8lQ" } ], "type":"temporary" }
+https://linear05-playback.sooka.my/CH4/masterCH4.mpd
 
 #EXTINF:-1 tvg-id="HITS.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png",Hits
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"xN10vdm0ZXlLH7Eqq2WW+A", "kid":"rPtLDx9ZRr+nw/LnwtYNAA" } ], "type":"temporary" }
+https://linear05-playback.sooka.my/CH5/masterCH5.mpd
 
 #EXTINF:-1 tvg-id="HITS.id" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png",Hits (ID)
 
@@ -76,6 +93,9 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 #EXTINF:-1 tvg-id="",Lawak Sentral
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_3/dash.mpd
 
+#EXTINF:-1 tvg-id="",Free Movie
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-freemovies-dash-sooka-sooka/index.mpd
+
 #EXTINF:-1 tvg-id="",Travel & Taste
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd
 
@@ -84,6 +104,31 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 
 #EXTINF:-1 tvg-id="",Jom Ngaji
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_6/dash.mpd
+
+#EXTINF:-1 tvg-id="",YRF Music
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00223-unisysinfo-yrf-music-dash-sooka/index.mpd
+
+#EXTINF:-1 tvg-id="",Infamous TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01324-infamousmedia-infamoustv-dash-sooka/index.mpd
+
+#EXTINF:-1 tvg-id="",Gusto TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotv-dash-sooka/index.mpd
+
+#EXTINF:-1 tvg-id="",Tastemade
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadeintlaus-dash-sooka/index.mpd
+
+#EXTINF:-1 tvg-id="",TAYO+
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00640-lydnetwork-tayoplus-dash-sooka/index.mpd
+
+#EXTINF:-1 tvg-id="",Motor Sport
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-sooka-dash-sooka/index.mpd
+
+#EXTINF:-1 tvg-id="",Jelly Jam World
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-jellyjam-dash-sooka-test-sooka/index.mpd
+
+
+
+
 
 #EXTINF:-1 tvg-id="RTMK05" tvg-name="Bertia RTM" tvg-logo="https://i.imgur.com/9fAlB8K.png" group-title="",Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/index.m3u8?id=5
@@ -216,11 +261,18 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=479217&extension=m3
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=479236&extension=m3u8
 
 
-
 #EXTINF:-1 tvg-id="TVSUKAN" tvg-name="Sukan RTM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/58_144.png" group-title="",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/index.m3u8?id=4
 
 #EXTINF:-1 tvg-id="Astro.Arena.HD.my" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png" group-title="",Astro Arena
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CabPBCTxDnbaSsMHt+f/BA", "kid":"JK6Gd03wQo+0bxU+gWZGYg" } ], "type":"temporary" }
+https://d277c08tzca9og.cloudfront.net/CH1/masterCH1.mpd
+
+#EXTINF:-1 tvg-id="Astro.Arena.2.HD.my" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="",Astro Arena 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"JK1H9zyM//xpYdR6pVG4gg", "kid":"G15RVjjeQkO2ukmEPQvnYw" } ], "type":"temporary" }
+https://dcqkiaqc3sngm.cloudfront.net/CH1/masterCH1.mpd
 
 #EXTINF:-1 tvg-id="Astro.SuperSport.HD.my" tvg-name="Astro SuperSport HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="",Astro SuperSport 1
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=828098&extension=ts
