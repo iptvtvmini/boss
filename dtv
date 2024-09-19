@@ -547,189 +547,189 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487788&extension=ts
 
 
 #EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/abc-us.png",ABC
-http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=11195&extension=m3u8
+http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=11195&extension=ts
 
 #EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/abc-us.png",ABC 7
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=548879&extension=m3u8
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=548879&extension=ts
 
 #EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cbs-logo-white-us.png",CBS 2
-http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=279303&extension=m3u8
+http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=279303&extension=ts
 
 #EXTINF:-1 tvg-id="CW.(WUPV).Richmond,.VA.us" tvg-logo="https://docdog.top/Logotv/countries//cw.png",CW 11
-http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=279331&extension=m3u8
+http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=279331&extension=ts
 
 #EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png",FOX
 http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=279317&extension=ts
 
 #EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png",FOX 5
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=549764&extension=m3u8
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=549764&extension=ts
 
 #EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries//nbcnewyork.png",NBC
-http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=11170&extension=m3u8
+http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=11170&extension=ts
 
 #EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries//nbcnewyork.png",NBC 4
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=550258&extension=m3u8
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=550258&extension=ts
 
 
 
 #EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-name="A and E Network HDTV (A and EHD)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US001A&E-HD.png" group-title="",A&E
-http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=11196&extension=m3u8
+http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=11196&extension=ts
 
 #EXTINF:-1 tvg-id="Investigation.Discovery.HDTV.(IDHD).us" tvg-logo="https://docdog.top/Logotv/countries//investigationdiscovery.png",ID
-http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=14620&extension=m3u8
+http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=14620&extension=ts
 
 #EXTINF:-1 tvg-id="Investigation.Discovery.(Canada).HDTV.(ID).ca",ID (CA)
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626960&extension=m3u8
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626960&extension=ts
 
 #EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-name="AMC HDTV (East) (AMCHD)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US006AMC-HD.png" group-title="",AMC
-http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=11194&extension=m3u8
+http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=11194&extension=ts
 
 #EXTINF:-1 tvg-id="AMC+.us" tvg-logo="",AMC+
-http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=54246&extension=m3u8
+http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=54246&extension=ts
 
 #EXTINF:-1 tvg-id="AXSTV.HD.(AXSTV).us",AXS TV
-http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=54272&extension=m3u8
+http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=54272&extension=ts
 
 #EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-name="Syfy HDTV (SYFYHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/syfy-us.png" group-title="",Syfy
-http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=11158&extension=m3u8
+http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=11158&extension=ts
 
 #EXTINF:-1 tvg-id="BBC.America.HDTV.(East).(BBC).us" tvg-name="BBC America HDTV (East) (BBC)" tvg-logo="https://docdog.top/Logotv/countries/bbcamerica.png" group-title="",BBC America
-http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=13085&extension=m3u8
+http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=13085&extension=ts
 
 #EXTINF:-1 tvg-id="Black.Entertainment.Television.HDTV.(East).(BET-HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/bet-us.png",BET
-http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=13086&extension=m3u8
+http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=13086&extension=ts
 
 #EXTINF:-1 tvg-id="BET.Her.HDTV.(BHERHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/bet-her-us.png",BET HER
-http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=13087&extension=m3u8
+http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=13087&extension=ts
 
 #EXTINF:-1 tvg-id="Bounce.TV.(Bounce).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/bounce-us.png",Bounce TV
-http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=279305&extension=m3u8
+http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=279305&extension=ts
 
 #EXTINF:-1 tvg-id="Bravo.HDTV.(East).(BRAVOD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/bravo-us.png",Bravo
-http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=13101&extension=m3u8
+http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=13101&extension=ts
 
 #EXTINF:-1 tvg-id="CMT.HDTV.(East).(CMTHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cmt-us.png",CMT
-http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=13088&extension=m3u8
+http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=13088&extension=ts
 
 #EXTINF:-1 tvg-id="Cine.Sony.Television.(CSONY).us" tvg-logo="https://docdog.top/Logotv/countries//cinesony.png",Cine Sony
-http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=14614&extension=m3u8
+http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=14614&extension=ts
 
 #EXTINF:-1 tvg-id="Comedy.Central.HDTV.(East).(CMDHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/comedy-central-us.png",Comedy Central
-http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=11191&extension=m3u8
+http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=11191&extension=ts
 
 #EXTINF:-1 tvg-id="The.Cowboy.Channel.(COWBOY).us" tvg-logo="",Cowboy Channel
-http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=54186&extension=m3u8
+http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=54186&extension=ts
 
 #EXTINF:-1 tvg-id="E!.Entertainment.Television.HDTV.(East).(E!.HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/e-entertainment-us.png",E!
-http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=13069&extension=m3u8
+http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=13069&extension=ts
 
 #EXTINF:-1 tvg-id="E!.Entertainment.Television.Canada.HDTV.(E!).ca" tvg-logo="https://docdog.top/Logotv/countries/united-states/e-entertainment-us.png",E! (CA)
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626951&extension=m3u8
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626951&extension=ts
 
 #EXTINF:-1 tvg-id="Fuse.HDTV.(East).(FUSED).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fuse-us.png",Fuse
-http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=75374&extension=m3u8
+http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=75374&extension=ts
 
 #EXTINF:-1 tvg-id="Freeform.HDTV.(East).(FRFHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/freeform-us.png",FREEFORM
-http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=13119&extension=m3u8
+http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=13119&extension=ts
 
 #EXTINF:-1 tvg-id="FX.Movie.Channel.HDTV.(FXMHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fxm-movie-channel-us.png",FXM
-http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=54231&extension=m3u8
+http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=54231&extension=ts
 
 #EXTINF:-1 tvg-id="FX.HDTV.(East).(FX.HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fx-us.png",FX
-http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=11184&extension=m3u8
+http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=11184&extension=ts
 
 #EXTINF:-1 tvg-id="FXX.HDTV.(East).(FXXHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fxx-us.png",FXX
-http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=11183&extension=m3u8
+http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=11183&extension=ts
 
 #EXTINF:-1 tvg-id="Game.Show.Network.HDTV.(EAST).(GMSHWHD).us" tvg-name="Game Show Network HDTV (EAST) (GMSHWHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/game-show-network-us.png" group-title="",Game Show Network
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Game.Show.Network.HDTV.(EAST).(GMSHWHD).us" tvg-name="Game Show Network HDTV (EAST) (GMSHWHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/game-show-network-us.png" group-title="",Game Show Network
-http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=75949&extension=m3u8
+http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=75949&extension=ts
 
 #EXTINF:-1 tvg-id="5e54187aae660e00093561d6" tvg-name="" tvg-logo="https://images.pluto.tv/channels/5e54187aae660e00093561d6/colorLogoPNG.png" group-title="",Game Show Central
 https://gsn-gameshowchannnel-1-us.vizio.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GameTV.(GTV).ca" tvg-logo="https://docdog.top/Logotv/countries//gameone.png",Game TV
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626942&extension=m3u8
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626942&extension=ts
 
 #EXTINF:-1 tvg-id="GAME+.us" tvg-logo="https://docdog.top/Logotv/countries//gsn.png",GAME+
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=752916&extension=m3u8
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=752916&extension=ts
 
 #EXTINF:-1 tvg-id="Challenge.uk" tvg-logo="",Challenge
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577481&extension=ts
 
 #EXTINF:-1 tvg-id="HLN.HDTV.(HLNHD).us",HLN
-http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=13159&extension=m3u8
+http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=13159&extension=ts
 
 #EXTINF:-1 tvg-id="IFC.HDTV.(East).(IFCHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/ifc-us.png",IFC
-http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=13092&extension=m3u8
+http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=13092&extension=ts
 
 #EXTINF:-1 tvg-id="ION.East.Cable/Dish.(ION).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/countrypic.png",ION
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469400&extension=m3u8
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469400&extension=ts
 
 #EXTINF:-1 tvg-id="Lifetime.Movies.HDTV.(East).(LIFEMOV).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/lifetime-us.png",Lifetime Movies
-http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=75380&extension=m3u8
+http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=75380&extension=ts
 
 #EXTINF:-1 tvg-id="Lifetime.Television.HDTV.(East).(LIFEH).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/lifetime-us.png",Lifetime Television
-http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=13105&extension=m3u8
+http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=13105&extension=ts
 
 #EXTINF:-1 tvg-id="MTV.HDTV.(East).(MTVHD).us",MTV
-http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=11174&extension=m3u8
+http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=11174&extension=ts
 
 #EXTINF:-1 tvg-id="MTV2.HDTV.(East).(MTV2HD).us",MTV 2
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626920&extension=m3u8
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626920&extension=ts
 
 #EXTINF:-1 tvg-id="MTV.Live.HDTV.(MTVL).us",MTV LIVE
-http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=75390&extension=m3u8
+http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=75390&extension=ts
 
 #EXTINF:-1 tvg-id="The.Oprah.Winfrey.Network.HDTV.(East).(OWNHD).us",OWN
-http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=13108&extension=m3u8
+http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=13108&extension=ts
 
 #EXTINF:-1 tvg-id="Oxygen.(East).(OXYGN).us",OXYGEN
-http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=13107&extension=m3u8
+http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=13107&extension=ts
 
 #EXTINF:-1 tvg-id="PixL.HDTV.(PixLHD).us" tvg-logo="",PixL
-http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=276087&extension=m3u8
+http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=276087&extension=ts
 
 #EXTINF:-1 tvg-id="Pop.(East).(POP).us",POP
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469421&extension=m3u8
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469421&extension=ts
 
 #EXTINF:-1 tvg-id="Pursuit.Channel.(DISH.only).(PRST).us",PURSUIT CHANNEL
-http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=276021&extension=m3u8
+http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=276021&extension=ts
 
 #EXTINF:-1 tvg-id="ReelzChannel.HDTV.(REELZH).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/reelz-us.png",Reelz
-http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=13096&extension=m3u8
+http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=13096&extension=ts
 
 #EXTINF:-1 tvg-id="Ride.TV.in.HDTV.(RIDEHD).us",RIDE TV
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469427&extension=m3u8
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469427&extension=ts
 
 #EXTINF:-1 tvg-id="SHOxBET(East).(SHOBET).us",SHOxBET
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=946291&extension=m3u8
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=946291&extension=ts
 
 #EXTINF:-1 tvg-id="Start.TV.Network.(East.Feed).(START).us",START TV
-http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=279323&extension=m3u8
+http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=279323&extension=ts
 
 #EXTINF:-1 tvg-id="SundanceTV.HDTV.(East).(SUNHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/sundance-tv-us.png",SUNDANCE
-http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=13097&extension=m3u8
+http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=13097&extension=ts
 
 #EXTINF:-1 tvg-id="TBS.Superstation.HDTV.(East).(TBSHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/tbs-us.png",TBS
-http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=11157&extension=m3u8
+http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=11157&extension=ts
 
 #EXTINF:-1 tvg-id="Turner.Classic.Movies.HDTV.(TCMHD).us",TCM
-http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=13130&extension=m3u8
+http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=13130&extension=ts
 
 #EXTINF:-1 tvg-id="Turner.Network.Television.HDTV.(East).(TNTHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/tnt-us.png",TNT
-http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=11155&extension=m3u8
+http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=11155&extension=ts
 
 #EXTINF:-1 tvg-id="truTV.HDTV.(East).(TruTVD).us",TRUTV
-http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=14627&extension=m3u8
+http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=14627&extension=ts
 
 #EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/usa-us.png",USA Network
-http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=13099&extension=m3u8
+http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=13099&extension=ts
 
 #EXTINF:-1 tvg-id="VH1.HDTV.(East).(VH1HD).us",VH1
-http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=13100&extension=m3u8
+http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=13100&extension=ts
 
 
 
