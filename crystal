@@ -483,6 +483,8 @@ http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:AE:BD:4F&stream=154280&exten
 #EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",TNT Sport 5
 http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:AE:BD:4F&stream=154283&extension=ts
 
+#EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",TNT Sport 6
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:AE:BD:4F&stream=154284&extension=ts
 
 
 #EXTINF:-1 tvg-id="The.Sports.Network.HDTV.(TSNHD).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn1.png" group-title="",TSN 1
