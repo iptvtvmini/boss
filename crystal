@@ -469,16 +469,16 @@ http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:AE:BD:4F&stream=283202&exten
 
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png",TNT Sport 1
-http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:AE:BD:4F&stream=154270&extension=ts
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:AE:BD:4F&stream=154271&extension=ts
 
 #EXTINF:-1 tvg-id="TNT.Sports.2.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsports2vip.png",TNT Sport 2
-http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:AE:BD:4F&stream=154273&extension=ts
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:AE:BD:4F&stream=154274&extension=ts
 
 #EXTINF:-1 tvg-id="TNT.Sports.3.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport3.png",TNT Sport 3
-http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:AE:BD:4F&stream=154276&extension=ts
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:AE:BD:4F&stream=154277&extension=ts
 
 #EXTINF:-1 tvg-id="TNT.Sports.4.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",TNT Sport 4
-http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:AE:BD:4F&stream=154279&extension=ts
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:AE:BD:4F&stream=154280&extension=ts
 
 #EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",TNT Sport 5
 http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:AE:BD:4F&stream=154283&extension=ts
