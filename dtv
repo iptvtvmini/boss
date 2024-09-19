@@ -1133,65 +1133,94 @@ http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=10490&exten
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="|UK| BOX OFFICE 1" group-title="UK BOX OFFICE 24/7",|UK| BOX OFFICE 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",BOX OFFICE 1
 http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=54355&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|UK| BOX OFFICE 2" group-title="UK BOX OFFICE 24/7",|UK| BOX OFFICE 2
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",BOX OFFICE 2
 http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=54356&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|UK| BOX OFFICE 3" group-title="UK BOX OFFICE 24/7",|UK| BOX OFFICE 3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",BOX OFFICE 3
 http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=54357&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|UK| BOX OFFICE 4" group-title="UK BOX OFFICE 24/7",|UK| BOX OFFICE 4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",BOX OFFICE 4
 http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=54358&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|UK| BOX OFFICE 5" group-title="UK BOX OFFICE 24/7",|UK| BOX OFFICE 5
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",BOX OFFICE 5
 http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=54359&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|UK| BOX OFFICE 6" group-title="UK BOX OFFICE 24/7",|UK| BOX OFFICE 6
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",BOX OFFICE 6
 http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=54360&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|UK| BOX OFFICE 7" group-title="UK BOX OFFICE 24/7",|UK| BOX OFFICE 7
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",BOX OFFICE 7
 http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=54361&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|UK| BOX OFFICE 8" group-title="UK BOX OFFICE 24/7",|UK| BOX OFFICE 8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",BOX OFFICE 8
 http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=54362&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|UK| BOX OFFICE 9" group-title="UK BOX OFFICE 24/7",|UK| BOX OFFICE 9
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",BOX OFFICE 9
 http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=54363&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|UK| BOX OFFICE 10" group-title="UK BOX OFFICE 24/7",|UK| BOX OFFICE 10
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",BOX OFFICE 10
 http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=54364&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|UK| BOX OFFICE 11" group-title="UK BOX OFFICE 24/7",|UK| BOX OFFICE 11
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",BOX OFFICE 11
 http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=54365&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|UK| BOX OFFICE 12" group-title="UK BOX OFFICE 24/7",|UK| BOX OFFICE 12
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",BOX OFFICE 12
 http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=54366&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|UK| BOX OFFICE 13" group-title="UK BOX OFFICE 24/7",|UK| BOX OFFICE 13
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",BOX OFFICE 13
 http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=54367&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|UK| BOX OFFICE 14" group-title="UK BOX OFFICE 24/7",|UK| BOX OFFICE 14
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",BOX OFFICE 14
 http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=54368&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|UK| BOX OFFICE 15" group-title="UK BOX OFFICE 24/7",|UK| BOX OFFICE 15
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",BOX OFFICE 15
 http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=54369&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|UK| BOX OFFICE 16" group-title="UK BOX OFFICE 24/7",|UK| BOX OFFICE 16
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",BOX OFFICE 16
 http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=54370&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|UK| BOX OFFICE 17" group-title="UK BOX OFFICE 24/7",|UK| BOX OFFICE 17
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",BOX OFFICE 17
 http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=54371&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|UK| BOX OFFICE 18" group-title="UK BOX OFFICE 24/7",|UK| BOX OFFICE 18
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",BOX OFFICE 18
 http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=54372&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|UK| BOX OFFICE 19" group-title="UK BOX OFFICE 24/7",|UK| BOX OFFICE 19
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",BOX OFFICE 19
 http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=54373&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|UK| BOX OFFICE 20" group-title="UK BOX OFFICE 24/7",|UK| BOX OFFICE 20
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",BOX OFFICE 20
 http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=54374&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|UK| BOX OFFICE 21" group-title="UK BOX OFFICE 24/7",|UK| BOX OFFICE 21
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",BOX OFFICE 21
 http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=54375&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|UK| BOX OFFICE 22" group-title="UK BOX OFFICE 24/7",|UK| BOX OFFICE 22
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",BOX OFFICE 22
 http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=54376&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|UK| BOX OFFICE 23" group-title="UK BOX OFFICE 24/7",|UK| BOX OFFICE 23
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",BOX OFFICE 23
 http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=54377&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|UK| BOX OFFICE 24" group-title="UK BOX OFFICE 24/7",|UK| BOX OFFICE 24
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",BOX OFFICE 24
 http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=54378&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|UK| BOX OFFICE 25" group-title="UK BOX OFFICE 24/7",|UK| BOX OFFICE 25
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",BOX OFFICE 25
 http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=54379&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|UK| BOX OFFICE 26" group-title="UK BOX OFFICE 24/7",|UK| BOX OFFICE 26
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",BOX OFFICE 26
 http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=54380&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|UK| BOX OFFICE 27" group-title="UK BOX OFFICE 24/7",|UK| BOX OFFICE 27
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",BOX OFFICE 27
 http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=54381&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|UK| BOX OFFICE 28" group-title="UK BOX OFFICE 24/7",|UK| BOX OFFICE 28
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",BOX OFFICE 28
 http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=54382&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|UK| BOX OFFICE 29" group-title="UK BOX OFFICE 24/7",|UK| BOX OFFICE 29
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",BOX OFFICE 29
 http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=54383&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="|UK| BOX OFFICE 30" group-title="UK BOX OFFICE 24/7",|UK| BOX OFFICE 30
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",BOX OFFICE 30
 http://new.dtv21.org:8080/play/live.php?mac=00:1a:79:43:d8:41&stream=54384&extension=ts
 
 
