@@ -30,7 +30,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/index.m3u8?id=3
 https://stream.smg.my/live/tvs_1080p2628kbs/index.m3u8
 
 #EXTINF:-1 tvg-id="Al-Hijrah.my" tvg-name="Al-Hijrah" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png" group-title="",TV Alhijrah
-http://mohdtv.com:8880/live/voby4681/59596648/71024.ts
 
 #EXTINF:-1 tvg-id="Astro.Prima.HD.my" tvg-name="Astro Prima HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="",Astro Prima
 
@@ -99,28 +98,28 @@ https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6
 
 #EXTINF:-1 tvg-id="SHOWCASE.MOVIES.my" tvg-name="SHOWCASE MOVIES" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png" group-title="",SHOWCASE MOVIES
 #EXTINF:-1 tvg-id="Cinemax.HD.id" tvg-name="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png" group-title="",CINEMAX
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=683161&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=683161&extension=ts
 
 #EXTINF:-1 tvg-id="HITS.MOVIES.HD.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png" group-title="",HITS Movies
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=683163&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=683163&extension=ts
 
 #EXTINF:-1 tvg-id="HITS.Movies.HD.my" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png" group-title="",HITS Movies
 
 #EXTINF:-1 tvg-id="HITS.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png" group-title="",Hits
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=683145&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=683145&extension=ts
 
 #EXTINF:-1 tvg-id="HITS.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png" group-title="",Hits
 
 #EXTINF:-1 tvg-id="tvN.Movies.HD.id" tvg-name="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png" group-title="",tvN Movies
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=683149&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=683149&extension=ts
 
 #EXTINF:-1 tvg-id="Celestial.Movies.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png" group-title="",Celestial Movies
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=683142&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=683142&extension=ts
 
 #EXTINF:-1 tvg-id="Celestial.Classic.Movies.my" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="",Celestial Classic Movies (CCM)
 
 #EXTINF:-1 tvg-id="CCM.id" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="",CCM (ID)
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=683110&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=683110&extension=ts
 
 
 
@@ -138,189 +137,189 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/index.m3u8?id=4
 
 
 #EXTINF:-1 tvg-id="Astro.SuperSport.HD.my" tvg-name="Astro SuperSport HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="",Astro SuperSport 1
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=571245&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=571245&extension=ts
 
 #EXTINF:-1 tvg-id="Astro.SuperSport.2.HD.my" tvg-name="Astro SuperSport 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="",Astro SuperSport 2
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=571248&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=571248&extension=ts
 
 #EXTINF:-1 tvg-id="Astro.SuperSport.3.HD.my" tvg-name="Astro SuperSport 3 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="",Astro SuperSport 3
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=571247&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=571247&extension=ts
 
 #EXTINF:-1 tvg-id="Astro.SuperSport.4.HD.my" tvg-name="Astro SuperSport 4 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="",Astro SuperSport 4
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=571246&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=571246&extension=ts
 
 #EXTINF:-1 tvg-id="Astro.Supersport.5.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="",W Sport
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety1.png",SuperSports VARIETY 1
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=144415&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=144415&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety2.png",SuperSports VARIETY 2
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=144414&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=144414&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety3.png",SuperSports VARIETY 3
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=144419&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=144419&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety4.png",SuperSports VARIETY 4
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1112857&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=1112857&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportaction.png",SuperSports ACTION
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1173913&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=1173913&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportcricket.png",SuperSports CRICKET
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=144421&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=144421&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportfootball.png",SuperSports FOOTBALL
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=144417&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=144417&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportlaliga.png",SuperSports LA LIGA
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=144410&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=144410&extension=ts
 
 #EXTINF:-1 tvg-id="",SuperSports Priemier League
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=144412&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=144412&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//supersporttennis.png",SuperSports TENNIS
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1112195&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=1112195&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportpsl.png",SuperSports PSL
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=144411&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=144411&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportgolf.png",SuperSports GOLF
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1112196&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=1112196&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportgrandstand.png",SuperSports GRANDSTAND
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=144413&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=144413&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportrugby.png",SuperSports RUGBY
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=144420&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=144420&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportmotorsport.png",SuperSports MOTORSPORT
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=144416&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=144416&extension=ts
 
 
 
 #EXTINF:-1 tvg-id="",SuperSports PLAY 1
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=554968&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=554968&extension=ts
 
 #EXTINF:-1 tvg-id="",SuperSports PLAY 2
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=554969&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=554969&extension=ts
 
 
 #EXTINF:-1 tvg-id="",SuperSports BLITZ
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=554982&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=554982&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//supersportmaximo1.png",SuperSports MAXIMO
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=833279&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=833279&extension=ts
 
 
 
 #EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/eurosport1.png",EuroSport 1
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=30541&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=30541&extension=ts
 
 #EXTINF:-1 tvg-id="Eurosport.2.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/eurosport2.png",Eurosport 2
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=30540&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=30540&extension=ts
 
 
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png",BT Sport 1
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=79486&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=79486&extension=ts
 
 #EXTINF:-1 tvg-id="TNT.Sports.2.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsports2vip.png",BT Sport 2
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=79485&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=79485&extension=ts
 
 #EXTINF:-1 tvg-id="TNT.Sports.3.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport3.png",BT Sport 3
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=79484&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=79484&extension=ts
 
 #EXTINF:-1 tvg-id="TNT.Sports.4.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",BT 4
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1002857&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=1002857&extension=ts
 
 #EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",BT Sport 5
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1004549&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=1004549&extension=ts
 
 #EXTINF:-1 tvg-id="TNT.Sports.4.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",BT Sport ESPN
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=79483&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=79483&extension=ts
 
 
 
 
 #EXTINF:-1 tvg-id="The.Sports.Network.HDTV.(TSNHD).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn1",TSN 1
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=904216&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=904216&extension=ts
 
 #EXTINF:-1 tvg-id="The.Sports.Network.2.HDTV.(TSN2D).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn2.png",TSN 2
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=904215&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=904215&extension=ts
 
 #EXTINF:-1 tvg-id="The.Sports.Network.3.HDTV.(TSN3HD).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn3.png",TSN 3
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=904214&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=904214&extension=ts
 
 #EXTINF:-1 tvg-id="The.Sports.Network.4.HDTV.(TSN4H).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn4.png",TSN 4
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=904213&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=904213&extension=ts
 
 #EXTINF:-1 tvg-id="The.Sports.Network.5.HDTV.(TSN5HD).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn5.png",TSN 5
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=904212&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=904212&extension=ts
 
 
 
 
 #EXTINF:-1 tvg-id="ESPN.HDTV.(Dish).(ESPNHD).us" tvg-logo="https://docdog.top/Logotv/countries//espn1.png",ESPN
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45579&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45579&extension=ts
 
 #EXTINF:-1 tvg-id="ESPN2.HDTV.(Dish).(ESPN2HD).us" tvg-logo="https://docdog.top/Logotv/countries//espn2.png",ESPN 2
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45580&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45580&extension=ts
 
 #EXTINF:-1 tvg-id="",ESPN NEWS
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45578&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45578&extension=ts
 
 #EXTINF:-1 tvg-id="ESPNU.HDTV.(ESPNUHD).us" tvg-logo="https://docdog.top/Logotv/countries//espnu.png",ESPN U
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=90958&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=90958&extension=ts
 
 
 
 #EXTINF:-1 tvg-id="Fox.Sports.1.HDTV.(FS1HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-sports-1-us.png",Fox Sports 1
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45571&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45571&extension=ts
 
 #EXTINF:-1 tvg-id="Fox.Sports.2.HDTV.(FS2HD).us" tvg-logo="https://docdog.top/Logotv/countries//foxsport2.png",Fox Sports 2
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45570&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45570&extension=ts
 
 #EXTINF:-1 tvg-id="Fox.Soccer.Plus.(FSPLUS).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png",Fox Soccer Plus
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45572&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45572&extension=ts
 
 
 
 
 
 #EXTINF:-1 tvg-id="",ACC NETWORK
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=90960&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=90960&extension=ts
 
 #EXTINF:-1 tvg-id="",AFN SPORT
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1099330&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=1099330&extension=ts
 
 #EXTINF:-1 tvg-id="",ALTITUDE SPORTS
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=460918&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=460918&extension=ts
 
 #EXTINF:-1 tvg-id="",ALTITUDE SPORTS 2
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1060883&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=1060883&extension=ts
 
 #EXTINF:-1 tvg-id="",AT&T SPORTSNET SOUTHWEST
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=91892&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=91892&extension=ts
 
 #EXTINF:-1 tvg-id="",SPORTSNET PITTSBURGH
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=272825&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=272825&extension=ts
 
 
 #EXTINF:-1 tvg-id="",MASN
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1145055&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=1145055&extension=ts
 
 #EXTINF:-1 tvg-id="",MASN 2
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1292023&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=1292023&extension=ts
 
 #EXTINF:-1 tvg-id="",MARQUEE SPORTS NETWORK
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=272828&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=272828&extension=ts
 
 #EXTINF:-1 tvg-id="",ROOT SPORTS
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=272827&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=272827&extension=ts
 
 #EXTINF:-1 tvg-id="Big.Ten.Network.HDTV.(National).(BTNHD).us" tvg-logo="https://docdog.top/Logotv/countries//bigtennetwork.png",Big Ten Network
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45609&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45609&extension=ts
 
 
 
@@ -328,25 +327,25 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45609&ext
 
 
 #EXTINF:-1 tvg-id="",BEIN SPORTS 1
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45611&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45611&extension=ts
 
 #EXTINF:-1 tvg-id="",BEIN SPORTS 2
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=83953&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=83953&extension=ts
 
 #EXTINF:-1 tvg-id="",BEIN SPORTS 4
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=83954&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=83954&extension=ts
 
 #EXTINF:-1 tvg-id="",BEIN SPORTS 5
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=83955&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=83955&extension=ts
 
 #EXTINF:-1 tvg-id="",BEIN SPORTS 6
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=83956&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=83956&extension=ts
 
 #EXTINF:-1 tvg-id="",BEIN SPORTS 7
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=83957&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=83957&extension=ts
 
 #EXTINF:-1 tvg-id="",BEIN SPORTS 8
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=83958&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=83958&extension=ts
 
 
 
@@ -354,55 +353,55 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=83958&ext
 
 
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HDTV.(CBSSD).us" tvg-logo="https://docdog.top/Logotv/countries//cbssports.png",CBS Sports Network
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45601&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45601&extension=ts
 
 
 #EXTINF:-1 tvg-id="",CBS SPORTS GALAZO NETWORK
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1293199&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=1293199&extension=ts
 
 #EXTINF:-1 tvg-id="",CSN WASHINGTON
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=90940&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=90940&extension=ts
 
 #EXTINF:-1 tvg-id="The.Cowboy.Channel.(COWBOY).us" tvg-logo="",Cowboy Channel
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=91951&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=91951&extension=ts
 
 #EXTINF:-1 tvg-id="The.Longhorn.Network.HDTV.(LONG).us" tvg-logo="https://docdog.top/Logotv/countries//longhornnetwork.png",Longhorn Network
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45540&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45540&extension=ts
 
 #EXTINF:-1 tvg-id="MLB.Network.HDTV.(DISH).(MLBHD).us" tvg-logo="https://docdog.top/Logotv/countries//mlbnetwork.png",MLB Network
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45539&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45539&extension=ts
 
 #EXTINF:-1 tvg-id="NBCSNWH.NBC.Sports.Northwest.HD.us" tvg-logo="https://docdog.top/Logotv/countries//nbcnewyork.png",NBC Sport
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=234677&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=234677&extension=ts
 
 #EXTINF:-1 tvg-id="NBCSNWH.NBC.Sports.Northwest.HD.us" tvg-logo="https://docdog.top/Logotv/countries//nbcnewyork.png",NBC Sport
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1124350&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=1124350&extension=ts
 
 #EXTINF:-1 tvg-id="",NBC BAY AREA
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=91893&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=91893&extension=ts
 
 #EXTINF:-1 tvg-id="The.Golf.Channel.HDTV.(GLFHD).us" tvg-logo="https://docdog.top/Logotv/countries//nbcgolfchannel.png",NBC Golf
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45532&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45532&extension=ts
 
 
 
 #EXTINF:-1 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/nesn-us.png",NESN
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45528&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45528&extension=ts
 
 #EXTINF:-1 tvg-id="",NESN PLUS
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=91903&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=91903&extension=ts
 
 #EXTINF:-1 tvg-id="Pac-12.Network.HDTV.(PAC12).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/pac-12-los-angeles-us.png",PAC-12 NETWORK
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45511&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45511&extension=ts
 
 #EXTINF:-1 tvg-id="SEC.Network.HDTV.(SECN).us" tvg-logo="https://docdog.top/Logotv/countries//secnetwork.png",SEC NETWORK
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45506&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45506&extension=ts
 
 #EXTINF:-1 tvg-id="The.Sportsman.Channel.HDTV.(SPTMANHD).us" tvg-logo="https://docdog.top/Logotv/countries//sportsmanchannel.png",Sportman Channel
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=91873&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=91873&extension=ts
 
 #EXTINF:-1 tvg-id="SportsNet.New.York.HDTV.(SNYHD).us" tvg-logo="https://docdog.top/Logotv/countries//fubosportsnetwork.png",SportsNet NY
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=90946&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=90946&extension=ts
 
 
 
@@ -413,210 +412,210 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=90946&ext
 
 
 #EXTINF:-1 tvg-id="",TVG NETWORK
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=91939&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=91939&extension=ts
 
 #EXTINF:-1 tvg-id="",TVG NETWORK 2
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=91940&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=91940&extension=ts
 
 #EXTINF:-1 tvg-id="World.Fishing.Network.(US).(WFN).us" tvg-logo="https://docdog.top/Logotv/countries//worldfishingnetwork.png",World Fishing Network
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=91906&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=91906&extension=ts
 
 
 
 #EXTINF:-1 tvg-id="The.Golf.Channel.HDTV.(GLFHD).us" tvg-logo="https://docdog.top/Logotv/countries//nbcgolfchannel.png",Golf Channel
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45554&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45554&extension=ts
 
 #EXTINF:-1 tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" tvg-logo="https://docdog.top/Logotv/countries//tennischannel.png",Tennis
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45474&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45474&extension=ts
 
 #EXTINF:-1 tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" tvg-logo="https://docdog.top/Logotv/countries//tennischannel.png",Tennis
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=811667&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=811667&extension=ts
 
 #EXTINF:-1 tvg-id="Willow.Cricket.HDTV.(WILLHD).us" tvg-logo="https://docdog.top/Logotv/countries//willowcricket.png",Willow Cricket
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45463&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45463&extension=ts
 
 #EXTINF:-1 tvg-id="WWE.Network.us" tvg-logo="https://docdog.top/Logotv/countries//wwenetwork.png",WWE
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45462&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45462&extension=ts
 
 #EXTINF:-1 tvg-id="",YES NETWORK
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=90970&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=90970&extension=ts
 
 
 
 
 #EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsaction.png",Sky Sport Action
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=83456&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=83456&extension=ts
 
 #EXTINF:-1 tvg-id="SkySp.ArenaHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsarena.png",Sky Sport Arena
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=83455&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=83455&extension=ts
 
 #EXTINF:-1 tvg-id="SkySpBoxOff.uk" tvg-logo="",SkySport Box Office
 #EXTINF:-1 tvg-id="SkySpCricket.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-sports-cricket-uk.png",Sky Sport Cricket
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=83454&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=83454&extension=ts
 
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsf1.png",Sky Sport F1
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=83453&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=83453&extension=ts
 
 #EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsfootball.png",Sky Sport Football
 
 
 #EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsfootball.png",Sky Sport Football
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=83452&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=83452&extension=ts
 
 #EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsgolf.png",Sky Sport Golf
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=83451&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=83451&extension=ts
 
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsmainevent.png",Sky Sport Main Event
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=83450&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=83450&extension=ts
 
 #EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsmix.png",Sky Sport Mix
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=83449&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=83449&extension=ts
 
 #EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/germany/sky-sport/sky-sport-news-alt-de.png",Sky Sport News
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=83448&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=83448&extension=ts
 
 #EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-sports-premier-league-uk.png",Sky Sport Primere League
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=83447&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=83447&extension=ts
 
 #EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsracing.png",Sky Sport Racing
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=83446&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=83446&extension=ts
 
 #EXTINF:-1 tvg-id="",SKY SPORTS TENNIS
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1454231&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=1454231&extension=ts
 
 
 
 #EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/abc-us.png",ABC 7
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45439&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45439&extension=ts
 
 
 
 
 #EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US001A&E-HD.png",A&E
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45619&extension=m3u8
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45619&extension=m3u8
 
 #EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/amc-us.png",AMC
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45445&extension=m3u8
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45445&extension=m3u8
 
 #EXTINF:-1 tvg-id="AMC+.us" tvg-logo="",AMC+
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=534381&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=534381&extension=ts
 
 #EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/syfy-us.png",Syfy
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45476&extension=m3u8
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45476&extension=m3u8
 
 #EXTINF:-1 tvg-id="American.Heroes.Channel.(AHC).us" tvg-logo="https://docdog.top/Logotv/countries//americanheroeschannel.png",American Heroes
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45613&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45613&extension=ts
 
 #EXTINF:-1 tvg-id="",ANTENNA TV
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=398879&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=398879&extension=ts
 
 #EXTINF:-1 tvg-id="",ASPIRE
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=91763&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=91763&extension=ts
 
 #EXTINF:-1 tvg-id="",AWE
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=91955&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=91955&extension=ts
 
 #EXTINF:-1 tvg-id="",AXS TV
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=91760&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=91760&extension=ts
 
 #EXTINF:-1 tvg-id="BBC.America.HDTV.(East).(BBC).us" tvg-logo="https://docdog.top/Logotv/countries/bbcamerica.png",BBC America
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45612&extension=m3u8
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45612&extension=m3u8
 
 #EXTINF:-1 tvg-id="Black.Entertainment.Television.HDTV.(East).(BET-HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/bet-us.png",BET
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45610&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45610&extension=ts
 
 #EXTINF:-1 tvg-id="BET.Her.HDTV.(BHERHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/bet-her-us.png",BET HER
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=91768&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=91768&extension=ts
 
 #EXTINF:-1 tvg-id="",BLAZE TV
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1150047&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=1150047&extension=ts
 
 #EXTINF:-1 tvg-id=""BOUNCE TV
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=91771&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=91771&extension=ts
 
 #EXTINF:-1 tvg-id="Bounce.TV.(Bounce).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/bounce-us.png",Bounce TV
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=730910&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=730910&extension=ts
 
 #EXTINF:-1 tvg-id="Bravo.HDTV.(East).(BRAVOD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/bravo-us.png",Bravo
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45446&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45446&extension=ts
 
 #EXTINF:-1 tvg-id="",CHARGE!
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=789119&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=789119&extension=ts
 
 #EXTINF:-1 tvg-id="",CMT HD
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=90937&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=90937&extension=ts
 
 #EXTINF:-1 tvg-id="Comedy.Central.HDTV.(East).(CMDHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/comedy-central-us.png",Comedy Central
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45448&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45448&extension=ts
 
 #EXTINF:-1 tvg-id="Comet.TV.(COMET).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/comet-us.png",Comet
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=91807&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=91807&extension=ts
 
 #EXTINF:-1 tvg-id="E!.Entertainment.Television.HDTV.(East).(E!.HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/e-entertainment-us.png",E!
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45584&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45584&extension=ts
 
 #EXTINF:-1 tvg-id="Freeform.HDTV.(East).(FRFHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/freeform-us.png",Freeform
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45557&extension=m3u8
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45557&extension=m3u8
 
 #EXTINF:-1 tvg-id="Fuse.HDTV.(East).(FUSED).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fuse-us.png",Fuse
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=91910&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=91910&extension=ts
 
 #EXTINF:-1 tvg-id="FX.HDTV.(East).(FX.HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fx-us.png",FX
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45451&extension=m3u8
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45451&extension=m3u8
 
 #EXTINF:-1 tvg-id="FX.Movie.Channel.HDTV.(FXMHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fxm-movie-channel-us.png",FXM
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45450&extension=m3u8
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45450&extension=m3u8
 
 #EXTINF:-1 tvg-id="FXX.HDTV.(East).(FXXHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fxx-us.png",FXX
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45449&extension=m3u8
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45449&extension=m3u8
 
 #EXTINF:-1 tvg-id="",GAME TV
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45472&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45472&extension=ts
 
 #EXTINF:-1 tvg-id="",HLN
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=91857&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=91857&extension=ts
 
 #EXTINF:-1 tvg-id="IFC.HDTV.(East).(IFCHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/ifc-us.png",IFC
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45544&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45544&extension=ts
 
 #EXTINF:-1 tvg-id="ION.East.Cable/Dish.(ION).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/countrypic.png",ION
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=872292&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=872292&extension=ts
 
 #EXTINF:-1 tvg-id="MTV.HDTV.(East).(MTVHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/mtv-us.png",MTV
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45461&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45461&extension=ts
 
 #EXTINF:-1 tvg-id="MTV2.HDTV.(East).(MTV2HD).us" tvg-logo="https://docdog.top/Logotv/countries/uk/mtv.png",MTV2
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=90963&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=90963&extension=ts
 
 #EXTINF:-1 tvg-id="PixL.HDTV.(PixLHD).us" tvg-logo="",PixL
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=91937&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=91937&extension=ts
 
 #EXTINF:-1 tvg-id="ReelzChannel.HDTV.(REELZH).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/reelz-us.png",Reelz
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45508&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45508&extension=ts
 
 #EXTINF:-1 tvg-id="SundanceTV.HDTV.(East).(SUNHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/sundance-tv-us.png",SundanceTV
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45477&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45477&extension=ts
 
 #EXTINF:-1 tvg-id="TBS.Superstation.HDTV.(East).(TBSHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/tbs-us.png",TBS
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45475&extension=m3u8
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45475&extension=m3u8
 
 #EXTINF:-1 tvg-id="Turner.Network.Television.HDTV.(East).(TNTHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/tnt-us.png",TNT
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45470&extension=m3u8
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45470&extension=m3u8
 
 #EXTINF:-1 tvg-id="truTV.HDTV.(East).(TruTVD).us" tvg-logo="",truTV
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45468&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45468&extension=ts
 
 #EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/usa-us.png",USA Network
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45466&extension=m3u8
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45466&extension=m3u8
 
 #EXTINF:-1 tvg-id="",VH1
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45436&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45436&extension=ts
 
 #EXTINF:-1 tvg-id="",WE TV
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45464&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45464&extension=ts
 
 #EXTINF:-1 tvg-id="",WGN9
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=290879&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=290879&extension=ts
 
 
 
@@ -625,51 +624,51 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=290879&ex
 
 
 #EXTINF:-1 tvg-id="5StarMAX.HD.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cinemax-5-starmax-us.png",5StarMAX
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45597&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45597&extension=ts
 
 #EXTINF:-1 tvg-id="Cinemax.HDTV.(East).(MAXHD).us" tvg-logo="https://docdog.top/Logotv/countries//cinemax.png",CineMAX
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45599&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45599&extension=ts
 
 #EXTINF:-1 tvg-id="MOVIEMAX.HDTV.(MMXHD).us" tvg-logo="https://docdog.top/Logotv/countries/turkey/movie-smart-fest-tr.png",MovieMAX
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45596&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45596&extension=ts
 
 
 
 #EXTINF:-1 tvg-id="ActionMAX.HDTV.(East).(AMXHD).us" tvg-logo="https://docdog.top/Logotv/countries//actionmax.png",ActionMAX
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45618&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45618&extension=ts
 
 #EXTINF:-1 tvg-id="ThrillerMAX.HDTV.(East).(TMXHD).us" tvg-logo="https://docdog.top/Logotv/countries//thrillermax.png",ThrillerMAX
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45595&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45595&extension=ts
 
 #EXTINF:-1 tvg-id="More.Max.(East).(MOMAX).us" tvg-logo="https://docdog.top/Logotv/countries//cinemaxmoremax.png",MoreMAX
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45538&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45538&extension=ts
 
 #EXTINF:-1 tvg-id="OuterMax.east.us" tvg-logo="https://docdog.top/Logotv/countries//outermax.png",OuterMAX
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45519&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45519&extension=ts
 
 #EXTINF:-1 tvg-id="IndiePlex.HDTV.(INDIEHD).us" tvg-logo="https://docdog.top/Logotv/countries//indieplex.png",IndiePlex
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45543&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45543&extension=ts
 
 #EXTINF:-1 tvg-id="RetroPlex.HDTV.(RETROHD).us" tvg-logo="https://docdog.top/Logotv/countries//retroplex.png",RetroPlex
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45507&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45507&extension=ts
 
 #EXTINF:-1 tvg-id="MoviePlex.East.(MPLEX).us" tvg-logo="https://docdog.top/Logotv/countries//movieplex.png",MoviePlex
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45536&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45536&extension=ts
 
 
 
 
 #EXTINF:-1 tvg-id="MGM+.HDTV.(East).(MGM+HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-us.png",Epix
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45582&extension=m3u8
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45582&extension=m3u8
 
 #EXTINF:-1 tvg-id="MGM+.Marquee.HDTV.(East).(MGM+MRQ).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-2-us.png",Epix 2
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=90956&extension=m3u8
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=90956&extension=m3u8
 
 #EXTINF:-1 tvg-id="MGM+.Hits.HDTV.(East).(MGM+HTHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-us.png",Epix Hits
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=90955&extension=m3u8
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=90955&extension=m3u8
 
 #EXTINF:-1 tvg-id="MGM+.Drive-In.(MGM+DI).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-drive-in-us.png",Epix Drive-In
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=90957&extension=m3u8
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=90957&extension=m3u8
 
 
 
@@ -678,47 +677,47 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=90957&ext
 
 
 #EXTINF:-1 tvg-id="HBO.HDTV.(East).(HBOHD).us" tvg-logo="https://docdog.top/Logotv/countries//hbo.png",HBO
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45549&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45549&extension=ts
 
 #EXTINF:-1 tvg-id="HBO.2.HDTV.(East).(HBO2HD).us" tvg-logo="https://docdog.top/Logotv/countries//hbo.png",HBO 2
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45552&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45552&extension=ts
 
 #EXTINF:-1 tvg-id="HBO.Zone.HDTV.(East).(HBOZHD).us" tvg-logo="https://docdog.top/Logotv/countries//hbozone.png",HBO Zone
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45546&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45546&extension=ts
 
 #EXTINF:-1 tvg-id="HBO.Comedy.HDTV.(East).(HBOCHD).us" tvg-logo="https://docdog.top/Logotv/countries//hbocomedy.png",HBO Comedy
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45551&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45551&extension=ts
 
 #EXTINF:-1 tvg-id="HBO.Family.HDTV.(East).(HBOFHD).us" tvg-logo="https://docdog.top/Logotv/countries//hbofamily.png",HBO Family
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45550&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45550&extension=ts
 
 #EXTINF:-1 tvg-id="HBO.Signature.HDTV.(East).(HBOSHD).us" tvg-logo="https://docdog.top/Logotv/countries//hbosignature.png",HBO Signature
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45547&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45547&extension=ts
 
 
 
 
 
 #EXTINF:-1 tvg-id="HDNet.Movies.(HDNTM).us" tvg-logo="https://docdog.top/Logotv/countries//hdnetmovies.png",HDNet Movies
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=91885&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=91885&extension=ts
 
 #EXTINF:-1 tvg-id="SCRNPIX.ScreenPix.us" tvg-logo="https://docdog.top/Logotv/countries//dumisa.png",ScreenPix
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=551778&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=551778&extension=ts
 
 #EXTINF:-1 tvg-id="SCRNWST.ScreenPix.Westerns.us" tvg-logo="https://docdog.top/Logotv/countries//dumisa.png",ScreenPix Westerns
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=551775&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=551775&extension=ts
 
 #EXTINF:-1 tvg-id="SCRNVOI.ScreenPix.Voices.us" tvg-logo="https://docdog.top/Logotv/countries//dumisa.png",ScreenPix Voices
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=551776&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=551776&extension=ts
 
 #EXTINF:-1 tvg-id="",SCREENPIX ACTION
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=551777&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=551777&extension=ts
 
 #EXTINF:-1 tvg-id="SHOxBET(East).(SHOBET).us" tvg-logo="https://docdog.top/Logotv/countries//dumisa.png",SHOxBET
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=897512&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=897512&extension=ts
 
 #EXTINF:-1 tvg-id="Sony.Movie.Channel.HD.(SONY).us" tvg-logo="https://docdog.top/Logotv/countries/uk/sonymoviechannel.png",Sony Movie
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=91789&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=91789&extension=ts
 
 
 
@@ -731,72 +730,72 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=91789&ext
 
 
 #EXTINF:-1 tvg-id="",SHOWTIME BET
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=303331&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=303331&extension=ts
 
 #EXTINF:-1 tvg-id="Showtime.HDTV.(East).(SHOHD).us" tvg-logo="https://docdog.top/Logotv/countries//showtime.png",Showtime
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45503&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45503&extension=ts
 
 #EXTINF:-1 tvg-id="Showtime.2.HDTV.(East).(SHO2HD).us" tvg-logo="https://docdog.top/Logotv/countries//showtime.png",Showtime 2
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45505&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45505&extension=ts
 
 #EXTINF:-1 tvg-id="Showtime.Extreme.(East).(SHOXe).us" tvg-logo="https://docdog.top/Logotv/countries//showtimeextreme.png",Showtime Extreme
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=91887&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=91887&extension=ts
 
 #EXTINF:-1 tvg-id="Showtime.FamilyZone.(East).(SHOFe).us" tvg-logo="https://docdog.top/Logotv/countries//showtimefamilyzone.png",Showtime Family Zone
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=91888&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=91888&extension=ts
 
 #EXTINF:-1 tvg-id="Showtime.Next.East.HDTV.(East).(SHOND).us" tvg-logo="https://docdog.top/Logotv/countries//showtimenext.png",Showtime Next
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=92019&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=92019&extension=ts
 
 #EXTINF:-1 tvg-id="Showtime.Showcase.HDTV.(East).(SHOCHD).us" tvg-logo="https://docdog.top/Logotv/countries//showtimeshowcase.png",Showtime Showcase
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45502&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45502&extension=ts
 
 #EXTINF:-1 tvg-id="Showtime.Women.HDTV.(East).(SHOWD).us" tvg-logo="https://docdog.top/Logotv/countries//showtimewomen.png",Showtime Women
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=92018&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=92018&extension=ts
 
 
 
 #EXTINF:-1 tvg-id="STARZ.HD.(East).(STZHD).us" tvg-logo="https://docdog.top/Logotv/countries//starz.png",STARZ
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45480&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45480&extension=ts
 
 #EXTINF:-1 tvg-id="STARZ.Cinema.(East).(STZCI).us" tvg-logo="https://docdog.top/Logotv/countries//starzcinema.png",STARZ Cinema
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45496&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45496&extension=ts
 
 #EXTINF:-1 tvg-id="STARZ.InBlack.(East).(STZ.B).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/starz-in-black-us.png",STARZ In Black
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45498&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45498&extension=ts
 
 #EXTINF:-1 tvg-id="STARZ.Edge.HD.(East).(SZEHD).us" tvg-logo="https://docdog.top/Logotv/countries//starzedge.png",STARZ Edge
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45492&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45492&extension=ts
 
 #EXTINF:-1 tvg-id="STARZ.Kids.and.Family.HD.(East).(SZKHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/starz-us.png",STARZ Kids and Family
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45481&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45481&extension=ts
 
 #EXTINF:-1 tvg-id="STARZ.Comedy.HD.(East).(SZCHD).us" tvg-logo="https://docdog.top/Logotv/countries//starzcomedy.png",STARZ Comedy
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45494&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45494&extension=ts
 
 #EXTINF:-1 tvg-id="STARZ.ENCORE.Action.(East).(STZAC).us" tvg-logo="https://docdog.top/Logotv/countries//starzencoreaction.png",STARZ ENCORE Action
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45489&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45489&extension=ts
 
 #EXTINF:-1 tvg-id="STARZ.ENCORE.Black.(East).(STZBK).us" tvg-logo="https://docdog.top/Logotv/countries//starzencoreblack.png",STARZ ENCORE Black
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45488&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45488&extension=ts
 
 #EXTINF:-1 tvg-id="STARZ.ENCORE.Classic.(East).(STZCL).us" tvg-logo="https://docdog.top/Logotv/countries//starzencoreclassic.png",STARZ ENCORE Classic
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45487&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45487&extension=ts
 
 #EXTINF:-1 tvg-id="STARZ.ENCORE.Family.(East).(STZFM).us" tvg-logo="https://docdog.top/Logotv/countries//starzencorefamily.png",STARZ ENCORE Family
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45485&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45485&extension=ts
 
 #EXTINF:-1 tvg-id="STARZ.ENCORE.HD.(East).(STZEH).us" tvg-logo="https://docdog.top/Logotv/countries//starzencore.png",STARZ ENCORE
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45484&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45484&extension=ts
 
 #EXTINF:-1 tvg-id="STARZ.ENCORE.Suspense.(East).(STZSU).us" tvg-logo="https://docdog.top/Logotv/countries//starzencoresuspense.png",STARZ ENCORE Suspense
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=91948&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=91948&extension=ts
 
 #EXTINF:-1 tvg-id="STARZ.ENCORE.Westerns.(East).(STZWS).us" tvg-logo="https://docdog.top/Logotv/countries//starzencorewestern.png",STARZ ENCORE Westerns
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=91947&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=91947&extension=ts
 
 #EXTINF:-1 tvg-id="STARZ.Kids.and.Family.HD.(East).(SZKHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/starz-us.png",STARZ Kids and Family
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45479&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45479&extension=ts
 
 
 
@@ -806,72 +805,72 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45479&ext
 
 
 #EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HDTV.(CI.HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/crime-and-investigation-us.png",Crime&Investigation
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=90938&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=90938&extension=ts
 
 #EXTINF:-1 tvg-id="Investigation.Discovery.HDTV.(IDHD).us" tvg-logo="https://docdog.top/Logotv/countries//investigationdiscovery.png",Investigation Discovery
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45545&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45545&extension=ts
 
 
 #EXTINF:-1 tvg-id="Discovery.Family.Channel.HDTV.(DFCHD).us" tvg-logo="https://docdog.top/Logotv/countries//discoveryfamilychannel.png",Discovery Family
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45443&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45443&extension=ts
 
 #EXTINF:-1 tvg-id="The.Discovery.Channel.HDTV.(East).(DSCHD).us" tvg-logo="https://docdog.top/Logotv/countries//discoverychannel.png",Discovery Channel
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45442&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45442&extension=ts
 
 #EXTINF:-1 tvg-id="Discovery.Life.Channel.(DLIF).us" tvg-logo="https://docdog.top/Logotv/countries//discoverylife.png",Discovery Life
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=91820&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=91820&extension=ts
 
 #EXTINF:-1 tvg-id="Science.HDTV.(SCIHD).us" tvg-logo="",Discovery Science
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45441&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45441&extension=ts
 
 #EXTINF:-1 tvg-id="",DISCOVERY TURBO
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1092802&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=1092802&extension=ts
 
 
 
 #EXTINF:-1 tvg-id="National.Geographic.Channel.HDTV.(NGCHD).us" tvg-logo="https://docdog.top/Logotv/countries//natgeo.png",National Geographic
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45453&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45453&extension=ts
 
 #EXTINF:-1 tvg-id="NatGeo.WILD.HDTV.(NGWILD).us" tvg-logo="https://docdog.top/Logotv/countries//natgeowild.png",NatGeo WILD
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45452&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45452&extension=ts
 
 #EXTINF:-1 tvg-id="Animal.Planet.HDTV.(East).(APHD).us" tvg-logo="https://docdog.top/Logotv/countries//animalplanet.png",Animal Planet
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45447&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45447&extension=ts
 
 #EXTINF:-1 tvg-id="Magnolia.Network.HDTV.(MAGNOLIA).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/galavision-us.png",Magnolia Network
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1350214&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=1350214&extension=ts
 
 #EXTINF:-1 tvg-id="Home.and.Garden.Television.HDTV.(East).(HGTVD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/hgtv-us.png",HGTV
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1350074&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=1350074&extension=ts
 
 #EXTINF:-1 tvg-id="The.Learning.Channel.HDTV.(East).(TLCHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/tlc-us.png",TLC
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45471&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45471&extension=ts
 
 #EXTINF:-1 tvg-id="FYI.HDTV.(FYIHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fyi-us.png",FYI
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45555&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45555&extension=ts
 
 
 
 
 
 #EXTINF:-1 tvg-id="The.Cooking.Channel.HDTV.(COOKHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cooking-channel-us.png",Cooking Channel
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45591&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45591&extension=ts
 
 #EXTINF:-1 tvg-id="Food.Network.HDTV.(East).(FOODHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/food-network-us.png",Food Network
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45577&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45577&extension=ts
 
 #EXTINF:-1 tvg-id="TASTE.Tastemade.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/tastemade-us.png",Tastemade
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=150360&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=150360&extension=ts
 
 
 
 
 
 #EXTINF:-1 tvg-id="",DESTINATION AMERICA
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=90954&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=90954&extension=ts
 
 #EXTINF:-1 tvg-id="History.HDTV.(East).(HISHD).us" tvg-logo="https://docdog.top/Logotv/countries//history.png",History
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45444&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45444&extension=ts
 
 
 
@@ -881,16 +880,16 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45444&ext
 
 
 #EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbcone.png",BBC 1
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=30581&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=30581&extension=ts
 
 #EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbc2.png",BBC 2
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=30580&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=30580&extension=ts
 
 #EXTINF:-1 tvg-id="BBC.Three.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbc3.png",BBC 3
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45336&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45336&extension=ts
 
 #EXTINF:-1 tvg-id="BBC.Four.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbc4.png",BBC 4
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45335&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45335&extension=ts
 
 #EXTINF:-1 tvg-id="Channel.4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/channel4.png",Channel 4
 #EXTINF:-1 tvg-id="4seven.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/4seven.png",4 Seven
@@ -907,159 +906,159 @@ http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45335&ext
 
 
 #EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv1.png",ITV1
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=30533&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=30533&extension=ts
 
 #EXTINF:-1 tvg-id="ITV2.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv2.png",ITV2
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=30532&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=30532&extension=ts
 
 #EXTINF:-1 tvg-id="ITV3.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv3.png",ITV3
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=30531&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=30531&extension=ts
 
 #EXTINF:-1 tvg-id="ITV4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv4.png",ITV4
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=30530&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=30530&extension=ts
 
 #EXTINF:-1 tvg-id="ITVBe.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itvbe.png",ITVBe
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45333&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45333&extension=ts
 
 
 
 #EXTINF:-1 tvg-id="Sky.Cinema.Hits.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemahits.png",Sky Cinema Hits
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=30510&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=30510&extension=ts
 
 #EXTINF:-1 tvg-id="Sky.Cinema.Select.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaselect.png",Sky Cinema Select
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=949137&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=949137&extension=ts
 
 #EXTINF:-1 tvg-id="Sky.Action.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaaction.png",Sky Action
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=30517&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=30517&extension=ts
 
 #EXTINF:-1 tvg-id="SkyAnimationHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaanimation.png",Sky Animation
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=30513&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=30513&extension=ts
 
 #EXTINF:-1 tvg-id="Sky.Comedy.Cinema.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemacomedy.png",Sky Cinema Comedy
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=30516&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=30516&extension=ts
 
 #EXTINF:-1 tvg-id="Sky.Comedy.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemacomedy.png",Sky Comedy
 #EXTINF:-1 tvg-id="Sky.Crime.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemacrime-thriller.png",Sky Crime
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=164073&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=164073&extension=ts
 
 #EXTINF:-1 tvg-id="Sky.Drama.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemadrama.png",Sky Drama
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=30514&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=30514&extension=ts
 
 #EXTINF:-1 tvg-id="Sky.Family.HD.uk" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Family.png",Sky Family
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=79467&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=79467&extension=ts
 
 #EXTINF:-1 tvg-id="Sky.Greats.HD.uk" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Greats.png",Sky Greats
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=30512&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=30512&extension=ts
 
 #EXTINF:-1 tvg-id="SkyPremiereHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemapremiere.png",Sky Premiere
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=30509&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=30509&extension=ts
 
 #EXTINF:-1 tvg-id="Sky.ScFi/HorHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemasci.png",Sky Cinema ScFi
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=30508&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=30508&extension=ts
 
 #EXTINF:-1 tvg-id="Sky.Sci-Fi.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemasci.png",Sky Sci-Fi
 #EXTINF:-1 tvg-id="Sky.Thriller.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemathriller.png",Sky Thriller
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=30506&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=30506&extension=ts
 
 #EXTINF:-1 tvg-id="Sky.Witness.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skywitness.png",Sky Witness
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=83704&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=83704&extension=ts
 
 #EXTINF:-1 tvg-id="SkyShowcaseHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemashowcase.png",Sky Showcase
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=741952&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=741952&extension=ts
 
 #EXTINF:-1 tvg-id="Sky.Adventure.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaaction.png",Sky Adventure
 
 #EXTINF:-1 tvg-id="Sky.Arts.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skyarts.png",Sky Arts
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=30519&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=30519&extension=ts
 
 #EXTINF:-1 tvg-id="Sky.Atlantic.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skyatlantic.png",Sky Atlantic
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=30518&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=30518&extension=ts
 
 #EXTINF:-1 tvg-id="Sky.Kids.HD.uk" tvg-logo="",Sky Kids
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=45328&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=45328&extension=ts
 
 #EXTINF:-1 tvg-id="Sky.Max.HD.uk" tvg-logo="https://docdog.top/Logotv/countries//skymax.png",Sky Max
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=741955&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=741955&extension=ts
 
 
 
 
 #EXTINF:-1 tvg-id="",JACKIE CHAN MOVIES
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1295630&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=1295630&extension=ts
 
 #EXTINF:-1 tvg-id="",CLINT EASTWOOD
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1187708&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=1187708&extension=ts
 
 #EXTINF:-1 tvg-id="",EDDY MURPHY
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=558932&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=558932&extension=ts
 
 #EXTINF:-1 tvg-id="",ARNOLD SCHWARZENEGGER
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=534117&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=534117&extension=ts
 
 
 #EXTINF:-1 tvg-id="",SIX MILLION DOLLAR MAN
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=534105&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=534105&extension=ts
 
 #EXTINF:-1 tvg-id="",KNIGHT RIDER 1982-1986
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1207320&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=1207320&extension=ts
 
 #EXTINF:-1 tvg-id="",BORDER SECURITY
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1002805&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=1002805&extension=ts
 
 #EXTINF:-1 tvg-id="",BACK TO THE FUTURE
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=558799&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=558799&extension=ts
 
 #EXTINF:-1 tvg-id="",RUSH HOUR
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=558771&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=558771&extension=ts
 
 #EXTINF:-1 tvg-id="",DIE HARD
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=558764&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=558764&extension=ts
 
 
 
 
 
 #EXTINF:-1 tvg-id="",SCIFI MOVIES
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=558770&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=558770&extension=ts
 
 #EXTINF:-1 tvg-id="",THRILLER MOVIES
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=558933&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=558933&extension=ts
 
 #EXTINF:-1 tvg-id="",FAMILY MOVIES
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=558796&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=558796&extension=ts
 
 #EXTINF:-1 tvg-id="",COMEDY MOVIES
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=558930&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=558930&extension=ts
 
 #EXTINF:-1 tvg-id="",CRIME MOVIES
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=558762&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=558762&extension=ts
 
 #EXTINF:-1 tvg-id="",HORROR MOVIES
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=558791&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=558791&extension=ts
 
 #EXTINF:-1 tvg-id="",SUPERHERO MOVIES
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=558765&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=558765&extension=ts
 
 
 
 
 #EXTINF:-1 tvg-id="",WESTERN 1
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=924749&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=924749&extension=ts
 
 #EXTINF:-1 tvg-id="",WESTERN 2
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=924750&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=924750&extension=ts
 
 #EXTINF:-1 tvg-id="",WESTERN 3
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=924751&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=924751&extension=ts
 
 #EXTINF:-1 tvg-id="",WESTERN 4
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=924752&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=924752&extension=ts
 
 #EXTINF:-1 tvg-id="",WESTERN 5
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=924753&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=924753&extension=ts
 
 #EXTINF:-1 tvg-id="",WESTERN 6
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=924754&extension=ts
+http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=924754&extension=ts
 
 
 
