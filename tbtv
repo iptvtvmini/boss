@@ -160,10 +160,10 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/index.m3u8?id=4
 https://d277c08tzca9og.cloudfront.net/CH1/masterCH1.mpd
 
 #EXTINF:-1 tvg-id="Astro.SuperSport.HD.my" tvg-name="Astro SuperSport HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="",Astro SuperSport 1
-http://gtvstreams.me:8080/play/live.php?mac=00:1A:79:AE:3F:52&stream=716930&extension=ts
+http://gtvstreams.me:80/play/live.php?mac=00:1A:79:AE:3F:52&stream=716930&extension=ts
 
 #EXTINF:-1 tvg-id="Astro.SuperSport.2.HD.my" tvg-name="Astro SuperSport 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="",Astro SuperSport 2
-http://gtvstreams.me:8080/play/live.php?mac=00:1A:79:AE:3F:52&stream=716931&extension=ts
+http://gtvstreams.me:80/play/live.php?mac=00:1A:79:AE:3F:52&stream=716931&extension=ts
 
 #EXTINF:-1 tvg-id="Astro.SuperSport.3.HD.my" tvg-name="Astro SuperSport 3 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="",Astro SuperSport 3
 http://gtvstreams.me:80/play/live.php?mac=00:1A:79:AE:3F:52&stream=716932&extension=ts
