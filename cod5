@@ -39,10 +39,6 @@ https://stream2.smg.my/live/tvs_1080p2628kbs/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax.HD.id" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png",CINEMAX
 
-#EXTINF:-1 tvg-id="HITSNOW.HD.my",HITS NOW
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BlwQgpbXjVGoVEzEKhqnaA", "kid":"/ElXO0+WS+C0BTRJjOjWLg" } ], "type":"temporary" }
-https://linear05-playback.sooka.my/CH3/masterCH3.mpd
 
 #EXTINF:-1 tvg-id="HITS.Movies.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",HITS Movies
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -54,6 +50,11 @@ https://linear05-playback.sooka.my/CH4/masterCH4.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"xN10vdm0ZXlLH7Eqq2WW+A", "kid":"rPtLDx9ZRr+nw/LnwtYNAA" } ], "type":"temporary" }
 https://linear05-playback.sooka.my/CH5/masterCH5.mpd
 
+#EXTINF:-1 tvg-id="HITSNOW.HD.my",HITS NOW
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BlwQgpbXjVGoVEzEKhqnaA", "kid":"/ElXO0+WS+C0BTRJjOjWLg" } ], "type":"temporary" }
+https://linear05-playback.sooka.my/CH3/masterCH3.mpd
+
 #EXTINF:-1 tvg-id="tvN.Movies.HD.my" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png",tvN Movies
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uOkanQqlnHxVmGwq5qtvZA", "kid":"SxonztiBTmWnYRg+1uT85g" } ], "type":"temporary" }
@@ -64,6 +65,10 @@ https://linear08-playback.sooka.my/CH4/masterCH4.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tPEppE661kuiVHX9L66wMg", "kid":"ziR/uJnPTyilAR4YBpyHcg" } ], "type":"temporary" }
 https://linear03-playback.sooka.my/CH4/masterCH4.mpd
 
+#EXTINF:-1 tvg-id="K-K-Plus.HD.my",K-Plus
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+TZMA5oAfez1lcmKWMMjCQ", "kid":"fLhAK8wnRmOYFYmFcQMnNA" } ], "type":"temporary" }
+https://linear08-playback.sooka.my/CH5/masterCH5.mpd
 
 
 
