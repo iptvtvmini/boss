@@ -411,7 +411,7 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487668&extension=ts
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487724&extension=ts
 
 #EXTINF:-1 tvg-id="Pac-12.Network.HDTV.(PAC12).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/pac-12-los-angeles-us.png",PAC-12 NETWORK
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487652&extension=ts
+#http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487652&extension=ts
 
 #EXTINF:-1 tvg-id="SEC.Network.HDTV.(SECN).us" tvg-logo="https://docdog.top/Logotv/countries//secnetwork.png",SEC NETWORK
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487664&extension=ts
