@@ -79,14 +79,22 @@ https://linear05-playback.sooka.my/CH4/masterCH4.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"xN10vdm0ZXlLH7Eqq2WW+A", "kid":"rPtLDx9ZRr+nw/LnwtYNAA" } ], "type":"temporary" }
 https://linear05-playback.sooka.my/CH5/masterCH5.mpd
 
-#EXTINF:-1 tvg-id="tvN.Movies.HD.id" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png",tvN Movies
+#EXTINF:-1 tvg-id="tvN.Movies.HD.my" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png",tvN Movies
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uOkanQqlnHxVmGwq5qtvZA", "kid":"SxonztiBTmWnYRg+1uT85g" } ], "type":"temporary" }
 https://linear08-playback.sooka.my/CH4/masterCH4.mpd
 
+#EXTINF:-1 tvg-id="tvN.HD.my",tvN
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tPEppE661kuiVHX9L66wMg", "kid":"ziR/uJnPTyilAR4YBpyHcg" } ], "type":"temporary" }
+https://linear03-playback.sooka.my/CH4/masterCH4.mpd
 
+#EXTINF:-1 tvg-id="K-K-Plus.HD.my",K-Plus
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+TZMA5oAfez1lcmKWMMjCQ", "kid":"fLhAK8wnRmOYFYmFcQMnNA" } ], "type":"temporary" }
+https://linear08-playback.sooka.my/CH5/masterCH5.mpd
 
 
 
@@ -417,7 +425,7 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497511&exte
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497316&extension=ts
 
 #EXTINF:-1 tvg-id="E!.Entertainment.Television.Canada.HDTV.(E!).ca" tvg-logo="https://docdog.top/Logotv/countries/united-states/e-entertainment-us.png",E! (CA)
-http://cord-cutter.net:8080/live/95549031/69361122/57422.ts
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626951&extension=m3u8
 
 #EXTINF:-1 tvg-id="Game.Show.Network.HDTV.(EAST).(GMSHWHD).us" tvg-name="Game Show Network HDTV (EAST) (GMSHWHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/game-show-network-us.png" group-title="",Game Show Network
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
@@ -429,10 +437,10 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497354&exte
 https://gsn-gameshowchannnel-1-us.vizio.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GameTV.(GTV).ca" tvg-logo="https://docdog.top/Logotv/countries//gameone.png",Game TV
-http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/15472.ts
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626942&extension=m3u8
 
 #EXTINF:-1 tvg-id="GAME+.us" tvg-logo="https://docdog.top/Logotv/countries//gameone.png",Game Plus
-http://sysadminhost.net:8080/live/resplice/wdLIS4d9758INyuX/200072.ts
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=752916&extension=m3u8
 
 #EXTINF:-1 tvg-id="Bravo.HDTV.(East).(BRAVOD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/bravo-us.png",Bravo
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497271&extension=ts
