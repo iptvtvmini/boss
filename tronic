@@ -496,7 +496,7 @@ http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=597035
 http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=1364&extension=m3u8
 
 #EXTINF:-1 tvg-id="Investigation.Discovery.(Canada).HDTV.(ID).ca",ID (CA)
-http://wildversion.com:80/play/live.php?mac=00:1A:79:E1:E0:7C&stream=765477&extension=m3u8
+http://wildversion.com:80/play/live.php?mac=00:1A:79:E1:E0:7C&stream=765477&extension=ts
 
 #EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/amc-us.png",AMC
 http://tronicstvpanel.xyz:8080/play/live.php?mac=00:1A:79:5c:a5:36&stream=11022&extension=m3u8
