@@ -366,7 +366,7 @@ http://cord-cutter.net:8080/live/95549031/69361122/59056.m3u8
 http://cord-cutter.net:8080/live/95549031/69361122/46810.m3u8
 
 #EXTINF:-1 tvg-id="Investigation.Discovery.(Canada).HDTV.(ID).ca",ID (CA)
-http://cord-cutter.net:8080/live/95549031/69361122/57442.m3u8
+http://cord-cutter.net:8080/live/95549031/69361122/57442.ts
 
 #EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/amc-us.png",AMC
 http://cord-cutter.net:8080/live/95549031/69361122/18925.m3u8
