@@ -138,7 +138,7 @@ https://gsn-gameshowchannnel-1-us.vizio.wurl.tv/playlist.m3u8
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=79458&extension=ts
 
 #EXTINF:-1 tvg-id="GAME+.us" tvg-logo="https://docdog.top/Logotv/countries//gsn.png",GAME+
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=765457&extension=ts
+
 
 #EXTINF:-1 tvg-id="MBC.Wanasah.(MBCW).us" tvg-name="" tvg-logo="https://i.imgur.com/AuYEozR.png" group-title="",Wanasah
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
@@ -156,16 +156,12 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/index.m3u8?id=4
 https://d277c08tzca9og.cloudfront.net/CH1/masterCH1.mpd
 
 #EXTINF:-1 tvg-id="Astro.SuperSport.HD.my" tvg-name="Astro SuperSport HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="",Astro SuperSport 1
-http://gtvstreams.me:80/play/live.php?mac=00:1A:79:AE:3F:52&stream=716930&extension=ts
 
 #EXTINF:-1 tvg-id="Astro.SuperSport.2.HD.my" tvg-name="Astro SuperSport 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="",Astro SuperSport 2
-http://gtvstreams.me:80/play/live.php?mac=00:1A:79:AE:3F:52&stream=716931&extension=ts
 
 #EXTINF:-1 tvg-id="Astro.SuperSport.3.HD.my" tvg-name="Astro SuperSport 3 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="",Astro SuperSport 3
-http://gtvstreams.me:80/play/live.php?mac=00:1A:79:AE:3F:52&stream=716932&extension=ts
 
 #EXTINF:-1 tvg-id="Astro.SuperSport.4.HD.my" tvg-name="Astro SuperSport 4 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="",Astro SuperSport 4
-http://gtvstreams.me:80/play/live.php?mac=00:1A:79:AE:3F:52&stream=716933&extension=ts
 
 #EXTINF:-1 tvg-id="Eurosport.HD.my" tvg-logo="https://docdog.top/Logotv/countries/uk/eurosport1.png",EuroSport
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -181,64 +177,42 @@ http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=175202&extension=ts
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportlaliga.png",SuperSports Priemier League
-http://gtvstreams.me:80/play/live.php?mac=00:1A:79:AE:3F:52&stream=217424&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportlaliga.png",SuperSports LA LIGA
-http://gtvstreams.me:80/play/live.php?mac=00:1A:79:AE:3F:52&stream=217425&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportfootball.png",SuperSports FOOTBALL
-http://gtvstreams.me:80/play/live.php?mac=00:1A:79:AE:3F:52&stream=217431&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety1.png",SuperSports VARIETY 1
-http://gtvstreams.me:80/play/live.php?mac=00:1A:79:AE:3F:52&stream=217429&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety2.png",SuperSports VARIETY 2
-http://gtvstreams.me:80/play/live.php?mac=00:1A:79:AE:3F:52&stream=217428&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety3.png",SuperSports VARIETY 3
-http://gtvstreams.me:80/play/live.php?mac=00:1A:79:AE:3F:52&stream=217433&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety4.png",SuperSports VARIETY 4
-http://gtvstreams.me:80/play/live.php?mac=00:1A:79:AE:3F:52&stream=217432&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportaction.png",SuperSports ACTION
-http://gtvstreams.me:80/play/live.php?mac=00:1A:79:AE:3F:52&stream=217430&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportaction.png",SuperSports BLITZ
-http://gtvstreams.me:80/play/live.php?mac=00:1A:79:AE:3F:52&stream=217423&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportcricket.png",SuperSports CRICKET
-http://gtvstreams.me:80/play/live.php?mac=00:1A:79:AE:3F:52&stream=217435&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportgolf.png",SuperSports GOLF
-http://gtvstreams.me:80/play/live.php?mac=00:1A:79:AE:3F:52&stream=217436&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportgrandstand.png",SuperSports GRANDSTAND
-http://gtvstreams.me:80/play/live.php?mac=00:1A:79:AE:3F:52&stream=217427&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//supersportmaximo1.png",SuperSports MAXIMO
-http://gtvstreams.me:80/play/live.php?mac=00:1A:79:AE:3F:52&stream=217440&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportmotorsport.png",SuperSports MOTORSPORT
-http://gtvstreams.me:80/play/live.php?mac=00:1A:79:AE:3F:52&stream=217437&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportaction.png",SuperSports PLAY 1
-http://gtvstreams.me:80/play/live.php?mac=00:1A:79:AE:3F:52&stream=765049&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportaction.png",SuperSports PLAY 2
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportpsl.png",SuperSports PSL
-http://gtvstreams.me:80/play/live.php?mac=00:1A:79:AE:3F:52&stream=217426&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportrugby.png",SuperSports RUGBY
-http://gtvstreams.me:80/play/live.php?mac=00:1A:79:AE:3F:52&stream=217434&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//supersporttennis.png",SuperSports TENNIS
-http://gtvstreams.me:80/play/live.php?mac=00:1A:79:AE:3F:52&stream=217438&extension=ts
-
-#EXTINF:-1 tvg-id="",Supersport WWE
-http://gtvstreams.me:80/play/live.php?mac=00:1A:79:AE:3F:52&stream=765040&extension=ts
-
 
 
 
@@ -389,7 +363,6 @@ http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=311497&extension=ts
 http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=133589&extension=m3u8
 
 #EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US017CBS-HD.png",CBS 2
-http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61465&extension=ts
 
 #EXTINF:-1 tvg-id="CW.(WUPV).Richmond,.VA.us" tvg-logo="https://docdog.top/Logotv/countries//cw.png",CW 11
 http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=134196&extension=m3u8
@@ -398,16 +371,6 @@ http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=134196&extension=m3
 http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=133422&extension=m3u8
 
 #EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US020CNBC.png",NBC 4
-http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61387&extension=ts
-
-
-#EXTINF:-1 tvg-id="CTV.Calgary.HDTV.(CTVHC).ca" tvg-logo="https://docdog.top/Logotv/countries//ctvcalgary.png",CTV
-http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79522&extension=ts
-
-#EXTINF:-1 tvg-id="CTV.Two.Ottawa/CHRO.(CTV2O).ca" tvg-logo="https://docdog.top/Logotv/countries//ctv2ottawa.png",CTV2
-http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=298629&extension=ts
-
-
 
 
 #EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-name="A and E Network HDTV (A and EHD)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US001A&E-HD.png" group-title="",A&E
@@ -459,6 +422,75 @@ http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=134157&extension=m3
 http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=134181&extension=m3u8
 
 
+#EXTINF:-1 tvg-id="A.and.E.HD.Network.Canada.(A.and.EHDC).ca",A&E (CA)
+http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79539&extension=ts
+
+#EXTINF:-1 tvg-id="AMC.HDTV.(Canada).(AMCHD).ca",AMC
+http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79538&extension=ts
+
+#EXTINF:-1 tvg-id="",BRAVO TV
+http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=62210&extension=ts
+
+#EXTINF:-1 tvg-id="CHCH.HDTV.(CHCHH).ca",CHCH
+http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79530&extension=ts
+
+#EXTINF:-1 tvg-id="Country.Music.Television.Canada.(CMT).ca",CMT
+http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79528&extension=ts
+
+#EXTINF:-1 tvg-id="CTV.Calgary.HDTV.(CTVHC).ca" tvg-logo="https://docdog.top/Logotv/countries//ctvcalgary.png",CTV
+http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79522&extension=ts
+
+#EXTINF:-1 tvg-id="CTV.Two.Ottawa/CHRO.(CTV2O).ca" tvg-logo="https://docdog.top/Logotv/countries//ctv2ottawa.png",CTV2
+http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=298629&extension=ts
+
+#EXTINF:-1 tvg-id="CBC.Calgary.HDTV.(CBRTHD).ca",CBC
+http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=62209&extension=ts
+
+#EXTINF:-1 tvg-id="Consumer.News.and.Business.Channel.Canada.(CNBC).ca",CNBC
+http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79480&extension=ts
+
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.Canada.HDTV.(E!).ca",E!
+http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79518&extension=ts
+
+#EXTINF:-1 tvg-id="The.Family.Channel.HDTV.(East).(FAMHD).ca",FAMILY
+http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79465&extension=ts
+
+#EXTINF:-1 tvg-id="GameTV.(GTV).ca",GAME TV
+http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79458&extension=ts
+
+#EXTINF:-1 tvg-id="MSNBC.Canada.Alternate.HDTV.(MSNBCA).ca",MSNBC
+http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79510&extension=ts
+
+#EXTINF:-1 tvg-id="Outdoor.Life.Canada.HDTV.(OLNHD).ca",Outdoor Life
+http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79508&extension=ts
+
+#EXTINF:-1 tvg-id="Omni.1.HDTV.(OMNI1HD).ca",OMNI 1
+http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79507&extension=ts
+
+#EXTINF:-1 tvg-id="Omni2.HDTV.(OMNI2HD).ca",OMNI 2
+http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79506&extension=ts
+
+#EXTINF:-1 tvg-id="Slice.TV.HDTV.(SLICE).ca",SLICE
+http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=62189&extension=ts
+
+#EXTINF:-1 tvg-id="Vision.TV.Canada.HDTV.(VISNHD).ca",VISION TV
+http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79499&extension=ts
+
+#EXTINF:-1 tvg-id="WGN.Local.Chicago.HDTV.(WGNHD).ca",WGN
+http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79429&extension=ts
+
+#EXTINF:-1 tvg-id="WWE.Network.(WWEHD).ca",WWE
+http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=141586&extension=ts
+
+
+#EXTINF:-1 tvg-id="Discovery.Science.(Canada).HDTV.(SCIEN).ca",DISCOVERY SCIENCE
+http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79467&extension=ts
+
+#EXTINF:-1 tvg-id="Magnolia.Network.Canada.(SD).(MAG).ca",DIY
+http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79521&extension=ts
+
+#EXTINF:-1 tvg-id="The.Learning.Channel.Canada.HDTV.(TLCHD).ca",TLC
+http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=62188&extension=ts
 
 
 
