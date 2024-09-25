@@ -423,74 +423,74 @@ http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=134181&extension=m3
 
 
 #EXTINF:-1 tvg-id="A.and.E.HD.Network.Canada.(A.and.EHDC).ca",A&E (CA)
-http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79539&extension=ts
+http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79539&extension=m3u8
 
 #EXTINF:-1 tvg-id="AMC.HDTV.(Canada).(AMCHD).ca",AMC
-http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79538&extension=ts
+http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79538&extension=m3u8
 
 #EXTINF:-1 tvg-id="",BRAVO TV
-http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=62210&extension=ts
+http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=62210&extension=m3u8
 
 #EXTINF:-1 tvg-id="CHCH.HDTV.(CHCHH).ca",CHCH
-http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79530&extension=ts
+http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79530&extension=m3u8
 
 #EXTINF:-1 tvg-id="Country.Music.Television.Canada.(CMT).ca",CMT
-http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79528&extension=ts
+http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79528&extension=m3u8
 
 #EXTINF:-1 tvg-id="CTV.Calgary.HDTV.(CTVHC).ca" tvg-logo="https://docdog.top/Logotv/countries//ctvcalgary.png",CTV
-http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79522&extension=ts
+http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79522&extension=m3u8
 
 #EXTINF:-1 tvg-id="CTV.Two.Ottawa/CHRO.(CTV2O).ca" tvg-logo="https://docdog.top/Logotv/countries//ctv2ottawa.png",CTV2
-http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=298629&extension=ts
+http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=298629&extension=m3u8
 
 #EXTINF:-1 tvg-id="CBC.Calgary.HDTV.(CBRTHD).ca",CBC
-http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=62209&extension=ts
+http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=62209&extension=m3u8
 
 #EXTINF:-1 tvg-id="Consumer.News.and.Business.Channel.Canada.(CNBC).ca",CNBC
-http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79480&extension=ts
+http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79480&extension=m3u8
 
 #EXTINF:-1 tvg-id="E!.Entertainment.Television.Canada.HDTV.(E!).ca",E!
-http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79518&extension=ts
+http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79518&extension=m3u8
 
 #EXTINF:-1 tvg-id="The.Family.Channel.HDTV.(East).(FAMHD).ca",FAMILY
-http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79465&extension=ts
+http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79465&extension=m3u8
 
 #EXTINF:-1 tvg-id="GameTV.(GTV).ca",GAME TV
-http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79458&extension=ts
+http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79458&extension=m3u8
 
 #EXTINF:-1 tvg-id="MSNBC.Canada.Alternate.HDTV.(MSNBCA).ca",MSNBC
-http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79510&extension=ts
+http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79510&extension=m3u8
 
 #EXTINF:-1 tvg-id="Outdoor.Life.Canada.HDTV.(OLNHD).ca",Outdoor Life
-http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79508&extension=ts
+http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79508&extension=m3u8
 
 #EXTINF:-1 tvg-id="Omni.1.HDTV.(OMNI1HD).ca",OMNI 1
-http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79507&extension=ts
+http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79507&extension=m3u8
 
 #EXTINF:-1 tvg-id="Omni2.HDTV.(OMNI2HD).ca",OMNI 2
-http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79506&extension=ts
+http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79506&extension=m3u8
 
 #EXTINF:-1 tvg-id="Slice.TV.HDTV.(SLICE).ca",SLICE
-http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=62189&extension=ts
+http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=62189&extension=m3u8
 
 #EXTINF:-1 tvg-id="Vision.TV.Canada.HDTV.(VISNHD).ca",VISION TV
-http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79499&extension=ts
+http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79499&extension=m3u8
 
 #EXTINF:-1 tvg-id="WGN.Local.Chicago.HDTV.(WGNHD).ca",WGN
-http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79429&extension=ts
+http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79429&extension=m3u8
 
 #EXTINF:-1 tvg-id="WWE.Network.(WWEHD).ca",WWE
-http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=141586&extension=ts
+http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=141586&extension=m3u8
 
 
 #EXTINF:-1 tvg-id="Discovery.Science.(Canada).HDTV.(SCIEN).ca",DISCOVERY SCIENCE
-http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79467&extension=ts
+http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79467&extension=m3u8
 
 #EXTINF:-1 tvg-id="Magnolia.Network.Canada.(SD).(MAG).ca",DIY
-http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79521&extension=ts
+http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79521&extension=m3u8
 
 #EXTINF:-1 tvg-id="The.Learning.Channel.Canada.HDTV.(TLCHD).ca",TLC
-http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=62188&extension=ts
+http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=62188&extension=m3u8
 
 
 
