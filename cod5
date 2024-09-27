@@ -605,20 +605,26 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577901&extension=ts
 #EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-name="AMC HDTV (East) (AMCHD)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US006AMC-HD.png" group-title="",AMC
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469346&extension=m3u8
 
+#EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-name="AMC HDTV (East) (AMCHD)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US006AMC-HD.png" group-title="",AMC
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626854&extension=m3u8
+
+#EXTINF:-1 tvg-id="AMC.HDTV.(Canada).(AMCHD).ca" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US006AMC-HD.png",AMC (CA)
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=627026&extension=m3u8
+
 #EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-name="AMC HDTV (East) (AMCHD)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US006AMC-HD.png" group-title="",AMC (UK)
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577360&extension=m3u8
 
 #EXTINF:-1 tvg-id="AMC+.us" tvg-logo="",AMC+
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=551795&extension=m3u8
 
-#EXTINF:-1 tvg-id="AXSTV.HD.(AXSTV).us",AXS TV
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469351&extension=m3u8
-
 #EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-name="Syfy HDTV (SYFYHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/syfy-us.png" group-title="",Syfy
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469431&extension=m3u8
 
 #EXTINF:-1 tvg-id="BBC.America.HDTV.(East).(BBC).us" tvg-name="BBC America HDTV (East) (BBC)" tvg-logo="https://docdog.top/Logotv/countries/bbcamerica.png" group-title="",BBC America
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469295&extension=m3u8
+
+#EXTINF:-1 tvg-id="AXSTV.HD.(AXSTV).us",AXS TV
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469351&extension=m3u8
 
 #EXTINF:-1 tvg-id="Black.Entertainment.Television.HDTV.(East).(BET-HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/bet-us.png",BET
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469353&extension=m3u8
