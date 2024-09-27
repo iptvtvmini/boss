@@ -669,11 +669,11 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469381&extension=m3
 #EXTINF:-1 tvg-id="E!.Entertainment.Television.Canada.HDTV.(E!).ca" tvg-logo="https://docdog.top/Logotv/countries/united-states/e-entertainment-us.png",E! (CA)
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626951&extension=m3u8
 
-#EXTINF:-1 tvg-id="Fuse.HDTV.(East).(FUSED).us",FUSE
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469387&extension=m3u8
-
 #EXTINF:-1 tvg-id="Freeform.HDTV.(East).(FRFHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/freeform-us.png",FREEFORM
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=656385&extension=m3u8
+
+#EXTINF:-1 tvg-id="Fuse.HDTV.(East).(FUSED).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fuse-us.png",Fuse
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469387&extension=m3u8
 
 #EXTINF:-1 tvg-id="FX.Movie.Channel.HDTV.(FXMHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fxm-movie-channel-us.png",FXM
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=552045&extension=m3u8
@@ -683,9 +683,6 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=656132&extension=m3
 
 #EXTINF:-1 tvg-id="FXX.HDTV.(East).(FXXHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fxx-us.png",FXX
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=687889&extension=m3u8
-
-#EXTINF:-1 tvg-id="Fuse.HDTV.(East).(FUSED).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fuse-us.png",Fuse
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469387&extension=m3u8
 
 #EXTINF:-1 tvg-id="Game.Show.Network.HDTV.(EAST).(GMSHWHD).us" tvg-name="Game Show Network HDTV (EAST) (GMSHWHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/game-show-network-us.png" group-title="",Game Show Network
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
