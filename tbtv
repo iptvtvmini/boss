@@ -377,6 +377,9 @@ http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=133422&extension=m3
 http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=134072&extension=m3u8
 
 #EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-name="AMC HDTV (East) (AMCHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/amc-us.png" group-title="",AMC
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-name="AMC HDTV (East) (AMCHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/amc-us.png" group-title="",AMC
 http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=134073&extension=m3u8
 
 #EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-name="Syfy HDTV (SYFYHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/syfy-us.png" group-title="",Syfy
