@@ -330,7 +330,7 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577925&extension=ts
 #EXTINF:-1 tvg-id="SS.Grandstand.Nigeria.ng" tvg-name="SS Grandstand Nigeria" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportgrandstand.png",SuperSports GRANDSTAND
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577924&extension=ts
 
-#EXTINF:-1 tvg-id="SS.Maximo.1.(P).ng" tvg-name="SS Maximo 1 (P)" tvg-logo="https://docdog.top/Logotv/countries//supersportmaximo1.png",SuperSports MAXIMO
+#EXTINF:-1 tvg-id="SS.Maximo.1.(P).ng" tvg-name="SS Maximo 1 (P)" tvg-logo="https://docdog.top/Logotv/countries//supersportmaximo1.png",SuperSports MAXIMO 1
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577934&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportmotorsport.png",SuperSports MOTORSPORT
