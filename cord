@@ -415,6 +415,9 @@ http://cord-cutter.net:8080/live/95549031/69361122/10260.ts
 #EXTINF:-1 tvg-id="FXX.HDTV.(East).(FXXHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fxx-us.png",FXX
 http://cord-cutter.net:8080/live/95549031/69361122/46699.ts
 
+#EXTINF:-1 tvg-id="HiYAH.us",Hi-YAH!
+https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="IFC.HDTV.(East).(IFCHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/ifc-us.png",IFC
 http://cord-cutter.net:8080/live/95549031/69361122/9272.ts
 
