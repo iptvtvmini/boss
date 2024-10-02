@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/azimabid00/epg/refs/heads/main/astro_epg.xml,https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz"
 
 #EXTINF:-1 tvg-id="TV1.HD.my" tvg-name="TV1 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" group-title="",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/index.m3u8?id=1
@@ -428,6 +428,9 @@ http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=134119&extension=m3
 
 #EXTINF:-1 tvg-id="FXX.HDTV.(East).(FXXHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fxx-us.png",FXX
 http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=134120&extension=m3u8
+
+#EXTINF:-1 tvg-id="HiYAH.us",Hi-YAH!
+https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IFC.HDTV.(East).(IFCHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/ifc-us.png",IFC
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134137&extension=m3u8
