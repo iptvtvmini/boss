@@ -509,7 +509,7 @@ http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79429&extension=m3u
 http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=141586&extension=m3u8
 
 
-#EXTINF:-1 tvg-id="Discovery.Science.(Canada).HDTV.(SCIEN).ca",DISCOVERY SCIENCE
+#EXTINF:-1 tvg-id="Discovery.Science.(Canada).HDTV.(SCIEN).ca" tvg-logo="https://docdog.top/Logotv/countries//discoveryscience.png",DISCOVERY SCIENCE
 http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79467&extension=m3u8
 
 #EXTINF:-1 tvg-id="Magnolia.Network.Canada.(SD).(MAG).ca",DIY
@@ -517,7 +517,6 @@ http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79521&extension=m3u
 
 #EXTINF:-1 tvg-id="The.Learning.Channel.Canada.HDTV.(TLCHD).ca",TLC
 http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=62188&extension=m3u8
-
 
 
 #EXTINF:-1 tvg-id="5StarMAX.HD.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cinemax-5-starmax-us.png",5StarMAX
