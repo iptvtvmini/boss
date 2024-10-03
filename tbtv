@@ -197,41 +197,23 @@ http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=175202&extension=ts
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportlaliga.png",SuperSports Priemier League
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportlaliga.png",SuperSports LA LIGA
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportfootball.png",SuperSports FOOTBALL
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety1.png",SuperSports VARIETY 1
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety2.png",SuperSports VARIETY 2
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety3.png",SuperSports VARIETY 3
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety4.png",SuperSports VARIETY 4
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportaction.png",SuperSports ACTION
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportaction.png",SuperSports BLITZ
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportcricket.png",SuperSports CRICKET
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportgolf.png",SuperSports GOLF
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportgrandstand.png",SuperSports GRANDSTAND
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//supersportmaximo1.png",SuperSports MAXIMO
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportmotorsport.png",SuperSports MOTORSPORT
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportaction.png",SuperSports PLAY 1
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportaction.png",SuperSports PLAY 2
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportpsl.png",SuperSports PSL
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportrugby.png",SuperSports RUGBY
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//supersporttennis.png",SuperSports TENNIS
 
 
@@ -396,8 +378,8 @@ http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=133422&extension=m3
 #EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-name="A and E Network HDTV (A and EHD)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US001A&E-HD.png" group-title="",A&E
 http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=134072&extension=m3u8
 
-#EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-name="AMC HDTV (East) (AMCHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/amc-us.png" group-title="",AMC
-http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Investigation.Discovery.HDTV.(IDHD).us" tvg-logo="https://docdog.top/Logotv/countries//investigationdiscovery.png",Investigation Discovery
+http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=134139&extension=m3u8
 
 #EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-name="AMC HDTV (East) (AMCHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/amc-us.png" group-title="",AMC
 http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=134073&extension=m3u8
@@ -410,6 +392,9 @@ http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=134078&extension=m3
 
 #EXTINF:-1 tvg-id="Bounce.TV.(Bounce).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/bounce-us.png",Bounce TV
 http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=134085&extension=ts
+
+#EXTINF:-1 tvg-id="Bravo.HDTV.(East).(BRAVOD).us",BRAVO TV
+http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=62210&extension=m3u8
 
 #EXTINF:-1 tvg-id="E!.Entertainment.Television.HDTV.(East).(E!.HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/e-entertainment-us.png",E!
 http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=134104&extension=m3u8
@@ -454,9 +439,6 @@ http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79539&extension=m3u
 #EXTINF:-1 tvg-id="AMC.HDTV.(Canada).(AMCHD).ca",AMC
 http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79538&extension=m3u8
 
-#EXTINF:-1 tvg-id="",BRAVO TV
-http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=62210&extension=m3u8
-
 #EXTINF:-1 tvg-id="CHCH.HDTV.(CHCHH).ca",CHCH
 http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79530&extension=m3u8
 
@@ -481,9 +463,6 @@ http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79518&extension=m3u
 #EXTINF:-1 tvg-id="The.Family.Channel.HDTV.(East).(FAMHD).ca",FAMILY
 http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79465&extension=m3u8
 
-#EXTINF:-1 tvg-id="GameTV.(GTV).ca",GAME TV
-http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79458&extension=m3u8
-
 #EXTINF:-1 tvg-id="MSNBC.Canada.Alternate.HDTV.(MSNBCA).ca",MSNBC
 http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79510&extension=m3u8
 
@@ -507,7 +486,6 @@ http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79429&extension=m3u
 
 #EXTINF:-1 tvg-id="WWE.Network.(WWEHD).ca",WWE
 http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=141586&extension=m3u8
-
 
 #EXTINF:-1 tvg-id="Discovery.Science.(Canada).HDTV.(SCIEN).ca" tvg-logo="https://docdog.top/Logotv/countries//discoveryscience.png",DISCOVERY SCIENCE
 http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=79467&extension=m3u8
@@ -546,12 +524,8 @@ http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=134144&extension=m3
 #EXTINF:-1 tvg-id="MoviePlex.East.(MPLEX).us" tvg-logo="https://docdog.top/Logotv/countries//movieplex.png",MoviePlex
 http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=134145&extension=m3u8
 
-
-
 #EXTINF:-1 tvg-id="Sony.Movie.Channel.HD.(SONY).us" tvg-logo="https://docdog.top/Logotv/countries/uk/sonychannel.png",SONY MOVIES
 http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=134169&extension=m3u8
-
-
 
 #EXTINF:-1 tvg-id="MGM+.HDTV.(East).(MGM+HD).us" tvg-name="MGM+ HDTV (East) (MGM+HD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-us.png" group-title="",EPIX
 http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=134108&extension=m3u8
@@ -694,9 +668,6 @@ http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=175475&extension=ts
 
 #EXTINF:-1 tvg-id="Animal.Planet.HDTV.(East).(APHD).us" tvg-logo="https://docdog.top/Logotv/countries//animalplanet.png",Animal Planet
 http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=134076&extension=m3u8
-
-#EXTINF:-1 tvg-id="Investigation.Discovery.HDTV.(IDHD).us" tvg-logo="https://docdog.top/Logotv/countries//investigationdiscovery.png",Investigation Discovery
-http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=134139&extension=m3u8
 
 #EXTINF:-1 tvg-id="National.Geographic.Channel.HDTV.(NGCHD).us" tvg-logo="https://docdog.top/Logotv/countries//natgeo.png",National Geographic
 http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=134150&extension=m3u8
