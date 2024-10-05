@@ -357,9 +357,6 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=826907&extension=ts
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=620781&extension=ts
 
 #EXTINF:-1 tvg-id="Big.Ten.Network.HDTV.(National).(BTNHD).us" tvg-logo="https://docdog.top/Logotv/countries//bigtennetwork.png",Big Ten Network
-http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
-
-#EXTINF:-1 tvg-id="Big.Ten.Network.HDTV.(National).(BTNHD).us" tvg-logo="https://docdog.top/Logotv/countries//bigtennetwork.png",Big Ten Network
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487676&extension=ts
 
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HDTV.(CBSSD).us" tvg-logo="https://docdog.top/Logotv/countries//cbssports.png",CBS Sports Network
@@ -380,13 +377,7 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487778&extension=ts
 http://wildversion.com/play/live.php?mac=00:1A:79:F1:B8:05&stream=219091&extension=ts
 
 #EXTINF:-1 tvg-id="Fox.Sports.1.HDTV.(FS1HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-sports-1-us.png" group-title="",FOX SPORTS 1
-http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-
-#EXTINF:-1 tvg-id="Fox.Sports.1.HDTV.(FS1HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-sports-1-us.png" group-title="",FOX SPORTS 1
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487776&extension=ts
-
-#EXTINF:-1 tvg-id="Fox.Sports.2.HDTV.(FS2HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-sports-2-us.png" group-title="",FOX SPORT 2
-http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox.Sports.2.HDTV.(FS2HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-sports-2-us.png" group-title="",FOX SPORT 2
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487775&extension=ts
@@ -591,9 +582,6 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626945&extension=m3
 
 #EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png",FOX 5
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=549764&extension=m3u8
-
-#EXTINF:-1 tvg-id="FoxNewsChannel.us",FOX News Channel
-http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8
 
 #EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries//nbcnewyork.png",NBC
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626915&extension=m3u8
