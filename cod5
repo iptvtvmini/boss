@@ -30,13 +30,9 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/index.m3u8?id=3
 https://stream2.smg.my/live/tvs_1080p2628kbs/index.m3u8
 
 #EXTINF:-1 tvg-id="Al-Hijrah.my" tvg-name="Al-Hijrah" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png" group-title="",TV Alhijrah
-
 #EXTINF:-1 tvg-id="Astro.Ceria.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png",Astro Ceria
-
 #EXTINF:-1 tvg-id="Astro.Prima.HD.my" tvg-name="Astro Prima HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png" group-title="",Astro Prima
-
 #EXTINF:-1 tvg-id="Astro.Warna.HD.my" tvg-name="Astro Warna HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="",Astro Warna
-
 #EXTINF:-1 tvg-id="Cinemax.HD.id" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png",CINEMAX
 
 
@@ -73,7 +69,6 @@ https://linear08-playback.sooka.my/CH5/masterCH5.mpd
 
 
 #EXTINF:-1 tvg-id="Celestial.Movies.id" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png",Celestial Movies
-
 #EXTINF:-1 tvg-id="Celestial.Classic.Movies.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",CCM
 
 #EXTINF:-1 tvg-id="131.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/302_144.png",Filem Mantap
@@ -620,14 +615,15 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469369&extension=m3
 #EXTINF:-1 tvg-id="ID.uk" tvg-logo="https://docdog.top/Logotv/countries/united-states/crime-and-investigation-us.png",ID (UK)
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577901&extension=ts
 
-#EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-name="AMC HDTV (East) (AMCHD)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US006AMC-HD.png" group-title="",AMC
-http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-name="AMC HDTV (East) (AMCHD)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US006AMC-HD.png" group-title="",AMC
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626854&extension=m3u8
 
 #EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-name="AMC HDTV (East) (AMCHD)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US006AMC-HD.png" group-title="",AMC
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469346&extension=m3u8
+
+#EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-name="AMC HDTV (East) (AMCHD)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US006AMC-HD.png" group-title="",AMC
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="AMC.HDTV.(Canada).(AMCHD).ca" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US006AMC-HD.png",AMC (CA)
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=627026&extension=m3u8
@@ -639,19 +635,19 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577360&extension=m3
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=551795&extension=m3u8
 
 #EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-name="Syfy HDTV (SYFYHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/syfy-us.png" group-title="",Syfy
-http://fl2.moveonjoy.com/SYFY/index.m3u8
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469431&extension=m3u8
 
 #EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-name="Syfy HDTV (SYFYHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/syfy-us.png" group-title="",Syfy
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469431&extension=m3u8
+http://fl2.moveonjoy.com/SYFY/index.m3u8
 
 #EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-name="Syfy HDTV (SYFYHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/syfy-us.png" group-title="",Syfy (WEST)
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469432&extension=m3u8
 
 #EXTINF:-1 tvg-id="BBC.America.HDTV.(East).(BBC).us" tvg-name="BBC America HDTV (East) (BBC)" tvg-logo="https://docdog.top/Logotv/countries/bbcamerica.png" group-title="",BBC America
-http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469295&extension=m3u8
 
 #EXTINF:-1 tvg-id="BBC.America.HDTV.(East).(BBC).us" tvg-name="BBC America HDTV (East) (BBC)" tvg-logo="https://docdog.top/Logotv/countries/bbcamerica.png" group-title="",BBC America
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469295&extension=m3u8
+http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
 
 #EXTINF:-1 tvg-id="AXSTV.HD.(AXSTV).us",AXS TV
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469351&extension=m3u8
@@ -681,9 +677,6 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=679880&extension=m3
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469360&extension=m3u8
 
 #EXTINF:-1 tvg-id="Cine.Sony.Television.(CSONY).us" tvg-logo="https://docdog.top/Logotv/countries//cinesony.png",Cine Sony
-
-#EXTINF:-1 tvg-id="Comedy.Central.HDTV.(East).(CMDHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/comedy-central-us.png",Comedy Central
-http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 
 #EXTINF:-1 tvg-id="Comedy.Central.HDTV.(East).(CMDHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/comedy-central-us.png",Comedy Central
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469361&extension=m3u8
