@@ -131,9 +131,26 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="5e54187aae660e00093561d6" tvg-name="" tvg-logo="https://images.pluto.tv/channels/5e54187aae660e00093561d6/colorLogoPNG.png" group-title="",Game Show Central
 https://gsn-gameshowchannnel-1-us.vizio.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="GameShowCentral.us",Game Show Central
+https://apollo.production-public.tubi.io/live/ac-game-show-central.m3u8
+
 #EXTINF:-1 tvg-id="MBC.Wanasah.(MBCW).us" tvg-name="" tvg-logo="https://i.imgur.com/AuYEozR.png" group-title="",Wanasah
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
 
+#EXTINF:-1 tvg-id="KABCDT1.us",ABC 7
+https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
+
+#EXTINF:-1 tvg-id="KMBCDT1.us",ABC Kansas City
+https://apollo.production-public.tubi.io/live/ac-kmbc.m3u8
+
+#EXTINF:-1 tvg-id="BloombergTV.us",Bloomberg TV US
+https://bloomberg.com/media-manifest/streams/us.m3u8
+
+#EXTINF:-1 tvg-id="BloombergTVPlus.us",Bloomberg
+https://bloomberg-bloombergtv-1-us.samsung.wurl.tv/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CBSNewsNewYork.us",CBS News New York
+https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
 
 #EXTINF:-1 tvg-id="CNBC.us",CNBC
 http://fl2.moveonjoy.com/CNBC/index.m3u8
@@ -141,8 +158,20 @@ http://fl2.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 tvg-id="CSPAN.us",C-SPAN
 http://fl2.moveonjoy.com/C-SPAN/index.m3u8
 
+#EXTINF:-1 tvg-id="WNYWDT1.us",FOX 5 New York NY
+https://apollo.production-public.tubi.io/live/ac-wnyw.m3u8
+
 #EXTINF:-1 tvg-id="FoxNewsChannel.us",FOX News Channel
 http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8
+
+#EXTINF:-1 tvg-id="LiveNOWfromFOX.us",FOX News Now
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",NBC New York News
+https://nbcu-nbcnewyorknews-firetv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WPTZDT1.us",NBC 5
+https://apollo.production-public.tubi.io/live/ac-wptz.m3u8
 
 #EXTINF:-1 tvg-id="MSNBC.us",MSNBC
 http://fl2.moveonjoy.com/MSNBC/index.m3u8
@@ -150,7 +179,8 @@ http://fl2.moveonjoy.com/MSNBC/index.m3u8
 #EXTINF:-1 tvg-id="NewsNationEast.us",NewsNation
 http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
 
-
+#EXTINF:-1 tvg-id="OANPlus.us",OANPlus
+https://oan-plus-tcl.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="AMCEast.us",AMC
@@ -162,8 +192,23 @@ http://fl2.moveonjoy.com/SYFY/index.m3u8
 #EXTINF:-1 tvg-id="BBCAmericaEast.us",BBC America
 http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
 
+#EXTINF:-1 tvg-id="AXSTVNOW.us",AXS TV
+https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
+
+#EXTINF:-1 tvg-id="bonappetit.us",bon appétit
+https://bonappetit-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Circle.us",Circle
+https://circle-samsung.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ComedyCentralEast.us",Comedy Central
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
+
+#EXTINF:-1 tvg-id="Comet.us",Comet
+https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
+
+#EXTINF:-1 tvg-id="",Cowboy Movie Channel
+https://streams2.sofast.tv/ptnr-stirr/genre-Entertainment/lang-English/ctgr-Movies/title-COWBOY-MOVIE-CHANNEL-ENG/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/master.m3u8
 
 #EXTINF:-1 tvg-id="MTVClassicEast.us",MTV
 https://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8
@@ -183,6 +228,8 @@ http://fl5.moveonjoy.com/NICK_MUSIC/index.m3u8
 #EXTINF:-1 tvg-id="NickJrEast.us",Nick Jr
 https://fl5.moveonjoy.com/NICK_JR/index.m3u8
 
+#EXTINF:-1 tvg-id="BabySharkTV.us",Baby Shark
+https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 
 
 
@@ -204,7 +251,8 @@ http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="NFLNetwork.us",NFL Network
 http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 
-
+#EXTINF:-1 tvg-id="Pac12Insider.us",Pac 12 Insider
+https://pac12-roku-us.amagi.tv/playlist.m3u8
 
 
 
@@ -237,7 +285,14 @@ http://fl2.moveonjoy.com/OXYGEN/index.m3u8
 #EXTINF:-1 tvg-id="ParamountNetworkEast.us",Paramount Network
 http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 
+#EXTINF:-1 tvg-id="RedboxSpotlight.us",Redbox Spotlight
+https://spotlight-redbox.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RedboxComedy.us",Redbox Comedy
+https://comedy-redbox.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedboxRush.us",Redbox Rush
+https://rush-redbox.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="StarzComedyEast.us",Starz Comedy
 http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
@@ -272,9 +327,8 @@ http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 #EXTINF:-1 tvg-id="ShowtimeWomenEast.us",Showtime Women
 http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 
-
-
-
+#EXTINF:-1 tvg-id="BloodyDisgusting.us",Bloody Disgusting
+https://bloodydisgusting-tcl.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f64c4ef35f612003f6ffe30" tvg-name="Hi-YAH!" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/hi-yah!_logo.png" group-title="",Hi-Yah!
 https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8
