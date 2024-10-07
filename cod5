@@ -178,6 +178,9 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=551987&extension=m3
 #EXTINF:-1 tvg-id="",FOX NEWS
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=551988&extension=m3u8
 
+#EXTINF:-1 tvg-id="LiveNOWfromFOX.us",FOX News Now
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="",FRANCE 24
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469321&extension=m3u8
 
