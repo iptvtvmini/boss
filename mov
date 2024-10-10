@@ -342,7 +342,7 @@ https://comedy-redbox.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="",Redbox Rush
 https://rush-redbox.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="USBA300005MK" tvg-name="Pluto TV Westerns" tvg-logo="https://images.pluto.tv/channels/5b4e94282d4ec87bdcbb87cd/colorLogoPNG.png" group-title="",Westerns
+#EXTINF:-1 tvg-id="5b4e94282d4ec87bdcbb87cd" tvg-name="Pluto TV Westerns" tvg-logo="https://images.pluto.tv/channels/5b4e94282d4ec87bdcbb87cd/colorLogoPNG.png" group-title="",Westerns
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="58af4c093a41ca9d4ecabe96" tvg-name="Black Cinema" tvg-logo="https://images.pluto.tv/channels/58af4c093a41ca9d4ecabe96/colorLogoPNG.png" group-title="",Black Cinema
