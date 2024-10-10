@@ -245,7 +245,7 @@ http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:AE:BD:4F&stream=154416&exten
 http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:AE:BD:4F&stream=154418&extension=ts
 
 
-#EXTINF:-1 tvg-id="",ACC Network
+#EXTINF:-1 tvg-id="ACC.Network.HDTV.(ACCN).us",ACC Network
 http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="Big.Ten.Network.HDTV.(National).(BTNHD).us" tvg-logo="https://docdog.top/Logotv/countries//bigtennetwork.png",Big Ten Network
@@ -260,7 +260,7 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487782&extension=ts
 #EXTINF:-1 tvg-id="ESPN2.HDTV.(Dish).(ESPN2HD).us" tvg-name="ESPN2 HDTV (Dish) (ESPN2HD)" tvg-logo="https://docdog.top/Logotv/countries//espn2.png" group-title="",ESPN 2
 http://fl2.moveonjoy.com/ESPN_2/index.m3u8
 
-#EXTINF:-1 tvg-id="",ESPN News
+#EXTINF:-1 tvg-id="ESPN.News.HDTV.(ESNEWSHD).us",ESPN News
 http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNU.HDTV.(ESPNUHD).us" tvg-name="ESPNU HDTV (ESPNUHD)" tvg-logo="https://docdog.top/Logotv/countries//espnu.png" group-title="",ESPN U
