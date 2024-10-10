@@ -123,6 +123,20 @@ http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:AE:BD:4F&stream=283814&exten
 #EXTINF:-1 tvg-id="MBC.Wanasah.(MBCW).us" tvg-name="" tvg-logo="https://i.imgur.com/AuYEozR.png" group-title="",Wanasah
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
 
+
+
+#EXTINF:-1 tvg-id="Boomerang.(BOOM).us" tvg-logo="https://docdog.top/Logotv/countries//boomerang.png",Boomerang
+https://fl3.moveonjoy.com/BOOMERANG/index.m3u8
+
+#EXTINF:-1 tvg-id="The.Disney.Channel.HDTV.(East).(DISHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/disney-channel-us.png",Disney Channel
+http://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="Disney.Junior.HDTV.East.(DISJr).us" tvg-logo="https://docdog.top/Logotv/countries//disneyjuniorpacific.png",Disney Junior
+https://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
+
+#EXTINF:-1 tvg-id="Disney.XD.(East).(DISXD).us" tvg-logo="https://docdog.top/Logotv/countries//disneyxd.png",Disney XD
+https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
+
 #EXTINF:-1 tvg-id="Nick.Jr..(NicJr).us" tvg-logo="https://docdog.top/Logotv/countries//nickjr.png",Nick Jr
 https://fl5.moveonjoy.com/NICK_JR/index.m3u8
 
@@ -231,11 +245,27 @@ http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:AE:BD:4F&stream=154416&exten
 http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:AE:BD:4F&stream=154418&extension=ts
 
 
+#EXTINF:-1 tvg-id="",ACC Network
+http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
+
 #EXTINF:-1 tvg-id="Big.Ten.Network.HDTV.(National).(BTNHD).us" tvg-logo="https://docdog.top/Logotv/countries//bigtennetwork.png",Big Ten Network
 http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HDTV.(CBSSD).us" tvg-logo="https://docdog.top/Logotv/countries//cbssports.png",CBS Sports Network
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.HDTV.(Dish).(ESPNHD).us" tvg-name="ESPN HDTV (Dish) (ESPNHD)" tvg-logo="https://docdog.top/Logotv/countries//espn1.png" group-title="",ESPN 1
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487782&extension=ts
+
+#EXTINF:-1 tvg-id="ESPN2.HDTV.(Dish).(ESPN2HD).us" tvg-name="ESPN2 HDTV (Dish) (ESPN2HD)" tvg-logo="https://docdog.top/Logotv/countries//espn2.png" group-title="",ESPN 2
+http://fl2.moveonjoy.com/ESPN_2/index.m3u8
+
+#EXTINF:-1 tvg-id="",ESPN News
+http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPNU.HDTV.(ESPNUHD).us" tvg-name="ESPNU HDTV (ESPNUHD)" tvg-logo="https://docdog.top/Logotv/countries//espnu.png" group-title="",ESPN U
+http://fl2.moveonjoy.com/ESPN_U/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Fox.Sports.1.HDTV.(FS1HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-sports-1-us.png" group-title="",FOX SPORTS 1
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
@@ -246,14 +276,36 @@ http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
 #EXTINF:-1 tvg-id="MLB.Network.HDTV.(DISH).(MLBHD).us" tvg-logo="https://docdog.top/Logotv/countries//mlbnetwork.png",MLB Network
 http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
 
+#EXTINF:-1 tvg-id="NBA.TV.HDTV.(NBA.HD).us" tvg-logo="https://docdog.top/Logotv/countries//nba.png",NBA TV
+http://fl2.moveonjoy.com/NBA_TV/index.m3u8
+
 #EXTINF:-1 tvg-id="The.NFL.Network.HDTV.(NFLHD).us" tvg-logo="https://docdog.top/Logotv/countries//nflnetwork.png",NFL Network
 http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="NHL.Network.US.HDTV.(NHLHD).us" tvg-logo="https://docdog.top/Logotv/countries//nbaatlantahawks.png",NHL NETWORK
+http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="Pac-12.Network.HDTV.(PAC12).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/pac-12-los-angeles-us.png",PAC-12 Insider
 https://pac12-roku-us.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Stadium.College.Sports.Central.(SCSC).us",Stadium
+http://fl2.moveonjoy.com/STADIUM/index.m3u8
+
+#EXTINF:-1 tvg-id="YES.Alternate.HDTV.DirecTV.(YESHDA).us",Yes Network
+http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="The.Golf.Channel.HDTV.(GLFHD).us",Golf Channel
+http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" tvg-name="Tennis Channel HDTV (TNNSHD)" tvg-logo="https://docdog.top/Logotv/countries//tennischannel.png" group-title="",Tennis
+http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 
 
+#EXTINF:-1 tvg-id="",ABC
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+
+#EXTINF:-1 tvg-id="",NBC
+http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
 
 #EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-name="AMC HDTV (East) (AMCHD)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US006AMC-HD.png" group-title="",AMC
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
@@ -321,18 +373,72 @@ http://fl2.moveonjoy.com/OXYGEN/index.m3u8
 #EXTINF:-1 tvg-id="Paramount.Network.HDTV.(East).(PARHD).us",Paramount Network
 http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="YES.Alternate.HDTV.DirecTV.(YESHDA).us",Yes Network
-http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Animal.Planet.HDTV.(East).(APHD).us" tvg-logo="https://docdog.top/Logotv/countries//animalplanet.png",Animal Planet
+https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 
 #EXTINF:-1 tvg-id="FYI.HDTV.(FYIHD).us",FYI
 http://fl2.moveonjoy.com/FYI/index.m3u8
 
+#EXTINF:-1 tvg-id="Home.and.Garden.Television.HDTV.(East).(HGTVD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/hgtv-us.png",HGTV
+https://varun-iptv.netlify.app/m3u/HGTV.m3u8
 
+#EXTINF:-1 tvg-id="The.Learning.Channel.HDTV.(East).(TLCHD).us",TLC
+https://varun-iptv.netlify.app/m3u/TLC.m3u8
+
+#EXTINF:-1 tvg-id="Food.Network.HDTV.(East).(FOODHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/food-network-us.png",Food Network
+https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
+
+#EXTINF:-1 tvg-id="The.Discovery.Channel.HDTV.(East).(DSCHD).us" tvg-logo="https://docdog.top/Logotv/countries//discoverychannel.png",Discovery Channel
+https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
+
+#EXTINF:-1 tvg-id="Science.HDTV.(SCIHD).us" tvg-logo="",Discovery Science
+https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
+
+#EXTINF:-1 tvg-id="Disc.Turbo.uk",Discovery Turbo
+https://varun-iptv.netlify.app/m3u/Discovery_Turbo.m3u8
+
+#EXTINF:-1 tvg-id="Investigation.Discovery.HDTV.(IDHD).us" tvg-logo="https://docdog.top/Logotv/countries//investigationdiscovery.png",Investigation Discovery
+https://varun-iptv.netlify.app/m3u/Investigation_Discovery.m3u8
+
+#EXTINF:-1,Crime and Punishment
+https://rightsboosterltd-crime-and-punishment-1-us.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,Conflict
+https://rightsboosterltd-conflict-1-us.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,Law and Crime
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00260-lawnewzincdbala-lawandcrime-xiaomi/playlist.m3u8
+
+#EXTINF:-1,Emergency
+https://rightsboosterltd-emergency-1-us.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DMAX.uk",DMAX
+https://varun-iptv.netlify.app/m3u/DMAX.m3u8
+
+#EXTINF:-1 tvg-id="",Travel Channel
+https://varun-iptv.netlify.app/m3u/TRVL_Channel.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="Crave.1.HDTV.(East).(CRV1H).ca",CRAVE 1
+http://fl3.moveonjoy.com/CRAVE_1/index.m3u8
+
+#EXTINF:-1 tvg-id="Crave.2.HDTV.(East).(CRV2H).ca",CRAVE 2
+http://fl2.moveonjoy.com/CRAVE_2/index.m3u8
+
+#EXTINF:-1 tvg-id="Crave.3.HDTV.(East).(CRV3H).ca",CRAVE 3
+http://fl3.moveonjoy.com/CRAVE_3/index.m3u8
+
+#EXTINF:-1 tvg-id="Crave.4.(East).(CRVM4).ca",CRAVE 4
+http://fl2.moveonjoy.com/CRAVE_4/index.m3u8
 
 #EXTINF:-1 tvg-id="MGM+.HDTV.(East).(MGM+HD).us" tvg-name="MGM+ HDTV (East) (MGM+HD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-us.png" group-title="",EPIX
 http://fl2.moveonjoy.com/EPIX/index.m3u8
 
-#EXTINF:-1 tvg-id="MGM+.Marquee.HDTV.(East).(MGM+MRQ).us" tvg-name="MGM+ Marquee HDTV (East) (MGM+MRQ)" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-us.png" group-title="",EPIX 2
+#EXTINF:-1 tvg-id="MGM+.Drive-In.(MGM+DI).us" tvg-name="MGM+ Drive-In (MGM+DI)" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-drive-in-us.png" group-title="",EPIX Drive-In
 http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
 
 
