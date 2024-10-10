@@ -137,37 +137,31 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/index.m3u8?id=8
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
 
 
-#EXTINF:-1 tvg-id="KABCDT1.us",ABC 7
+#EXTINF:-1 tvg-id="",ABC 7
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
 
-#EXTINF:-1 tvg-id="KMBCDT1.us",ABC Kansas City
+#EXTINF:-1 tvg-id="",ABC Kansas City
 https://apollo.production-public.tubi.io/live/ac-kmbc.m3u8
 
-#EXTINF:-1 tvg-id="BloombergTV.us",Bloomberg TV US
-https://bloomberg.com/media-manifest/streams/us.m3u8
-
-#EXTINF:-1 tvg-id="BloombergTVPlus.us",Bloomberg
-https://bloomberg-bloombergtv-1-us.samsung.wurl.tv/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CBSNewsNewYork.us",CBS News New York
+#EXTINF:-1 tvg-id="",CBS News
 https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
 
-#EXTINF:-1 tvg-id="CNBC.us",CNBC
+#EXTINF:-1 tvg-id="",CNBC
 http://fl2.moveonjoy.com/CNBC/index.m3u8
 
-#EXTINF:-1 tvg-id="CSPAN.us",C-SPAN
+#EXTINF:-1 tvg-id="",C-SPAN
 http://fl2.moveonjoy.com/C-SPAN/index.m3u8
 
-#EXTINF:-1 tvg-id="WNYWDT1.us",FOX 5 New York NY
+#EXTINF:-1 tvg-id="",FOX 5
 https://apollo.production-public.tubi.io/live/ac-wnyw.m3u8
 
-#EXTINF:-1 tvg-id="FoxNewsChannel.us",FOX News Channel
+#EXTINF:-1 tvg-id="",FOX News Channel
 http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8
 
-#EXTINF:-1 tvg-id="LiveNOWfromFOX.us",FOX News Now
+#EXTINF:-1 tvg-id="",FOX News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="",NBC New York News
+#EXTINF:-1 tvg-id="",NBC News
 https://nbcu-nbcnewyorknews-firetv.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="",NBC 5
