@@ -127,7 +127,9 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/auto.m3u8?id=7
  
 #EXTINF:-1 tvg-id="RTMK08" tvg-name="Dewan Negara" tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="",Parlimen Dewan Negara
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/index.m3u8?id=8
- 
+
+#EXTINF:-1 tvg-id="",ABC News New York
+https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
 
 #EXTINF:-1 tvg-id="",ABC NEWS LIVE
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
@@ -447,8 +449,6 @@ https://edge.taghtia.com/sa/10.m3u8
 
 #EXTINF:-1 tvg-id="SharjahSports.ae" tvg-name="" tvg-logo="https://docdog.top/Logotv/countries//sharjahsport.png" group-title="",Sharjah Sport
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-
-
 
 
 #EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/abc-us.png",ABC 7
