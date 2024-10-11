@@ -457,6 +457,9 @@ http://supersonictv.live:8080/live/144264/661943/71676.ts
 #EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cbs-logo-white-us.png",CBS 2
 http://supersonictv.live:8080/live/144264/661943/71677.ts
 
+#EXTINF:-1 tvg-id="",CBS 9 Washington DC
+https://livevideo.tegnadigital.com/wusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WUSA-2/index.m3u8
+
 #EXTINF:-1 tvg-id="CW.(WUPV).Richmond,.VA.us" tvg-logo="https://docdog.top/Logotv/countries//cw.png",CW 11
 http://supersonictv.live:8080/live/144264/661943/71682.ts
 
