@@ -139,6 +139,9 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/index.m3u8?id=8
 #EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="",CNN INA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
 
+#EXTINF:-1 tvg-id="",ABC News New York
+https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
+
 #EXTINF:-1 tvg-id="",ABC NEWS LIVE
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
