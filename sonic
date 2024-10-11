@@ -473,18 +473,6 @@ http://supersonictv.live:8080/live/144264/661943/71679.ts
 
 
 
-#EXTINF:-1 tvg-id="CTV.Calgary.HDTV.(CTVHC).ca" tvg-logo="https://docdog.top/Logotv/countries//ctvcalgary.png",CTV
-http://supersonictv.live:8080/live/144264/661943/21896.ts
-
-#EXTINF:-1 tvg-id="CTV.Two.Ottawa/CHRO.(CTV2O).ca" tvg-logo="https://docdog.top/Logotv/countries//ctv2ottawa.png",CTV2
-http://supersonictv.live:8080/live/144264/661943/21901.ts
-
-#EXTINF:-1 tvg-id="CTV.SCI-FI.Channel.HDTV.(SCIFIHD).ca" tvg-logo="https://docdog.top/Logotv/countries/canada/ctv-sci-fi-channel-ca.png",CTV SCI-FI
-http://supersonictv.live:8080/live/144264/661943/21897.ts
-
-
-
-
 #EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-name="A and E Network HDTV (A and EHD)" tvg-logo="" group-title="",A&E
 http://supersonictv.live:8080/live/144264/661943/22040.ts
 
@@ -592,15 +580,49 @@ http://supersonictv.live:8080/live/144264/661943/22154.ts
 http://supersonictv.live:8080/live/144264/661943/22159.ts
 
 
+#EXTINF:-1 tvg-id="A.and.E.HD.Network.Canada.(A.and.EHDC).ca",A&E
+http://supersonictv.live:8080/live/144264/661943/21814.ts
+
+#EXTINF:-1 tvg-id="ABC.Spark.HDTV.(HABCS).ca",ABC Spark
+http://supersonictv.live:8080/live/144264/661943/21816.ts
+
+#EXTINF:-1 tvg-id="AMC.HDTV.(Canada).(AMCHD).ca",AMC
+http://supersonictv.live:8080/live/144264/661943/21819.ts
+
+#EXTINF:-1 tvg-id="Country.Music.Television.Canada.(CMT).ca",CMT
+http://supersonictv.live:8080/live/144264/661943/21869.ts
+
+#EXTINF:-1 tvg-id="Crave.1.HDTV.(East).(CRV1H).ca" tvg-logo="",Crave 1
+http://supersonictv.live:8080/live/144264/661943/21879.ts
+
+#EXTINF:-1 tvg-id="Crave.2.HDTV.(East).(CRV2H).ca" tvg-logo="",Crave 2
+http://supersonictv.live:8080/live/144264/661943/21880.ts
+
+#EXTINF:-1 tvg-id="Crave.3.HDTV.(East).(CRV3H).ca" tvg-logo="",Crave 3
+http://supersonictv.live:8080/live/144264/661943/21881.ts
+
+#EXTINF:-1 tvg-id="Crave.4.(East).(CRVM4).ca" tvg-logo="",Crave 4
+http://supersonictv.live:8080/live/144264/661943/21882.ts
+
+
+
+
+#EXTINF:-1 tvg-id="CTV.Calgary.HDTV.(CTVHC).ca" tvg-logo="https://docdog.top/Logotv/countries//ctvcalgary.png",CTV
+http://supersonictv.live:8080/live/144264/661943/21896.ts
+
+#EXTINF:-1 tvg-id="CTV.Two.Ottawa/CHRO.(CTV2O).ca" tvg-logo="https://docdog.top/Logotv/countries//ctv2ottawa.png",CTV2
+http://supersonictv.live:8080/live/144264/661943/21901.ts
+
+#EXTINF:-1 tvg-id="CTV.SCI-FI.Channel.HDTV.(SCIFIHD).ca" tvg-logo="https://docdog.top/Logotv/countries/canada/ctv-sci-fi-channel-ca.png",CTV SCI-FI
+http://supersonictv.live:8080/live/144264/661943/21897.ts
+
+
+
+
+
 
 #EXTINF:-1,Action Hollywood Movies
 https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="USAJ30000148W" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/15/USAJ30000148W_20210525T051435.png",Cinevault 80s
-https://gsn-cinevault-80s-1-us.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="USAK3508709A" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/09/USAK3508709A_20210224T013304.png",Cinevault Westerns
-https://gsn-cinevault-westerns-1-us.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="",Redbox 1 Spotlight
 https://spotlight-redbox.amagi.tv/playlist.m3u8
@@ -929,62 +951,6 @@ http://supersonictv.live:8080/live/144264/661943/40495.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Western Movie
 http://supersonictv.live:8080/live/144264/661943/40507.ts
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="CINEMANIA" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",CHIPS
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1430386&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Bionic Woman
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=534109&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Six Million Dollar Man
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=534105&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="CINEMANIA" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",SIX MILLION DOLLAR MAN
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1430189&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="CINEMANIA" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",KNIGHT RIDER
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1430274&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="CINEMANIA" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",INCREDIBLE HULK
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1430203&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="CINEMANIA" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",THE TWILIGHT ZONE
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1430183&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="CINEMANIA" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",BORDER SECURITY
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:B1:94:01&stream=1430406&extension=ts
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",EDDY MURPHY
-http://mohdtv.com:8880/live/voby4629/76547763/60122.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Arnold Schwarzenegger
-http://mohdtv.com:8880/live/voby4629/76547763/60871.ts
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://scripps.com/wp-content/uploads/2019/01/local_media_23_abc.png",23ABC
-https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//abcnews.png",ABC News
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kDqyJcP.jpg",CBS News
-https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/foxnews.png",FOX News Now
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/90/USBA300028QU_20210622T090622.png",Newsmax
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://images2.imgbox.com/1f/8c/vA9CqYr4_o.jpeg",One America News
-https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/usatoday_logo_dark_v2.png",USA TODAY
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
-
 
 
 
