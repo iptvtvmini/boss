@@ -547,6 +547,9 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=548879&extension=m3
 #EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cbs-logo-white-us.png",CBS 2
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=549522&extension=m3u8
 
+#EXTINF:-1 tvg-id="",CBS 9 Washington DC
+https://livevideo.tegnadigital.com/wusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WUSA-2/index.m3u8
+
 #EXTINF:-1 tvg-id="CW.(WUPV).Richmond,.VA.us" tvg-logo="https://docdog.top/Logotv/countries//cw.png",CW 11
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=551454&extension=m3u8
 
