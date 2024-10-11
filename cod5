@@ -143,61 +143,25 @@ https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="",ABC NEWS LIVE
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=551995&extension=m3u8
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/aljazeera.png",AlJazeera
 https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1 tvg-id="",AL JAZEERA ENGLISH
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469293&extension=m3u8
-
-#EXTINF:-1 tvg-id="",BBC WORLD NEWS
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=551984&extension=m3u8
-
 #EXTINF:-1 tvg-id="",CBS NEWS
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=551996&extension=m3u8
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
-#EXTINF:-1 tvg-id="",CNBC
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=551993&extension=m3u8
-
-#EXTINF:-1 tvg-id="",CNBC WORLD
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=551992&extension=m3u8
-
-#EXTINF:-1 tvg-id="",CNN
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=552000&extension=m3u8
-
-#EXTINF:-1 tvg-id="",CNN INTERNATIONAL
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=551998&extension=m3u8
-
-#EXTINF:-1 tvg-id="",DW
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469315&extension=m3u8
-
-#EXTINF:-1 tvg-id="",EURONEWS
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=551987&extension=m3u8
-
-#EXTINF:-1 tvg-id="",FOX NEWS
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=551988&extension=m3u8
+#EXTINF:-1 tvg-id="",CNN USA
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-id="LiveNOWfromFOX.us",FOX News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="",FRANCE 24
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469321&extension=m3u8
+#EXTINF:-1 tvg-id="",NBC News Now
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
 
-#EXTINF:-1 tvg-id="",MSNBC
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=551986&extension=m3u8
-
-#EXTINF:-1 tvg-id="",NEWS 12 THE BRONX
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=551974&extension=m3u8
-
-#EXTINF:-1 tvg-id="",NEWSMAX TV
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=551775&extension=m3u8
-
-#EXTINF:-1 tvg-id="",ONE AMERICA NEWS
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=551970&extension=m3u8
-
-#EXTINF:-1 tvg-id="",RT AMERICA
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=551985&extension=m3u8
+#EXTINF:-1 tvg-id="",NEWSMAX
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-newsmaxxumo/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/rtenews.png",RT News
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
