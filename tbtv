@@ -401,6 +401,67 @@ http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=133422&extension=m3
 #EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US020CNBC.png",NBC 4
 
 
+
+#EXTINF:-1 tvg-id="ABC.(KTVO).Kirskville,.MO.us",ABC 3 Kirskville
+https://cvtv.cvalley.net/hls/KTVOABC/KTVOABC.m3u8
+
+#EXTINF:-1 tvg-id="ABC.(KMBC).Kansas.City,.MO.us",ABC 9 Kansas City
+https://cvtv.cvalley.net/hls/KMBCABC/KMBCABC.m3u8
+
+#EXTINF:-1 tvg-id="ABC.(KMIZ).Columbia,.MO.us",ABC 17 Columbia
+https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
+
+#EXTINF:-1 tvg-id="CBS.(KRCG).Jefferson,.MO.us",CBS Jefferson
+https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8
+
+#EXTINF:-1 tvg-id="CBS.(KCTV).Kansas.City,.MO.us",CBS 5 Kansas City
+https://cvtv.cvalley.net/hls/KCTVCBS/KCTVCBS.m3u8
+
+#EXTINF:-1 tvg-id="CBS.(KTVO-DT2).Kirskville,.MO.us",CBS Kirskville
+https://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8
+
+#EXTINF:-1 tvg-id="",CBS 9 Washington DC
+https://livevideo.tegnadigital.com/wusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WUSA-2/index.m3u8
+
+#EXTINF:-1 tvg-id="CW.(KCWE).Kansas.City,.MO.us" tvg-logo="https://docdog.top/Logotv/countries//cw.png",CW Kansas City
+https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8
+
+#EXTINF:-1 tvg-id="FOX.(KQFX).Columbia,.MO.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png",FOX Columbia
+https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
+
+#EXTINF:-1 tvg-id="FOX.(WDAF).Kansas.City,.MO.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png",Fox Kansas City
+https://cvtv.cvalley.net/hls/WDAFFox/WDAFFox.m3u8
+
+#EXTINF:-1 tvg-id="KMCI.38.(The.Spot).-.Kansas.City,.MO.us",KMCI 38
+https://cvtv.cvalley.net/hls/KMCIIND/KMCIIND.m3u8
+
+#EXTINF:-1 tvg-id="MNT.(KSMO).Kansas.City,.MO.us",MNT Kansas City
+https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8
+
+#EXTINF:-1 tvg-id="MNT.(KMIZ-DT3).Columbia,.MO.us",MNT Columbia
+https://cvtv.cvalley.net/hls/KZOUMYZOU/KZOUMYZOU.m3u8
+
+#EXTINF:-1 tvg-id="NBC.(KOMU).Columbia,.MO.us",NBC 8 Columbia
+https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
+
+#EXTINF:-1 tvg-id="NBC.(KSHB).Kansas.City,.MO.us",NBC 41 Kansas City
+https://cvtv.cvalley.net/hls/KSHBNBC/KSHBNBC.m3u8
+
+#EXTINF:-1 tvg-id="NBC.(KYOU-DT2).Ottumwa,.IA.us",NBC2 Ottumwa
+https://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8
+
+#EXTINF:-1 tvg-id="PBS.(KMOS).Warrensburg,.MO.us" tvg-logo="https://docdog.top/Logotv/countries//pbskids.png",PBS Warrensburg
+https://cvtv.cvalley.net/hls/KMOSPBS/KMOSPBS.m3u8
+
+#EXTINF:-1 tvg-id="PBS.(KCPT).Kansas.City,.MO.us" tvg-logo="https://docdog.top/Logotv/countries//pbskids.png",PBS Kansas City
+https://cvtv.cvalley.net/hls/KCPTPBS/KCPTPBS.m3u8
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-name="A and E Network HDTV (A and EHD)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US001A&E-HD.png" group-title="",A&E
 http://tbtv.me:80/play/live.php?mac=00:1A:79:30:32:0f&stream=134072&extension=m3u8
 
