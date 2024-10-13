@@ -559,6 +559,9 @@ http://supersonictv.live:8080/live/144264/661943/21816.ts
 #EXTINF:-1 tvg-id="AMC.HDTV.(Canada).(AMCHD).ca",AMC
 http://supersonictv.live:8080/live/144264/661943/21819.ts
 
+#EXTINF:-1 tvg-id="CHCH.HDTV.(CHCHH).ca" tvg-logo="https://docdog.top/Logotv/countries//chch.png",CHCH
+https://6oclock.xyz:8443/live/Tyrone43147/My3boys/21449.ts
+
 #EXTINF:-1 tvg-id="Country.Music.Television.Canada.(CMT).ca",CMT
 http://supersonictv.live:8080/live/144264/661943/21869.ts
 
@@ -584,6 +587,20 @@ http://supersonictv.live:8080/live/144264/661943/21901.ts
 #EXTINF:-1 tvg-id="CTV.SCI-FI.Channel.HDTV.(SCIFIHD).ca" tvg-logo="https://docdog.top/Logotv/countries/canada/ctv-sci-fi-channel-ca.png",CTV SCI-FI
 http://supersonictv.live:8080/live/144264/661943/21897.ts
 
+#EXTINF:-1 tvg-id="The.Discovery.Channel.Canada.HDTV.(TDCHD).ca" tvg-logo="",DISCOVERY CHANNEL
+https://6oclock.xyz:8443/live/Tyrone43147/My3boys/21434.ts
+
+#EXTINF:-1 tvg-id="Discovery.Science.(Canada).HDTV.(SCIEN).ca" tvg-logo="https://docdog.top/Logotv/countries//discoveryscience.png",DISCOVERY SCIENCE
+https://6oclock.xyz:8443/live/Tyrone43147/My3boys/21435.ts
+
+#EXTINF:-1 tvg-id="Game.Show.Network.HDTV.(EAST).(GMSHWHD).ca" tvg-logo="",Game Show Network (CA)
+https://6oclock.xyz:8443/live/Tyrone43147/My3boys/21429.ts
+
+#EXTINF:-1 tvg-id="GameTV.(GTV).ca" tvg-logo="",GAME TV (CA)
+https://6oclock.xyz:8443/live/Tyrone43147/My3boys/27492.ts
+
+#EXTINF:-1 tvg-id="History.Television.HDTV.(East).(HISHD).ca" tvg-logo="https://docdog.top/Logotv/countries//history.png",HISTORY CHANNEL
+https://6oclock.xyz:8443/live/Tyrone43147/My3boys/21418.ts
 
 
 #EXTINF:-1 tvg-id="MGM+.HDTV.(East).(MGM+HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-us.png",Epix
