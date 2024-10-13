@@ -135,19 +135,19 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/index.m3u8?id=4
 
 
 #EXTINF:-1 tvg-id="Astro.SuperSport.HD.my" tvg-name="Astro SuperSport HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="",Astro SuperSport 1
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=716930&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=828098&extension=ts
 
 #EXTINF:-1 tvg-id="Astro.SuperSport.2.HD.my" tvg-name="Astro SuperSport 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="",Astro SuperSport 2
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=716931&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=828097&extension=ts
 
 #EXTINF:-1 tvg-id="Astro.SuperSport.3.HD.my" tvg-name="Astro SuperSport 3 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="",Astro SuperSport 3
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=716932&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=828096&extension=ts
 
 #EXTINF:-1 tvg-id="Astro.SuperSport.4.HD.my" tvg-name="Astro SuperSport 4 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="",Astro SuperSport 4
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=716933&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=828095&extension=ts
 
 #EXTINF:-1 tvg-id="Astro.Supersport.5.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="",W Sport
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=828094&extension=ts
+
 
 
 
@@ -163,10 +163,10 @@ http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97121&extension=t
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=457059&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportlaliga.png",SuperSports LA LIGA
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=217425&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577929&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportfootball.png",SuperSports FOOTBALL
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=217431&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577920&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportvariety1.png",SuperSports VARIETY 1
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=457062&extension=ts
@@ -187,13 +187,13 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=457066&extensio
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=457068&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//supersporttennis.png",SuperSports TENNIS
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=217438&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577928&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportpsl.png",SuperSports PSL
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=457058&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportgolf.png",SuperSports GOLF
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=217436&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577925&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportgrandstand.png",SuperSports GRANDSTAND
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=457057&extension=ts
@@ -201,14 +201,11 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=457057&extensio
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportrugby.png",SuperSports RUGBY
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=457067&extension=ts
 
-#EXTINF:-1 tvg-id="",SuperSports WWE
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=765040&extension=ts
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportmotorsport.png",SuperSports MOTORSPORT
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=217437&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577921&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//supersportmaximo1.png",SuperSports MAXIMO
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=217440&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577934&extension=ts
 
 #EXTINF:-1 tvg-id="",SuperSports BLITZ
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=457069&extension=ts
@@ -217,8 +214,7 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=457069&extensio
 http://supersonictv.live:8080/live/242306/210404/86877.ts
 
 #EXTINF:-1 tvg-id="",SuperSports PLAY 2
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577931&extension=ts
-
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577931&extension=ts
 
 
 
@@ -231,11 +227,11 @@ http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97148&extension=t
 #EXTINF:-1 tvg-id="TNT.Sports.3.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport3.png",TNT Sport 3
 http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97150&extension=ts
 
-#EXTINF:-1 tvg-id="TNT.Sports.4.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",TNT Sport ESPN
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=795138&extension=ts
+#EXTINF:-1 tvg-id="TNT.Sports.4.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",TNT Sport 4
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=782732&extension=ts
 
-#EXTINF:-1 tvg-id="",TNT Sport 5
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=795141&extension=ts
+#EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",TNT Sport 5
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=774608&extension=ts
 
 
 
@@ -276,10 +272,9 @@ http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=187070&extension=
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61384&extension=ts
 
 #EXTINF:-1 tvg-id="Altitude.Sports.and.Entertainment.(Colorado).HDTV.24/7.(ALTHD).us" tvg-logo="",Altitude Sports
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219070&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=826907&extension=ts
 
 #EXTINF:-1 tvg-id="ATT.SportsNet.Pittsburgh.HDTV.(Pittsburgh.DMA).(ATTHD).us" tvg-logo="",ATT SportNet
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219122&extension=ts
 
 #EXTINF:-1 tvg-id="Bally.Sports.Midwest.(St..Louis).(BSMW).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/nbc-logo-flat-us.png",Bally Sport
 http://supersonictv.live:8080/live/Derrick/Hitman50$/78946.ts
@@ -296,37 +291,36 @@ http://supersonictv.live:8080/live/Derrick/Hitman50$/40402.ts
 #EXTINF:-1 tvg-id="NBCSNWH.NBC.Sports.Northwest.HD.us" tvg-logo="https://docdog.top/Logotv/countries//nbcnewyork.png",NBC Sport
 
 #EXTINF:-1 tvg-id="The.NFL.Network.HDTV.(NFLHD).us" tvg-logo="https://docdog.top/Logotv/countries//nflnetwork.png",NFL Network
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219506&extension=ts
+http://supersonictv.live:8080/live/144264/661943/40412.ts
 
 #EXTINF:-1 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/nesn-us.png",NESN
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219113&extension=ts
+http://supersonictv.live:8080/live/144264/661943/40410.ts
 
 #EXTINF:-1 tvg-id="NHL.Network.US.HDTV.(NHLHD).us" tvg-logo="https://docdog.top/Logotv/countries//nbaatlantahawks.png",NHL NETWORK
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61349&extension=ts
 
 #EXTINF:-1 tvg-id="Pac-12.Network.HDTV.(PAC12).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/pac-12-los-angeles-us.png",PAC-12 NETWORK
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219180&extension=ts
+http://supersonictv.live:8080/live/144264/661943/40419.ts
 
 #EXTINF:-1 tvg-id="Root.Sports.Northwest.(ROOT).us" tvg-logo="",Root Sports
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219116&extension=ts
+http://supersonictv.live:8080/live/144264/661943/77576.ts
 
 #EXTINF:-1 tvg-id="SEC.Network.HDTV.(SECN).us" tvg-logo="https://docdog.top/Logotv/countries//secnetwork.png",SEC NETWORK
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61354&extension=ts
 
 #EXTINF:-1 tvg-id="Spectrum.SportsNet.LA.(SNLA).us" tvg-logo="https://docdog.top/Logotv/countries/cz/novasport1.png",SPECTRUM SPORTSNET
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219117&extension=ts
+http://supersonictv.live:8080/live/144264/661943/40423.ts
 
 #EXTINF:-1 tvg-id="SportsNet.New.York.HDTV.(SNYHD).us" tvg-logo="https://docdog.top/Logotv/countries//fubosportsnetwork.png",SportsNet NY
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61377&extension=ts
 
 #EXTINF:-1 tvg-id="Sportsnet.360.HDTV.(360HD).ca" tvg-logo="https://docdog.top/Logotv/countries//sportsnet360.png",SportsNet 360
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=765514&extension=ts
+http://supersonictv.live:8080/live/144264/661943/40472.ts
 
 #EXTINF:-1 tvg-id="Sportsnet.One.HDTV.(SN1HD).ca" tvg-logo="https://docdog.top/Logotv/countries//sportsnetone.png",Sportsnet One
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219188&extension=ts
+http://supersonictv.live:8080/live/144264/661943/40475.ts
 
 #EXTINF:-1 tvg-id="The.Sportsman.Channel.HDTV.(SPTMANHD).us" tvg-logo="https://docdog.top/Logotv/countries//sportsmanchannel.png",Sportman Channel
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219186&extension=ts
 
 #EXTINF:-1 tvg-id="Willow.Cricket.HDTV.(WILLHD).us" tvg-logo="https://docdog.top/Logotv/countries//willowcricket.png",Willow Cricket
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61364&extension=ts
@@ -347,7 +341,7 @@ http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=287479&extension=
 
 
 #EXTINF:-1 tvg-id="The.Sports.Network.HDTV.(TSNHD).ca" tvg-name="The Sports Network HDTV (TSNHD)" tvg-logo="https://docdog.top/Logotv/countries//tsn1.png",TSN 1
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=765561&extension=ts
+http://supersonictv.live:8080/live/144264/661943/40467.ts
 
 #EXTINF:-1 tvg-id="The.Sports.Network.2.HDTV.(TSN2D).ca" tvg-name="The Sports Network 2 HDTV (TSN2D)" tvg-logo="https://docdog.top/Logotv/countries//tsn2.png",TSN 2
 http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61409&extension=ts
@@ -356,7 +350,7 @@ http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61409&extension=t
 http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61408&extension=ts
 
 #EXTINF:-1 tvg-id="The.Sports.Network.4.HDTV.(TSN4H).ca" tvg-name="The Sports Network 4 HDTV (TSN4H)" tvg-logo="https://docdog.top/Logotv/countries//tsn4.png",TSN 4
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=765564&extension=ts
+http://supersonictv.live:8080/live/144264/661943/40470.ts
 
 #EXTINF:-1 tvg-id="The.Sports.Network.5.HDTV.(TSN5HD).ca" tvg-name="The Sports Network 5 HDTV (TSN5HD)" tvg-logo="https://docdog.top/Logotv/countries//tsn5.png",TSN 5
 http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61406&extension=ts
@@ -521,13 +515,13 @@ http://supersonictv.live:8080/live/Derrick/Hitman50$/22051.ts
 http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61466&extension=ts
 
 #EXTINF:-1 tvg-id="E!.Entertainment.Television.Canada.HDTV.(E!).ca" tvg-logo="https://docdog.top/Logotv/countries/united-states/e-entertainment-us.png",E! (CA)
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=765438&extension=ts
+http://supersonictv.live:8080/live/144264/661943/21914.ts
 
 #EXTINF:-1 tvg-id="GameTV.(GTV).ca" tvg-name="GameTV (GTV)" tvg-logo="http://5.44.253.151:80/images/86a43a112f1c64b381ae76c3a1040da8.png" group-title="",Game TV
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=191749&extension=ts
 
 #EXTINF:-1 tvg-id="GAME+.us" tvg-logo="https://docdog.top/Logotv/countries//gsn.png",GAME+
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=765457&extension=ts
+http://supersonictv.live:8080/live/144264/661943/21925.ts
 
 #EXTINF:-1 tvg-id="FX.HDTV.(East).(FX.HD).us" tvg-name="FX HDTV (East) (FX HD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/fx-us.png",FX
 http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61401&extension=ts
@@ -558,10 +552,10 @@ http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61368&extension=t
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=191792&extension=ts
 
 #EXTINF:-1 tvg-id="CTV.Two.Ottawa/CHRO.(CTV2O).ca" tvg-logo="https://docdog.top/Logotv/countries//ctv2ottawa.png",CTV2
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=765425&extension=ts
+http://supersonictv.live:8080/live/144264/661943/21901.ts
 
 #EXTINF:-1 tvg-id="CTV.SCI-FI.Channel.HDTV.(SCIFIHD).ca" tvg-logo="https://docdog.top/Logotv/countries/canada/ctv-sci-fi-channel-ca.png",CTV SCI-FI
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=765420&extension=ts
+http://supersonictv.live:8080/live/144264/661943/21897.ts
 
 
 #EXTINF:-1 tvg-id="Crave.1.(East).(CRVM1).ca",CRAVE 1
@@ -579,22 +573,22 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=191806&extensio
 
 
 #EXTINF:-1 tvg-id="MGM+.HDTV.(East).(MGM+HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-us.png",Epix
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219206&extension=ts
+http://supersonictv.live:8080/live/144264/661943/22886.ts
 
 #EXTINF:-1 tvg-id="MGM+.Marquee.HDTV.(East).(MGM+MRQ).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-2-us.png",Epix 2
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219193&extension=ts
+http://supersonictv.live:8080/live/144264/661943/22889.ts
 
 #EXTINF:-1 tvg-id="MGM+.Drive-In.(MGM+DI).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-drive-in-us.png",Epix Drive-In
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219205&extension=ts
+http://supersonictv.live:8080/live/144264/661943/22888.ts
 
 #EXTINF:-1 tvg-id="MGM+.Hits.HDTV.(East).(MGM+HTHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-us.png",Epix Hits
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22887.ts
+http://supersonictv.live:8080/live/144264/661943/22887.ts
 
 
 
 
 #EXTINF:-1 tvg-id="5StarMAX.HD.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cinemax-5-starmax-us.png",5StarMAX
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219194&extension=ts
+http://supersonictv.live:8080/live/144264/661943/22878.ts
 
 #EXTINF:-1 tvg-id="Cinemax.HDTV.(East).(MAXHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cinemax-us.png",CINEMAX
 http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61464&extension=ts
@@ -606,22 +600,22 @@ http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61469&extension=t
 http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61390&extension=ts
 
 EXTINF:-1 tvg-id="MOVIEMAX.HDTV.(MMXHD).us" tvg-logo="https://docdog.top/Logotv/countries//actionmax.png",MOVIEMAX
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219222&extension=ts
+http://supersonictv.live:8080/live/144264/661943/22883.ts
 
 #EXTINF:-1 tvg-id="OuterMax.east.us" tvg-logo="https://docdog.top/Logotv/countries//outermax.png",OUTERMAX
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219224&extension=ts
+http://supersonictv.live:8080/live/144264/661943/22884.ts
 
 #EXTINF:-1 tvg-id="ThrillerMAX.HDTV.(East).(TMXHD).us" tvg-logo="https://docdog.top/Logotv/countries//thrillermax.png",THRILLERMAX
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219250&extension=ts
+http://supersonictv.live:8080/live/144264/661943/22885.ts
 
 #EXTINF:-1 tvg-id="IndiePlex.HDTV.(INDIEHD).us" tvg-logo="https://docdog.top/Logotv/countries//indieplex.png",INDIEPLEX
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=218951&extension=ts
+http://supersonictv.live:8080/live/144264/661943/22903.ts
 
 #EXTINF:-1 tvg-id="MoviePlex.East.(MPLEX).us" tvg-logo="https://docdog.top/Logotv/countries//movieplex.png",MOVIEPLEX
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219223&extension=ts
+http://supersonictv.live:8080/live/144264/661943/22905.ts
 
 #EXTINF:-1 tvg-id="RetroPlex.HDTV.(RETROHD).us" tvg-logo="https://docdog.top/Logotv/countries//retroplex.png",RETROPLEX
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219225&extension=ts
+http://supersonictv.live:8080/live/144264/661943/47746.ts
 
 
 
@@ -629,34 +623,25 @@ http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219225&extension
 http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61441&extension=ts
 
 #EXTINF:-1 tvg-id="Showtime.2.HDTV.(East).(SHO2HD).us" tvg-logo="https://docdog.top/Logotv/countries//showtime.png",Showtime 2
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219227&extension=ts
-
-#EXTINF:-1 tvg-id="",Showtime Beyond
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219228&extension=ts
+http://supersonictv.live:8080/live/144264/661943/22910.ts
 
 #EXTINF:-1 tvg-id="Showtime.Extreme.(East).(SHOXe).us" tvg-logo="https://docdog.top/Logotv/countries//showtimeextreme.png",Showtime Extreme
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219229&extension=ts
+http://supersonictv.live:8080/live/144264/661943/22912.ts
 
 #EXTINF:-1 tvg-id="Showtime.FamilyZone.(East).(SHOFe).us" tvg-logo="https://docdog.top/Logotv/countries//showtimefamilyzone.png",Showtime Family Zone
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219230&extension=ts
+http://supersonictv.live:8080/live/144264/661943/22913.ts
 
 #EXTINF:-1 tvg-id="Showtime.Next.East.HDTV.(East).(SHOND).us" tvg-logo="https://docdog.top/Logotv/countries//showtimenext.png",Showtime Next
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219231&extension=ts
+http://supersonictv.live:8080/live/144264/661943/22914.ts
 
 #EXTINF:-1 tvg-id="Showtime.Showcase.HDTV.(East).(SHOCHD).us" tvg-logo="https://docdog.top/Logotv/countries//showtimeshowcase.png",Showtime Showcase
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219232&extension=ts
+http://supersonictv.live:8080/live/144264/661943/22915.ts
 
 #EXTINF:-1 tvg-id="Showtime.Women.HDTV.(East).(SHOWD).us" tvg-logo="https://docdog.top/Logotv/countries//showtimewomen.png",Showtime Women
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219233&extension=ts
+http://supersonictv.live:8080/live/144264/661943/22916.ts
 
 #EXTINF:-1 tvg-id="SHOxBET(East).(SHOBET).us" tvg-logo="https://docdog.top/Logotv/countries//dumisa.png",SHOxBET
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219234&extension=ts
-
-
-
-
-
-
+http://supersonictv.live:8080/live/144264/661943/22911.ts
 
 
 
@@ -665,47 +650,41 @@ http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219234&extension
 #EXTINF:-1 tvg-id="STARZ.HD.(East).(STZHD).us" tvg-logo="https://docdog.top/Logotv/countries//starz.png",STARZ
 http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61374&extension=ts
 
-#EXTINF:-1 tvg-id="STARZ.HD.(East).(STZHD).us" tvg-logo="https://docdog.top/Logotv/countries//starz.png",STARZ
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219246&extension=ts
-
 #EXTINF:-1 tvg-id="STARZ.Cinema.(East).(STZCI).us" tvg-logo="https://docdog.top/Logotv/countries//starzcinema.png",STARZ CINEMA
 http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61375&extension=ts
 
-#EXTINF:-1 tvg-id="STARZ.Cinema.(East).(STZCI).us" tvg-logo="https://docdog.top/Logotv/countries//starzcinema.png",STARZ CINEMA
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219236&extension=ts
-
 #EXTINF:-1 tvg-id="STARZ.Comedy.HD.(East).(SZCHD).us" tvg-logo="https://docdog.top/Logotv/countries//starzcomedy.png",STARZ Comedy
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219237&extension=ts
+http://supersonictv.live:8080/live/144264/661943/22921.ts
 
 #EXTINF:-1 tvg-id="STARZ.Edge.HD.(East).(SZEHD).us" tvg-logo="https://docdog.top/Logotv/countries//starzedge.png",STARZ Edge
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219238&extension=ts
-
-#EXTINF:-1 tvg-id="STARZ.ENCORE.HD.(East).(STZEH).us" tvg-logo="https://docdog.top/Logotv/countries//starzencore.png",STARZ ENCORE
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219239&extension=ts
-
-#EXTINF:-1 tvg-id="STARZ.ENCORE.Action.(East).(STZAC).us" tvg-logo="https://docdog.top/Logotv/countries//starzencoreaction.png",STARZ ENCORE Action
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219240&extension=ts
-
-#EXTINF:-1 tvg-id="STARZ.ENCORE.Black.(East).(STZBK).us" tvg-logo="https://docdog.top/Logotv/countries//starzencoreblack.png",STARZ ENCORE Black
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219241&extension=ts
-
-#EXTINF:-1 tvg-id="STARZ.ENCORE.Classic.(East).(STZCL).us" tvg-logo="https://docdog.top/Logotv/countries//starzencoreclassic.png",STARZ ENCORE Classic
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219242&extension=ts
-
-#EXTINF:-1 tvg-id="STARZ.ENCORE.Family.(East).(STZFM).us" tvg-logo="https://docdog.top/Logotv/countries//starzencorefamily.png",STARZ ENCORE Family
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219243&extension=ts
-
-#EXTINF:-1 tvg-id="STARZ.ENCORE.Suspense.(East).(STZSU).us" tvg-logo="https://docdog.top/Logotv/countries//starzencoresuspense.png",STARZ ENCORE Suspense
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219244&extension=ts
-
-#EXTINF:-1 tvg-id="STARZ.ENCORE.Westerns.(East).(STZWS).us" tvg-logo="https://docdog.top/Logotv/countries//starzencorewestern.png",STARZ ENCORE Westerns
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219245&extension=ts
+http://supersonictv.live:8080/live/144264/661943/22922.ts
 
 #EXTINF:-1 tvg-id="STARZ.InBlack.(East).(STZ.B).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/starz-in-black-us.png",STARZ In Black
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219247&extension=ts
+http://supersonictv.live:8080/live/144264/661943/22923.ts
 
 #EXTINF:-1 tvg-id="STARZ.Kids.and.Family.HD.(East).(SZKHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/starz-us.png",STARZ Kids and Family
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=219248&extension=ts
+http://supersonictv.live:8080/live/144264/661943/22924.ts
+
+#EXTINF:-1 tvg-id="STARZ.ENCORE.HD.(East).(STZEH).us" tvg-logo="https://docdog.top/Logotv/countries//starzencore.png",STARZ ENCORE
+http://supersonictv.live:8080/live/144264/661943/22925.ts
+
+#EXTINF:-1 tvg-id="STARZ.ENCORE.Action.(East).(STZAC).us" tvg-logo="https://docdog.top/Logotv/countries//starzencoreaction.png",STARZ ENCORE Action
+http://supersonictv.live:8080/live/144264/661943/22927.ts
+
+#EXTINF:-1 tvg-id="STARZ.ENCORE.Black.(East).(STZBK).us" tvg-logo="https://docdog.top/Logotv/countries//starzencoreblack.png",STARZ ENCORE Black
+http://supersonictv.live:8080/live/144264/661943/22928.ts
+
+#EXTINF:-1 tvg-id="STARZ.ENCORE.Classic.(East).(STZCL).us" tvg-logo="https://docdog.top/Logotv/countries//starzencoreclassic.png",STARZ ENCORE Classic
+http://supersonictv.live:8080/live/144264/661943/22929.ts
+
+#EXTINF:-1 tvg-id="STARZ.ENCORE.Family.(East).(STZFM).us" tvg-logo="https://docdog.top/Logotv/countries//starzencorefamily.png",STARZ ENCORE Family
+http://supersonictv.live:8080/live/144264/661943/22930.ts
+
+#EXTINF:-1 tvg-id="STARZ.ENCORE.Suspense.(East).(STZSU).us" tvg-logo="https://docdog.top/Logotv/countries//starzencoresuspense.png",STARZ ENCORE Suspense
+http://supersonictv.live:8080/live/144264/661943/22931.ts
+
+#EXTINF:-1 tvg-id="STARZ.ENCORE.Westerns.(East).(STZWS).us" tvg-logo="https://docdog.top/Logotv/countries//starzencorewestern.png",STARZ ENCORE Westerns
+http://supersonictv.live:8080/live/144264/661943/22932.ts
 
 
 
@@ -722,14 +701,9 @@ http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61450&extension=t
 http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=61452&extension=ts
 
 
-
 #EXTINF:-1 tvg-id="HDNet.Movies.(HDNTM).us" tvg-logo="https://docdog.top/Logotv/countries//hdnetmovies.png",HDNet Movies
-#EXTINF:-1 tvg-id="Sony.Movie.Channel.HD.(SONY).us" tvg-logo="https://docdog.top/Logotv/countries/uk/sonymoviechannel.png",Sony Movie
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=218979&extension=ts
-
 #EXTINF:-1 tvg-id="The.Movie.Channel.HDTV.(East).(TMCHD).us" tvg-logo="",The Movie Channel
 #EXTINF:-1 tvg-id="The.Movie.Channel.Xtra.(East).(TMCXe).us" tvg-logo="",The Movie Channel Xtra
-
 #EXTINF:-1 tvg-id="SCRNPIX.ScreenPix.us" tvg-logo="https://docdog.top/Logotv/countries//dumisa.png",ScreenPix
 #EXTINF:-1 tvg-id="SCRNACT.ScreenPix.Action.us" tvg-logo="https://docdog.top/Logotv/countries//dumisa.png",ScreenPix Action
 #EXTINF:-1 tvg-id="SCRNVOI.ScreenPix.Voices.us" tvg-logo="https://docdog.top/Logotv/countries//dumisa.png",ScreenPix Voices
@@ -800,7 +774,7 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97051&extension
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97050&extension=ts
 
 #EXTINF:-1 tvg-id="Sky.ScFi/HorHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemasci.png",Sky Cinema ScFi
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=13208&extension=ts
+http://supersonictv.live:8080/live/144264/661943/77469.ts
 
 
 
@@ -835,22 +809,22 @@ http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97040&extension=t
 
 
 #EXTINF:-1 tvg-id="Channel.4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/channel4.png",Channel 4
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=794854&extension=ts
+http://cord-cutter.net:8080/live/95549031/69361122/99138.ts
 
 #EXTINF:-1 tvg-id="4seven.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/4seven.png",4 Seven
 http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97035&extension=ts
 
 #EXTINF:-1 tvg-id="E4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/e4.png",E4
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=794910&extension=ts
+http://cord-cutter.net:8080/live/95549031/69361122/53672.ts
 
 #EXTINF:-1 tvg-id="Film4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/film4.png",Film 4
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=794992&extension=ts
+http://cord-cutter.net:8080/live/95549031/69361122/53702.ts
 
 #EXTINF:-1 tvg-id="Channel.5.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/channel5.png",Channel 5
 http://mol-2.com:80/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97045&extension=ts
 
 #EXTINF:-1 tvg-id="5SELECT.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/5select.png",5 Select
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=794929&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577501&extension=ts
 
 #EXTINF:-1 tvg-id="5STAR.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/5star.png",5 Star
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97046&extension=ts
@@ -859,146 +833,146 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97046&extension
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:A9:E5:A9&stream=97047&extension=ts
 
 #EXTINF:-1 tvg-id="Challenge.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/challenge.png",Challenge
-http://gtvstreams.me/play/live.php?mac=00:1A:79:AE:3F:52&stream=794921&extension=ts
 
 
 
 
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",HORROR Movies
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=617145&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",FAMILY Movies
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=617148&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",CRIME Movies
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=617146&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",SCIFI Movies
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617117&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",SUPERHERO Movies
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617112&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",ROMANCE Movies
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617119&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=617117&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",THRILLER Movies
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617149&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=617149&extension=ts
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",TOP MOVIES
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=882231&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",DIE HARD
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617111&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",SUPERHERO Movies
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=617112&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",RUSH HOUR
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617118&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",WAR Movies
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",CHiPs
 http://supersonictv.live:8080/live/Derrick/Hitman50$/77109.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="CINEMANIA" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",CHIPS
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Bionic Woman
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617097&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=578167&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Six Million Dollar Man
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617093&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=578163&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="CINEMANIA" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",SIX MILLION DOLLAR MAN
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",THE INCREDIBLE HULK
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=741427&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="CINEMANIA" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",KNIGHT RIDER
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",RUSH HOUR
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=617118&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="CINEMANIA" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",INCREDIBLE HULK
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=741427&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",DIE HARD
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=617111&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="CINEMANIA" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",THE TWILIGHT ZONE
-
-
-#EXTINF:-1 tvg-id="" tvg-name="CINEMANIA" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",BORDER SECURITY
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",EDDY MURPHY
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617160&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",CLINT EASTWOOD
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=882221&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Arnold Schwarzenegger
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=617151&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=578175&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Sylvester Stallone
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Jackie Chan
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",EDDY MURPHY
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=617160&extension=ts
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",ALL TIME BEST 1
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=705121&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",ALL TIME BEST 2
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=705120&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",ALL TIME BEST 3
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=705119&extension=ts
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Marvel 1
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=705073&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Marvel 2
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=705076&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Marvel 3
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=705075&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Marvel 4
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=705074&extension=ts
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",DISNEY MOVIES
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=947773&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",DREAMWORKS
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=947757&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",LOONEY TUNES
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=947762&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",PAW PATROL
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=947746&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",POPEYE
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=947752&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",TOY STORY
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=947731&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",TOM AND JERRY
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=947730&extension=ts
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",KIDS 1
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=947723&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",KIDS 2
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=947722&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Western 1
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=705055&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",KIDS 3
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=947721&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Western 2
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=705054&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",KIDS 4
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=947720&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Western 3
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=705053&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",KIDS 5
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=947719&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Western 4
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=705052&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",KIDS 6
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=947718&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Western 5
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=705051&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",KIDS 7
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=947717&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Western 6
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=705050&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",KIDS 8
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=947716&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",KIDS 9
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=947715&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",KIDS 10
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=947714&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Kids 1
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=705089&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",KIDS 11
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=947713&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Kids 2
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=705088&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",KIDS 12
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=947712&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Kids 3
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=705087&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",CHU CHU TV 1
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=947711&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Kids 4
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=705086&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",CHU CHU TV 2
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=947710&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Kids 5
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=705085&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",CHU CHU TV 3
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=947709&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Kids 6
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=705084&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",CHU CHU TV 4
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=947708&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Kids 7
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=705083&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",CHU CHU TV 5
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=947707&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Kids 8
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=705082&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",CHU CHU TV 6
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=947706&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Kids 9
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=705081&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",CHU CHU TV 7
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=947705&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Kids 10
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=705080&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",CHU CHU TV 8
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=947704&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Kids 11
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=705079&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",CHU CHU TV 9
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=947703&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",CHU CHU TV 10
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=947702&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Kids 12
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=705078&extension=ts
