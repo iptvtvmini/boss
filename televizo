@@ -525,6 +525,7 @@ https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8
 http://supersonictv.live:8080/live/144264/661943/22108.ts
 
 #EXTINF:-1 tvg-id="MeTV.KSAT-DT2.us" tvg-logo="",ME TV
+http://supersonictv.live:8080/live/144264/661943/83345.ts
 
 #EXTINF:-1 tvg-id="MTV.HDTV.(East).(MTVHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/mtv-us.png",MTV
 http://supersonictv.live:8080/live/144264/661943/22120.ts
