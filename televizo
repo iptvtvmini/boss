@@ -29,37 +29,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/index.m3u8?id=3
 #EXTINF:-1 tvg-id="TVS.my" tvg-name="TVS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png" group-title="",TVS
 https://stream2.smg.my/live/tvs_1080p2628kbs/index.m3u8
 
-#EXTINF:-1 tvg-id="HITS.Movies.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",HITS Movies
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"qtosuCCLhbJxrcmyT4MSWg", "kid":"Wa0gWlhRQDmr6UD+G9K8lQ" } ], "type":"temporary" }
-https://linear05-playback.sooka.my/CH4/masterCH4.mpd
-
-#EXTINF:-1 tvg-id="HITS.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png",Hits
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"xN10vdm0ZXlLH7Eqq2WW+A", "kid":"rPtLDx9ZRr+nw/LnwtYNAA" } ], "type":"temporary" }
-https://linear05-playback.sooka.my/CH5/masterCH5.mpd
-
-#EXTINF:-1 tvg-id="702.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HITSNOW.png",HITS NOW
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BlwQgpbXjVGoVEzEKhqnaA", "kid":"/ElXO0+WS+C0BTRJjOjWLg" } ], "type":"temporary" }
-https://linear05-playback.sooka.my/CH3/masterCH3.mpd
-
-#EXTINF:-1 tvg-id="tvN.Movies.HD.my" tvg-logo="http://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png",tvN Movies
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uOkanQqlnHxVmGwq5qtvZA", "kid":"SxonztiBTmWnYRg+1uT85g" } ], "type":"temporary" }
-https://linear08-playback.sooka.my/CH4/masterCH4.mpd
-
-#EXTINF:-1 tvg-id="tvN.HD.my",tvN
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tPEppE661kuiVHX9L66wMg", "kid":"ziR/uJnPTyilAR4YBpyHcg" } ], "type":"temporary" }
-https://linear03-playback.sooka.my/CH4/masterCH4.mpd
-
-#EXTINF:-1 tvg-id="396.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/K-Plus_v1.png",K-Plus
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+TZMA5oAfez1lcmKWMMjCQ", "kid":"fLhAK8wnRmOYFYmFcQMnNA" } ], "type":"temporary" }
-https://linear08-playback.sooka.my/CH5/masterCH5.mpd
-
-
 
 #EXTINF:-1 tvg-id="131.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/302_144.png",Filem Mantap
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd
@@ -182,9 +151,10 @@ https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/index.m3u8?id=4
 
 #EXTINF:-1 tvg-id="Astro.Arena.HD.my" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png" group-title="",Astro Arena
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CabPBCTxDnbaSsMHt+f/BA", "kid":"JK6Gd03wQo+0bxU+gWZGYg" } ], "type":"temporary" }
-https://d277c08tzca9og.cloudfront.net/CH1/masterCH1.mpd
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:AE:BD:4F&stream=277965&extension=ts
+
+#EXTINF:-1 tvg-id="Astro.Arena.2.HD.my" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="",Astro Arena 2
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:AE:BD:4F&stream=277966&extension=ts
 
 #EXTINF:-1 tvg-id="Astro.SuperSport.HD.my" tvg-name="Astro SuperSport HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="",Astro SuperSport 1
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=828098&extension=ts
@@ -200,11 +170,8 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=828095&extension=ts
 
 #EXTINF:-1 tvg-id="Astro.Supersport.5.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="",W Sport
 
-
 #EXTINF:-1 tvg-id="Eurosport.HD.my" tvg-logo="https://docdog.top/Logotv/countries/uk/eurosport1.png",EuroSport
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"b2r9Uhj1xeGQ2H84E4QEGw", "kid":"paGlnRD/S02MSiHqq0I9jQ" } ], "type":"temporary" }
-https://linear03-playback.sooka.my/CH2/masterCH2.mpd
+http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:AE:BD:4F&stream=277970&extension=ts
 
 #EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-name="Eurosport 1 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="",EuroSport 1
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=2122&extension=ts
@@ -487,13 +454,6 @@ https://cvtv.cvalley.net/hls/KCPTPBS/KCPTPBS.m3u8
 
 
 
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-name="A and E Network HDTV (A and EHD)" tvg-logo="http://attp.ddns.net:25461/images/9ffd5753a3ca520dfeb483ad0e31c596.png" group-title="",A&E
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497246&extension=m3u8
 
@@ -506,17 +466,11 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626960&extension=m3
 #EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-name="AMC HDTV (East) (AMCHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/amc-us.png" group-title="",AMC
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497252&extension=ts
 
-#EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/amc-us.png",AMC (Sub)
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497252&extension=m3u8
-
 #EXTINF:-1 tvg-id="BBC.America.HDTV.(East).(BBC).us" tvg-name="BBC America HDTV (East) (BBC)" tvg-logo="https://docdog.top/Logotv/countries/bbcamerica.png" group-title="",BBC America
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497261&extension=ts
 
 #EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-name="Syfy HDTV (SYFYHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/syfy-us.png" group-title="",Syfy
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497511&extension=ts
-
-#EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/syfy-us.png",Syfy (Sub)
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497511&extension=m3u8
 
 #EXTINF:-1 tvg-id="E!.Entertainment.Television.HDTV.(East).(E!.HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/e-entertainment-us.png",E!
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497316&extension=ts
