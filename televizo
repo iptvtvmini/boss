@@ -471,7 +471,7 @@ http://supersonictv.live:8080/live/144264/661943/22050.ts
 http://supersonictv.live:8080/live/144264/661943/22051.ts
 
 #EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-name="Syfy HDTV (SYFYHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/syfy-us.png" group-title="",Syfy
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497511&extension=ts
+http://supersonictv.live:8080/live/144264/661943/22946.ts
 
 #EXTINF:-1 tvg-id="Bravo.HDTV.(East).(BRAVOD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/bravo-us.png",Bravo
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497271&extension=ts
