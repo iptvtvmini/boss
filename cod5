@@ -131,9 +131,9 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 #EXTINF:-1 tvg-id="BERNAMA.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/160_144.png" group-title="",Bernama
 
 
-#EXTINF:-1 tvg-id="RTMK07" tvg-name="Dewan Rakyat" tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="",Parlimen Dewan Rakyat
+#EXTINF:-1 tvg-id="633.unifi" tvg-name="Dewan Rakyat" tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="",Parlimen Dewan Rakyat
 https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/index.m3u8?id=7
- 
+
 #EXTINF:-1 tvg-id="RTMK08" tvg-name="Dewan Negara" tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="",Parlimen Dewan Negara
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/index.m3u8?id=8
 
@@ -146,7 +146,7 @@ https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x
 #EXTINF:-1 tvg-id="",ABC NEWS LIVE
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/aljazeera.png",AlJazeera
+#EXTINF:-1 tvg-id="602.unifi" tvg-logo="https://docdog.top/Logotv/countries/uk/aljazeera.png",AlJazeera
 https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
 
 #EXTINF:-1 tvg-id="",CBS NEWS
@@ -155,7 +155,7 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 #EXTINF:-1 tvg-id="",CNN USA
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/287_144.png",DW English
+#EXTINF:-1 tvg-id="642.unifi" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/287_144.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:-1 tvg-id="LiveNOWfromFOX.us",FOX News Now
@@ -173,7 +173,7 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/usatoday_logo_dark_v2.png",USA TODAY
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://a.jsrdn.com/hls/22975/wion-world-is-one-news/logo_20210608_192358_68.png",Wion
+#EXTINF:-1 tvg-id="613.unifi" tvg-logo="https://a.jsrdn.com/hls/22975/wion-world-is-one-news/logo_20210608_192358_68.png",Wion
 https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8
 
 
