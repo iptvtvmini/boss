@@ -70,6 +70,7 @@ https://linear08-playback.sooka.my/CH5/masterCH5.mpd
 
 #EXTINF:-1 tvg-id="Celestial.Movies.id" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/134_144.png",Celestial Movies
 #EXTINF:-1 tvg-id="Celestial.Classic.Movies.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",CCM
+http://abcnew.site:8880/live/29ca10313n11/asdf23r23/71046.ts
 
 #EXTINF:-1 tvg-id="131.astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/302_144.png",Filem Mantap
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd
