@@ -755,6 +755,9 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=668933&extension=m3
 #EXTINF:-1 tvg-id="Lifetime.Television.HDTV.(East).(LIFEH).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/lifetime-us.png",Lifetime Television
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=668934&extension=m3u8
 
+#EXTINF:-1 tvg-id="MeTV.KSAT-DT2.us" tvg-logo="",ME TV
+http://supersonictv.live:8080/live/144264/661943/83345.m3u8
+
 #EXTINF:-1 tvg-id="MTV.HDTV.(East).(MTVHD).us",MTV
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626921&extension=m3u8
 
