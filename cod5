@@ -723,7 +723,7 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=687889&extension=m3
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Game.Show.Network.HDTV.(EAST).(GMSHWHD).us" tvg-name="Game Show Network HDTV (EAST) (GMSHWHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/game-show-network-us.png" group-title="",Game Show Network
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469391&extension=m3u8
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469391&extension=ts
 
 #EXTINF:-1 tvg-id="5e54187aae660e00093561d6" tvg-name="" tvg-logo="https://images.pluto.tv/channels/5e54187aae660e00093561d6/colorLogoPNG.png" group-title="",Game Show Central
 https://gsn-gameshowchannnel-1-us.vizio.wurl.tv/playlist.m3u8
@@ -732,7 +732,7 @@ https://gsn-gameshowchannnel-1-us.vizio.wurl.tv/playlist.m3u8
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626942&extension=m3u8
 
 #EXTINF:-1 tvg-id="GAME+.us" tvg-logo="https://docdog.top/Logotv/countries//gsn.png",GAME+
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=752916&extension=m3u8
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=752916&extension=ts
 
 #EXTINF:-1 tvg-id="Challenge.uk" tvg-logo="",Challenge
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577481&extension=ts
@@ -756,7 +756,7 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=668933&extension=m3
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=668934&extension=m3u8
 
 #EXTINF:-1 tvg-id="MeTV.KSAT-DT2.us" tvg-logo="",ME TV
-http://supersonictv.live:8080/live/144264/661943/83345.m3u8
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469491&extension=m3u8
 
 #EXTINF:-1 tvg-id="MTV.HDTV.(East).(MTVHD).us",MTV
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626921&extension=m3u8
