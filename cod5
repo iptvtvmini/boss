@@ -675,13 +675,13 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469358&extension=m3
 #EXTINF:-1 tvg-id="Bravo.HDTV.(East).(BRAVOD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/bravo-us.png",Bravo
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=627020&extension=m3u8
 
-#EXTINF:-1 tvg-id="",CATCHY COMEDY
+#EXTINF:-1 tvg-id="Catchy.Comedy.us",CATCHY COMEDY
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=740779&extension=m3u8
 
-#EXTINF:-1 tvg-id="",CHARGE!
+#EXTINF:-1 tvg-id="Charge.TV.us",CHARGE!
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=551802&extension=m3u8
 
-#EXTINF:-1 tvg-id="",CIRCLE
+#EXTINF:-1 tvg-id="Circle.TV.us",CIRCLE
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=679880&extension=m3u8
 
 #EXTINF:-1 tvg-id="CMT.HDTV.(East).(CMTHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cmt-us.png",CMT
@@ -737,7 +737,7 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=752916&extension=ts
 #EXTINF:-1 tvg-id="Challenge.uk" tvg-logo="",Challenge
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577481&extension=ts
 
-#EXTINF:-1 tvg-id="HiYAH.us",Hi-YAH!
+#EXTINF:-1 tvg-id="",Hi-YAH!
 https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HLN.HDTV.(HLNHD).us",HLN
