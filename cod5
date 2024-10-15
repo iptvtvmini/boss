@@ -534,6 +534,11 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=901671&extension=ts
 
 
 
+#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/abc-us.png",ABC 7
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=548879&extension=m3u8
+
+#EXTINF:-1 tvg-id="ABC.(WCVB).Boston,.MA.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/abc-us.png",ABC 5 Boston
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=627030&extension=m3u8
 
 #EXTINF:-1 tvg-id="ABC.(KTVO).Kirskville,.MO.us",ABC 3 Kirskville
 https://cvtv.cvalley.net/hls/KTVOABC/KTVOABC.m3u8
@@ -544,11 +549,8 @@ https://cvtv.cvalley.net/hls/KMBCABC/KMBCABC.m3u8
 #EXTINF:-1 tvg-id="ABC.(KMIZ).Columbia,.MO.us",ABC 17 Columbia
 https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
 
-#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/abc-us.png",ABC
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=627030&extension=m3u8
-
-#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/abc-us.png",ABC 7
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=548879&extension=m3u8
+#EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cbs-logo-white-us.png",CBS 2
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=549522&extension=m3u8
 
 #EXTINF:-1 tvg-id="CBS.(KRCG).Jefferson,.MO.us",CBS Jefferson
 https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8
@@ -559,11 +561,9 @@ https://cvtv.cvalley.net/hls/KCTVCBS/KCTVCBS.m3u8
 #EXTINF:-1 tvg-id="CBS.(KTVO-DT2).Kirskville,.MO.us",CBS Kirskville
 https://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8
 
-#EXTINF:-1 tvg-id="",CBS 9 Washington DC
+#EXTINF:-1 tvg-id="CBS.(WUSA).District.of.Columbia.us",CBS 9 Columbia
 https://livevideo.tegnadigital.com/wusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WUSA-2/index.m3u8
 
-#EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cbs-logo-white-us.png",CBS 2
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=549522&extension=m3u8
 
 #EXTINF:-1 tvg-id="CW.(KCWE).Kansas.City,.MO.us",CW Kansas City
 https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8
@@ -592,6 +592,12 @@ https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8
 #EXTINF:-1 tvg-id="MNT.(KMIZ-DT3).Columbia,.MO.us",MNT Columbia
 https://cvtv.cvalley.net/hls/KZOUMYZOU/KZOUMYZOU.m3u8
 
+#EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries//nbcnewyork.png",NBC
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626915&extension=m3u8
+
+#EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries//nbcnewyork.png",NBC 4
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=550258&extension=m3u8
+
 #EXTINF:-1 tvg-id="NBC.(KOMU).Columbia,.MO.us",NBC 8 Columbia
 https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
 
@@ -600,12 +606,6 @@ https://cvtv.cvalley.net/hls/KSHBNBC/KSHBNBC.m3u8
 
 #EXTINF:-1 tvg-id="NBC.(KYOU-DT2).Ottumwa,.IA.us",NBC2 Ottumwa
 https://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8
-
-#EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries//nbcnewyork.png",NBC
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626915&extension=m3u8
-
-#EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries//nbcnewyork.png",NBC 4
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=550258&extension=m3u8
 
 #EXTINF:-1 tvg-id="PBS.(KMOS).Warrensburg,.MO.us",PBS Warrensburg
 https://cvtv.cvalley.net/hls/KMOSPBS/KMOSPBS.m3u8
