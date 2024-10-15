@@ -255,7 +255,6 @@ http://cord-cutter.net:8080/live/95549031/69361122/9828.ts
 http://cord-cutter.net:8080/live/95549031/69361122/10454.ts
 
 #EXTINF:-1 tvg-id="The.Longhorn.Network.HDTV.(LONG).us" tvg-logo="https://docdog.top/Logotv/countries//longhornnetwork.png",Longhorn Network
-http://cord-cutter.net:8080/live/95549031/69361122/105257.ts
 
 #EXTINF:-1 tvg-id="MLB.Network.HDTV.(DISH).(MLBHD).us" tvg-logo="https://docdog.top/Logotv/countries//mlbnetwork.png",MLB Network
 http://cord-cutter.net:8080/live/95549031/69361122/21360.ts
