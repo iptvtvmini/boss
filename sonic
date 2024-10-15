@@ -569,7 +569,7 @@ https://cvtv.cvalley.net/hls/KCPTPBS/KCPTPBS.m3u8
 
 
 #EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-name="A and E Network HDTV (A and EHD)" tvg-logo="" group-title="",A&E
-http://supersonictv.live:8080/live/144264/661943/22040.ts
+http://supersonictv.live:8080/live/144264/661943/22040.m3u8
 
 #EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-name="AMC HDTV (East) (AMCHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/amc-us.png" group-title="",AMC
 http://supersonictv.live:8080/live/144264/661943/22042.ts
@@ -584,10 +584,10 @@ http://supersonictv.live:8080/live/144264/661943/22946.ts
 http://supersonictv.live:8080/live/144264/661943/22946.m3u8
 
 #EXTINF:-1 tvg-id="AXSTV.HD.(AXSTV).us" tvg-logo="",AXS TV
-http://supersonictv.live:8080/live/144264/661943/22050.ts
+http://supersonictv.live:8080/live/144264/661943/22050.m3u8
 
 #EXTINF:-1 tvg-id="BBC.America.HDTV.(East).(BBC).us" tvg-name="BBC America HDTV (East) (BBC)" tvg-logo="https://docdog.top/Logotv/countries/bbcamerica.png" group-title="",BBC America
-http://supersonictv.live:8080/live/144264/661943/22051.ts
+http://supersonictv.live:8080/live/144264/661943/22051.m3u8
 
 #EXTINF:-1 tvg-id="Bounce.TV.(Bounce).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/bounce-us.png",Bounce TV
 http://supersonictv.live:8080/live/144264/661943/22058.ts
