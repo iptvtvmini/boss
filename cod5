@@ -632,13 +632,10 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626960&extension=m3
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577901&extension=ts
 
 #EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-name="AMC HDTV (East) (AMCHD)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US006AMC-HD.png" group-title="",AMC
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469346&extension=m3u8
-
-#EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-name="AMC HDTV (East) (AMCHD)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US006AMC-HD.png" group-title="",AMC
-http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:AE:BD:4F&stream=283212&extension=m3u8
-
-#EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-name="AMC HDTV (East) (AMCHD)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US006AMC-HD.png" group-title="",AMC
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626854&extension=m3u8
+
+#EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-name="AMC HDTV (East) (AMCHD)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US006AMC-HD.png" group-title="",AMC
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469346&extension=m3u8
 
 #EXTINF:-1 tvg-id="AMC.HDTV.(Canada).(AMCHD).ca" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US006AMC-HD.png",AMC (CA)
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=627026&extension=m3u8
@@ -651,9 +648,6 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=551795&extension=m3
 
 #EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-name="Syfy HDTV (SYFYHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/syfy-us.png" group-title="",Syfy
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469431&extension=m3u8
-
-#EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-name="Syfy HDTV (SYFYHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/syfy-us.png" group-title="",Syfy
-http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:AE:BD:4F&stream=283518&extension=m3u8
 
 #EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-name="Syfy HDTV (SYFYHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/syfy-us.png" group-title="",Syfy (WEST)
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469432&extension=m3u8
