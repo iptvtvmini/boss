@@ -262,6 +262,22 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577984&extension=ts
 
 
 
+#EXTINF:-1 tvg-id="TNT.Sports.1.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png",TNT Sport 1
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=578001&extension=ts
+
+#EXTINF:-1 tvg-id="TNT.Sports.2.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsports2vip.png",TNT Sport 2
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=578000&extension=ts
+
+#EXTINF:-1 tvg-id="TNT.Sports.3.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport3.png",TNT Sport 3
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577999&extension=ts
+
+#EXTINF:-1 tvg-id="TNT.Sports.4.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",TNT Sport 4
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=782732&extension=ts
+
+#EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",TNT Sport 5
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=774608&extension=ts
+
+
 
 #EXTINF:-1 tvg-id="SS.Premier.League.Nigeria.ng" tvg-name="SS Premier League Nigeri" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportlaliga.png",SuperSports Priemier League
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577930&extension=ts
@@ -426,25 +442,6 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577949&extension=ts
 
 #EXTINF:-1 tvg-id="World.Fishing.Network.(US).(WFN).us" tvg-logo="https://docdog.top/Logotv/countries//worldfishingnetwork.png",World Fishing Network
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487658&extension=ts
-
-
-
-
-
-#EXTINF:-1 tvg-id="TNT.Sports.1.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png",TNT Sport 1
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=578001&extension=ts
-
-#EXTINF:-1 tvg-id="TNT.Sports.2.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsports2vip.png",TNT Sport 2
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=578000&extension=ts
-
-#EXTINF:-1 tvg-id="TNT.Sports.3.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport3.png",TNT Sport 3
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577999&extension=ts
-
-#EXTINF:-1 tvg-id="TNT.Sports.4.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",TNT Sport 4
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=782732&extension=ts
-
-#EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",TNT Sport 5
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=774608&extension=ts
 
 
 
