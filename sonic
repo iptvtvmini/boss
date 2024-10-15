@@ -253,6 +253,22 @@ http://supersonictv.live:8080/live/144264/661943/40451.ts
 http://supersonictv.live:8080/live/144264/661943/40452.ts
 
 
+#EXTINF:-1 tvg-id="TNT.Sports.1.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png",TNT Sport 1
+http://supersonictv.live:8080/live/144264/661943/40441.ts
+
+#EXTINF:-1 tvg-id="TNT.Sports.2.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsports2vip.png",TNT Sport 2
+http://supersonictv.live:8080/live/144264/661943/40442.ts
+
+#EXTINF:-1 tvg-id="TNT.Sports.3.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport3.png",TNT Sport 3
+http://supersonictv.live:8080/live/144264/661943/40443.ts
+
+#EXTINF:-1 tvg-id="TNT.Sports.4.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",TNT Sport 4
+http://supersonictv.live:8080/live/144264/661943/40440.ts
+
+#EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",TNT Sport 5
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportfootball.png",SuperSports Priemier League
 http://supersonictv.live:8080/live/144264/661943/86863.ts
 
@@ -413,26 +429,6 @@ http://supersonictv.live:8080/live/144264/661943/40433.ts
 
 #EXTINF:-1 tvg-id="WWE.Network.us" tvg-name="WWE Network" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png" group-title="",WWE
 http://supersonictv.live:8080/live/144264/661943/22185.ts
-
-
-
-
-#EXTINF:-1 tvg-id="TNT.Sports.1.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png",TNT Sport 1
-http://supersonictv.live:8080/live/144264/661943/40441.ts
-
-#EXTINF:-1 tvg-id="TNT.Sports.2.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsports2vip.png",TNT Sport 2
-http://supersonictv.live:8080/live/144264/661943/40442.ts
-
-#EXTINF:-1 tvg-id="TNT.Sports.3.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport3.png",TNT Sport 3
-http://supersonictv.live:8080/live/144264/661943/40443.ts
-
-#EXTINF:-1 tvg-id="TNT.Sports.4.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",TNT Sport 4
-http://supersonictv.live:8080/live/144264/661943/40440.ts
-
-#EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",TNT Sport 5
-
-
-
 
 
 
@@ -699,7 +695,8 @@ http://supersonictv.live:8080/live/144264/661943/21881.ts
 http://supersonictv.live:8080/live/144264/661943/21882.ts
 
 
-
+#EXTINF:-1 tvg-id="Citytv.Toronto.HDTV.(CTYTH).ca" tvg-logo="https://docdog.top/Logotv/countries//citytoronto.png",Citytv
+http://supersonictv.live:8080/live/144264/661943/21868.ts
 
 #EXTINF:-1 tvg-id="CTV.Calgary.HDTV.(CTVHC).ca" tvg-logo="https://docdog.top/Logotv/countries//ctvcalgary.png",CTV
 http://supersonictv.live:8080/live/144264/661943/21896.ts
