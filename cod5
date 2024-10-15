@@ -140,37 +140,37 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/index.m3u8?id=8
 #EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="",CNN INA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//abcnews.png",ABC News New York
+#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries//abcnews.png",ABC News New York
 https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//abcnewslive.png",ABC NEWS LIVE
+#EXTINF:-1 tvg-id="ABC.(KABC).Los.Angeles,.CA.us" tvg-logo="https://docdog.top/Logotv/countries//abcnewslive.png",ABC NEWS LIVE
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 #EXTINF:-1 tvg-id="602.unifi" tvg-logo="https://docdog.top/Logotv/countries/uk/aljazeera.png",AlJazeera
 https://live-hls-web-aje-fa.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/cbs-news-us.png",CBS NEWS
+#EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cbs-news-us.png",CBS NEWS
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//cnn.png",CNN USA
+#EXTINF:-1 tvg-id="Cable.News.Network.HDTV.(CNNHD).us" tvg-logo="https://docdog.top/Logotv/countries//cnn.png",CNN USA
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-id="642.unifi" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/287_144.png",DW English
+#EXTINF:-1 tvg-id="DW.Deutsch+.(DW.D+).us" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/287_144.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
-#EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-logo="https://docdog.top/Logotv/countries//foxnews.png",FOX News Now
+#EXTINF:-1 tvg-id="Fox.News.Now.(KJTV-TV2).Lubbock,.TX.us" tvg-logo="https://docdog.top/Logotv/countries//foxnews.png",FOX News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//nbc.png",NBC News Now
+#EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries//nbc.png",NBC News Now
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries//newsmax.png",NEWSMAX
+#EXTINF:-1 tvg-id="Newsmax2.(KFLA).Los.Angeles,.CA.us" tvg-logo="https://docdog.top/Logotv/countries//newsmax.png",NEWSMAX
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/rtenews.png",RT News
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/usatoday_logo_dark_v2.png",USA TODAY
+#EXTINF:-1 tvg-id="US.Armenia.(KSCI-DT5).Los.Angeles.us" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/usatoday_logo_dark_v2.png",USA TODAY
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
 
 #EXTINF:-1 tvg-id="613.unifi" tvg-logo="https://a.jsrdn.com/hls/22975/wion-world-is-one-news/logo_20210608_192358_68.png",Wion
