@@ -682,16 +682,16 @@ http://supersonictv.live:8080/live/144264/661943/21819.ts
 #EXTINF:-1 tvg-id="Country.Music.Television.Canada.(CMT).ca",CMT
 http://supersonictv.live:8080/live/144264/661943/21869.ts
 
-#EXTINF:-1 tvg-id="Crave.1.HDTV.(East).(CRV1H).ca" tvg-logo="",Crave 1
+#EXTINF:-1 tvg-id="Crave.1.(East).(CRVM1).ca" tvg-name="Crave 1 (East) (CRVM1)" tvg-logo="",Crave 1
 http://supersonictv.live:8080/live/144264/661943/21879.ts
 
-#EXTINF:-1 tvg-id="Crave.2.HDTV.(East).(CRV2H).ca" tvg-logo="",Crave 2
+#EXTINF:-1 tvg-id="Crave.2.(East).(CRVM2).ca" tvg-name="Crave 2 (East) (CRVM2)" tvg-logo="",Crave 2
 http://supersonictv.live:8080/live/144264/661943/21880.ts
 
-#EXTINF:-1 tvg-id="Crave.3.HDTV.(East).(CRV3H).ca" tvg-logo="",Crave 3
+#EXTINF:-1 tvg-id="Crave.3.(East).(CRVM3).ca" tvg-name="Crave 3 (East) (CRVM3)" tvg-logo="",Crave 3
 http://supersonictv.live:8080/live/144264/661943/21881.ts
 
-#EXTINF:-1 tvg-id="Crave.4.(East).(CRVM4).ca" tvg-logo="",Crave 4
+#EXTINF:-1 tvg-id="Crave.4.(East).(CRVM4).ca" tvg-name="Crave 4 (East) (CRVM4)" tvg-logo="",Crave 4
 http://supersonictv.live:8080/live/144264/661943/21882.ts
 
 
