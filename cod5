@@ -467,7 +467,7 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487803&extension=ts
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577997&extension=ts
 
 #EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsaction.png",Sky Sport Action
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=577993&extension=ts
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=726827&extension=ts
 
 #EXTINF:-1 tvg-id="SkySp.ArenaHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsarena.png",Sky Sport Arena
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577992&extension=ts
@@ -480,7 +480,6 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577991&extension=ts
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsf1.png",Sky Sport F1
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577990&extension=ts
 
-#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsfootball.png",Sky Sport Football
 #EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsfootball.png",Sky Sport Football
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577995&extension=ts
 
@@ -579,6 +578,9 @@ https://cvtv.cvalley.net/hls/WDAFFox/WDAFFox.m3u8
 
 #EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png",FOX 5
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=549764&extension=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="",FOX 29
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626945&extension=m3u8
 
 #EXTINF:-1 tvg-id="KMCI.38.(The.Spot).-.Kansas.City,.MO.us",KMCI 38
 https://cvtv.cvalley.net/hls/KMCIIND/KMCIIND.m3u8
@@ -833,16 +835,13 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=678233&extension=m3
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626995&extension=m3u8
 
 #EXTINF:-1 tvg-id="Citytv.Calgary.HDTV.(CTYCH).ca",CITY TV
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=1003473&extension=m3u8
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=1003473&extension=m3u8
 
 #EXTINF:-1 tvg-id="The.Family.Channel.HDTV.(East).(FAMHD).ca",FAMILY
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626949&extension=m3u8
 
 #EXTINF:-1 tvg-id="Family.Jr..(SD).(FAMJR).ca",FAMILY JR
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626948&extension=m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="",FOX
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626945&extension=m3u8
 
 #EXTINF:-1 tvg-id="One.TV.(ONE).ca",ONE
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626907&extension=m3u8
