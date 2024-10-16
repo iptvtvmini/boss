@@ -633,7 +633,17 @@ http://cord-cutter.net:8080/live/95549031/69361122/57464.ts
 
 
 
+#EXTINF:-1 tvg-id="Crave.1.(East).(CRVM1).ca" tvg-name="Crave 1 (East) (CRVM1)" tvg-logo="",Crave 1
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626859&extension=m3u8
 
+#EXTINF:-1 tvg-id="Crave.2.(East).(CRVM2).ca" tvg-name="Crave 2 (East) (CRVM2)" tvg-logo="",Crave 2
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626858&extension=m3u8
+
+#EXTINF:-1 tvg-id="Crave.3.(East).(CRVM3).ca"  tvg-name="Crave 3 (East) (CRVM3)" tvg-logo="",Crave 3
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626857&extension=m3u8
+
+#EXTINF:-1 tvg-id="Crave.4.(East).(CRVM4).ca"  tvg-name="Crave 4 (East) (CRVM4)" tvg-logo="",Crave 4
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626856&extension=m3u8
 
 
 
