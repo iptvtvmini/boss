@@ -504,13 +504,13 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577993&extension=ts
 
 
 
-#EXTINF:-1 tvg-id="SONY.TEN.1.HD.in" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="",TEN 1
+#EXTINF:-1 tvg-id="SONY.SPORTS.TEN.1.HD.in" tvg-name="SONY SPORTS TEN 1" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="",TEN 1
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487790&extension=ts
 
-#EXTINF:-1 tvg-id="SONY.TEN.2.HD.in" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="",TEN 2
+#EXTINF:-1 tvg-id="SONY.SPORTS.TEN.2.HD.in" tvg-name="SONY SPORTS TEN 2" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="",TEN 2
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487789&extension=ts
 
-#EXTINF:-1 tvg-id="SONY.TEN.3.HD.in" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="",TEN 3
+#EXTINF:-1 tvg-id="SONY.SPORTS.TEN.3.in" tvg-name="SONY SPORTS TEN 3" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="",TEN 3
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487788&extension=ts
 
 
