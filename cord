@@ -552,10 +552,10 @@ http://cord-cutter.net:8080/live/95549031/69361122/57309.m3u8
 #EXTINF:-1 tvg-id="Crave.2.(East).(CRVM2).ca" tvg-name="Crave 2 (East) (CRVM2)" tvg-logo="",Crave 2
 http://cord-cutter.net:8080/live/95549031/69361122/57310.m3u8
 
-#EXTINF:-1 tvg-id="Crave.3.(East).(CRVM3).ca"  tvg-name="Crave 3 (East) (CRVM3)" tvg-logo="",Crave 3
+#EXTINF:-1 tvg-id="Crave.3.(East).(CRVM3).ca" tvg-name="Crave 3 (East) (CRVM3)" tvg-logo="",Crave 3
 http://cord-cutter.net:8080/live/95549031/69361122/57322.m3u8
 
-#EXTINF:-1 tvg-id="Crave.4.(East).(CRVM4).ca"  tvg-name="Crave 4 (East) (CRVM4)" tvg-logo="",Crave 4
+#EXTINF:-1 tvg-id="Crave.4.(East).(CRVM4).ca" tvg-name="Crave 4 (East) (CRVM4)" tvg-logo="",Crave 4
 http://cord-cutter.net:8080/live/95549031/69361122/57311.m3u8
 
 
