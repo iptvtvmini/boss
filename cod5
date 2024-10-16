@@ -820,6 +820,9 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=627008&extension=m3
 #EXTINF:-1 tvg-id="Citytv.Toronto.HDTV.(CTYTH).ca" tvg-name="Citytv Toronto HDTV (CTYTH)" tvg-logo="https://docdog.top/Logotv/countries//citytoronto.png",Citytv
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=627006&extension=m3u8
 
+#EXTINF:-1 tvg-id="Citytv.Calgary.HDTV.(CTYCH).ca",CITYTV Calgary
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=1003473&extension=m3u8
+
 #EXTINF:-1 tvg-id="CTV.Calgary.HDTV.(CTVHC).ca" tvg-logo="https://docdog.top/Logotv/countries//ctvcalgary.png",CTV
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626987&extension=m3u8
 
@@ -835,16 +838,13 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=678233&extension=m3
 #EXTINF:-1 tvg-id="CTV.DRAMA.Channel.HDTV.(DRMHD).ca" ,CTV DRAMA
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626995&extension=m3u8
 
-#EXTINF:-1 tvg-id="Citytv.Calgary.HDTV.(CTYCH).ca",CITY TV
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=1003473&extension=m3u8
-
 #EXTINF:-1 tvg-id="The.Family.Channel.HDTV.(East).(FAMHD).ca",FAMILY
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626949&extension=m3u8
 
 #EXTINF:-1 tvg-id="Family.Jr..(SD).(FAMJR).ca",FAMILY JR
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626948&extension=m3u8
 
-#EXTINF:-1 tvg-id="One.TV.(ONE).ca",ONE
+#EXTINF:-1 tvg-id="One.TV.(ONE).ca",ONE (CA)
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626907&extension=m3u8
 
 #EXTINF:-1 tvg-id="Out.TV.(OUTtv).ca",OUT TV
