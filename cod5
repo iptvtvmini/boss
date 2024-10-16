@@ -814,7 +814,7 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=627029&extension=m3
 #EXTINF:-1 tvg-id="CHCH.HDTV.(CHCHH).ca",CHCH
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=627008&extension=m3u8
 
-#EXTINF:-1 tvg-id="Citytv.Toronto.HDTV.(CTYTH).ca" tvg-logo="https://docdog.top/Logotv/countries//citytoronto.png",Citytv
+#EXTINF:-1 tvg-id="Citytv.Toronto.HDTV.(CTYTH).ca" tvg-name="Citytv Toronto HDTV (CTYTH)" tvg-logo="https://docdog.top/Logotv/countries//citytoronto.png",Citytv
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=627006&extension=m3u8
 
 #EXTINF:-1 tvg-id="CTV.Calgary.HDTV.(CTVHC).ca" tvg-logo="https://docdog.top/Logotv/countries//ctvcalgary.png",CTV
