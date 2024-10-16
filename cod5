@@ -110,14 +110,14 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadeintlaus-
 #EXTINF:-1 tvg-id="3.astro" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/66847680a99c4be9af34f94102e6e416/version/1",Motor Sport
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-sooka-dash-sooka/index.mpd
 
-#EXTINF:-1 tvg-id="4.astro" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/2e75b3e759194d578aa44888908b4bb8/version/1",Jelly Jam World
+#EXTINF:-1 tvg-id="4.astro" tvg-name="Jelly Jamm World" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/2e75b3e759194d578aa44888908b4bb8/version/1",Jelly Jam World
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-jellyjam-dash-sooka-test-sooka/index.mpd
 
 
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="",Trans7
+#EXTINF:-1 tvg-id="Trans.7.id" tvg-name="Trans 7" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="",Trans7
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
  
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png" group-title="",Trans TV
+#EXTINF:-1 tvg-id="Trans.TV.id" tvg-name="Trans TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png" group-title="",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
 
@@ -130,13 +130,13 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 #EXTINF:-1 tvg-id="BERNAMA.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/160_144.png" group-title="",Bernama
 
 
-#EXTINF:-1 tvg-id="633.unifi" tvg-name="Dewan Rakyat" tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="",Parlimen Dewan Rakyat
+#EXTINF:-1 tvg-id="633.unifi" tvg-name="Parlimen Malaysia" tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="",Parlimen Dewan Rakyat
 https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/index.m3u8?id=7
 
 #EXTINF:-1 tvg-id="RTMK08" tvg-name="Dewan Negara" tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="",Parlimen Dewan Negara
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/index.m3u8?id=8
 
-#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="",CNN INA
+#EXTINF:-1 tvg-id="CNN.International.HD.id" tvg-name="CNN International HD" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="",CNN INA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries//abcnews.png",ABC News New York
