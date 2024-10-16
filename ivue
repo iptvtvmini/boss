@@ -696,6 +696,9 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497535&exte
 #EXTINF:-1 tvg-id="Citytv.Toronto.HDTV.(CTYTH).ca" tvg-name="Citytv Toronto HDTV (CTYTH)",City TV
 http://abcnew.site:8880/live/29ca10313n11/asdf23r23/3057.ts
 
+#EXTINF:-1 tvg-id="CHCH.HDTV.(CHCHH).ca",CHCH
+http://abcnew.site:8880/live/29ca10313n11/asdf23r23/3058.ts
+
 #EXTINF:-1 tvg-id="CTV.Calgary.HDTV.(CTVHC).ca" tvg-logo="https://docdog.top/Logotv/countries//ctvcalgary.png",CTV
 http://cord-cutter.net:8080/live/95549031/69361122/47237.ts
 
@@ -719,8 +722,9 @@ http://abcnew.site:8880/live/29ca10313n11/asdf23r23/30144.m3u8
 #EXTINF:-1 tvg-id="Crave.4.(East).(CRVM4).ca"  tvg-name="Crave 4 (East) (CRVM4)" tvg-logo="https://docdog.top/Logotv/countries//crave4.png",Crave 4
 http://abcnew.site:8880/live/29ca10313n11/asdf23r23/30143.m3u8
 
-
-
+#EXTINF:-1 tvg-id="And.Flix.HD.in" tvg-logo="https://watchindia.net/images/channels/hindi/And_Flix_HD.png",& Flix
+#EXTINF:-1 tvg-id="And.Prive.HD.in" tvg-logo="https://watchindia.net/images/channels/english/And_Prive_HD.png",& Prive
+#EXTINF:-1 tvg-id="Movies.Now.HD.in" tvg-logo="https://watchindia.net/images/channels/english/Movies_Now_HD.png",Movies Now
 
 #EXTINF:-1 tvg-id="RetroPlex.HDTV.(RETROHD).us" tvg-logo="https://docdog.top/Logotv/countries//retroplex.png",RetroPlex
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497474&extension=ts
