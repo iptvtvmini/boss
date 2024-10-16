@@ -557,6 +557,9 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497511&exte
 #EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/syfy-us.png",Syfy (Sub)
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497511&extension=m3u8
 
+#EXTINF:-1 tvg-id="A.Wealth.of.Entertainment.HDTV.(AWEHD).us" tvg-name="" group-title="",AWE CHANNEL
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497256&extension=ts
+
 #EXTINF:-1 tvg-id="AXSTV.HD.(AXSTV).us" tvg-name="AXSTV HD (AXSTV)" tvg-logo="https://docdog.top/Logotv/countries/united-states/axs-tv-us.png",AXS TV
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497257&extension=ts
 
@@ -566,11 +569,23 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497316&exte
 #EXTINF:-1 tvg-id="E!.Entertainment.Television.Canada.HDTV.(E!).ca" tvg-logo="https://docdog.top/Logotv/countries/united-states/e-entertainment-us.png",E! (CA)
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626951&extension=m3u8
 
+#EXTINF:-1 tvg-id="Black.Entertainment.Television.HDTV.(East).(BET-HD).us" tvg-name="" group-title="",BET
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497263&extension=ts
+
+#EXTINF:-1 tvg-id="BET.Her.HDTV.(BHERHD).us" tvg-name="" group-title="",BET HER
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497264&extension=ts
+
 #EXTINF:-1 tvg-id="Bravo.HDTV.(East).(BRAVOD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/bravo-us.png",Bravo
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497271&extension=ts
 
 #EXTINF:-1 tvg-id="Bounce.TV.(Bounce).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/bounce-us.png",Bounce TV
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497270&extension=ts
+
+#EXTINF:-1 tvg-id="Comedy.Central.HDTV.(East).(CMDHD).us" tvg-name="" group-title="",COMEDY CENTRAL
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497296&extension=ts
+
+#EXTINF:-1 tvg-id="Comet.TV.(COMET).us" tvg-name="" group-title="",COMET TV
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497297&extension=ts
 
 #EXTINF:-1 tvg-id="Freeform.HDTV.(East).(FRFHD).us" tvg-name="Freeform HDTV (East) (FRFHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/freeform-us.png" group-title="",FREEFORM
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497345&extension=ts
@@ -599,11 +614,53 @@ http://abcnew.site:8880/live/29ca10313n11/asdf23r23/2998.ts
 #EXTINF:-1 tvg-id="GAME+.us" tvg-logo="https://docdog.top/Logotv/countries//gameone.png",Game Plus
 http://abcnew.site:8880/live/29ca10313n11/asdf23r23/30154.ts
 
+#EXTINF:-1 tvg-id="Grit.TV.us" tvg-name="" group-title="",GRIT TV
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497356&extension=ts
+
 #EXTINF:-1 tvg-id="HiYAH.us",Hi-YAH!
 https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ION.East.Cable/Dish.(ION).us" tvg-name="" group-title="",ION TV
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497383&extension=ts
+
 #EXTINF:-1 tvg-id="IFC.HDTV.(East).(IFCHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/ifc-us.png",IFC
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497378&extension=ts
+
+#EXTINF:-1 tvg-id="KCAL.Los.Angeles.us" tvg-name="" group-title="",KCAL TV
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497384&extension=ts
+
+#EXTINF:-1 tvg-id="Laff.TV.us" tvg-name="" group-title="",LAFF TV
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497385&extension=ts
+
+#EXTINF:-1 tvg-id="Me.TV.us" tvg-name="" group-title="",ME TV
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497391&extension=ts
+
+#EXTINF:-1 tvg-id="MTV.HDTV.(East).(MTVHD).us" tvg-name="" group-title="",MTV
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497400&extension=ts
+
+#EXTINF:-1 tvg-id="MTV2.HDTV.(East).(MTV2HD).us" tvg-name="" group-title="",MTV2
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497403&extension=ts
+
+#EXTINF:-1 tvg-id="MTV-U.(MTV-U).us" tvg-name="" group-title="",MTV U
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497402&extension=ts
+
+#EXTINF:-1 tvg-id="MTV.Live.HDTV.(MTVL).us" tvg-name="" group-title="",MTV LIVE
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497401&extension=ts
+
+#EXTINF:-1 tvg-id="MTV.Classic.(East).(MTVCL).us" tvg-name="" group-title="",MTV Classic
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497399&extension=ts
+
+#EXTINF:-1 tvg-id="OVATION.Ovation.TV.us" tvg-name="" group-title="",OVATION
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497454&extension=ts
+
+#EXTINF:-1 tvg-id="Oxygen.(East).(OXYGN).us" tvg-name="" group-title="",OXYGEN
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497456&extension=ts
+
+#EXTINF:-1 tvg-id="Pop.(East).(POP).us" tvg-name="" group-title="",POP
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497467&extension=ts
+
+#EXTINF:-1 tvg-id="ReelzChannel.HDTV.(REELZH).us" tvg-name="ReelzChannel HDTV (REELZH)" tvg-logo="https://docdog.top/Logotv/countries/united-states/reelz-us.png" group-title="",Reelz
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497473&extension=ts
 
 #EXTINF:-1 tvg-id="SundanceTV.HDTV.(East).(SUNHD).us" tvg-name="SundanceTV HDTV (East) (SUNHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/sundance-tv-us.png" group-title="",Sundance
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497510&extension=ts
@@ -611,19 +668,33 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497510&exte
 #EXTINF:-1 tvg-id="Sony.Movie.Channel.HD.(SONY).us" tvg-name="Sony Movie Channel HD (SONY)" tvg-logo="http://5.44.253.188:80/images/f31b3b29c6ed1c43a29160ea7436e5c3.jpg" group-title="",Sony Movie Channel
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497112&extension=ts
 
-#EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" tvg-name="USA Network HDTV (East) (USAHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/usa-us.png" group-title="",USA NETWORK
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497534&extension=ts
-
 #EXTINF:-1 tvg-id="TBS.Superstation.HDTV.(East).(TBSHD).us" tvg-name="TBS Superstation HDTV (East) (TBSHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/tbs-us.png" group-title="",TBS
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497513&extension=ts
 
 #EXTINF:-1 tvg-id="Turner.Network.Television.HDTV.(East).(TNTHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/tnt-us.png",TNT
 http://abcnew.site:8880/live/29ca10313n11/asdf23r23/3092.ts
 
-#EXTINF:-1 tvg-id="ReelzChannel.HDTV.(REELZH).us" tvg-name="ReelzChannel HDTV (REELZH)" tvg-logo="https://docdog.top/Logotv/countries/united-states/reelz-us.png" group-title="",Reelz
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497473&extension=ts
+#EXTINF:-1 tvg-id="TV.ONE.HDTV.(TVONEHD).us" tvg-name="" group-title="",TVONE
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497529&extension=ts
+
+#EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" tvg-name="USA Network HDTV (East) (USAHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/usa-us.png" group-title="",USA NETWORK
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497534&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="",WE TV
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497537&extension=ts
+
+#EXTINF:-1 tvg-id="VICE.HDTV.(VICEHD).us" tvg-name="" group-title="",VICE TV
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497536&extension=ts
+
+#EXTINF:-1 tvg-id="VH1.HDTV.(East).(VH1HD).us" tvg-name="" group-title="",VH1
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497535&extension=ts
 
 
+
+
+
+#EXTINF:-1 tvg-id="Citytv.Montreal.HDTV.(CTYMH).ca" tvg-name="" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA012CITY-TV.png" group-title="",City TV
+http://abcnew.site:8880/live/29ca10313n11/asdf23r23/3057.ts
 
 #EXTINF:-1 tvg-id="CTV.Calgary.HDTV.(CTVHC).ca" tvg-logo="https://docdog.top/Logotv/countries//ctvcalgary.png",CTV
 http://cord-cutter.net:8080/live/95549031/69361122/47237.ts
@@ -637,16 +708,17 @@ http://cord-cutter.net:8080/live/95549031/69361122/57464.ts
 
 
 #EXTINF:-1 tvg-id="Crave.1.(East).(CRVM1).ca" tvg-name="Crave 1 (East) (CRVM1)" tvg-logo="",Crave 1
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626859&extension=m3u8
+http://abcnew.site:8880/live/29ca10313n11/asdf23r23/3064.m3u8
 
 #EXTINF:-1 tvg-id="Crave.2.(East).(CRVM2).ca" tvg-name="Crave 2 (East) (CRVM2)" tvg-logo="",Crave 2
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626858&extension=m3u8
+http://abcnew.site:8880/live/29ca10313n11/asdf23r23/30145.m3u8
 
 #EXTINF:-1 tvg-id="Crave.3.(East).(CRVM3).ca"  tvg-name="Crave 3 (East) (CRVM3)" tvg-logo="",Crave 3
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626857&extension=m3u8
+http://abcnew.site:8880/live/29ca10313n11/asdf23r23/30144.m3u8
 
 #EXTINF:-1 tvg-id="Crave.4.(East).(CRVM4).ca"  tvg-name="Crave 4 (East) (CRVM4)" tvg-logo="",Crave 4
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626856&extension=m3u8
+http://abcnew.site:8880/live/29ca10313n11/asdf23r23/30143.m3u8
+
 
 
 
