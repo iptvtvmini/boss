@@ -262,19 +262,19 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577984&extension=ts
 
 
 
-#EXTINF:-1 tvg-id="TNT.Sports.1.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png",TNT Sport 1
+#EXTINF:-1 tvg-id=".Sports.1.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png", Sport 1
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=578001&extension=ts
 
-#EXTINF:-1 tvg-id="TNT.Sports.2.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsports2vip.png",TNT Sport 2
+#EXTINF:-1 tvg-id=".Sports.2.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsports2vip.png", Sport 2
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=578000&extension=ts
 
-#EXTINF:-1 tvg-id="TNT.Sports.3.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport3.png",TNT Sport 3
+#EXTINF:-1 tvg-id=".Sports.3.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport3.png", Sport 3
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577999&extension=ts
 
-#EXTINF:-1 tvg-id="TNT.Sports.4.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",TNT Sport 4
+#EXTINF:-1 tvg-id=".Sports.4.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png", Sport 4
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=782732&extension=ts
 
-#EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png",TNT Sport 5
+#EXTINF:-1 tvg-id=".Sports.5.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png", Sport 5
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=774608&extension=ts
 
 
@@ -794,8 +794,8 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469433&extension=m3
 #EXTINF:-1 tvg-id="Turner.Classic.Movies.HDTV.(TCMHD).us",TCM
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=946292&extension=m3u8
 
-#EXTINF:-1 tvg-id="Turner.Network.Television.HDTV.(East).(TNTHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/tnt-us.png",TNT
-http://ott4k.me:80/play/live.php?mac=00:1A:79:2F:13:FC&stream=681775&extension=m3u8
+#EXTINF:-1 tvg-id="Turner.Network.Television.HDTV.(East).(HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/tnt-us.png",TNT
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=681775&extension=m3u8
 
 #EXTINF:-1 tvg-id="truTV.HDTV.(East).(TruTVD).us",TRUTV
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469440&extension=m3u8
