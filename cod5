@@ -380,10 +380,10 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487641&extension=ts
 #EXTINF:-1 tvg-id="MLB.Network.HDTV.(DISH).(MLBHD).us" tvg-logo="https://docdog.top/Logotv/countries//mlbnetwork.png",MLB Network
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487766&extension=ts
 
-#EXTINF:-1 tvg-id="MSG/MSG.Plus.Alternate.HDTV.DirecTV.(MSGHDA).us" tvg-logo="https://docdog.top/Logotv/countries//msg.png",MSG
+#EXTINF:-1 tvg-id="MSG/MSG.Plus.Alternate.HDTV.DirecTV.(MSGHDA).us" tvg-name="MSG/MSG Plus Alternate HDTV DirecTV (MSGHDA)" tvg-logo="https://docdog.top/Logotv/countries//msg.png",MSG
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487656&extension=ts
 
-#EXTINF:-1 tvg-id="MSG2HD.us" tvg-logo="https://docdog.top/Logotv/countries//msg.png",MSG2
+#EXTINF:-1 tvg-id="MSG2HD.us" tvg-name="MSG2HD" tvg-logo="https://docdog.top/Logotv/countries//msg.png",MSG2
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487654&extension=ts
 
 #EXTINF:-1 tvg-id="NBA.TV.HDTV.(NBA.HD).us" tvg-logo="https://docdog.top/Logotv/countries//nba.png",NBA TV
