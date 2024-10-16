@@ -896,11 +896,17 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=552040&extension=m3
 #EXTINF:-1 tvg-id="Sony.Movie.Channel.HD.(SONY).us" tvg-logo="https://docdog.top/Logotv/countries/uk/sonychannel.png",SONY MOVIES
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=552037&extension=m3u8
 
-#EXTINF:-1 tvg-id="SCRNWST.ScreenPix.Westerns.us" tvg-logo="https://docdog.top/Logotv/countries//dumisa.png",SCREENPIX WESTERNS
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=552034&extension=m3u8
-
 #EXTINF:-1 tvg-id="SCRNPIX.ScreenPix.us" tvg-logo="https://docdog.top/Logotv/countries//dumisa.png",SCREENPIX
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=552033&extension=m3u8
+
+#EXTINF:-1 tvg-id="SCRNACT.ScreenPix.Action.us" tvg-name="SCRNACT ScreenPix Action",SCREENPIX ACTION
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=552035&extension=m3u8
+
+#EXTINF:-1 tvg-id="SCRNVOI.ScreenPix.Voices.us" tvg-name="SCRNVOI ScreenPix Voices",SCREENPIX VOICES
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=552036&extension=m3u8
+
+#EXTINF:-1 tvg-id="SCRNWST.ScreenPix.Westerns.us" tvg-logo="https://docdog.top/Logotv/countries//dumisa.png",SCREENPIX WESTERNS
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=552034&extension=m3u8
 
 
 #EXTINF:-1 tvg-id="MGM+.HDTV.(East).(MGM+HD).us" tvg-name="MGM+ HDTV (East) (MGM+HD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-us.png" group-title="",EPIX
