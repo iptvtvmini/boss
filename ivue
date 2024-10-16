@@ -241,7 +241,8 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=828096&extension=ts
 #EXTINF:-1 tvg-id="Astro.SuperSport.4.HD.my" tvg-name="Astro SuperSport 4 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="",Astro SuperSport 4
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=828095&extension=ts
 
-#EXTINF:-1 tvg-id="Astro.Supersport.5.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="",W Sport
+#EXTINF:-1 tvg-id="815.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/W-Sport.png" group-title="",W-Sport
+http://abcnew.site:8880/live/29ca10313n11/asdf23r23/1713.ts
 
 
 #EXTINF:-1 tvg-id="Eurosport.HD.my" tvg-logo="https://docdog.top/Logotv/countries/uk/eurosport1.png",EuroSport
@@ -532,13 +533,6 @@ https://cvtv.cvalley.net/hls/KCPTPBS/KCPTPBS.m3u8
 
 
 
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-name="A and E Network HDTV (A and EHD)" tvg-logo="http://attp.ddns.net:25461/images/9ffd5753a3ca520dfeb483ad0e31c596.png" group-title="",A&E
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497246&extension=m3u8
 
@@ -597,10 +591,10 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497354&exte
 https://gsn-gameshowchannnel-1-us.vizio.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GameTV.(GTV).ca" tvg-logo="https://docdog.top/Logotv/countries//gameone.png",Game TV
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626942&extension=m3u8
+http://abcnew.site:8880/live/29ca10313n11/asdf23r23/2998.ts
 
 #EXTINF:-1 tvg-id="GAME+.us" tvg-logo="https://docdog.top/Logotv/countries//gameone.png",Game Plus
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=752916&extension=m3u8
+http://abcnew.site:8880/live/29ca10313n11/asdf23r23/30154.ts
 
 #EXTINF:-1 tvg-id="HiYAH.us",Hi-YAH!
 https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8
@@ -619,6 +613,9 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497534&exte
 
 #EXTINF:-1 tvg-id="TBS.Superstation.HDTV.(East).(TBSHD).us" tvg-name="TBS Superstation HDTV (East) (TBSHD)" tvg-logo="https://docdog.top/Logotv/countries/united-states/tbs-us.png" group-title="",TBS
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497513&extension=ts
+
+#EXTINF:-1 tvg-id="Turner.Network.Television.HDTV.(East).(TNTHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/tnt-us.png",TNT
+http://abcnew.site:8880/live/29ca10313n11/asdf23r23/3092.ts
 
 #EXTINF:-1 tvg-id="ReelzChannel.HDTV.(REELZH).us" tvg-name="ReelzChannel HDTV (REELZH)" tvg-logo="https://docdog.top/Logotv/countries/united-states/reelz-us.png" group-title="",Reelz
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1497473&extension=ts
