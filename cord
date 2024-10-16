@@ -546,16 +546,16 @@ http://cord-cutter.net:8080/live/95549031/69361122/136612.ts
 #EXTINF:-1 tvg-id="CTV.SCI-FI.Channel.HDTV.(SCIFIHD).ca" tvg-logo="https://docdog.top/Logotv/countries/canada/ctv-sci-fi-channel-ca.png",CTV SCI-FI
 http://cord-cutter.net:8080/live/95549031/69361122/57253.ts
 
-#EXTINF:-1 tvg-id="Crave.1.HDTV.(East).(CRV1H).ca" tvg-logo="",Crave 1
+#EXTINF:-1 tvg-id="Crave.1.(East).(CRVM1).ca" tvg-name="Crave 1 (East) (CRVM1)" tvg-logo="",Crave 1
 http://cord-cutter.net:8080/live/95549031/69361122/57309.m3u8
 
-#EXTINF:-1 tvg-id="Crave.2.HDTV.(East).(CRV2H).ca" tvg-logo="",Crave 2
+#EXTINF:-1 tvg-id="Crave.2.(East).(CRVM2).ca" tvg-name="Crave 2 (East) (CRVM2)" tvg-logo="",Crave 2
 http://cord-cutter.net:8080/live/95549031/69361122/57310.m3u8
 
-#EXTINF:-1 tvg-id="Crave.3.HDTV.(East).(CRV3H).ca" tvg-logo="",Crave 3
+#EXTINF:-1 tvg-id="Crave.3.(East).(CRVM3).ca"  tvg-name="Crave 3 (East) (CRVM3)" tvg-logo="",Crave 3
 http://cord-cutter.net:8080/live/95549031/69361122/57322.m3u8
 
-#EXTINF:-1 tvg-id="Crave.4.(East).(CRVM4).ca" tvg-logo="",Crave 4
+#EXTINF:-1 tvg-id="Crave.4.(East).(CRVM4).ca"  tvg-name="Crave 4 (East) (CRVM4)" tvg-logo="",Crave 4
 http://cord-cutter.net:8080/live/95549031/69361122/57311.m3u8
 
 
