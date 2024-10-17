@@ -537,9 +537,6 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=901671&extension=ts
 #EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/abc-us.png",ABC 7
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=548879&extension=m3u8
 
-#EXTINF:-1 tvg-id="ABC.(WCVB).Boston,.MA.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/abc-us.png",ABC 5 Boston
-http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=627030&extension=m3u8
-
 #EXTINF:-1 tvg-id="ABC.(KTVO).Kirskville,.MO.us",ABC 3 Kirskville
 https://cvtv.cvalley.net/hls/KTVOABC/KTVOABC.m3u8
 
@@ -548,6 +545,9 @@ https://cvtv.cvalley.net/hls/KMBCABC/KMBCABC.m3u8
 
 #EXTINF:-1 tvg-id="ABC.(KMIZ).Columbia,.MO.us",ABC 17 Columbia
 https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
+
+#EXTINF:-1 tvg-id="ABC.(WCVB).Boston,.MA.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/abc-us.png",ABC 5 Boston
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=627030&extension=m3u8
 
 #EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cbs-logo-white-us.png",CBS 2
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=549522&extension=m3u8
