@@ -672,7 +672,7 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=740779&extension=m3
 #EXTINF:-1 tvg-id="Charge.TV.us",CHARGE!
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=551802&extension=m3u8
 
-#EXTINF:-1 tvg-id="Circle.TV.us" tvg-name="Circle TV",Circle TV
+#EXTINF:-1 tvg-id="Circle.TV.us" tvg-name="Circle TV",Circle
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=679880&extension=m3u8
 
 #EXTINF:-1 tvg-id="CMT.HDTV.(East).(CMTHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cmt-us.png",CMT
