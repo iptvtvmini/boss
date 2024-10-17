@@ -1229,7 +1229,7 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577258&extension=ts
 #EXTINF:-1 tvg-id="Channel.4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/channel4.png",Channel 4
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577257&extension=ts
 
-#EXTINF:-1 tvg-id="Dave.HD.uk",DAVE
+#EXTINF:-1 tvg-id="U.and.Dave.HD.uk",DAVE
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577480&extension=ts
 
 #EXTINF:-1 tvg-id="E4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/e4.png",E4
