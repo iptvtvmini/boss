@@ -263,7 +263,8 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577985&extension=ts
 #EXTINF:-1 tvg-id="Eurosport.2.HD.uk" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="",Eurosport 2
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577984&extension=ts
 
-
+#EXTINF:-1 tvg-id="Premier.Sports.1.HD.uk" tvg-name="Premier Sports 1 HD",Premier Sports 1
+http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577961&extension=ts
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png",TNT Sport 1
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=578001&extension=ts
@@ -282,7 +283,7 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=774608&extension=ts
 
 
 
-#EXTINF:-1 tvg-id="SS.Premier.League.Nigeria.ng" tvg-name="SS Premier League Nigeri" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportlaliga.png",SuperSports Priemier League
+#EXTINF:-1 tvg-id="SS.Premier.League.Nigeria.ng" tvg-name="SS Premier League Nigeria" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportlaliga.png",SuperSports Priemier League
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577930&extension=ts
 
 #EXTINF:-1 tvg-id="SS.LaLiga.Nigeria.ng" tvg-name="SS LaLiga Nigeria" tvg-logo="https://docdog.top/Logotv/countries/uk/supersportlaliga.png",SuperSports LA LIGA
