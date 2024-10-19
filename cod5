@@ -229,30 +229,30 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSUKAN" tvg-name="Sukan RTM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/58_144.png" group-title="",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/index.m3u8?id=4
 
-#EXTINF:-1 tvg-id="Astro.Arena.HD.my" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Arena_v1.png" group-title="",Astro Arena
+#EXTINF:-1 tvg-id="801.astro" tvg-name="ARENA HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena_2024.png" group-title="",Astro Arena
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CabPBCTxDnbaSsMHt+f/BA", "kid":"JK6Gd03wQo+0bxU+gWZGYg" } ], "type":"temporary" }
 https://d277c08tzca9og.cloudfront.net/CH1/masterCH1.mpd
 
-#EXTINF:-1 tvg-id="Astro.Arena.2.HD.my" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="",Astro Arena 2
+#EXTINF:-1 tvg-id="802.astro" tvg-name="ARENA 2 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena2_2024.png" group-title="",Astro Arena 2
 
-#EXTINF:-1 tvg-id="Astro.SuperSport.HD.my" tvg-name="Astro SuperSport HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="",Astro SuperSport 1
+#EXTINF:-1 tvg-id="811.astro" tvg-name="Astro Premier League" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png" group-title="",Astro Premier League
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=828098&extension=ts
 
-#EXTINF:-1 tvg-id="Astro.SuperSport.2.HD.my" tvg-name="Astro SuperSport 2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="",Astro SuperSport 2
+#EXTINF:-1 tvg-id="812.astro" tvg-name="Astro Premier League 2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="",Astro Premier League 2
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=828097&extension=ts
 
-#EXTINF:-1 tvg-id="Astro.SuperSport.3.HD.my" tvg-name="Astro SuperSport 3 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="",Astro SuperSport 3
+#EXTINF:-1 tvg-id="810.astro" tvg-name="Astro Grandstand" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="",Astro Grandstand
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=828096&extension=ts
 
-#EXTINF:-1 tvg-id="Astro.SuperSport.4.HD.my" tvg-name="Astro SuperSport 4 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="",Astro SuperSport 4
+#EXTINF:-1 tvg-id="814.astro" tvg-name="Astro Football" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="",Astro Football
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=828095&extension=ts
 
-#EXTINF:-1 tvg-id="815.astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/W-Sport.png" group-title="",W-Sport
+#EXTINF:-1 tvg-id="826.astro" tvg-name="W-Sport" tvg-logo="http://linear-poster.astro.com.my/prod/logo/W-Sport.png" group-title="",W-Sport
 http://abcnew.site:8880/live/29ca10313n11/asdf23r23/1713.ts
 
 
-#EXTINF:-1 tvg-id="Eurosport.HD.my" tvg-logo="https://docdog.top/Logotv/countries/uk/eurosport1.png",EuroSport
+#EXTINF:-1 tvg-id="825.astro" tvg-name="EUROSPORT HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/logo_1701_v3.png",EuroSport
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"b2r9Uhj1xeGQ2H84E4QEGw", "kid":"paGlnRD/S02MSiHqq0I9jQ" } ], "type":"temporary" }
 https://linear03-playback.sooka.my/CH2/masterCH2.mpd
