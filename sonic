@@ -597,6 +597,9 @@ http://supersonictv.live:8080/live/144264/661943/22058.ts
 #EXTINF:-1 tvg-id="Bravo.HDTV.(East).(BRAVOD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/bravo-us.png",Bravo
 http://supersonictv.live:8080/live/144264/661943/22059.ts
 
+#EXTINF:-1 tvg-id="Charge.TV.us",CHARGE!
+https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
+
 #EXTINF:-1 tvg-id="CMT.HDTV.(East).(CMTHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cmt-us.png",CMT
 http://supersonictv.live:8080/live/144264/661943/22063.ts
 
