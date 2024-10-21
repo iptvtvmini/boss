@@ -172,6 +172,12 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
 #EXTINF:-1 tvg-id="Newsmax2.(KFLA).Los.Angeles,.CA.us" tvg-logo="https://docdog.top/Logotv/countries//newsmax.png",NEWSMAX
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
+#EXTINF:-1 tvg-id="NewsmaxTV.us",Newsmax TV
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+
+#EXTINF:-1 tvg-id="Newsmax2.us",Newsmax 2
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/uk/rtenews.png",RT News
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 
@@ -692,6 +698,9 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469360&extension=m3
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469361&extension=m3u8
 
 #EXTINF:-1 tvg-id="Comet.TV.(COMET).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/comet-us.png",Comet
+https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
+
+#EXTINF:-1 tvg-id="Comet.TV.(COMET).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/comet-us.png",Comet
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469461&extension=m3u8
 
 #EXTINF:-1 tvg-id="The.Cowboy.Channel.(COWBOY).us" tvg-logo="",Cowboy Channel
@@ -780,6 +789,9 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469421&extension=m3
 
 #EXTINF:-1 tvg-id="Pursuit.Channel.(DISH.only).(PRST).us",PURSUIT CHANNEL
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469422&extension=m3u8
+
+#EXTINF:-1 tvg-id="ReelzChannel.HDTV.(REELZH).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/reelz-us.png",Reelz
+https://bcovlive-a.akamaihd.net/rc21a8bc6455344c699a06e9220fe2748/us-west-2/5245389775001/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ReelzChannel.HDTV.(REELZH).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/reelz-us.png",Reelz
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=469425&extension=m3u8
@@ -897,6 +909,9 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=626856&extension=m3
 #EXTINF:-1 tvg-id="And.Flix.HD.in" tvg-logo="https://watchindia.net/images/channels/hindi/And_Flix_HD.png",& Flix
 #EXTINF:-1 tvg-id="And.Prive.HD.in" tvg-logo="https://watchindia.net/images/channels/english/And_Prive_HD.png",& Prive
 #EXTINF:-1 tvg-id="Movies.Now.HD.in" tvg-logo="https://watchindia.net/images/channels/english/Movies_Now_HD.png",Movies Now
+
+#EXTINF:-1 tvg-id="",Cult Classic Movie Theater
+https://app.viloud.tv/hls/channel/053140e08adc29e3eac61eb05ff12f51.m3u8
 
 #EXTINF:-1 tvg-id="HDNet.Movies.(HDNTM).us" tvg-logo="https://docdog.top/Logotv/countries//hdnetmovies.png",HDNET MOVIES
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=552040&extension=m3u8
