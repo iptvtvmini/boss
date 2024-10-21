@@ -680,32 +680,32 @@ http://supersonictv.live:8080/live/144264/661943/22159.m3u8
 
 
 #EXTINF:-1 tvg-id="A.and.E.HD.Network.Canada.(A.and.EHDC).ca",A&E
-http://supersonictv.live:8080/live/144264/661943/21814.m3u8
+http://supersonictv.live:8080/live/144264/661943/21814.ts
 
 #EXTINF:-1 tvg-id="ABC.Spark.HDTV.(HABCS).ca",ABC Spark
-http://supersonictv.live:8080/live/144264/661943/21816.m3u8
+http://supersonictv.live:8080/live/144264/661943/21816.ts
 
 #EXTINF:-1 tvg-id="AMC.HDTV.(Canada).(AMCHD).ca",AMC
-http://supersonictv.live:8080/live/144264/661943/21819.m3u8
+http://supersonictv.live:8080/live/144264/661943/21819.ts
 
 #EXTINF:-1 tvg-id="Country.Music.Television.Canada.(CMT).ca",CMT
-http://supersonictv.live:8080/live/144264/661943/21869.m3u8
+http://supersonictv.live:8080/live/144264/661943/21869.ts
 
 #EXTINF:-1 tvg-id="Crave.1.(East).(CRVM1).ca" tvg-name="Crave 1 (East) (CRVM1)" tvg-logo="",Crave 1
-http://supersonictv.live:8080/live/144264/661943/21879.m3u8
+http://supersonictv.live:8080/live/144264/661943/21879.ts
 
 #EXTINF:-1 tvg-id="Crave.2.(East).(CRVM2).ca" tvg-name="Crave 2 (East) (CRVM2)" tvg-logo="",Crave 2
-http://supersonictv.live:8080/live/144264/661943/21880.m3u8
+http://supersonictv.live:8080/live/144264/661943/21880.ts
 
 #EXTINF:-1 tvg-id="Crave.3.(East).(CRVM3).ca" tvg-name="Crave 3 (East) (CRVM3)" tvg-logo="",Crave 3
-http://supersonictv.live:8080/live/144264/661943/21881.m3u8
+http://supersonictv.live:8080/live/144264/661943/21881.ts
 
 #EXTINF:-1 tvg-id="Crave.4.(East).(CRVM4).ca" tvg-name="Crave 4 (East) (CRVM4)" tvg-logo="",Crave 4
-http://supersonictv.live:8080/live/144264/661943/21882.m3u8
+http://supersonictv.live:8080/live/144264/661943/21882.ts
 
 
 #EXTINF:-1 tvg-id="Citytv.Toronto.HDTV.(CTYTH).ca" tvg-logo="https://docdog.top/Logotv/countries//citytoronto.png",Citytv
-http://supersonictv.live:8080/live/144264/661943/21868.m3u8
+http://supersonictv.live:8080/live/144264/661943/21868.ts
 
 #EXTINF:-1 tvg-id="CTV.Calgary.HDTV.(CTVHC).ca" tvg-logo="https://docdog.top/Logotv/countries//ctvcalgary.png",CTV
 http://supersonictv.live:8080/live/144264/661943/21896.ts
@@ -778,7 +778,7 @@ http://supersonictv.live:8080/live/144264/661943/22903.m3u8
 http://supersonictv.live:8080/live/144264/661943/22905.m3u8
 
 #EXTINF:-1 tvg-id="RetroPlex.HDTV.(RETROHD).us" tvg-logo="https://docdog.top/Logotv/countries//retroplex.png",RETROPLEX
-http://supersonictv.live:8080/live/144264/661943/47746.m3u8
+http://supersonictv.live:8080/live/144264/661943/47746.ts
 
 #EXTINF:-1 tvg-id="Sony.Movie.Channel.HD.(SONY).us" tvg-logo="https://docdog.top/Logotv/countries/uk/sonymoviechannel.png",Sony Movie
 http://supersonictv.live:8080/live/144264/661943/22917.m3u8
