@@ -481,6 +481,9 @@ http://cord-cutter.net:8080/live/95549031/69361122/48323.ts
 #EXTINF:-1 tvg-id="Bravo.HDTV.(East).(BRAVOD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/bravo-us.png",Bravo
 http://cord-cutter.net:8080/live/95549031/69361122/20859.ts
 
+#EXTINF:-1 tvg-id="Charge.TV.us",CHARGE!
+https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
+
 #EXTINF:-1 tvg-id="CMT.HDTV.(East).(CMTHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cmt-us.png",CMT
 http://cord-cutter.net:8080/live/95549031/69361122/46706.ts
 
