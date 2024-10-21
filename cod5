@@ -139,8 +139,11 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/index.m3u8?id=7
 #EXTINF:-1 tvg-id="RTMK08" tvg-name="Dewan Negara" tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="",Parlimen Dewan Negara
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/index.m3u8?id=8
 
-#EXTINF:-1 tvg-id="CNN.International.HD.id" tvg-name="CNN International HD" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="",CNN INA
+#EXTINF:-1 tvg-id="CNN.Indonesia.HD.id" tvg-name="CNN International HD" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="",CNN INA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="CNBC.id",CNBC INA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries//abcnews.png",ABC News New York
 https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
