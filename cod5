@@ -672,6 +672,9 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=627020&extension=m3
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=740779&extension=m3u8
 
 #EXTINF:-1 tvg-id="Charge.TV.us",CHARGE!
+https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
+
+#EXTINF:-1 tvg-id="Charge.TV.us",CHARGE!
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=551802&extension=m3u8
 
 #EXTINF:-1 tvg-id="Circle.TV.us" tvg-name="Circle TV",Circle
