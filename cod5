@@ -145,6 +145,12 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
 #EXTINF:-1 tvg-id="CNBC.id",CNBC INA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
 
+#EXTINF:-1 tvg-id="KPNXDT1.us",12 News
+https://livevideo01.12news.com/hls/live/2015501/elvs/live.m3u8
+
+#EXTINF:-1 tvg-id="ABCNewsSydney.au",ABC News Australia
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+
 #EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries//abcnews.png",ABC News New York
 https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
 
@@ -198,6 +204,8 @@ https://gsn-gameshowchannnel-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MBC.Wanasah.(MBCW).us" tvg-logo="https://i.imgur.com/AuYEozR.png" group-title="",Wanasah
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
 
+#EXTINF:-1 tvg-id="ABCMESydney.au",ABC Me
+https://c.mjh.nz/abc-me.m3u8
 
 #EXTINF:-1 tvg-id="Boomerang.(BOOM).us" tvg-logo="https://docdog.top/Logotv/countries//boomerang.png",Boomerang
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=479211&extension=m3u8
