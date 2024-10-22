@@ -145,6 +145,9 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
 #EXTINF:-1 tvg-id="KPNXDT1.us",12 News
 https://livevideo01.12news.com/hls/live/2015501/elvs/live.m3u8
 
+#EXTINF:-1 tvg-id="",ABC News Australia
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2bc792/index.m3u8
+
 #EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries//abcnews.png",ABC News New York
 https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
 
