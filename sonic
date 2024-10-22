@@ -34,6 +34,8 @@ https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 #EXTINF:-1 tvg-id="Trans.TV.id" tvg-name="Trans TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png" group-title="",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
+#EXTINF:-1 tvg-id="ABCMESydney.au",ABC AUS Entertains
+https://c.mjh.nz/abc-me.m3u8
 
 #EXTINF:-1 tvg-id="HITS.Movies.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",HITS Movies
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
