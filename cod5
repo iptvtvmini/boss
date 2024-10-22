@@ -123,6 +123,8 @@ https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 #EXTINF:-1 tvg-id="Trans.TV.id" tvg-name="Trans TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png" group-title="",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
+#EXTINF:-1 tvg-id="ABCMESydney.au",ABC AUS Entertains
+https://c.mjh.nz/abc-me.m3u8
 
 #EXTINF:-1 tvg-id="RTMK05" tvg-name="Bertia RTM" tvg-logo="https://i.imgur.com/9fAlB8K.png" group-title="",Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/index.m3u8?id=5
@@ -204,8 +206,6 @@ https://gsn-gameshowchannnel-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MBC.Wanasah.(MBCW).us" tvg-logo="https://i.imgur.com/AuYEozR.png" group-title="",Wanasah
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
 
-#EXTINF:-1 tvg-id="ABCMESydney.au",ABC Me
-https://c.mjh.nz/abc-me.m3u8
 
 #EXTINF:-1 tvg-id="Boomerang.(BOOM).us" tvg-logo="https://docdog.top/Logotv/countries//boomerang.png",Boomerang
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=479211&extension=m3u8
