@@ -201,6 +201,10 @@ https://gsn-gameshowchannnel-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MBC.Wanasah.(MBCW).us" tvg-logo="https://i.imgur.com/AuYEozR.png" group-title="",Wanasah
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
 
+#EXTINF:-1 tvg-id="PMC.ae",PMC
+https://hls.pmchd.live/hls/stream.m3u8
+
+
 #EXTINF:-1 tvg-id="mjh-abc-kids" channel-id="mjh-abc-kids" tvg-logo="https://i.mjh.nz/.images/abc-kids.png",ABC Kids
 https://c.mjh.nz/abc-kids.m3u8
 
@@ -518,11 +522,19 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577988&extension=ts
 #EXTINF:-1 tvg-id="",SKY SPORTS NFL
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577993&extension=ts
 
+
 #EXTINF:-1 tvg-id="AbuDhabiSports1.ae",Abu Dhabi Sports 1
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 
 #EXTINF:-1 tvg-id="AbuDhabiSports2.ae",Abu Dhabi Sports 2
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
+
+#EXTINF:-1 tvg-id="DubaiSports1.ae",Dubai Sports
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="SharjahSports.ae",Sharjah Sports TV
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="SONY.SPORTS.TEN.1.HD.in" tvg-name="SONY SPORTS TEN 1" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="",TEN 1
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487790&extension=ts
@@ -1306,6 +1318,85 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577475&extension=ts
 
 #EXTINF:-1 tvg-id="Eden+1.uk",EDEN +1
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577474&extension=ts
+
+
+
+
+
+#EXTINF:-1 tvg-id="AbuDhabiAloula.ae",Abu Dhabi Aloula
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
+
+#EXTINF:-1 tvg-id="AbuDhabiEmirates.ae",Abu Dhabi Emirates
+https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
+
+#EXTINF:-1 tvg-id="AjmanTV.ae",Ajman TV
+https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Alarabiya.ae",Al Arabiya
+https://mbc1-enc.edgenextcdn.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
+
+#EXTINF:-1 tvg-id="AlMashhad.ae",Al Mashhad
+https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlShallalTV.ae",Al Shallal TV
+https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlYaumTV.ae",Al Yaum TV
+https://alyaum-tv.akamaized.net/hls/alyaum-tv.m3u8
+
+#EXTINF:-1 tvg-id="BaynounahTV.ae",Baynounah TV
+https://vo-live.cdb.cdn.orange.com/Content/Channel/Baynounah/HLS/index.m3u8
+
+#EXTINF:-1 tvg-id="DubaiOne.ae",Dubai One
+https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="DubaiTV.ae",Dubai TV
+https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="FujairahTV.ae",Fujairah TV
+https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Majid.ae",Majid TV
+https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
+
+#EXTINF:-1 tvg-id="MBC1.ae",MBC 1 (1080p)
+https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+
+#EXTINF:-1 tvg-id="MBC3.ae",MBC 3 KSA
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+
+#EXTINF:-1 tvg-id="MBC4.ae",MBC 4
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+
+#EXTINF:-1 tvg-id="MBC5.ae",MBC 5
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+
+#EXTINF:-1 tvg-id="MBCDrama.ae",MBC Drama KSA
+https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
+
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae",MBC Plus Drama
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+
+#EXTINF:-1 tvg-id="MBCFM.ae",MBC FM
+https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
+
+#EXTINF:-1 tvg-id="MBCIraq.ae",MBC Iraq
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
+
+#EXTINF:-1 tvg-id="MBCPersia.ae",MBC Persia
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
+
+#EXTINF:-1 tvg-id="MBCMasr.eg",MBC Masr 1
+https://shls-masr-prod-dub.shahid.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+
+#EXTINF:-1 tvg-id="MBCMasr2.eg",MBC Masr 2
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+
+#EXTINF:-1 tvg-id="SamaDubai.ae",Sama Dubai
+https://dmieigthvllta.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="SharjahTV.ae",Sharjah TV
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
 
 
 
