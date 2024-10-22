@@ -67,7 +67,7 @@ https://linear08-playback.sooka.my/CH5/masterCH5.mpd
 #EXTINF:-1 tvg-id="Celestial.Classic.Movies.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",CCM
 http://abcnew.site:8880/live/29ca10313n11/asdf23r23/71046.ts
 
-#EXTINF:-1 tvg-id="131.astro" tvg-name="Filem Mantap" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/630b643fb6cf4ceca08c9d9a97c2af89/version/1",Filem Mantap
+#EXTINF:-1 tvg-id="131.astro" channel-id="" tvg-name="Filem Mantap" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/630b643fb6cf4ceca08c9d9a97c2af89/version/1",Filem Mantap
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd
 
 #EXTINF:-1 tvg-id="132.astro" tvg-name="Drama Hebat" tvg-logo="https://images.sgp2.ott.kaltura.com/Service.svc/GetImage/p/3209/entry_id/0b7ee488e85f40389398c3a9f60a2327/version/1",Drama Hebat
@@ -199,6 +199,8 @@ https://gsn-gameshowchannnel-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MBC.Wanasah.(MBCW).us" tvg-logo="https://i.imgur.com/AuYEozR.png" group-title="",Wanasah
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
 
+#EXTINF:-1 tvg-id="mjh-abc-kids" channel-id="mjh-abc-kids" tvg-logo="https://i.mjh.nz/.images/abc-kids.png",ABC Kids
+https://c.mjh.nz/abc-kids.m3u8
 
 #EXTINF:-1 tvg-id="Boomerang.(BOOM).us" tvg-logo="https://docdog.top/Logotv/countries//boomerang.png",Boomerang
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=479211&extension=m3u8
@@ -625,8 +627,10 @@ https://cvtv.cvalley.net/hls/KMOSPBS/KMOSPBS.m3u8
 #EXTINF:-1 tvg-id="PBS.(KCPT).Kansas.City,.MO.us",PBS Kansas City
 https://cvtv.cvalley.net/hls/KCPTPBS/KCPTPBS.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png",ABC TV
+https://c.mjh.nz/abc-vic.m3u8
 
-#EXTINF:-1 tvg-id="ABCMESydney.au",ABC AUS Entertains
+#EXTINF:-1 tvg-id="",ABC Me
 https://c.mjh.nz/abc-me.m3u8
 
 #EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-name="A and E Network HDTV (A and EHD)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US001A&E-HD.png" group-title="",A&E
