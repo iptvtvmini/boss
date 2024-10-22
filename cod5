@@ -518,7 +518,11 @@ http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577988&extension=ts
 #EXTINF:-1 tvg-id="",SKY SPORTS NFL
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=577993&extension=ts
 
+#EXTINF:-1 tvg-id="AbuDhabiSports1.ae",Abu Dhabi Sports 1
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 
+#EXTINF:-1 tvg-id="AbuDhabiSports2.ae",Abu Dhabi Sports 2
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
 
 #EXTINF:-1 tvg-id="SONY.SPORTS.TEN.1.HD.in" tvg-name="SONY SPORTS TEN 1" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="",TEN 1
 http://cod5.me:80/play/live.php?mac=00:1A:79:F8:0F:99&stream=487790&extension=ts
