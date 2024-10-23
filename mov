@@ -130,8 +130,6 @@ http://crystaltv.tv:8080/play/live.php?mac=00:1A:79:AE:BD:4F&stream=283814&exten
 #EXTINF:-1 tvg-id="MBC.Wanasah.(MBCW).us" tvg-name="" tvg-logo="https://i.imgur.com/AuYEozR.png" group-title="",Wanasah
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
 
-#EXTINF:-1 tvg-id="PMC.ae",PMC
-https://hls.pmchd.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="AbuDhabiAloula.ae",Abu Dhabi Aloula
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
